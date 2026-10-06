@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Cael gwybod os yw'ch manylion personol mewn perygl a'u diogelu'n iawn.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Cuddio eich e-bost a'ch rhif ffôn fel mai dim ond y negeseuon rydych chi eu heisiau y byddwch chi'n eu cael.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Creu gwefan hardd yn sydyn fel gallwch chi dyfu eich busnes.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Diogelwch eich AI trwy ddod o hyd i wendidau GenAI a'u trwsio cyn i ymosodwyr wneud hynny.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -139,7 +137,7 @@ m24-home-state-of-mozilla-alt = Celf picsel haniaethol mewn arlliwiau gwyrdd, or
 m24-home-state-of-mozilla-alt-v2 = Y testun ‘Choose Your Future’ ar gefndir melyn, picsel
 m24-home-read-the-report = Darllenwch yr adroddiad
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Nothing Personal
 m24-home-our-new-magazine = Ein cylchgrawn newydd ar gyfer meddylwyr annibynnol, technolegwyr, a phobl greadigol ar reng flaen diwylliant digidol.

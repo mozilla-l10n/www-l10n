@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Vastaanota heräte jos henkilötietosi ovat vaarantuneet, ja lukitse ne ammattilaisen tavoin.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Peitä sähköpostiosoitteesi ja puhelinnumerosi, jotta saat vain haluamasi viestit.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Luo hetkessä kaunis verkkosivusto, jotta voit kasvattaa liiketoimintaasi.
 m24-home-0din = { -brand-name-0din }
 m24-home-tabstack = { -brand-name-tabstack }
 
@@ -103,7 +101,7 @@ m24-home-alt-rise25-smiling = Itsevarma ja hymyilevä puhuja { -brand-name-rise2
 m24-home-state-of-mozilla-alt = Abstraktia pikselitaidetta vihreän, oranssin ja vaaleanpunaisen sävyissä
 m24-home-read-the-report = Lue raportti
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-read-now = Lue nyt
 

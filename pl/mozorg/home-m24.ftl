@@ -35,7 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Otrzymuj ostrzeżenia, jeśli Twoje dane osobowe są zagrożone i chroń je jak profesjonalista.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Ukryj swój adres e-mail i numer telefonu, aby otrzymywać tylko interesujące Cię wiadomości.
-m24-home-solo = { -brand-name-solo }
 
 ## Donate
 
@@ -98,7 +97,7 @@ m24-home-watch-the-award = Obejrzyj galę wręczenia nagród
 m24-home-state-of-mozilla-alt = Abstrakcyjna grafika pikselowa w odcieniach zieleni, pomarańczy i różu
 m24-home-read-the-report = Przeczytaj raport
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-read-now = Przeczytaj teraz
 

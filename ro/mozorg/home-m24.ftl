@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Fii informat(ă) dacă informațiile tale personale sunt în pericol și protejează-le ca un profesionist.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Ascunde-ți adresa de e-mail și numărul de telefon pentru a primi doar mesajele pe care le dorești.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Creează instant un site web frumos pentru a-ți putea dezvolta afacerea.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Securizează-ți AI-ul prin identificarea și remedierea vulnerabilităților GenAI înainte să o facă atacatorii.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -139,7 +137,7 @@ m24-home-state-of-mozilla-alt = Artă pixelată abstractă în nuanțe de verde,
 m24-home-state-of-mozilla-alt-v2 = Textul „Alege-ți viitorul” pe un fundal galben, pixelat
 m24-home-read-the-report = Citește raportul
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Nothing Personal
 m24-home-our-new-magazine = Noua noastră revistă pentru gânditori independenți, tehnologi și creatori din prima linie a culturii digitale.

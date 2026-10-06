@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Glědajśo se, jolic waše wósobinske informacije su wobgrozone a šćitajśo je ako profi.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Maskěrujśo swóju e-mailowu adresu a swój telefonowy numer, aby jano te powěsćo dostał, kótarež cośo.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Napórajśo ned rědne websedło, aby waš wobchod rosł.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Pytajśo a pórěźćo zranjobnosći GenAI, nježli až nadpadowarje to cynje, aby swóju KI zawěsćił.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -139,7 +137,7 @@ m24-home-state-of-mozilla-alt = Abstraktne pikselowe wuměłstwo w zelenych, ora
 m24-home-state-of-mozilla-alt-v2 = Tekst ‚Wubjeŕśo swój pśichod‘ na žołtej, pikselowatej slězynje
 m24-home-read-the-report = Cytajśo rozpšawu
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Nic wósobinskego
 m24-home-our-new-magazine = Naš nowy magacin za njewótwisne myslarje, technologi a kreatiwne na frontowych linijach digitalneje kultury.

@@ -4,13 +4,7 @@
 
 footer-refresh-discover-mozilla-products = 探索 { -brand-name-mozilla } 产品与倡议。我们承诺保护您邮箱的隐私和安全，不共享、不出售，只呈上精华消息。
 footer-refresh-leadership = 领导层
-footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = 详细了解 <span>{ footer-refresh-mozilla-ads }</span>
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = 详细<span>了解 { -brand-name-mozilla } 广告</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 发行说明
-footer-refresh-add-trust-to = 为广告投放注入信任保障。
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = 关注 @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
@@ -36,8 +30,6 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = 工具
 footer-refresh-donate = 捐款
 footer-refresh-donate-not-for-profit = 捐款给非营利组织 <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>。
-# Obsolete string (expires 2026-08-01)
-footer-refresh-visit-mozilla-corporations-v2 = 欢迎访问 <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> 的非营利母公司 — <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>。
 footer-refresh-portions-of-this-content = 此内容中的某些部分系 mozilla.org 志愿者个人版权所有（©1998–{ $current_year }）。内容可按<a rel="license" { $href }>{ -brand-name-creative-commons }许可协议</a>使用。
 footer-refresh-websites-privacy-notice = 网站隐私声明
 footer-refresh-websites-cookies = Cookie

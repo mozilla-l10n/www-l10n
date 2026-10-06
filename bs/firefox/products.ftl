@@ -53,12 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Pristupite svom e-mailu, kalendarima i kontaktima u jednoj brzoj aplikaciji. Filtrirajte ih i organizujte kako želite.
 firefox-products-download-thunderbird = Preuzmite { -brand-name-thunderbird }
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Odmah kreirajte prekrasnu web stranicu kako biste mogli proširiti svoje poslovanje. Povežite se i besplatno hostirajte svoju prilagođenu domenu.
-firefox-products-learn-more-about-solo = Saznajte više o usluzi { -brand-name-solo }
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }

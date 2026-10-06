@@ -53,12 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Πρόσβαση σε όλα τα email, τα ημερολόγια και τις επαφές σας σε μια γρήγορη εφαρμογή. Φιλτράρετε και οργανώστε τα όπως σας αρέσει.
 firefox-products-download-thunderbird = Λήψη του { -brand-name-thunderbird }
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Δημιουργήστε άμεσα έναν όμορφο ιστότοπο για να αναπτύξετε την επιχείρησή σας. Συνδεθείτε και φιλοξενήστε δωρεάν τον προσαρμοσμένο τομέα σας.
-firefox-products-learn-more-about-solo = Μάθετε περισσότερα για το { -brand-name-solo }
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }

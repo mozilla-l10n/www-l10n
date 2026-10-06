@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Nhận thông báo trước nếu thông tin cá nhân của bạn gặp rủi ro và giúp bạn xử lý khi gặp vấn đề đó.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Che giấu email và số điện thoại của bạn để bạn chỉ nhận được những tin nhắn bạn muốn.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Tạo ngay một trang web đẹp mắt để phát triển doanh nghiệp của bạn.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Bảo vệ AI của bạn bằng cách tìm và khắc phục các lỗ hổng bảo mật của GenAI trước khi kẻ tấn công thực hiện điều đó.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -139,7 +137,7 @@ m24-home-state-of-mozilla-alt = Nghệ thuật pixel trừu tượng với các 
 m24-home-state-of-mozilla-alt-v2 = Dòng chữ ‘Chọn tương lai của bạn’ trên nền vàng, bị vỡ hạt.
 m24-home-read-the-report = Đọc báo cáo
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Nothing Personal
 m24-home-our-new-magazine = Tạp chí mới của chúng tôi dành cho những người có tư duy độc lập, các chuyên gia công nghệ và những người sáng tạo tiên phong trong văn hóa kỹ thuật số.

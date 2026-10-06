@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Få eit forvarsel om den personlege informasjon din er i fare, og lås han inn som ein proff.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Skjul e-postadressa og telefonnummeret ditt, slik at du berre får dei meldingane du ønskjer.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Lag ei vakker nettside med ein gong, slik at du kan få verksemda di til å vekse.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Sikre KI-en din ved å finne og rette Genai-sårbarheiter før angriparane gjer det.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -139,7 +137,7 @@ m24-home-state-of-mozilla-alt = Abstrakt pikselskunst i nyansar av grønt, orans
 m24-home-state-of-mozilla-alt-v2 = Teksten «Vel framtida di» på ein gul, pikselert bakgrunn
 m24-home-read-the-report = Les rapporten
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Ingenting personleg
 m24-home-our-new-magazine = Det nye magasinet vårt for uavhengige tenkjarar, teknologar og kreative i frontlinja av digital kultur.

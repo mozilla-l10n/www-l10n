@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = გამოიჩინეთ წინდახედულება, თუ თქვენს პირად ინფორმაციას საფრთხე დაემუქრება და აღკვეთეთ წვდომა, როგორც გამოცდილმა.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = შენიღბეთ თქვენი ელფოსტა და ტელეფონის ნომერი, რომ მხოლოდ სასურველი შეტყობინებები მიიღოთ.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = მყისიერად შექმენით მოხდენილი ვებსაიტი, რომ მეტად განავითაროთ თქვენი საქმიანობა.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = დაიცავით თქვენი ხელგონი GenAI-სისუსტეების მოძიებითა და აღმოფხვრით, სანამ შემტევები რამეს მოიმოქმედებენ.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -139,7 +137,7 @@ m24-home-state-of-mozilla-alt = განყენებული პიქს�
 m24-home-state-of-mozilla-alt-v2 = წარწერა „აირჩიეთ მომავალი“ ყვითელ, წერტილოვან ფონზე
 m24-home-read-the-report = გაეცანით მოხსენებას
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = არაფერი პირადული
 m24-home-our-new-magazine = ჩვენი ახალი ჟურნალი დამოუკიდებელი მოაზროვნეებისთვის, ტექნოლოგებისა და შემოქმედებისთვის, ციფრული კულტურის წინა ხაზზე.

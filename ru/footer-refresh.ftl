@@ -4,13 +4,7 @@
 
 footer-refresh-discover-mozilla-products = Откройте для себя продукты и инициативы { -brand-name-mozilla }. Мы обещаем, что ваша электронная почта будет приватной и безопасной — мы не будем делиться вашей информацией и продавать её, только отличные обновления.
 footer-refresh-leadership = Руководство
-footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = Узнайте больше <span>о { footer-refresh-mozilla-ads }</span>
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = Узнайте больше <span>о рекламе { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = Примечания к выпуску { -brand-name-firefox }
-footer-refresh-add-trust-to = Добавьте доверия к вашей рекламе.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Подписаться на @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
@@ -36,8 +30,6 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Инструменты
 footer-refresh-donate = Пожертвовать
 footer-refresh-donate-not-for-profit = Сделайте пожертвование в пользу некоммерческой организации <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-# Obsolete string (expires 2026-08-01)
-footer-refresh-visit-mozilla-corporations-v2 = Посетите сайт некоммерческой материнской компании <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Части этого содержимого созданы участниками проекта mozilla.org ©1998–{ $current_year }. Содержимое доступно на условиях <a rel="license" { $href }>лицензии { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Уведомление о конфиденциальности веб-сайта
 footer-refresh-websites-cookies = Куки

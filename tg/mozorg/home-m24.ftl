@@ -101,7 +101,7 @@ m24-home-mozilla-is-reinventing-itself = «{ -brand-name-mozilla }» худши�
 m24-home-state-of-mozilla-alt = Ҳунари пикселии хаёлӣ бо сояҳои сабз, норанҷӣ ва гулобӣ
 m24-home-read-the-report = Хондани гузориш
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-read-now = Ҳозир хонед
 

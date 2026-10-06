@@ -53,12 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Acesse todos os seus emails, agendas e contatos em um único aplicativo rápido. Filtre e organize do jeito que quiser.
 firefox-products-download-thunderbird = Baixe o { -brand-name-thunderbird }
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Crie instantaneamente um belo site para expandir sua atividade. Conecte e hospede gratuitamente seu domínio personalizado.
-firefox-products-learn-more-about-solo = Saiba mais sobre o { -brand-name-solo }
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }

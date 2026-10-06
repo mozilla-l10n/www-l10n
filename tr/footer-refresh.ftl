@@ -4,13 +4,7 @@
 
 footer-refresh-discover-mozilla-products = { -brand-name-mozilla } ürünlerini ve girişimlerini keşfedin. E-postanızı gizli ve güvende tutacağımıza söz veriyoruz: E-postanızı asla paylaşmıyor ve satmıyor, sadece haber göndermek için kullanıyoruz.
 footer-refresh-leadership = Yönetim
-footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = <span>{ footer-refresh-mozilla-ads } hakkında</span> bilgi alın
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = <span>{ -brand-name-mozilla } Advertising hakkında</span> bilgi alın
 footer-refresh-firefox-release-notes = { -brand-name-firefox } Sürüm Notları
-footer-refresh-add-trust-to = Reklam alımlarınıza güven katın.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla }’yı takip edin
 footer-refresh-instagram = Instagram
@@ -36,8 +30,6 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Araçlar
 footer-refresh-donate = Bağış yapın
 footer-refresh-donate-not-for-profit = Kâr amacı gütmeyen <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>na bağış yapın.
-# Obsolete string (expires 2026-08-01)
-footer-refresh-visit-mozilla-corporations-v2 = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>’ın kâr amacı gütmeyen üst kuruluşu <a { $mofo_link }>{ -brand-name-mozilla-foundation }nı</a> ziyaret edin.
 footer-refresh-portions-of-this-content = ©1998–{ $current_year } Bu içeriğin bazı kısımları bireysel mozilla.org yazarlarına aittir. Bu içerik <a rel="license" { $href }>{ -brand-name-creative-commons } lisansı</a> ile sunulmaktadır.
 footer-refresh-websites-privacy-notice = Web Sitesi Gizlilik Bildirimi
 footer-refresh-websites-cookies = Çerezler

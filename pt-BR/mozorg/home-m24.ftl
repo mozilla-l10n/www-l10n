@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Receba um alerta caso suas informações pessoais estejam em risco e as proteja como um especialista.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Oculte seu email e número de celular para receber somente as mensagens que quiser.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Crie instantaneamente um belo site para expandir sua atividade.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Proteja sua inteligência artificial encontrando e corrigindo vulnerabilidades do GenAI antes que invasores o façam.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -115,7 +113,7 @@ m24-home-mozilla-is-reinventing-itself = A { -brand-name-mozilla } está se rein
 m24-home-state-of-mozilla-alt = Arte com pontos abstrata em tons de verde, laranja e rosa.
 m24-home-read-the-report = Ler o relatório
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-read-now = Ler agora
 

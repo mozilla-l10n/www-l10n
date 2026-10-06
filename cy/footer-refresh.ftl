@@ -4,13 +4,7 @@
 
 footer-refresh-discover-mozilla-products = Darganfod cynnyrch a mentrau { -brand-name-mozilla }. Rydym yn addo cadw'ch e-bost yn breifat ac yn ddiogel — dim rhannu, dim gwerthu, dim ond diweddariadau gwych.
 footer-refresh-leadership = Arweinyddiaeth
-footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = Dysgwch ragor <span>am { footer-refresh-mozilla-ads }</span>
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = Dysgu rhagor <span>am Hysbysebu { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = Nodiadau Rhyddhau { -brand-name-firefox }
-footer-refresh-add-trust-to = Ychwanegwch ymddiriedaeth i'ch prynu hysbysebion
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Dilyn @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
@@ -36,8 +30,6 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Offer
 footer-refresh-donate = Cyfrannu
 footer-refresh-donate-not-for-profit = Cyfrannwch i'r <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> y corff nid-er-elw.
-# Obsolete string (expires 2026-08-01)
-footer-refresh-visit-mozilla-corporations-v2 = Drwy <a { $moco_link }>{ -brand-name-mozilla-corporation }'s</a> rhiant dim-er-elw, y <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Mae rhannau o'r cynnwys hwn yn ©1998–{ $current_year } gan gyfranwyr mozilla.org unigol. Cynnwys ar gael o dan drwydded <a rel="license" { $href }>{ -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Hysbysiad Preifatrwydd Gwefan
 footer-refresh-websites-cookies = Cwcis

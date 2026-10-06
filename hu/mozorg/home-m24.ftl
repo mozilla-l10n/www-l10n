@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Kapjon figyelmeztetést, ha a személyes adatai veszélybe kerülnek, és biztosítsa őket, mint egy profi.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Rejtse el az e-mail-címét és a telefonszámát, hogy csak a kívánt üzeneteket kapja meg.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Azonnal hozzon létre egy gyönyörű weboldalt, hogy növekedjen a vállalkozása.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Tegye biztonságossá a mesterséges intelligenciáját a GenAI sérülékenységek megtalálásával és javításával, mielőtt a támadók találnák meg azokat.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -139,7 +137,7 @@ m24-home-state-of-mozilla-alt = Absztrakt pixelgrafika zöld, narancs és rózsa
 m24-home-state-of-mozilla-alt-v2 = A „Válassza ki a jövőjét” szöveg sárga, pixeles alapon
 m24-home-read-the-report = Olvassa el a jelentést
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Semmi személyes
 m24-home-our-new-magazine = Új magazinunk független gondolkodóknak, technológusoknak és kreatívoknak a digitális kultúra frontján.

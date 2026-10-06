@@ -53,12 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Érje el az összes e-mailjét, naptárát és névjegyét egy gyors alkalmazásban. Szűrje és rendszerezze őket ahogy szeretné.
 firefox-products-download-thunderbird = A { -brand-name-thunderbird } letöltése
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Azonnal hozzon létre egy gyönyörű weboldalt, hogy növekedjen a vállalkozása. Kapcsolja hozzá, és szolgálja ki ingyenesen a saját domainjét.
-firefox-products-learn-more-about-solo = Tudjon meg többet a { -brand-name-solo } szolgáltatásról
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }

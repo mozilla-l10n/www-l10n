@@ -53,11 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Få adgang til dine mails, kalendere og kontakter i én hurtig app. Filtrer og organiser dem, som du vil.
 firefox-products-download-thunderbird = Hent { -brand-name-thunderbird }
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-learn-more-about-solo = Læs mere om { -brand-name-solo }
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }

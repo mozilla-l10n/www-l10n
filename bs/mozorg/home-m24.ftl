@@ -127,7 +127,7 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } se ponovo osmi�
 m24-home-state-of-mozilla-alt = Apstraktna piksel art u nijansama zelene, narandžaste i roze
 m24-home-read-the-report = Pročitajte izvještaj
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Ništa lično
 m24-home-our-new-magazine = Naš novi časopis za nezavisne mislioce, tehnologe i kreativce na prvim linijama digitalne kulture.

@@ -4,11 +4,6 @@
 
 footer-refresh-discover-mozilla-products = Zbuloni produkte dhe nisma { -brand-name-mozilla }. Premtojmë ta mbajmë privat dhe të parrezik email-in tuaj — pa ndarje me të tjerë, pa shitje, thjesht përditësime të bukura.
 footer-refresh-leadership = Udhëheqje
-footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = Mësoni më tepër <span>mbi { footer-refresh-mozilla-ads }</span>
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = Mësoni më tepër <span>rreth { -brand-name-mozilla } Advertising</span>
 footer-refresh-firefox-release-notes = Shënime Hedhjesh Në Qarkullim { -brand-name-firefox }-i
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Ndiqni @{ -brand-name-mozilla }
@@ -32,8 +27,6 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Mjete
 footer-refresh-donate = Dhuroni
-# Obsolete string (expires 2026-08-01)
-footer-refresh-visit-mozilla-corporations-v2 = Vizitoni entin mëmë jofitimprurës të <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Pjesë të kësaj lënde janë nën të drejta kopjimi ©1998–{ $current_year } nga kontribues individualë te mozilla.org. Lëndë që mund të përdoret sipas një <a rel="license" { $href }>licence { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Shënim Privatësie Sajti
 footer-refresh-websites-cookies = “Cookies”

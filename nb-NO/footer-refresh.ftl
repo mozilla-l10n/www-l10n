@@ -4,13 +4,7 @@
 
 footer-refresh-discover-mozilla-products = Oppdag produkter og initiativer fra { -brand-name-mozilla }. Vi lover å holde e-posten din privat og sikker — ingen deling, ingen salg, bare gode nyheter.
 footer-refresh-leadership = Ledelse
-footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = Les mer <span>om { footer-refresh-mozilla-ads }</span>
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = Les mer <span>om { -brand-name-mozilla } annonsering</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } versjonsnotat
-footer-refresh-add-trust-to = Legg til tillit i annonsekjøpet ditt.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Følg @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
@@ -36,8 +30,6 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Verktøy
 footer-refresh-donate = Doner
 footer-refresh-donate-not-for-profit = Doner til den ideelle organisasjonen <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-# Obsolete string (expires 2026-08-01)
-footer-refresh-visit-mozilla-corporations-v2 = Besøk <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> sitt ideelle moderselskap, <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Deler av dette innholdet er ©1998–{ $current_year } individuelle mozilla.org-bidragsytere. Innholdet er tilgjengelig under en <a rel="license" { $href }>{ -brand-name-creative-commons }-lisens</a>.
 footer-refresh-websites-privacy-notice = Nettstedets personvernerklæring
 footer-refresh-websites-cookies = Infokapsler

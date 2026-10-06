@@ -53,12 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Få tilgang til all e-post, kalendrar og kontaktar i éin rask app. Filtrer og organiser dei slik du vil.
 firefox-products-download-thunderbird = Last ned { -brand-name-thunderbird }
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Opprett ein vakker nettstad med det same, slik at du kan utvikle verksemda di. Kopl til og host det eigendefinerte domenet ditt gratis.
-firefox-products-learn-more-about-solo = Les meir om { -brand-name-solo }
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }

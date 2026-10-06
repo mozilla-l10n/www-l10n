@@ -53,12 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = მიიღეთ წვდომა თქვენს ყველა ელფოსტასთან, კალენდარსა თუ თანამშრომლებთან ერთი სწრაფი პროგრამით. გამოარჩიეთ და დაალაგეთ სურვილისამებრ.
 firefox-products-download-thunderbird = ჩამოტვირთეთ { -brand-name-thunderbird }
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = მყისიერად შექმენით მოხდენილი ვებსაიტი, რომ მეტად განავითაროთ თქვენი საქმიანობა. დააკავშირეთ და განათავსეთ საკუთარი სამისამართო ჯგუფი უფასოდ.
-firefox-products-learn-more-about-solo = უკეთ გაიცანით { -brand-name-solo }
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }

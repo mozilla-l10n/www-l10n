@@ -4,13 +4,7 @@
 
 footer-refresh-discover-mozilla-products = { -brand-name-mozilla } 제품과 계획에 대해 알아보세요. 이메일은 안전하게 보호됩니다. 공유하거나 판매하지 않고 최신의 정보만 제공합니다.
 footer-refresh-leadership = 리더쉽
-footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = <span>{ footer-refresh-mozilla-ads }</span>에 대해 더 알아보기
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = <span>{ -brand-name-mozilla } 광고</span>에 대해 더 알아보기
 footer-refresh-firefox-release-notes = { -brand-name-firefox } 출시 노트
-footer-refresh-add-trust-to = 광고 구매에 신뢰를 더하세요.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } 팔로우
 footer-refresh-instagram = Instagram
@@ -36,8 +30,6 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = 도구
 footer-refresh-donate = 기부
 footer-refresh-donate-not-for-profit = 비영리 <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>에 기부하세요.
-# Obsolete string (expires 2026-08-01)
-footer-refresh-visit-mozilla-corporations-v2 = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>를 운영하는 비영리 재단 <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>을 방문하세요.
 footer-refresh-portions-of-this-content = ©1998–{ $current_year }. 콘텐츠의 일부는 개별 mozilla.org 기여자에게 저작권이 있습니다. 콘텐츠는 <a rel="license" { $href }>{ -brand-name-creative-commons } 라이선스</a>에 따라 제공됩니다.
 footer-refresh-websites-privacy-notice = 웹 사이트 개인정보 보호정책
 footer-refresh-websites-cookies = 쿠키

@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = 當您的個人資訊面臨風險時，接收通知，然後跟專業人士一樣鎖定保護。
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = 隱藏您的電子郵件地址與手機號碼，這樣就只會收到想要的訊息。
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = 即刻打造美麗的網站，讓您拓展業務。
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = 比攻擊者搶先找出 GenAI 的漏洞並修正，以保護您的 AI。
 m24-home-tabstack = { -brand-name-tabstack }
@@ -139,7 +137,7 @@ m24-home-state-of-mozilla-alt = 綠、橘、粉三種色調的抽象像素風格
 m24-home-state-of-mozilla-alt-v2 = 黃色像素化背景上的「選擇您的未來」文字
 m24-home-read-the-report = 閱讀年報
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Nothing Personal
 m24-home-our-new-magazine = 我們為在數位文化前線奮戰的獨立思考者、技術專家與創意者們打造的新雜誌。

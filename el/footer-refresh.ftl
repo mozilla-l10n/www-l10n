@@ -4,13 +4,7 @@
 
 footer-refresh-discover-mozilla-products = Ανακαλύψτε τα προϊόντα και τις πρωτοβουλίες της { -brand-name-mozilla }. Υποσχόμαστε να διατηρήσουμε το email σας ιδιωτικό και ασφαλές: καμία κοινοποίηση, καμία πώληση, μόνο συναρπαστικές ενημερώσεις.
 footer-refresh-leadership = Ηγεσία
-footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = Μάθετε περισσότερα <span>σχετικά με { footer-refresh-mozilla-ads }</span>
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = Μάθετε περισσότερα <span>σχετικά με τις διαφημίσεις { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = Σημειώσεις έκδοσης του { -brand-name-firefox }
-footer-refresh-add-trust-to = Προσθέστε εμπιστοσύνη στη διαφημιστική σας επένδυση.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Ακολουθήστε τη @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
@@ -36,8 +30,6 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Εργαλεία
 footer-refresh-donate = Δωρεά
 footer-refresh-donate-not-for-profit = Κάντε δωρεά στο μη κερδοσκοπικό <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-# Obsolete string (expires 2026-08-01)
-footer-refresh-visit-mozilla-corporations-v2 = Επισκεφθείτε τον μη κερδοσκοπικό γονικό οργανισμό της <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, το <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Τμήματα αυτού του περιεχομένου αποτελούν πνευματική ιδιοκτησία μεμονωμένων εθελοντών του mozilla.org (©1998–{ $current_year }). Το περιεχόμενο διατίθεται στο πλαίσιο της <a rel="license" { $href }>άδειας { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Δήλωση απορρήτου ιστοτόπου
 footer-refresh-websites-cookies = Cookie

@@ -53,12 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Eike ne ñanduti veve, arapapaha ha eñe’ẽkuaaha tembiporu’i ipya’évape. Embogua ha emohenda eipotaháicha.
 firefox-products-download-thunderbird = Emboguejy { -brand-name-thunderbird }
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Emoheñói peteĩ ñanduti rogue iporãva emongakuaa hag̃ua ne ñemuha. Eike ha emohenda ne rendaite mboavapyre reiete.
-firefox-products-learn-more-about-solo = Eikuaave { -brand-name-solo } rehegua
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }

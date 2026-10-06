@@ -17,7 +17,6 @@ m24-home-thunderbird = { -brand-name-thunderbird }
 m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
-m24-home-solo = { -brand-name-solo }
 m24-home-0din = { -brand-name-0din }
 m24-home-tabstack = { -brand-name-tabstack }
 

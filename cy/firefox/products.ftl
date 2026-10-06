@@ -53,12 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Cael eich holl e-byst, calendrau a chysylltiadau mewn un ap cyflym. Hidlwch a threfnwch nhw yn y ffordd rydych chi'n ei hoffi.
 firefox-products-download-thunderbird = Llwytho { -brand-name-thunderbird } i Lawr
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Creu gwefan hardd yn sydyn fel gallwch chi dyfu eich busnes. Cysylltu a chynnal eich parth personol am ddim.
-firefox-products-learn-more-about-solo = Dysgu rhagor am { -brand-name-solo }
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }

@@ -3,7 +3,6 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 footer-refresh-leadership = قیادت
-footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
 footer-refresh-firefox-release-notes = { -brand-name-firefox } ریلیز نوٹ
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = { -brand-name-mozilla } تے فالو کرو

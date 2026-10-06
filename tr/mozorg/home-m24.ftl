@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Kişisel bilgileriniz risk altına girdiğinde haberdar olun ve kolayca önlem alın.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = E-posta adresinizi ve telefon numaranızı maskeleyin, yalnızca almak istediğiniz iletileri alın.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = İşinizi büyütmek için anında şık bir web sitesi oluşturun.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = GenAI güvenlik açıklarını saldırganlardan önce bulup düzelterek yapay zekânızı güvence altına alın.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -139,7 +137,7 @@ m24-home-state-of-mozilla-alt = Yeşil, turuncu ve pembe tonlarında soyut bir p
 m24-home-state-of-mozilla-alt-v2 = Üzerinde ‘Choose Your Future’ yazan sarı, pikselli bir zemin
 m24-home-read-the-report = Raporu okuyun
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Nothing Personal
 m24-home-our-new-magazine = Dijital kültürün ön saflarında yer alan bağımsız düşünürlere, teknoloji uzmanlarına ve yaratıcılara yönelik yeni dergimiz.

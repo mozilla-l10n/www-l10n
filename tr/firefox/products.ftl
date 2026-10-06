@@ -53,12 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Tüm e-postalarınıza, takvimlerinize ve kişilerinize tek bir hızlı uygulamadan erişin. Bunları istediğiniz gibi filtreleyip düzenleyin.
 firefox-products-download-thunderbird = { -brand-name-thunderbird }’ü indir
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = İşletmenizi büyütmek için anında şık bir web sitesi oluşturun. Kendi alan adınızı ücretsiz olarak bağlayıp barındırın.
-firefox-products-learn-more-about-solo = { -brand-name-solo } hakkında bilgi alın
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }

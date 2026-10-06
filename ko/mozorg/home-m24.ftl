@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = 개인 정보가 위험에 노출되었을 때 미리 알림을 받고 전문가처럼 잠궈두세요.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = 원하는 메시지만 받을 수 있도록 이메일과 전화 번호를 감추세요.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = 즉시 멋진 웹 사이트를 만들어 비즈니스를 성장시킬 수 있습니다.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = 공격당하기 전에 GenAI 취약점을 찾아 수정하여 AI를 보호하세요.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -139,7 +137,7 @@ m24-home-state-of-mozilla-alt = 녹색, 주황색, 분홍색 음영의 추상 �
 m24-home-state-of-mozilla-alt-v2 = 노란색의 픽셀화된 배경에 있는 ‘미래를 선택하세요’라는 텍스트
 m24-home-read-the-report = 보고서 읽기
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = 개인 정보 없음
 m24-home-our-new-magazine = 디지털 문화의 최전선에서 활동하는 독립적인 사상가, 기술자 및 창의적인 사람들을 위한 새로운 주간지입니다.

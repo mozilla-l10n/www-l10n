@@ -4,13 +4,7 @@
 
 footer-refresh-discover-mozilla-products = გაეცანით { -brand-name-mozilla }-ს პროდუქტებსა და წამოწყებებს. გპირდებით, რომ თქვენი ელფოსტა დარჩება პირადი და ხელშეუხებელი – ყოველგვარი გაზიარებისა და გაყიდვის გარეშე, მხოლოდ შესანიშნავი სიახლეების მოსაწოდებლად.
 footer-refresh-leadership = ხელმძღვანელობა
-footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = ვრცლად <span>იხილეთ { footer-refresh-mozilla-ads }</span>
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = იხილეთ ვრცლად <span>{ -brand-name-mozilla } – დარეკლამება</span>
 footer-refresh-firefox-release-notes = { -brand-name-firefox } – გამოშვების შენიშვნები
-footer-refresh-add-trust-to = ნდობით აღჭურვეთ თქვენი რეკლამა.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = გამოიწერეთ @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
@@ -36,8 +30,6 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = ხელსაწყოები
 footer-refresh-donate = შემოწირულობა
 footer-refresh-donate-not-for-profit = შეეწიეთ არამომგებიან დაწესებულებას <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-# Obsolete string (expires 2026-08-01)
-footer-refresh-visit-mozilla-corporations-v2 = იხილეთ <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, არამომგებიანი დაწესებულება, რომლის შვილობილიცაა <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>
 footer-refresh-portions-of-this-content = შიგთავსის ნაწილები შექმნილია mozilla.org პროექტის მონაწილეების მიერ ©1998–{ $current_year }. მასალა ვრცელდება <a rel="license" { $href }>{ -brand-name-creative-commons } ლიცენზიით</a>.
 footer-refresh-websites-privacy-notice = საიტის პირადულობის განაცხადი
 footer-refresh-websites-cookies = ფუნთუშები

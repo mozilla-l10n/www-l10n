@@ -53,12 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = 在單一應用程式中，存取所有電子郵件、行事曆與聯絡人，用您喜歡的方式過濾與管理。
 firefox-products-download-thunderbird = 下載 { -brand-name-thunderbird }
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = 即刻打造美麗的網站，讓您拓展業務。可免費鏈結並使用您自己的網域。
-firefox-products-learn-more-about-solo = 了解 { -brand-name-solo } 的更多資訊
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }

@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Krij in berjocht as jo persoanlike gegevens gefaar rinne en beskoattelje se as in pro.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Maskearje jo e-mailadres en telefoannûmer sadat jo allinnich de berjochten krije dy't jo wolle.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Meitsje daliks in moaie website, sadat jo jo bedriuw groeie litte kinne.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Beskermje jo AI troch GenAI-kwetsberens te finen en te reparearjen eardat oanfallers dat dogge.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -139,7 +137,7 @@ m24-home-state-of-mozilla-alt = Abstrakte pikselkeunst yn skaden fan grien, oran
 m24-home-state-of-mozilla-alt-v2 = De tekst ‘Choose Your Future’ op in giele, kerlige eftergrûn
 m24-home-read-the-report = It rapport lêze
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Neat persoanliks
 m24-home-our-new-magazine = Us nije tydskrift foar ûnôfhinklike tinkers, technologen en kreativelingen oan de frontliny fan digitale kultuer.

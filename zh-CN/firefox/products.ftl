@@ -53,12 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = 用这款疾如惊雷的应用，一站式查看您的所有邮件、日历、联系人，并按照您的需要来筛选和整理项目。
 firefox-products-download-thunderbird = 下载 { -brand-name-thunderbird }
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = 即刻打造精美网站，助力业务腾飞。可免费连接并托管自定义域名。
-firefox-products-learn-more-about-solo = 详细了解 { -brand-name-solo }
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }

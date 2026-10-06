@@ -53,12 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Accesează-ți toate adresele de e-mail, calendarele și contactele într-o singură aplicație rapidă. Filtrează-le și organizează-le cum vrei.
 firefox-products-download-thunderbird = Descarcă { -brand-name-thunderbird }
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Creează instant un site web frumos pentru a-ți dezvolta afacerea. Conectează-te și găzduiește-ți domeniul personalizat gratuit.
-firefox-products-learn-more-about-solo = Află mai multe despre { -brand-name-solo }
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }

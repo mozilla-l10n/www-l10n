@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Ak sú vaše osobné údaje ohrozené, informujte sa a uzamknite ich ako profesionál.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Zamaskujte svoj e‑mail a telefónne číslo, aby ste dostávali iba správy, ktoré chcete.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Okamžite si vytvorte krásnu webovú stránku, aby ste mohli rozvíjať svoje podnikanie.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Zabezpečte svoju umelú inteligenciu nájdením a opravou zraniteľností GenAI skôr, ako to urobia útočníci.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -139,7 +137,7 @@ m24-home-state-of-mozilla-alt = Abstraktný pixel art v odtieňoch zelenej, oran
 m24-home-state-of-mozilla-alt-v2 = Text „Vyber si svoju budúcnosť“ na žltom, pixelovanom pozadí
 m24-home-read-the-report = Prečítajte si správu
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Nič osobné
 m24-home-our-new-magazine = Náš nový časopis pre nezávislých mysliteľov, technológov a kreatívcov v popredí digitálnej kultúry.

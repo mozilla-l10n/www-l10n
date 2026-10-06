@@ -53,12 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Benaderje al jo e-mail, aginda’s en kontakten yn ien snelle app. Filterje en organisearje se sa as jo dat wolle
 firefox-products-download-thunderbird = { -brand-name-thunderbird } downloade
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Meitsje daliks in moaie website sadat jo jo bedriuw groeie litte kinne. Ferbyn en host fergees jo oanpaste domein.
-firefox-products-learn-more-about-solo = Mear ynfo oer { -brand-name-solo }
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }

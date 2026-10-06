@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Eikuaa ne maranduete imarãkuaaha ha upévare ejoko teko katupyrýpe.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Ehovañomi ne ñanduti veve ha pumbyry papapy og̃uahẽ hag̃ua ñe’ẽmondo eipotávante.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Emoheñói ñanduti rogue iporãva embotuichave hag̃ua ñe ñemuha.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Emo’ã nde AI ejuhu ha emyatyrõvo GenAI imarãkuaaha mba’evai apoha ojapo mboyve.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -131,7 +129,7 @@ m24-home-state-of-mozilla-alt = Pixel art abstracto sa’ykuéra hovyũ, narã h
 m24-home-state-of-mozilla-alt-v2 = Pe jehaipyre ‘Eiporavo ne renonderã’ peteĩ tugua sa’yju je’óva
 m24-home-read-the-report = Emoñe’ẽ marandu’i
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Nandereheguái
 m24-home-our-new-magazine = Ore revista pyahu pensadores independientes peg̃uarã, tembiporupyahugua ha moheñoihára oñepyrũva cultura digital rehegua.

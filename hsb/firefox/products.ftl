@@ -53,12 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Mějće přistup k swojej e-mejli, protykam a kontaktam w jednym spěšnym nałoženju. Filtrujće a rjadujće je na wašnje, kotrež wam spodoba.
 firefox-products-download-thunderbird = Sćehńće { -brand-name-thunderbird }
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Wutworće hnydom rjane websydło, zo by waš wobchod rostł. Zwjazajće a hospodujće swójsku domenu zadarmo.
-firefox-products-learn-more-about-solo = Dalše informacije wo { -brand-name-solo }
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }

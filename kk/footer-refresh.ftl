@@ -4,13 +4,7 @@
 
 footer-refresh-discover-mozilla-products = { -brand-name-mozilla } өнімдері мен бастамаларымен танысыңыз. Біз электрондық поштаңыздың жекелігі мен қауіпсіздігін сақтауға уәде береміз: оны ешкіммен бөліспейміз және сатпаймыз, тек маңызды жаңалықтарды жіберіп отырамыз.
 footer-refresh-leadership = Басшылық
-footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = <span>{ footer-refresh-mozilla-ads } туралы</span> көбірек білу
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = <span>{ -brand-name-mozilla } жарнамасы туралы</span> көбірек біліңіз
 footer-refresh-firefox-release-notes = { -brand-name-firefox } шығарылым ескертпесі
-footer-refresh-add-trust-to = Жарнамалық сатып алуларыңызға сенімділік қосыңыз.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = @{ -brand-name-mozilla } парақшасына жазылу
 footer-refresh-instagram = Instagram
@@ -36,8 +30,6 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Құралдар
 footer-refresh-donate = Демеушілік ету
 footer-refresh-donate-not-for-profit = Коммерциялық емес <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> ұйымына демеушілік етіңіз.
-# Obsolete string (expires 2026-08-01)
-footer-refresh-visit-mozilla-corporations-v2 = <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> компаниясының коммерциялық емес бас ұйымы — <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> қорының веб-сайтын шолыңыз.
 footer-refresh-portions-of-this-content = Бұл мазмұнның кейбір бөліктері ©1998–{ $current_year } жекелеген mozilla.org үлес қосушыларына тиесілі. Мазмұн <a rel="license" { $href }>{ -brand-name-creative-commons } лицензиясы</a> бойынша қолжетімді.
 footer-refresh-websites-privacy-notice = Веб-сайттың жекелігі туралы ескерту
 footer-refresh-websites-cookies = Cookie файлдары

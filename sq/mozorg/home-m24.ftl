@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Merrni njoftim, nëse hollësitë tuaja personale janë në rrezik dhe kyçini si një profesionist.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Maskoni email-in dhe numrin e telefonit tuaj, që t’ju vinë vetëm mesazhe që doni.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Krijoni menjëherë një sajt të hijshëm, që të mund të fuqizoni biznesin tuaj.
 m24-home-0din = { -brand-name-0din }
 m24-home-tabstack = { -brand-name-tabstack }
 
@@ -107,7 +105,7 @@ m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } po rishpik vetv
 m24-home-state-of-mozilla-alt = Art pikelash, abstrakt, në ngjyrime të të gjelbrës, portokallisë dhe rozës.
 m24-home-read-the-report = Lexoni raportin
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Asgjë Personale
 m24-home-read-now = Lexojeni Tani

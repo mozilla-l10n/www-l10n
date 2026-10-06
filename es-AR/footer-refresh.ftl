@@ -4,13 +4,7 @@
 
 footer-refresh-discover-mozilla-products = Descubrí los productos e iniciativas de { -brand-name-mozilla }. Prometemos mantener tu correo electrónico privado y seguro, sin compartirlo, sin venderlo, solo te llegarán grandes actualizaciones.
 footer-refresh-leadership = Liderazgo
-footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = Conocer más <span>sobre { footer-refresh-mozilla-ads }</span>
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = Conocer más <span>sobre la publicidad de { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = Notas de la versión de { -brand-name-firefox }
-footer-refresh-add-trust-to = Agrega confianza a tu compra de publicidad.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Seguir a @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
@@ -36,8 +30,6 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Herramientas
 footer-refresh-donate = Donar
 footer-refresh-donate-not-for-profit = Doná a la organización sin fines de lucro <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-# Obsolete string (expires 2026-08-01)
-footer-refresh-visit-mozilla-corporations-v2 = Visitá <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, la organización sin fines de lucro que controla a  <a { $moco_link }>{ -brand-name-mozilla-corporation } </a>-.
 footer-refresh-portions-of-this-content = Partes de este contenido son ©1998–{ $current_year } de colaboradores individuales de mozilla.org. Contenido disponible bajo una <a rel="license" { $href }>licencia { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Aviso de privacidad del sitio web
 footer-refresh-websites-cookies = Cookies

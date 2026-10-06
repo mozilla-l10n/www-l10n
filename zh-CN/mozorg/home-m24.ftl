@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = 在个人信息面临风险时收到警告，并得心应手解决问题。
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = 掩藏邮箱地址和电话号码，将不请自来的邮件和信息拒之门外。
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = 即刻打造精美网站，助力业务腾飞。
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = 抢先发现并修复生成式 AI 漏洞，筑牢 AI 安全防线。
 m24-home-tabstack = { -brand-name-tabstack }
@@ -139,7 +137,7 @@ m24-home-state-of-mozilla-alt = 绿色、橙色和粉色相间的抽象像素画
 m24-home-state-of-mozilla-alt-v2 = 黄色像素化背景上的“选择你的未来”文字
 m24-home-read-the-report = 阅读报告
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Nothing Personal
 m24-home-our-new-magazine = 我们的新创杂志，专为身处数字文化前沿的独立思考者、技术人士、创意人士打造。

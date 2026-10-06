@@ -4,13 +4,7 @@
 
 footer-refresh-discover-mozilla-products = Descoperă produsele și inițiativele { -brand-name-mozilla }. Îți promitem că îți vom păstra adresa de e-mail confidențială și securizată — fără partajare, fără vânzare, doar actualizări grozave.
 footer-refresh-leadership = Leadership
-footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = Află mai multe <span>despre { footer-refresh-mozilla-ads }</span>
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = Află mai multe <span>despre reclamele { -brand-name-mozilla }</span>
 footer-refresh-firefox-release-notes = Note de lansare { -brand-name-firefox }
-footer-refresh-add-trust-to = Adaugă încredere achiziției tale de reclame.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Urmărește @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
@@ -36,8 +30,6 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Instrumente
 footer-refresh-donate = Donează
 footer-refresh-donate-not-for-profit = Donează către organizația non-profit <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-# Obsolete string (expires 2026-08-01)
-footer-refresh-visit-mozilla-corporations-v2 = Vezi compania-mamă a <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, tot o organizație non-profit - <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Porțiuni din acest conținut sunt ©1998–{ $current_year } de colaboratori individuali mozilla.org. Conținut disponibil sub o licență <a rel="license" { $href }>{ -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Notificare privind confidențialitatea site-ului web
 footer-refresh-websites-cookies = Cookie-uri

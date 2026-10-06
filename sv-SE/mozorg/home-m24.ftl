@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Få ett meddelande om din personliga information är i fara och lås den som ett proffs.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Maskera din e-postadress och ditt telefonnummer så att du bara får de meddelanden du vill ha.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Skapa direkt en snygg webbplats så att du kan få din verksamhet att växa.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Säkra din AI genom att hitta och åtgärda GenAI-sårbarheter innan angripare gör det.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -139,7 +137,7 @@ m24-home-state-of-mozilla-alt = Abstrakt pixelkonst i nyanser av grönt, orange 
 m24-home-state-of-mozilla-alt-v2 = Texten "Välj din framtid" på en gul, pixlad bakgrund
 m24-home-read-the-report = Läs rapporten
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Inget personligt
 m24-home-our-new-magazine = Vår nya tidskrift för oberoende tänkare, teknologer och kreatörer i frontlinjen inom digital kultur.

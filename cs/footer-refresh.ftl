@@ -4,13 +4,7 @@
 
 footer-refresh-discover-mozilla-products = Objevte produkty a iniciativy { -brand-name-mozilla(case: "gen") }. Slibujeme, že udržíme váš e-mail v soukromí a bezpečí – žádné sdílení, žádný prodej, jen skvělé novinky.
 footer-refresh-leadership = Vedení
-footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = Zjistit více <span>o { footer-refresh-mozilla-ads }</span>
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = Zjistěte více <span>o reklamě v { -brand-name-mozilla(case: "loc") }</span>
 footer-refresh-firefox-release-notes = Poznámky k vydání { -brand-name-firefox(case: "gen") }
-footer-refresh-add-trust-to = Přidejte důvěru k nákupu reklamy.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Sledujte @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
@@ -36,8 +30,6 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Nástroje
 footer-refresh-donate = Přispějte
 footer-refresh-donate-not-for-profit = Přispějte neziskové organizaci <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
-# Obsolete string (expires 2026-08-01)
-footer-refresh-visit-mozilla-corporations-v2 = Navštivte stránky <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>, neziskové organizace <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>.
 footer-refresh-portions-of-this-content = Části tohoto obsahu jsou ©1998–{ $current_year } jednotlivými přispěvateli mozilla.org. Obsah je dostupný pod <a rel="license" { $href }>licencí { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Zásady ochrany osobních údajů
 footer-refresh-websites-cookies = Cookies

@@ -35,8 +35,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Получите уведомление, если ваша личная информация под риском, и заблокируйте её, как профессионал.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Замаскируйте свою электронную почту и номер телефона, чтобы получать только те сообщения, которые хотите.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Мгновенно создавайте красивый веб-сайт для развития своего бизнеса.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Защитите свой ИИ, найдя и исправив уязвимости генеративного ИИ раньше злоумышленников.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -139,7 +137,7 @@ m24-home-state-of-mozilla-alt = Абстрактная пиксельная гр
 m24-home-state-of-mozilla-alt-v2 = Текст «Выберите своё будущее» на жёлтом пиксельном фоне
 m24-home-read-the-report = Прочитать отчёт
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Ничего личного
 m24-home-our-new-magazine = Наш новый журнал для независимых мыслителей, технарей и креативщиков, находящихся на передовой цифровой культуры.

@@ -53,12 +53,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Përdorni krejt email-et tuaj, kalendarët dhe kontaktet, që nga një aplikacion i shpejtë. Filtrojini dhe sistemojini si doni.
 firefox-products-download-thunderbird = Shkarkoni { -brand-name-thunderbird }-in
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Krijoni menjëherë në sajt të hijshëm, që të mund të fuqizoni biznesin tuaj. Lidheni dhe strehojeni përkatësinë tuaj falas.
-firefox-products-learn-more-about-solo = Mësoni më tepër mbi { -brand-name-solo }-n
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
