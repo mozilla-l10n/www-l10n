@@ -27,6 +27,7 @@ firefox-products-get-the-browser-that-blocks = Få nettleseren som blokkerer ove
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Din dedikerte personvernnettleser med automatisk sporingsbeskyttelse og annonseblokkering.
+firefox-products-get-focus = Last ned { -brand-name-firefox-focus }
 
 ## Monitor
 
