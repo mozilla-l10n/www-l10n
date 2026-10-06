@@ -35,7 +35,7 @@ firefox-enterprise-admx-templates = الگوهای ADMX
 firefox-enterprise-deployment-guide = راهنمای استقرار
 firefox-enterprise-policy-documentation = مستندات سیاست‌ها
 firefox-enterprise-release-notes = یادداشت‌های انتشار
-firefox-enterprise-documentation-and-community = مستندات و پشتیبانی جامعه
+firefox-enterprise-documentation-and-community = مستندات و پشتیبانی اجتماع
 # Variables:
 #   $url (url) - link to https://github.com/mozilla/policy-templates/blob/master/mac/org.mozilla.firefox.plist
 firefox-enterprise-sample-plist-for-configuration = نمونهٔ <a href="{ $url }">plist برای نمایهٔ پیکربندی</a>
