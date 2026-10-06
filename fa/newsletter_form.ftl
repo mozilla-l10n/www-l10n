@@ -14,7 +14,7 @@ newsletter-form-select-country-or-region = انتخاب کشور یا منطقه
 newsletter-form-select-language = انتخاب زبان
 newsletter-form-your-email-here = پست‌الکترونیکی شما در اینجا
 newsletter-form-get-firefox-news = دریافت اخبار { -brand-name-firefox }
-newsletter-form-join-the-community = به جامعه بپیوندید
+newsletter-form-join-the-community = به اجتماع بپیوندید
 newsletter-form-sign-up-to-receive = عضو شوید تا هر ماه تازه‌های { -brand-name-firefox } و روندهای اینترنتی را که زندگی آنلاینتان را شکل می‌دهند دریافت کنید.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/privacy/websites/
