@@ -13,6 +13,13 @@ firefox-products-products = Produkt
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } er berre byrjinga.
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } er ein heil familie av produkt designa for å halde deg sikrare og smartare på nettet.
 
+## Section headings
+
+firefox-products-tabs-everyone = For alle
+firefox-products-tabs-business = For bedrifter
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Produktkategoriar
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -22,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = Få nettlesaren som blokkerer ove
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Din dedikerte personvernnettlesar med automatisk sporingsvern og annonseblokkering.
+firefox-products-get-focus = Last ned { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -63,6 +71,7 @@ firefox-products-learn-more-about-0din = Les meir om { -brand-name-0din }
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Kople appane dine til nettet med påliteleg automatisering og gjer levande nettsider om til reine, strukturerte resultat.
+firefox-products-start-automating-the-web = Automatiser nettet
 firefox-products-learn-more-about-tabstack = Les meir om { -brand-name-tabstack }
 
 ## Otari
@@ -70,3 +79,13 @@ firefox-products-learn-more-about-tabstack = Les meir om { -brand-name-tabstack 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } gjer det enklare å administrere fleire KI-leverandørar ved å samle ruting, sikkerheit, budsjettering, redundans og revisjon bak eitt enkelt API-endepunkt.
 firefox-products-learn-more-about-otari = Les meir om { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-learn-more-about-mozilla-ads = Les meir om { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-learn-more-about-firefox-enterprise = Les meir om { -brand-name-firefox-enterprise }
