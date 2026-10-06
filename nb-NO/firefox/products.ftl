@@ -13,6 +13,11 @@ firefox-products-products = Produkter
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } er bare begynnelsen.
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } er en hel familie av produkter designet for å holde deg sikrere og smartere på nettet.
 
+## Section headings
+
+firefox-products-tabs-everyone = For alle
+firefox-products-tabs-business = For bedrifter
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -70,3 +75,8 @@ firefox-products-learn-more-about-tabstack = Les mer om { -brand-name-tabstack }
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } gjør det enklere å administrere flere AI-leverandører ved å samle ruting, sikkerhet, budsjettering, redundans og revisjon bak ett enkelt API-endepunkt.
 firefox-products-learn-more-about-otari = Les mer om { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-learn-more-about-mozilla-ads = Les mer om { -brand-name-mozilla-ads }

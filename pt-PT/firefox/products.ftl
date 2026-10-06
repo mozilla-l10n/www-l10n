@@ -86,13 +86,13 @@ firefox-products-learn-more-about-otari = Saiba mais sobre o { -brand-name-otari
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
-firefox-products-mozilla-ads-desc = Adicione confiança ao seu anúncio de compra. Irá ligar-se com mais de 210 milhões de utilizadores seletores, criteriosos e fieis à marca.
+firefox-products-mozilla-ads-desc = Adicione confiança ao seu anúncio de compra. Irá chegar a mais de 210 milhões de utilizadores criteriosos, seletivos e fiéis às marcas.
 firefox-products-extend-your-reach = Aumente o seu alcance
 firefox-products-learn-more-about-mozilla-ads = Saiba mais sobre { -brand-name-mozilla-ads }
 
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
-firefox-products-firefox-enterprise-desc = Distribua, faça a gestão e proteja o { -brand-name-firefox } em toda a sua organização com controlos de políticas de nível empresarial.
-firefox-products-manage-your-fleet = Distribuir { -brand-name-firefox }
-firefox-products-learn-more-about-firefox-enterprise = Saiba mais sobre { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Distribua, faça a gestão, e proteja o { -brand-name-firefox } em toda a sua organização com controlos de políticas de nível empresarial.
+firefox-products-manage-your-fleet = Distribuir o { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = Saiba mais sobre o { -brand-name-firefox-enterprise }
