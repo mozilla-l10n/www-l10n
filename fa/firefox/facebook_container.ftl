@@ -11,6 +11,7 @@ facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. کا
 facebook-container-get-the-facebook-container = دریافت افزونه { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } را دریافت و افزونهٔ { -brand-name-facebook-container } را نصب کنید
 facebook-container-only-available-for-desktop = افزونهٔ { -brand-name-facebook-container } فعلاً فقط برای { -brand-name-firefox } رومیزی در دسترس است.
+facebook-container-brand-name-firefox-browser = { -brand-name-firefox-browser }
 # Variables:
 #   $link_copy (string) - www.mozilla.org/firefox/new/
 #   $url (url) - link to https://www.mozilla.org/firefox/new/

@@ -38,6 +38,7 @@ firefox-channel-download-and-test-the-latest-desktop = با نسخه‌های { 
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-test-about-to-be-released = امکانات در نزدیکی انتشار را در پایدارترین نسخه پیش از انتشار بررسی کنید.
 firefox-channel-release-notes = یادداشت‌های انتشار
+firefox-channel-previous-nightly-builds = ساخت‌های قبلی { -brand-name-nightly }
 firefox-channel-developer-edition = { -brand-name-developer-edition }
 firefox-channel-build-test-scale-and-more = بسازید، تست کنید، توسعه دهید و حتی بیشتر با تنها مرورگر ساخته شده برای توسعه‌دهندگان.
 # Variables:
@@ -52,5 +53,5 @@ firefox-channel-experience-cutting-edge-features-ios = تازه‌ترین ام�
 firefox-channel-test-beta-versions-of-firefox-ios-long = نسخه‌های بتا { -brand-name-firefox } برای { -brand-name-ios } را از طریق برنامه { -brand-name-test-flight } شرکت { -brand-name-apple } بررسی کنید و کمک کنید تا مرورگر ما برای { -brand-name-iphone }، { -brand-name-ipad } و iPod از این هم بهتر بشود.
 firefox-channel-test-flight = { -brand-name-test-flight }
 firefox-channel-test-beta-versions-of-firefox-ios = نسخه بتا { -brand-name-firefox } برای { -brand-name-ios } را از طریق برنامه { -brand-name-test-flight } { -brand-name-apple } آزمایش کنید.
-firefox-channel-sign-up-now = امروز ثبت‌نام کنید
+firefox-channel-sign-up-now = امروز نام‌نویسی کنید
 firefox-channel-nightly-update-one-or-more-times = توجه: { -brand-name-firefox-nightly } تقریباً روزی یک یا دو بار به‌روز می‌شود.

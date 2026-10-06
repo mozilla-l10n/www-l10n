@@ -35,6 +35,7 @@ features-adblocker-create-a-tracker-free = با مسدودسازی محتوا، 
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/
 #   $blocking (url) - link to https://support.mozilla.org/kb/content-blocking
 features-adblocker-on-firefox-you-can-use = در { -brand-name-firefox } می‌توانید از تنظیمات <a href="{ $privacy }">حریم خصوصی</a> یا <a href="{ $blocking }">مسدودسازی محتوا</a> استفاده کنید تا کنترل بیشتری روی ردیاب‌هایی داشته باشید که تبلیغات را به شما نشان می‌دهند.
+features-adblocker-choose-your-level-of-protection = سطح محافظت خود را انتخاب کنید
 features-adblocker-to-start-click-on-the-v2 = برای شروع، در هر صفحهٔ وب روی سپر سمت چپ نوار نشانی کلیک کنید و «تنظیمات محافظت» را انتخاب کنید. این کار تابلوی «حریم خصوصی و امنیت» تنظیمات { -brand-name-firefox } را در زبانه‌ای جدید باز می‌کند. باید پنجرهٔ آبی‌رنگی با گزینه‌های مختلف ببینید.
 features-adblocker-go-easy-with-standard = با حالت استاندارد راحت باشید
 # Variables:
