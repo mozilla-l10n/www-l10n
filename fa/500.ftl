@@ -5,6 +5,7 @@
 error-page-mozilla = { -brand-name-mozilla }
 error-page-firefox = { -brand-name-firefox }
 error-page-error-page-internal-server-error = 500: خطای داخلی سرویس دهنده
+error-page-something-went-wrong = خطایی رخ داد
 error-page-its-probably-just-a-server-error = احتمالاً این فقط یک خطای کارساز است و ما در تلاش برای رفع آن هستیم.
 # Variables:
 #   $firefox (url) - link to https://firefox.com/

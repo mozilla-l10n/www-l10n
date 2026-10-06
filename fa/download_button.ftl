@@ -20,11 +20,21 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> برای { -b
 download-button-firefox-privacy = حریم خصوصی { -brand-name-firefox }
 download-button-firefox-privacy-notice = نکات حریم‌خصوصی { -brand-name-firefox }
 download-button-download = دریافت
+# Variables:
+#   $channel_name (string) - e.g. Firefox Beta, Firefox Nightly
+#   $help_url (url) - link to https://support.mozilla.org/
+#   $os_version (string) - e.g. Windows 8.1, macOS 10.14
+download-button-unsupported-platform = { $channel_name } در { $os_version } و پایین‌تر <a href="{ $help_url }">دیگر پشتیبانی نمی‌شود</a>.
+download-button-please-download-esr = لطفا جهت استفاده از { -brand-name-firefox }، { -brand-name-firefox-esr } (نگارش پشتیبانی گسترده) را بارگیری نمایید.
+download-firefox-esr = بارگیری { -brand-name-firefox-esr }
+download-firefox-esr-32 = بارگیری { -brand-name-firefox-esr } ۳۲‌بیتی
+download-firefox-esr-64 = بارگیری { -brand-name-firefox-esr } ۶۴‌بیتی
+download-a-different-build = بارگیری نگارش متفاوت
 
 ## Linux
 
-download-button-linux-32-v2 = بارگیری برای لینوکس ۳۲ بیتی
-download-button-linux-64-v2 = بارگیری برای لینوکس ۶۴ بیتی
+download-button-linux-32-v2 = بارگیری برای گنو/لینوکس ۳۲ بیتی
+download-button-linux-64-v2 = بارگیری برای گنو/لینوکس ۶۴ بیتی
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
@@ -34,4 +44,4 @@ download-button-get-it-from-microsoft = دریافت از Microsoft
 # Variables
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
 # “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
-download-button-share-how-you-discovered = اینکه چطور با { -brand-name-firefox } آشنا شدید و اینکه از آن استفاده می‌کنید را با شرکای فناوری بازاریابی { -brand-name-mozilla } به اشتراک بگذارید. این داده‌ها هرگز فروخته نمی‌شوند و برای نمایش تبلیغ به شما به کار نمی‌روند. <a { $attrs }>ببینید چطور از این داده‌ها استفاده می‌کنیم</a>.
+download-button-share-how-you-discovered = اینکه چطور با { -brand-name-firefox } آشنا شدید و اینکه از آن استفاده می‌کنید را با شرکای فناوری بازاریابی { -brand-name-mozilla } هم‌رسانی کنید. این داده‌ها هرگز فروخته نمی‌شوند و برای نمایش تبلیغ به شما به کار نمی‌روند. <a { $attrs }>ببینید چطور از این داده‌ها استفاده می‌کنیم</a>.

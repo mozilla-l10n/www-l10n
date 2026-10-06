@@ -93,6 +93,7 @@
 
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
+-brand-name-glean = Glean
 -brand-name-irl-podcast = IRL Podcast
 -brand-name-solo = Solo
 -brand-name-solo-ai = Solo AI
@@ -100,7 +101,9 @@
 -brand-name-tabstack = Tabstack
 -brand-name-otari = Otari
 -brand-name-lumigator = Lumigator
+-brand-name-mdn-plus = MDN Plus
 -brand-name-mdn-web-docs = MDN Web Docs
+-brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-monitor = Mozilla Monitor
 -brand-name-mozilla-vpn = Mozilla VPN
 -brand-name-mozilla-account = Mozilla account
@@ -159,6 +162,7 @@
 
 -brand-name-facebook-messenger = پیغام‌رسان فیسبوک
 -brand-name-instagram = Instagram
+-brand-name-workplace = Workplace
 
 ## Google products
 
