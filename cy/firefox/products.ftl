@@ -65,7 +65,7 @@ firefox-products-download-thunderbird = Llwytho { -brand-name-thunderbird } i La
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Cysylltwch eich systemau AI â chymuned fyd-eang o arbenigwyr diogelwch sy'n datgelu ac yn helpu i drwsio gwendidau GenAI yn gynnar.
-firefox-products-0din-desc-v2 = Darganfod a thrwsio gwendidau AI cyn iddynt gyrraedd cynhyrchiant, gyda chefnogaeth cymuned fyd-eang o ymchwilwyr diogelwch a'r porthiant ecsbloetio priodoledig mwyaf sydd ar gael.
+firefox-products-0din-desc-v2 = Darganfod a thrwsio gwendidau AI cyn iddyn nhw gyrraedd defnyddwyr, gyda chefnogaeth cymuned fyd-eang o ymchwilwyr diogelwch a'r ffrwd ecsbloetio priodoledig mwyaf sydd ar gael.
 firefox-products-test-your-ai = Profwch eich asiantau AI
 firefox-products-learn-more-about-0din = Dysgu rhagor am { -brand-name-0din }
 
@@ -80,13 +80,13 @@ firefox-products-learn-more-about-tabstack = Dysgu rhagor am { -brand-name-tabst
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = Mae { -brand-name-otari } yn dileu cymhlethdod rheoli darparwyr AI lluosog trwy uno llwybro, diogelwch, cyllidebu, methu, ac archwilio y tu ôl i un pwynt terfyn API.
-firefox-products-own-your-ai-stack = Yn berchen ar eich pentwr AI
+firefox-products-own-your-ai-stack = Perchen eich stac AI eich hun
 firefox-products-learn-more-about-otari = Dysgu rhagor am { -brand-name-otari }
 
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
-firefox-products-mozilla-ads-desc = Ychwanegwch ymddiriedaeth at eich pryniant hysbyseb. Byddwch yn cysylltu â dros 210 miliwn o ddefnyddwyr dethol, craff, sy'n ffyddlon i'r brand.
+firefox-products-mozilla-ads-desc = Gallwch ymddiried brynu eich hysbyseb. Byddwch yn cysylltu â dros 210 miliwn o ddefnyddwyr gwybodus, craff, sy'n ffyddlon i'r brand.
 firefox-products-extend-your-reach = Ymestyn eich cyrhaeddiad
 firefox-products-learn-more-about-mozilla-ads = Dysgu rhagor am { -brand-name-mozilla-ads }
 
