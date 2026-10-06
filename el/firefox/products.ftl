@@ -86,6 +86,7 @@ firefox-products-learn-more-about-otari = Μάθετε περισσότερα γ
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = Ενισχύστε την αξιοπιστία της διαφημιστικής σας επένδυσης. Συνδεθείτε με περισσότερους από 210 εκατομμύρια επιλεκτικούς, απαιτητικούς και πιστούς στις αγαπημένες τους επωνυμίες χρήστες.
 firefox-products-extend-your-reach = Διευρύνετε το κοινό σας
 firefox-products-learn-more-about-mozilla-ads = Μάθετε περισσότερα για το { -brand-name-mozilla-ads }
 

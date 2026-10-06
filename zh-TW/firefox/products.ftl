@@ -18,7 +18,7 @@ firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } 
 firefox-products-tabs-everyone = 所有人
 firefox-products-tabs-business = 商業用途
 # Accessible name for the tab list grouping the sections above, read by screen readers.
-firefox-products-tabs-aria-label = 產品分類
+firefox-products-tabs-aria-label = 產品類別
 
 ## Firefox
 
@@ -66,28 +66,28 @@ firefox-products-download-thunderbird = 下載 { -brand-name-thunderbird }
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = 將您的 AI 系統連結到由資安專家所組成的全球性社群，讓他們及早發現並修正 GenAI 的漏洞。
 firefox-products-0din-desc-v2 = 在全球安全性研究人員社群與最大規模的可追溯性利用資訊來源全力相挺後在實際環境中發現並修復 AI 漏洞。
-firefox-products-test-your-ai = 測試您的 AI 代理程式
+firefox-products-test-your-ai = 測試您的 AI 代理人
 firefox-products-learn-more-about-0din = 了解 { -brand-name-0din } 的更多資訊
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = 透過可靠的自動化機制，將您的應用程式與網路連結，並將線上網頁轉換成簡潔、結構化結果。
-firefox-products-start-automating-the-web = 自動化 Web
+firefox-products-start-automating-the-web = 將 Web 自動化
 firefox-products-learn-more-about-tabstack = 了解 { -brand-name-tabstack } 的更多資訊
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } 將路由、安全性、預算、故障轉移與稽核功能統一在單一 API 端點，降低需管理多個 AI 提供者的複雜性。
-firefox-products-own-your-ai-stack = 擁有您的 AI 堆疊
+firefox-products-own-your-ai-stack = 掌控您自己的 AI 技術堆疊
 firefox-products-learn-more-about-otari = 了解 { -brand-name-otari } 的更多資訊
 
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = 讓您對廣告的購買更有信任。您將連線到超過 2 億 1 千萬有選擇性、有眼光的品牌粉絲。
-firefox-products-extend-your-reach = 擴大您的影響力
+firefox-products-extend-your-reach = 拓展觸及範圍
 firefox-products-learn-more-about-mozilla-ads = 了解 { -brand-name-mozilla-ads } 的更多資訊
 
 ## Firefox for Enterprise
