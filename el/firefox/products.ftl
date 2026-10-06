@@ -13,6 +13,13 @@ firefox-products-products = Προϊόντα
 firefox-products-firefox-beginning-v2 = Το { -brand-name-firefox } είναι μόνο η αρχή.
 firefox-products-mozillas-family-of-products-sentence = Όλα τα προϊόντα της οικογένειας της { -brand-name-mozilla } έχουν σχεδιαστεί για να σας προστατεύουν και να σας βοηθούν στο διαδίκτυο.
 
+## Section headings
+
+firefox-products-tabs-everyone = Για όλους
+firefox-products-tabs-business = Για επιχειρήσεις
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Κατηγορίες προϊόντων
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -22,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = Αποκτήστε το πρόγ�
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Το ιδιωτικό σας πρόγραμμα περιήγησης με αυτόματη προστασία από καταγραφή και φραγή διαφημίσεων.
+firefox-products-get-focus = Λήψη του { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -57,16 +65,33 @@ firefox-products-download-thunderbird = Λήψη του { -brand-name-thunderbir
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Συνδέστε τα συστήματα τεχνητής νοημοσύνης σας με μια παγκόσμια κοινότητα ειδικών σε θέματα ασφάλειας, που ανακαλύπτουν και βοηθούν στην έγκαιρη διόρθωση των ευπαθειών του GenAI.
+firefox-products-0din-desc-v2 = Εντοπίστε και διορθώστε ευπάθειες συστημάτων τεχνητής νοημοσύνης πριν περάσουν στο στάδιο παραγωγής, με τη στήριξη μιας παγκόσμιας κοινότητας ερευνητών ασφάλειας και της μεγαλύτερης διαθέσιμης ροής δεδομένων για επιθέσεις με διαπιστωμένη προέλευση.
+firefox-products-test-your-ai = Δοκιμάστε τους πράκτορες ΤΝ σας
 firefox-products-learn-more-about-0din = Μάθετε περισσότερα για το { -brand-name-0din }
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Συνδέστε τις εφαρμογές σας στο διαδίκτυο με αξιόπιστη αυτοματοποίηση και μετατρέψτε τις δυναμικές ιστοσελίδες σε καθαρά, δομημένα αποτελέσματα.
+firefox-products-start-automating-the-web = Αυτοματοποιήστε το διαδίκτυο
 firefox-products-learn-more-about-tabstack = Μάθετε περισσότερα για το { -brand-name-tabstack }
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = Το { -brand-name-otari } απλοποιεί τη διαχείριση πολλών παρόχων τεχνητής νοημοσύνης, συγκεντρώνοντας τη δρομολόγηση, την ασφάλεια, τη διαχείριση προϋπολογισμού, την εφεδρική μετάβαση και τον έλεγχο σε ένα ενιαίο τελικό σημείο API.
+firefox-products-own-your-ai-stack = Πάρτε τον έλεγχο της υποδομής ΤΝ σας
 firefox-products-learn-more-about-otari = Μάθετε περισσότερα για το { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-extend-your-reach = Διευρύνετε το κοινό σας
+firefox-products-learn-more-about-mozilla-ads = Μάθετε περισσότερα για το { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Διανείμετε, διαχειριστείτε και προστατέψτε το { -brand-name-firefox } σε ολόκληρο τον οργανισμό σας με προηγμένους ελέγχους εταιρικών πολιτικών.
+firefox-products-manage-your-fleet = Διανομή του { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = Μάθετε περισσότερα για το { -brand-name-firefox-enterprise }
