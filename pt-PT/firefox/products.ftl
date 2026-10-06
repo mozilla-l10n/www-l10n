@@ -65,7 +65,7 @@ firefox-products-download-thunderbird = Transferir o { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Ligue os seus sistemas de IA a uma comunidade global de especialistas em segurança que expõem e ajudam a corrigir antecipadamente as vulnerabilidades da GenIA.
-firefox-products-0din-desc-v2 = Encontre e corrija vulnerabilidades de IA antes que estas entrem em produção, suportadas por uma comunidade global de pesquisadores de segurança e a maior fonte de falha de segurança atribuída disponível.
+firefox-products-0din-desc-v2 = Detetar e corrigir vulnerabilidades de IA antes que cheguem à produção, com o apoio de uma comunidade global de investigadores de segurança e do maior feed de exploits atribuídos disponível.
 firefox-products-test-your-ai = Teste os seus agentes de IA
 firefox-products-learn-more-about-0din = Saiba mais sobre { -brand-name-0din }
 
@@ -73,14 +73,14 @@ firefox-products-learn-more-about-0din = Saiba mais sobre { -brand-name-0din }
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Ligue as suas aplicações à internet com uma automação confiável e transforme as páginas da Internet em tempo real em resultados limpos, e estruturados.
-firefox-products-start-automating-the-web = Automação da Web
+firefox-products-start-automating-the-web = Automatize a web
 firefox-products-learn-more-about-tabstack = Saiba mais sobre { -brand-name-tabstack }
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = O { -brand-name-otari } elimina a complexidade da gestão de múltiplos fornecedores de IA ao unificar o encaminhamento, segurança, orçamentação, falha, e auditoria atrás de um único endpoint de API.
-firefox-products-own-your-ai-stack = Controle a sua stack de IA
+firefox-products-own-your-ai-stack = Seja dono da sua stack de IA
 firefox-products-learn-more-about-otari = Saiba mais sobre o { -brand-name-otari }
 
 ## Mozilla Ads
