@@ -86,7 +86,7 @@ firefox-products-learn-more-about-otari = Dysgu rhagor am { -brand-name-otari }
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
-firefox-products-mozilla-ads-desc = Gallwch ymddiried brynu eich hysbyseb. Byddwch yn cysylltu â dros 210 miliwn o ddefnyddwyr gwybodus, craff, sy'n ffyddlon i'r brand.
+firefox-products-mozilla-ads-desc = Gallwch ymddiried brynu eich hysbysebu. Byddwch yn cysylltu â dros 210 miliwn o ddefnyddwyr gwybodus, craff, sy'n ffyddlon i'r brand.
 firefox-products-extend-your-reach = Ymestyn eich cyrhaeddiad
 firefox-products-learn-more-about-mozilla-ads = Dysgu rhagor am { -brand-name-mozilla-ads }
 

@@ -6,3 +6,6 @@
 ### URL: https://www-dev.allizom.org/404/
 
 not-found-page-not-found-page-page-not-found = ۴۰۴: صفحه پیدا نشد
+# Variables:
+#   $donate (url) - link to https://www.mozillafoundation.org/?form=donate-404
+not-found-page-donate-to-mozilla-reclaim-from-v2 = با <a { $donate }>حمایت مالی</a> از { -brand-name-mozilla-foundation }، اینترنت را از چنگ غول‌های فناوری پس بگیرید.

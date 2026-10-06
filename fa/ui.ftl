@@ -12,11 +12,18 @@ ui-previous = قبلی
 ui-next = بعدی
 ui-watch-the-video = تماشای ویدئو
 ui-replay = نمایش مجدد
-ui-share = به‌اشتراک‌گذاری
+ui-share = هم‌رسانی
 ui-menu = منو
+# Short for Table of Contents
+ui-contents = فهرست مطالب
 ui-please-turn-on-javascript = لطفا برای نمایش این صفحه جاوا اسکریپت را فعال کنید.
 ui-show-more = بیشتر نمایش بده
 ui-show-less = کم تر نمایش بده
 ui-show-all = نمایش همه
 ui-hide-all = پنهان کردن همه
 ui-learn-more = بیشتر بدانید
+ui-view = نمایش
+ui-pause-animation = مکث پویانمایی
+ui-play-animation = پخش پویانمایی
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = تبلیغ
