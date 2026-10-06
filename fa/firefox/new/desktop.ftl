@@ -40,6 +40,59 @@ firefox-desktop-download-search-smarter = هوشمندتر و سریعتر جس�
 firefox-desktop-download-search-from-address = جست‌و‌جو از نوار نشانی
 firefox-desktop-download-search-engine-options = گزینه‌های موتور جست‌و‌جو
 firefox-desktop-download-smart-search-suggestions = پیشنهادهای جست‌وجو هوشمند
+firefox-desktop-download-bookmark-history = نشانک‌گذاری، تاریخچه و باز کردن زبانه در نتایج
+firefox-desktop-download-boost-your = بهره‌وری خود را افزایش دهید
+firefox-desktop-download-works-with-google = با محصولات { -brand-name-google } کار می‌کند
+firefox-desktop-download-built-in-screenshot = ابزار اسکرین‌شات داخلی
+firefox-desktop-download-bookmarks-manager = مدیریت نشانک‌ها
+firefox-desktop-download-autosuggest-urls = پیشنهاد خودکار نشانی‌های اینترنتی
+firefox-desktop-download-sync-across-devices = همگام‌سازی در بین تمام دستگاه‌ها
+firefox-desktop-download-reader-mode = حالت خواننده
+firefox-desktop-download-spell-check = بررسی املا
+firefox-desktop-download-pinned-tabs = زبانه‌های سنجاق‌شده
+firefox-desktop-download-stream-share-play = پخش زنده، هم‌رسانی و پخش
+# Autoplay is a feature names and so is capitalized in English
+firefox-desktop-download-block-autoplay-of = مسدودسازی پخش خودکار ویدیو و صدا
+# Picture-in-Picture is a feature names and so is capitalized in English
+firefox-desktop-download-picture-in-picture = تصویر-در-تصویر
+firefox-desktop-download-curated-content-on = محتوای انتخاب شده در زبانه جدید
+firefox-desktop-download-share-links = هم‌رسانی پیوندها
+firefox-desktop-download-protect-your-privacy = از حریم خصوصی خود محافظت کنید
+firefox-desktop-download-third-party-cookie = مسدود کردن کلوچک‌های شخص ثالث
+firefox-desktop-download-fingerprinter-blocking = مسدود کردن انگشت‌نگار
+firefox-desktop-download-cryptominer-blocking = مسدود کردن استخراج رمز ارز
+firefox-desktop-download-private-browsing-mode = حالت مرور خصوصی
+firefox-desktop-download-individual-protections-report = گزارش حفاظت فردی
+firefox-desktop-download-secure-your-personal = اطلاعات شخصی خود را ایمن کنید
+firefox-desktop-download-breached-website-alerts = هشدار وبگاه‌های هک شده
+firefox-desktop-download-built-in-password = مدیریت گذرواژه داخلی
+firefox-desktop-download-clear-history = پاک‌کردن تاریخچه
+firefox-desktop-download-form-autofill = تکمیل خودکار فرم
+firefox-desktop-download-automatic-updates = به‌روزرسانی‌های خودکار
+firefox-desktop-download-customize-your-browser = مرورگر خود را سفارشی کنید
+firefox-desktop-download-themes = پوسته‌ها
+firefox-desktop-download-dark-mode = حالت تیره
+firefox-desktop-download-library-of-extensions = کتابخانه افزونه‌ها
+firefox-desktop-download-adjust-search-bar = تنظیمات نوار جست‌وجو را تنظیم کنید
+firefox-desktop-download-change-new-tab = تغییر طرح زبانه جدید
+firefox-desktop-download-make-firefox-your = <strong>{ -brand-name-firefox }</strong> را متعلق به خود کنید
+firefox-desktop-download-extensions-for-every = افزونه‌ها برای هر سلیقه‌ای
+firefox-desktop-download-change-up-your = ظاهر را تغییر دهید
+firefox-desktop-download-go-from-light = بسته به حال و هوا یا ترجیح خود، از حالت روشن به حالت تیره بروید یا با یک تم سفارشی (مثلاً تک‌شاخ رنگین‌کمانی) به همه چیز جان ببخشید.
+firefox-desktop-download-tweak-your-settings = تنظیمات خود را تغییر دهید
+firefox-desktop-download-theres-no-need = نیازی به جا زدن نیست. صفحه زبانه جدید، نوار جست‌و‌جو، نشانک‌ها و موارد دیگر را تغییر دهید تا اینترنت را آنطور که می‌خواهید کاوش کنید.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = با حمایت <strong>غیر انتفاعی</strong> که افراد را در اولویت قرار می دهد
+firefox-desktop-download-challenging-the-status = به چالش کشیدن وضعیت موجود از سال 1998
+firefox-desktop-download-your-privacy-comes = حریم خصوصی شما حرف اول را می زند
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = همه ویژگی‌های مرورگر مورد علاقه خود را حفظ کنید - و ویژگی‌های جدید را <strong>کشف</strong> کنید.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = همه ابزارهای مورد علاقه شما { -brand-name-google } (مانند Gmail و Docs) به طور یکپارچه در { -brand-name-firefox-browser } کار می کنند.
+firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >این افزونه مرورگر</a> را بارگیری کنید تا { -brand-name-facebook } (و { -brand-name-instagram }) شما را در وب ردیابی نکنند.
 firefox-desktop-download-screenshots = نماگرفت‌ها
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
