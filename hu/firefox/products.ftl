@@ -13,6 +13,13 @@ firefox-products-products = Termékek
 firefox-products-firefox-beginning-v2 = A { -brand-name-firefox } csak a kezdet.
 firefox-products-mozillas-family-of-products-sentence = A { -brand-name-mozilla } termékcsalád arra készült, hogy Ön nagyobb biztonságban legyen, és hatékonyabb legyen online.
 
+## Section headings
+
+firefox-products-tabs-everyone = Mindenkinek
+firefox-products-tabs-business = Vállalkozásoknak
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Termékkategóriák
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -22,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = Szerezze be azt a böngészőt, a
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = A dedikált adatvédelmi böngészője automatikus követés elleni védelemmel és reklámblokkolással.
+firefox-products-get-focus = { -brand-name-firefox-focus } beszerzése
 
 ## Monitor
 
@@ -57,16 +65,34 @@ firefox-products-download-thunderbird = A { -brand-name-thunderbird } letöltés
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Kapcsolja össze az MI rendszereit a biztonsági szakértők globális közösségével, akik feltárják a GenAI sérülékenységeket, és korán javítják őket.
+firefox-products-0din-desc-v2 = Találja meg és hárítsa el a MI sebezhetőségeit, még mielőtt azok elérnék az éles verziót, a biztonsági kutatók globális közössége támogatásával, és a legnagyobb elérhető exploit hírforrással.
+firefox-products-test-your-ai = Tesztelje az MI ügynökeit
 firefox-products-learn-more-about-0din = Tudjon meg többet az { -brand-name-0din } szolgáltatásról
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Kapcsolja össze alkalmazásait a webbel megbízható automatizálással, és alakítsa az élő weboldalakat letisztult, strukturált eredményekké.
+firefox-products-start-automating-the-web = Automatizálja a webet
 firefox-products-learn-more-about-tabstack = Tudjon meg többet a { -brand-name-tabstack } szolgáltatásról
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = Az { -brand-name-otari } leegyszerűsíti a több MI-szolgáltató kezelését: az útválasztást, a biztonságot, a költségkeretek kezelését, a feladatátvételt és a naplózást egyetlen API-végpont mögött egyesíti.
+firefox-products-own-your-ai-stack = Legyen a tulajdonosa a MI veremnek
 firefox-products-learn-more-about-otari = Tudjon meg többet az { -brand-name-otari }ról
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = Erősítsen a hirdetésvásárlásában. Több mint 210 millió szelektív, igényes, márkahű felhasználóval lép kapcsolatba.
+firefox-products-extend-your-reach = Bővítse az elérését
+firefox-products-learn-more-about-mozilla-ads = Tudjon meg többet a(z) { -brand-name-mozilla-ads } kiegészítőről
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Telepítse, kezelje és biztosítsa a(z) { -brand-name-firefox } szolgáltatást az egész szervezetén vállalati szintű házirend-vezérlésekkel.
+firefox-products-manage-your-fleet = { -brand-name-firefox } telepítése
+firefox-products-learn-more-about-firefox-enterprise = Tudjon meg többet a(z) { -brand-name-firefox-enterprise } kiegészítőről

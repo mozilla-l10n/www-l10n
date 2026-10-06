@@ -13,6 +13,13 @@ firefox-products-products = 产品
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } 只是标配。
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } 的系列产品旨在让您上网更安全、更智慧。
 
+## Section headings
+
+firefox-products-tabs-everyone = 对所有人
+firefox-products-tabs-business = 企业版
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = 产品分类
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -22,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = 获取可自动拦截 2000 多种
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = 您的隐私专用浏览器，内置自动跟踪保护和广告拦截功能。
+firefox-products-get-focus = 下载 { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -57,16 +65,34 @@ firefox-products-download-thunderbird = 下载 { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = 将您的 AI 系统与全球安全专家社区相连接，及早发现并协同修复生成式 AI 漏洞。
+firefox-products-0din-desc-v2 = 在 AI 漏洞影响到生产环境之前发现并修复它由安全研究人员组成的全球社区和最大的可归因于的漏洞利用程序提供支持。
+firefox-products-test-your-ai = 测试您的 AI 代理
 firefox-products-learn-more-about-0din = 详细了解 { -brand-name-0din }
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = 通过可靠的自动化，将应用与 Web 相连接，并将实况网页转变为清晰的结构化结果。
+firefox-products-start-automating-the-web = 使网络自动化
 firefox-products-learn-more-about-tabstack = 详细了解 { -brand-name-tabstack }
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } 将路由、安全、预算、故障转移和审计功能集中在一个 API 端点让您省去管理多个 AI 提供者的繁杂。
+firefox-products-own-your-ai-stack = 拥有你的 AI 堆栈
 firefox-products-learn-more-about-otari = 详细了解 { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = 放心购买广告。您将与超过 2.1 亿有选择性、有眼光、对品牌忠诚的用户建立联系。
+firefox-products-extend-your-reach = 扩大影响力
+firefox-products-learn-more-about-mozilla-ads = 详细了解 { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = 借助企业级策略控制在整个组织部署、管理和保护 { -brand-name-firefox }。
+firefox-products-manage-your-fleet = 部署 { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = 详细了解 { -brand-name-firefox-enterprise }

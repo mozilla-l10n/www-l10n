@@ -13,6 +13,13 @@ firefox-products-products = ნამუშევრები
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } მხოლოდ დასაწყისია.
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla }-ს პროდუქტების ოჯახი შექმნილია იმისთვის, რომ თავი იგრძნოთ მეტად უსაფრთხოდ და მოხერხებულად ინტერნეტში.
 
+## Section headings
+
+firefox-products-tabs-everyone = ყველასთვის
+firefox-products-tabs-business = საქმისთვის
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = პროდუქციის კატეგორიები
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -22,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = გამოიყენეთ �
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = თქვენი პირადულობის უზრუნველმყოფი ბრაუზერი თვალთვალისგან თავისთავადი დაცვითა და რეკლამების შეზღუდვით.
+firefox-products-get-focus = გადმოწერეთ { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -57,16 +65,34 @@ firefox-products-download-thunderbird = ჩამოტვირთეთ { -bra
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = დააკავშირეთ თქვენი ხელგონის სისტემები უსაფრთხოების ექსპერტთა საერთაშორისო საზოგადოებასთან, რომელიც აღმოაჩენს და დაგეხმარებათ GenAI-მოწყვლადობების დროზე ადრე აღმოფხვრაში.
+firefox-products-0din-desc-v2 = მონახეთ და გაასწორეთ AI ხარვეზები, სანამ პროდუქტიულობას მიაღწევს, უსაფრთხოების მკვლევართა გლობალური ერთობისა და არსებული უდიდესი ატრიბუტით ექსპლოიტის დახმარებით.
+firefox-products-test-your-ai = გამოცადეთ თქვენი AI აგენტები
 firefox-products-learn-more-about-0din = უკეთ გაიცანით { -brand-name-0din }
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = დააკავშირეთ თქვენი პროგრამები ვებსივრცესთან საიმედო ავტომატიზაციით და გამოქვეყნებული ვებგვერდები აქციეთ სადა, სათანადო გაწყობის მქონე შედეგებად.
+firefox-products-start-automating-the-web = ვებსივრცის ავტომატიზაცია
 firefox-products-learn-more-about-tabstack = უკეთ გაიცანით { -brand-name-tabstack }
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } აგარიდებთ რამდენიმე მომწოდებლის ხელგონით სარგებლობის სირთულეებს, აერთიანებს რა დამისამართებას, უსაფრთხოებას, ფინანსური გეგმის შედგენას, სათადარიგო სისტემაზე გადასვლებსა და შემოწმება/გადასინჯვებს ერთიანი API-მაკავშირებლის გამოყენებით.
+firefox-products-own-your-ai-stack = დაეუფლეთ თქვენს AI სტეკს
 firefox-products-learn-more-about-otari = გაიცანით უკეთ  { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = დაამატეთ ნდობა თქვენს სარეკლამო შენაძენს. თქვენ დაუკავშირდებით 210 მილიონზე მეტ შერჩეულ, გამჭრიახ, ბრენდის ერთგულ მომხმარებელს.
+firefox-products-extend-your-reach = გააფართოვეთ თქვენი შესაძლებლობები
+firefox-products-learn-more-about-mozilla-ads = გაიგეთ მეტი { -brand-name-mozilla-ads }-ის შესახებ
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = გამართეთ, მართეთ და დაიცავით { -brand-name-firefox } თქვენს დაწესებულებაში, დაწესებულების დონის დებულებების მეშვეობით.
+firefox-products-manage-your-fleet = გამართეთ { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = გაიგეთ მეტი { -brand-name-firefox-enterprise }-ის შესახებ

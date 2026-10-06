@@ -13,6 +13,13 @@ firefox-products-products = Продукты
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } — это только начало.
 firefox-products-mozillas-family-of-products-sentence = Все продукты семейства { -brand-name-mozilla } созданы для того, чтобы сделать вашу работу в интернете более безопасной и умной.
 
+## Section headings
+
+firefox-products-tabs-everyone = Для всех
+firefox-products-tabs-business = Для бизнеса
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Категории продуктов
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -22,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = Скачайте браузер, 
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Браузер, сосредоточенный на вашей приватности, с автоматической защитой от отслеживания и блокировкой рекламы.
+firefox-products-get-focus = Получите { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -57,16 +65,34 @@ firefox-products-download-thunderbird = Скачать { -brand-name-thunderbird
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Подключите свои ИИ-системы к глобальному сообществу экспертов по безопасности, которые на ранних стадиях выявляют и помогают устранять уязвимости генеративного ИИ.
+firefox-products-0din-desc-v2 = Находите и устраняйте уязвимости ИИ до того, как они попадут в рабочую версию, при поддержке глобального сообщества исследователей безопасности и крупнейшей доступной ленты атрибутированных эксплойтов.
+firefox-products-test-your-ai = Тестируйте своих агентов ИИ
 firefox-products-learn-more-about-0din = Узнайте больше о { -brand-name-0din }
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Подключайте свои приложения к Интернету с помощью надёжной автоматики и превращайте веб-страницы в четкие, структурированные результаты.
+firefox-products-start-automating-the-web = Автоматизируйте Интернет
 firefox-products-learn-more-about-tabstack = Узнайте больше о { -brand-name-tabstack }
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } устраняет сложность управления несколькими провайдерами ИИ, объединяя маршрутизацию, безопасность, бюджетирование, аварийное переключение и аудит в одной конечной точке API.
+firefox-products-own-your-ai-stack = Владейте своим стеком ИИ
 firefox-products-learn-more-about-otari = Узнайте больше о { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = Добавьте доверия к вашей рекламе. Вы свяжетесь с более чем 210 миллионами разборчивых, разборчивых, верных бренду пользователей.
+firefox-products-extend-your-reach = Расширьте свой охват
+firefox-products-learn-more-about-mozilla-ads = Узнайте больше о { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Разворачивайте, управляйте и защищайте { -brand-name-firefox } в вашей организации с помощью политик корпоративного уровня.
+firefox-products-manage-your-fleet = Развёртывание { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = Узнайте больше о { -brand-name-firefox-enterprise }
