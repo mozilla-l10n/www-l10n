@@ -5,8 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/privacy/websites/data-preferences/
 
-data-preferences-page-title = Gerir as suas preferências de recolha de dados primários
-data-preferences-page-desc = A sua privacidade é muito importante para a { -brand-name-mozilla }. Esta página irá permitir-lhe gerir as suas preferências de recolha de dados de terceiros para sites mozilla.org utilizando o { -brand-name-glean }.
+data-preferences-page-title = Gerir as suas preferências de recolha de dados próprios
+data-preferences-page-desc = A sua privacidade é muito importante para a { -brand-name-mozilla }. Esta página permite-lhe gerir as suas preferências de recolha de dados próprios nos sites da mozilla.org que usam o { -brand-name-glean }.
 data-preferences-notification-opt-out = Optou por não recolher dados primários.
 data-preferences-notification-opt-in = Está optado por recolher dados primários.
 # Variables:
