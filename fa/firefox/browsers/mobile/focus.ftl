@@ -9,9 +9,11 @@
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: مرورگر حریم خصوصی
 # HTML description
 mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } مرورگر ویژهٔ حریم خصوصی شماست که به‌طور خودکار از شما در برابر ردیابی محافظت می‌کند.
+mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = مرور خصوصی و ساده روی تلفن همراه
 mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } مرورگر ویژهٔ حریم خصوصی شماست که به‌طور خودکار از شما در برابر ردیابی محافظت می‌کند. با { -brand-name-focus }، صفحه‌ها سریع‌تر بار می‌شوند و داده‌هایتان خصوصی می‌ماند.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } هم برای دستگاه‌های { -brand-name-ios } و هم { -brand-name-android } در دسترس است.
+mobile-focus-get-firefox-focus = دریافت { -brand-name-firefox-focus }
 mobile-focus-scan-the-qr-code-to-get-started = برای شروع، کد QR را اسکن کنید
 mobile-focus-scan-alt-text = کد QR را اسکن کنید تا { -brand-name-firefox-focus } را دریافت کنید
 mobile-focus-delete-your-history = تاریخچه‌تان را پاک کنید

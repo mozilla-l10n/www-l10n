@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
+page-title = بارگیری { -brand-name-firefox-quantum }
 page-description = { -brand-name-firefox-quantum } یک انقلاب بود. در سال ۲۰۱۷ مرورگری تازه و برق‌آسا ساختیم که مدام بهتر می‌شود. { -brand-name-firefox-quantum } همان { -brand-name-firefox-browser } است.
 the-latest-firefox = جدیدترین موتور { -brand-name-firefox }: { -brand-name-firefox-quantum }
 firefox-quantum-was = { -brand-name-firefox-quantum } انقلابی در توسعهٔ { -brand-name-firefox } بود. در سال ۲۰۱۷ مرورگری تازه و برق‌آسا ساختیم که مدام بهتر می‌شود. { -brand-name-firefox-quantum } همان { -brand-name-firefox-browser } است.

@@ -5,8 +5,11 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/mobile/android/
 
+# HTML page title
+mobile-android-firefox-browser-android = { -brand-name-firefox-browser } { -brand-name-android }
 # HTML description
 mobile-android-firefox-browser-for = مرورگر { -brand-name-firefox } برای { -brand-name-android } از همان بار اولی که بازش می‌کنید، سریع، امن و خصوصی است.
+mobile-android-firefox-browser = { -brand-name-firefox-browser }
 mobile-android-get-firefox-for = { -brand-name-firefox } را برای { -brand-name-android } دریافت کنید
 mobile-android-send-a-download-link-to-your = پیوند بارگیری را به تلفنتان بفرستید.
 mobile-android-scan-the-qr-code-to-get-started = برای شروع، کد QR را اسکن کنید
@@ -29,6 +32,7 @@ mobile-android-search-from-your = از صفحهٔ اصلی تلفنتان جست
 mobile-android-no-need-to = لازم نیست برنامه را باز کنید. ابزارک جست‌وجوی { -brand-name-firefox } را اضافه کنید و مستقیم از صفحهٔ اصلی دستگاهتان در وب جست‌وجو کنید.
 mobile-android-pin-videos-to = ویدیوها را روی صفحه سنجاق کنید
 mobile-android-pop-videos-out = ویدیوها را از وب‌سایت یا پخش‌کننده‌شان بیرون بکشید و بالای صفحهٔ تلفنتان سنجاق کنید تا هم‌زمان با گشت‌وگذار در وب و کارهای دیگر تماشایشان کنید. چند کار را با هم انجام دهید و سرگرم بمانید.
+mobile-android-about-mozilla = درباره { -brand-name-mozilla }
 mobile-android-mozilla-exists-to-v2 = { -brand-name-mozilla } وجود دارد تا اینترنت را به منبعی عمومی و در دسترس همه تبدیل کند، چون باور داریم باز و آزاد بهتر از بسته و کنترل‌شده است. محصولاتی مثل { -brand-name-firefox } را می‌سازیم تا حق انتخاب، شفافیت و کنترل را گسترش دهیم.
 # 'Shortcut' is US slang, means a quicker way of doing or acheiving something. Being used here as a verb to mean "Take a shortcut..." Alternative is 'Get there faster with Firefox for Android'
 mobile-android-short-cut-the-internet = با { -brand-name-firefox } برای { -brand-name-android } میان‌بُر بزنید و زودتر برسید

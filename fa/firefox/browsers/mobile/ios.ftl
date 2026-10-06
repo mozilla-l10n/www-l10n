@@ -7,6 +7,7 @@
 
 # HTML page title
 mobile-ios-firefox-browser-ios = { -brand-name-firefox-browser } برای { -brand-name-ios } ({ -brand-name-iphone } و { -brand-name-ipad })
+mobile-ios-firefox-browser = { -brand-name-firefox-browser }
 mobile-ios-get-firefox-for = { -brand-name-firefox } را برای { -brand-name-ios } دریافت کنید
 mobile-ios-send-a-download-link-to-your = پیوند بارگیری را به تلفنتان بفرستید.
 mobile-ios-scan-the-qr-code-to-get-started = برای شروع، کد QR را اسکن کنید
@@ -29,4 +30,5 @@ mobile-ios-find-it-all = همه‌چیز را سریع‌تر پیدا کنید
 mobile-ios-get-search-suggestions = در نوار جست‌وجو پیشنهادهای جست‌وجو را ببینید و به سایت‌هایی که بیشتر به آن‌ها سر می‌زنید سریع دسترسی داشته باشید. پرسشتان را تایپ کنید تا نتایج پیشنهادی و جست‌وجوهای قبلی را از موتورهای جست‌وجوی محبوبتان ببینید.
 mobile-ios-discover-more-of = بیشتر از آنچه دوست دارید کشف کنید
 mobile-ios-open-a-new-v2 = در { -brand-name-firefox } یک زبانهٔ جدید باز کنید تا سایت‌هایی که بیشتر به آن‌ها سر می‌زنید و نشانک‌های اخیرتان را ببینید. { -brand-name-firefox } دسترسی سریع به سایت‌هایی را که اخیراً استفاده کرده‌اید فراهم می‌کند تا زودتر به مقصد برسید.
+mobile-ios-about-mozilla = درباره { -brand-name-mozilla }
 mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } وجود دارد تا اینترنت را به منبعی عمومی و در دسترس همه تبدیل کند، چون باور داریم باز و آزاد بهتر از بسته و کنترل‌شده است. محصولاتی مثل { -brand-name-firefox } را می‌سازیم تا حق انتخاب، شفافیت و کنترل را گسترش دهیم.
