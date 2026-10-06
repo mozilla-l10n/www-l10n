@@ -19,6 +19,8 @@ switch-still-not-convinced = هنوز متقاعد نشده اید که مهاج
 switch-enjoy-the-web-faster = از وب گردی سریعتر لذت ببرید همه چیز برای شما آماده شده است.
 switch-download-and-switch = دریافت و تغییر
 switch-share-to-facebook = همرسانی به فیسبوک
+# Note: Bluesky is a brand name and should not be translated
+switch-share-to-bluesky = هم‌رسانی در Bluesky
 switch-hey = سلام،‌
 switch-check-it-out = این را نگاه نکنید و بعد من را در جریان فکر خود قرار دهید:
 switch-send-an-email = ارسال یک پست الکترونیکی

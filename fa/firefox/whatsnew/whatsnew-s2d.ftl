@@ -7,3 +7,5 @@
 
 whatsnew-s2d-download-firefox-for-android = بارگیری { -brand-name-firefox } برای { -brand-name-android } و { -brand-name-ios }
 whatsnew-s2d-download-firefox-for-your = بارگیری { -brand-name-firefox } برای تلفن هوشمند و تبلت شما.
+# An accessible label for a QR code image
+whatsnew-s2d-qr-code-alt = این کد QR را اسکن کنید

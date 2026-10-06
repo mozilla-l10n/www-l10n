@@ -12,12 +12,16 @@ privacy-index-if-you-want-to-make-a-correction = اگر می‌خواهید اط
 # Variables:
 #   $dsar (url) - link to https://app.onetrust.com/app/#/webform/4ba08202-2ede-4934-a89e-f0b0870f95f0
 privacy-index-see-here-for-data-subject = <a href="{ $dsar }">اینجا را برای درخواست دسترسی به اطلاعات ببینید.</a>
+# Variables:
+#   $sumo (url) - link to https://support.mozilla.org/
+privacy-index-for-product-support-requests = برای درخواست پشتیبانی محصولات، لطفاً <a href="{ $sumo }">به انجمن‌های ما سر بزنید</a>.
 privacy-index-data-privacy-principles = اصول حریم‌خصوصی داده‌ها
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = <a href="{ $principles }">سیاست‌های حریم‌خصوصی</a> { -brand-name-mozilla }، الهام بخشِ شیوه‌های ما برای توجه و مراقبت از افرادی که از اینترنت استفاده می‌کنند است. در مورد اینکه چطور این سیاست‌ها به { -brand-name-firefox } و تمام محصولاتمان جهت می‌دهند، در قسمت <a href="{ $faq }">سوال‌های متداول</a> بیشتر بخوانید.
 privacy-index-transparency-report = گزارشِ شفافیت
+privacy-index-get-involved = مشارکت کنید
 # Variables:
 #   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
 privacy-index-as-an-open-source-project = به عنوان یک پروژهٔ متن‌باز، شفافیت و باز بودن قسمت‌های مهمی از پایه‌های { -brand-name-mozilla } هستند. کُدهای ما در دسترس و قابل بررسی هستند. شیوهٔ توسعهٔ ما باز است. <a href="{ $report }">گزارش شفافیت</a> دو سالانهٔ ما هم نشانگر پایبندی ما به این سیاست‌هاست.
@@ -29,3 +33,11 @@ privacy-index-to-review-and-comment-on-proposed = برای بررسی و باز�
 privacy-index-read-more-about-our-ongoing = در مورد کارهای در حال انجام ما بر روی سیاست‌های عمومیِ حریم‌خصوصی و امنیت در <a href="{ $blog }">{ -brand-name-mozilla } وبلاگ سیاستِ باز و حمایت</a> بیشتر بخوانید.
 privacy-index-outdated-policies = سیاست‌های قدیمی
 privacy-index-mozilla-websites-communications = وب‌سایت‌های { -brand-name-mozilla }، ارتباطات و کوکی‌ها
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-mdn-plus = { -brand-name-mdn-plus }
+privacy-index-smart-window = پنجرهٔ هوشمند
+privacy-index-mozilla-subscription-services = خدمات اشتراکی { -brand-name-mozilla }
+# This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".
+privacy-index-mozilla-accounts = حساب‌های { -brand-name-mozilla }

@@ -20,3 +20,18 @@ download-button-firefox-ios = <span>{ -brand-name-firefox }</span> برای { -b
 download-button-firefox-privacy = حریم خصوصی { -brand-name-firefox }
 download-button-firefox-privacy-notice = نکات حریم‌خصوصی { -brand-name-firefox }
 download-button-download = دریافت
+
+## Linux
+
+download-button-linux-32-v2 = بارگیری برای لینوکس ۳۲ بیتی
+download-button-linux-64-v2 = بارگیری برای لینوکس ۶۴ بیتی
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
+# Note: Debian and Ubuntu are brand names and shouldn't be translated
+download-button-using-debian = از Debian، Ubuntu یا توزیع‌های مبتنی بر Debian استفاده می‌کنید؟<br> می‌توانید به‌جای آن <a { $attrs }>مخزن APT ما</a> را راه‌اندازی کنید.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = دریافت از Microsoft
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = اینکه چطور با { -brand-name-firefox } آشنا شدید و اینکه از آن استفاده می‌کنید را با شرکای فناوری بازاریابی { -brand-name-mozilla } به اشتراک بگذارید. این داده‌ها هرگز فروخته نمی‌شوند و برای نمایش تبلیغ به شما به کار نمی‌روند. <a { $attrs }>ببینید چطور از این داده‌ها استفاده می‌کنیم</a>.

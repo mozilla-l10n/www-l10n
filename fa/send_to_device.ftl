@@ -7,6 +7,8 @@ send-to-device-your-download-link = پیوند دریافت شما ارسال ش
 send-to-device-please-enter-an-email = لطفا یک نشانی پست الکترونیکی وارد کنید.
 send-to-device-an-error-occured = یک خطا در سیستم ما رخ داده است. لطفا بعدا مجددا تلاش کنید.
 send-to-device-enter-your-email = نشانی پست الکترونیکی خود را وارد کنید
+# Only localize "yourname". Do not change "@example.com".
+send-to-device-email-placeholder = نام‌شما@example.com
 send-to-device-send = ارسال
 send-to-device-intended-recipient-email = دریافت کننده پست الکترونیکی می‌بایستی جهت دریافت آن رضایت داشته باشد.
 send-to-device-check-your-device-email = دستگاه خود را برای دریافت پست الکترونیکی بررسی کنید!

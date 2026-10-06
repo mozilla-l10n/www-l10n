@@ -66,7 +66,7 @@ firefox-products-download-thunderbird = Llwytho { -brand-name-thunderbird } i La
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Cysylltwch eich systemau AI â chymuned fyd-eang o arbenigwyr diogelwch sy'n datgelu ac yn helpu i drwsio gwendidau GenAI yn gynnar.
 firefox-products-0din-desc-v2 = Darganfod a thrwsio gwendidau AI cyn iddyn nhw gyrraedd defnyddwyr, gyda chefnogaeth cymuned fyd-eang o ymchwilwyr diogelwch a'r ffrwd ecsbloetio priodoledig mwyaf sydd ar gael.
-firefox-products-test-your-ai = Profwch eich asiantau AI
+firefox-products-test-your-ai = Profi eich asiantau AI
 firefox-products-learn-more-about-0din = Dysgu rhagor am { -brand-name-0din }
 
 ## Tabstack

@@ -10,6 +10,12 @@ facebook-container-millions-of-people-around = میلیون‌ها نفر در �
 facebook-container-facebook-well-contained-keep = { -brand-name-facebook }. کاملا محبوس شده. زندگی خود را در اختیار خودتان نگاه دارید.
 facebook-container-get-the-facebook-container = دریافت افزونه { -brand-name-facebook-container }
 facebook-container-download-firefox-and-get-the = { -brand-name-firefox } را دریافت و افزونهٔ { -brand-name-facebook-container } را نصب کنید
+facebook-container-only-available-for-desktop = افزونهٔ { -brand-name-facebook-container } فعلاً فقط برای { -brand-name-firefox } رومیزی در دسترس است.
+# Variables:
+#   $link_copy (string) - www.mozilla.org/firefox/new/
+#   $url (url) - link to https://www.mozilla.org/firefox/new/
+facebook-container-visit-to-get-for-desktop = برای دریافت { -brand-name-firefox } رومیزی به <a href="{ $url }">{ $link_copy }</a> سر بزنید.
+facebook-container-get-firefox-android-ios = همین حالا { -brand-name-firefox } را برای { -brand-name-android } و { -brand-name-ios } دریافت کنید.
 facebook-container-opt-out-on-your-terms = با شرایط خودتان خارج شوید
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/

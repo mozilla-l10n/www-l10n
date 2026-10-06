@@ -6,3 +6,5 @@
 ### URL: https://www-dev.allizom.org/firefox/ (View on an Android or iOS browser)
 
 banner-firefox-app-store-title = { -brand-name-firefox }: مرورگر خصوصی و امن
+# An accessible label used to describe the purpose of the page element.
+banner-firefox-app-store-label = بارگیری از فروشگاه برنامه
