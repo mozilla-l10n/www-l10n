@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-mozilla-manifesto = مانیفست { -brand-name-mozilla }
+footer-mozilla-manifesto = مرامنامه { -brand-name-mozilla }
 footer-privacy-hub = مرکز حریم خصوصی
 footer-privacy = حریم خصوصی
 footer-press = مطبوعات
@@ -24,20 +24,24 @@ footer-tools = ابزارها
 footer-resources = منابع
 footer-contact = تماس
 footer-product-help = راهنمای محصولات
+footer-support = پشتیبانی
 footer-file-a-bug = گزارش اشکال
 footer-localize-mozilla = بومی‌سازی { -brand-name-mozilla }
-footer-community-participation-guidelines = رهنمودهای مشارکت در جامعه
-footer-websites-privacy-notice = اطلاعیهٔ حریم خصوصی وب‌سایت
+footer-community-participation-guidelines = رهنمودهای مشارکت در اجتماع
+footer-websites-privacy-notice = اطلاعیهٔ حریم خصوصی وبگاه
 footer-websites-cookies = کوکی‌ها
 footer-websites-legal = حقوقی
 footer-language = زبان
 footer-go = برو
+footer-donate = کمک مالی
 footer-instagram = { -brand-name-instagram }
 footer-youtube = { -brand-name-youtube }
 footer-linkedin = { -brand-name-linkedin }
 footer-tiktok = { -brand-name-tiktok }
 footer-spotify = { -brand-name-spotify }
-footer-about-this-site = دربارهٔ این سایت
+footer-follow-mozilla = @{ -brand-name-mozilla } را دنبال کنید
+footer-follow-firefox = @{ -brand-name-firefox } را دنبال کنید
+footer-about-this-site = دربارهٔ این وبگاه
 footer-advertise = تبلیغ با { -brand-name-mozilla }
 # Obsolete string (expires 2026-08-01)
 footer-visit-mozilla-corporations = به <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>، سازمان مادر غیرانتفاعی <a { $moco_link }>{ -brand-name-mozilla-corporation }</a>، سر بزنید.

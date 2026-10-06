@@ -93,12 +93,66 @@ firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 firefox-desktop-download-download-this-browser = <a { $attrs } >این افزونه مرورگر</a> را بارگیری کنید تا { -brand-name-facebook } (و { -brand-name-instagram }) شما را در وب ردیابی نکنند.
+firefox-desktop-download-sync-your-devices = همگام‌سازی دستگاه‌های شما
 firefox-desktop-download-screenshots = نماگرفت‌ها
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = محافظت پیشرفته در برابر ردیابی (ETP)
+firefox-desktop-download-from-watching-a = از تماشای یک آموزش اینترنتی تا دنبال کردن تیم مورد علاقه خود، ویدیوی شما در حین انجام چند کار شما را دنبال می کند.
+firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = { -brand-name-firefox-browser } را برای <strong>{ -brand-name-android }</strong> دریافت کنید
+firefox-desktop-download-get-firefox-ios = { -brand-name-firefox-browser } را برای <strong>{ -brand-name-ios }</strong> دریافت کنید
+firefox-desktop-download-download-the-mobile = مرورگر تلفن همراه { -brand-name-firefox } را برای محافظت خودکار در همه دستگاه‌های خود دانلود کنید.
+firefox-desktop-download-learn-about-the = در زیر با مرورگر رومیزی { -brand-name-firefox } آشنا شوید
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = از امنیت گرفته تا اخبار و بازی، <a { $attrs }>برنامه افزودنی برای همه</a> وجود دارد. هر تعداد که می خواهید اضافه کنید تا زمانی که مرورگر شما آن طور که می خواهید شود.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } توسط <a { $attrs }>{ -brand-name-mozilla }</a> به عنوان جایگزین سریعتر و خصوصی تر برای مرورگرهایی مانند { -brand-name-ie } ایجاد شد، و اکنون { -brand-name-chrome }. امروز، شرکت ماموریت محور و جامعه داوطلب ما همچنان به حفظ حریم خصوصی شما بیش از هر چیز دیگری ادامه می دهد.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = اینترنت رشد می‌کند و تغییر می‌کند، اما { -brand-name-firefox } همچنان بر حق شما برای داشتن حریم خصوصی تمرکز دارد؛ این همیشه کار ما بوده است. دربارهٔ شیوهٔ برخورد ما با داده‌ها در <a { $attrs }>اطلاعیهٔ حریم خصوصی</a> بیشتر بدانید.
+# Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox } در همه دستگاه های شما موجود است. برگه ها، تاریخچه و نشانک های خود را با خود ببرید. همه ی چیزی که نیاز دارید یک <a { $attrs }>{ -brand-name-mozilla-account }</a> است و به همگام‌سازی و محصولات بیشتر { -brand-name-mozilla } دسترسی خواهید داشت.
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
+firefox-desktop-download-grab-a-high = با ابزار <a { $attrs }>اسکرین شات</a> ما که درست در مرورگر قرار دارد، تصویری با وضوح بالا از هر چیز آنلاینی بگیرید.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } به طور خودکار <a { $attrs }>بسیاری از ردیاب های شخص ثالث را از جمع آوری و فروش فعالیت های وب شما مسدود می کند</a>.
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+firefox-desktop-download-questions = سوالی دارید؟ پشتیبانی <a { $attrs }>{ -brand-name-mozilla } </a> شما را تحت پوشش قرار داده است.
 
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/
 
+firefox-desktop-download-almost-there = تقریبا تمام است!
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-else = اکنون <strong>نصب</strong> { -brand-name-firefox } را تمام کنید.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-windows = اکنون نصب کننده ای را که به تازگی دانلود شده <strong>اجرا کنید</strong>.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-now-mac = اکنون فایلی را که به تازگی دانلود شده است <strong>باز</strong> کنید.
 # the strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-select-linux = یکی از گزینه‌های <strong>بارگیری</strong> زیر را انتخاب کنید
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/products/firefox/download-and-install
+firefox-desktop-download-get-help = مشکلی دارید؟ <a { $attrs }>برای نصب خود راهنمایی دریافت کنید</a>.
+firefox-desktop-download-in-another-language = به زبان دیگری یا برای سیستم عامل دیگری دانلود کنید.
+firefox-desktop-download-windows = { -brand-name-windows }
+# Variables:
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
+firefox-desktop-download-if-you-see-a-prompt = اگر درخواستی می‌بینید که نشان می‌دهد برنامه‌ای که می‌خواهید نصب کنید یک برنامه تأیید شده { -brand-name-microsoft } نیست، روی «در هر حال نصب کن» کلیک کنید یا <a { $attrs }>تنظیمات توصیه برنامه را تغییر دهید</a >
+firefox-desktop-download-visit-support-for-more = برای جزئیات بیشتر به پشتیبانی مراجعه کنید
+# Variables:
+#   $id (string) - HTML ID for the download link.
+#   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-firefox-new-should-begin = دانلود شما باید به طور خودکار شروع شود. کار نکرد؟ <a id="{ $id }" href="{ $fallback_url }">دوباره دانلود کنید.</a>
+firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } بیشتر از یک مرورگر است.
+# "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
+firefox-desktop-download-interrupted = دانلود شما قطع شد اما همه چیز از دست نرفته است.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/firefox/all/
+firefox-desktop-download-your-system-may-not = ممکن است سیستم شما شرایط لازم برای { -brand-name-firefox } را نداشته باشد، اما می‌توانید یکی از <a href="{ $url }">این نسخه‌ها</a> را امتحان کنید.
