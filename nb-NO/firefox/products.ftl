@@ -17,6 +17,8 @@ firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } 
 
 firefox-products-tabs-everyone = For alle
 firefox-products-tabs-business = For bedrifter
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Produktkategorier
 
 ## Firefox
 
@@ -69,6 +71,7 @@ firefox-products-learn-more-about-0din = Les mer om { -brand-name-0din }
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Koble appene dine til nettet med pålitelig automatisering, og gjør levende nettsider om til rene, strukturerte resultater.
+firefox-products-start-automating-the-web = Automatiser nettet
 firefox-products-learn-more-about-tabstack = Les mer om { -brand-name-tabstack }
 
 ## Otari
