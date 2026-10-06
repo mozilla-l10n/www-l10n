@@ -29,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = Obtene le navigator que bloca aut
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Le navigator dedicate al confidentialitate con protection automatic contra le traciamento e blocada del avisos publicitari.
+firefox-products-get-focus = Discarga { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -64,20 +65,34 @@ firefox-products-download-thunderbird = Discarga { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Connecte tu systemas IA a un communitate mundial de expertes de securitate qui discoperi e adjuta a reparar tosto le vulnerabilitates de securitate.
+firefox-products-0din-desc-v2 = Trova e repara vulnerabilitates de IA ante que illos attinge le production, supportate per un communitate mundial de recercatores del securitate e del major fonte disponibile de resultatos attribuite.
+firefox-products-test-your-ai = Verifica tu agentes de IA
 firefox-products-learn-more-about-0din = Pro saper plus re { -brand-name-0din }
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Connecte tu applicationes al web con automatisation fidibile e converte le paginas web immediate in nette, resultatos structurate.
+firefox-products-start-automating-the-web = Automatisa le web
 firefox-products-learn-more-about-tabstack = Pro saper plus re { -brand-name-tabstack }
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } elimina le complexitate de gerer plure fornitores de IA unificante detra un sol puncto terminal API: gestion del incamminamento, securitate, estimation budgetari, commutation per error, e verification.
+firefox-products-own-your-ai-stack = Domina tu pila de IA
 firefox-products-learn-more-about-otari = Pro saper plus re { -brand-name-otari }
 
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = Adde fiducia a tu compra ab annuncio publicitari. Tu te connectera con ultra 210 milliones de usatores selective, experte e fidel al marcas.
+firefox-products-extend-your-reach = Extende tu portata
+firefox-products-learn-more-about-mozilla-ads = Discoperi plus re { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Displica, gere, e garanti { -brand-name-firefox } a transverso tu organisation con controlos de directivas de grado interprisa.
+firefox-products-manage-your-fleet = Displica { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = Discoperi plus re { -brand-name-firefox-enterprise }
