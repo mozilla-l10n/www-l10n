@@ -21,8 +21,28 @@ firefox-products-get-focus = קבלת { -brand-name-firefox-focus }
 
 firefox-products-relay = { -brand-name-firefox-relay }
 
+## 0DIN
+
+firefox-products-0din-desc-v2 = למצוא ולתקן פגיעויות בבינה מלאכותית לפני שהן מגיעות לסביבת הייצור, מגובה על־ידי קהילה עולמית של חוקרי אבטחה ומאגר הפרצות המיוחס הגדול בעולם.
+firefox-products-test-your-ai = בדיקת סוכני הבינה המלאכותית שלך
+
+## Tabstack
+
+firefox-products-start-automating-the-web = אוטומציה של האינטרנט
+
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = ‏{ -brand-name-otari } מפשטת את המורכבות הכרוכה בניהול מספר ספקי בינה מלאכותית, באמצעות איחוד הניתוב, האבטחה, התקצוב, מנגנוני הגיבוי והביקורת תחת נקודת קצה (API) אחת.
+firefox-products-own-your-ai-stack = לקחת שליטה על מערך ה־AI שלך
 firefox-products-learn-more-about-otari = מידע נוסף על { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-extend-your-reach = להרחיב את טווח ההגעה שלך לאנשים
+firefox-products-learn-more-about-mozilla-ads = מידע נוסף על { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
