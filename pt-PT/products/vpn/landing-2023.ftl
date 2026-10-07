@@ -19,10 +19,10 @@ vpn-landing-how-a-vpn-helps-you = Como uma VPN pode ajudar
 vpn-landing-how-a-vpn-helps-you-v2 = Como a { -brand-name-mozilla-vpn } o ajuda
 vpn-landing-keeps-your-data-safe = Mantém os seus dados seguros em redes públicas
 vpn-landing-log-in-to-your-bank-or = Inicie sessão no seu banco ou consultório do seu médico a partir do navegador, café ou qualquer lugar, com tranquilidade.
-vpn-landing-blocks-advertisers-from = Impede os anunciantes de lhe segmentar
-vpn-landing-hide-your-activity-from = Oculte a sua atividade de rastreadores e malware para que possa fazer compras sem ser monitorizado.
-vpn-landing-take-control = Tome o controlo com definições de VPN específicas para sites
-vpn-landing-customize-your-vpn = Personalize as suas proteções de VPN para cada site com a extensão { -brand-name-mozilla-vpn } para o { -brand-name-firefox } (Somente no Windows).
+vpn-landing-blocks-advertisers-from = Impede que os anunciantes o utilizem como alvo
+vpn-landing-hide-your-activity-from = Oculte a sua atividade dos rastreadores e do malware para que possa fazer compras sem ser vigiado.
+vpn-landing-take-control = Assuma o controlo com definições de VPN específicas para sites
+vpn-landing-customize-your-vpn = Personalize as suas proteções de VPN para cada site com a extensão { -brand-name-mozilla-vpn } para o { -brand-name-firefox } (Apenas para Windows).
 vpn-landing-features = Funcionalidades
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -36,11 +36,11 @@ vpn-landing-connect-up-to-devices =
 #   $countries (number) - number of available countries
 vpn-landing-more-than-servers-in-countries =
     { $servers ->
-        [one] Mais de { $servers } servidores em +{ $countries } países
-       *[other] Mais de { $servers } servidores em +{ $countries } países
+        [one] Mais de { $servers } servidor em + de { $countries } países
+       *[other] Mais de { $servers } servidores em + de { $countries } países
     }
-vpn-landing-fast-network-speeds-even-while = Velocidades de rede rápidas mesmo durante os jogos
-vpn-landing-no-logging-tracking-or-sharing = Nenhum registo, rastreamento ou partilha de dados de rede
+vpn-landing-fast-network-speeds-even-while = Velocidades de rede rápidas mesmo enquanto joga
+vpn-landing-no-logging-tracking-or-sharing = Sem registo, rastreio ou partilha de dados de rede
 vpn-landing-no-bandwidth-restrictions-or = Sem restrições de largura de banda ou limitações
 vpn-landing-extra-security-whole-device = Segurança adicional: proteção total do dispositivo, encaminhamento multi-salto e muito mais
 vpn-landing-built-transparently = Construída de forma transparente em código aberto
