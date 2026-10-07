@@ -93,3 +93,6 @@ firefox-products-learn-more-about-mozilla-ads = Läs mer om { -brand-name-mozill
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Driftsätt, administrera och skydda { -brand-name-firefox } i hela organisationen med policykontroller anpassade för företag.
+firefox-products-manage-your-fleet = Driftsätt { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = Läs mer om { -brand-name-firefox-enterprise }
