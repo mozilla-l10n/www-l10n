@@ -14,7 +14,7 @@ m24-home-page-desc-v2 = Estamos a trabalhar para colocar o controlo da Internet 
 
 ## Intro
 
-m24-home-welcome-to-mozilla = Bem-vindo(a) à { -brand-name-mozilla }
+m24-home-welcome-to-mozilla = Boas-vindas à { -brand-name-mozilla }
 m24-home-from-trustworthy-tech = Desde tecnologia fiável até políticas que defendem os seus direitos digitais, colocamo-lo sempre em primeiro lugar — sempre.
 m24-home-learn-about-us = Saiba mais sobre nós
 # Used as accessible text alternative for image

@@ -11,7 +11,7 @@
 firefox-developer-page-title = { -brand-name-firefox-developer-edition }
 firefox-developer-firefox-developer-edition-desc = O { -brand-name-firefox-developer-edition } é um navegador super rápido que fornece ferramentas inovadoras e últimas funcionalidades como o suporte para a CSS Grid e depuração de frameworks
 firefox-developer-firefox-developer-edition = { -brand-name-firefox-developer-edition }
-firefox-developer-welcome-to-your-new-favorite = Bem-vindo(a) ao seu novo navegador favorito. Obtenha as funcionalidades mais recentes, desempenho rápido, e as ferramentas de programação que precisa para construir para a web aberta.
+firefox-developer-welcome-to-your-new-favorite = Boas-vindas ao seu novo navegador favorito. Obtenha as funcionalidades mais recentes, desempenho rápido, e as ferramentas de programação que precisa para construir para a web aberta.
 firefox-developer-speak-up = Comunique
 firefox-developer-feedback-makes-us = O feedback ajuda-nos a melhorar. Diga-nos como podemos melhorar as ferramentas de navegação e de programação.
 firefox-developer-join-the-convo = Juntar-se à conversação
@@ -64,7 +64,7 @@ firefox-developer-fonts-panel = Painel de tipos de letra
 firefox-developer-the-new-fonts-panel = O novo painel de tipos de letra nas { -brand-name-firefox-devtools } dá aos programadores acesso rápido a toda a informação que precisam acerca dos tipos de letra a ser utilizados por um elemento. Este também inclui informação valiosa como fonte do tipo de letra, espessura, estilo e muito mais.
 firefox-developer-firefox-developer-edition-sends = O { -brand-name-firefox-developer-edition } envia automaticamente relatórios para a { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Transfira o navegador { -brand-name-firefox } feito para programadores
-firefox-developer-welcome-to-firefox-developer-edition = Bem-vindo(a) ao { -brand-name-firefox-developer-edition }
+firefox-developer-welcome-to-firefox-developer-edition = Boas-vindas ao { -brand-name-firefox-developer-edition }
 firefox-developer-made-for-developers = O navegador feito para programadores
 firefox-developer-all-the-latest-v2 = Todas as ferramentas de programação em beta mais recentes, além de funcionalidades como a consola com editor multi-linha e o inspetor de WebSockets.
 firefox-developer-a-separate-profile = Um <strong>perfil e caminho separados</strong> para que possa executá-lo com facilidade em conjunto com a versão final ou { -brand-name-beta } do { -brand-name-firefox }.
