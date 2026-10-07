@@ -73,7 +73,7 @@ firefox-products-learn-more-about-0din = Conocer más sobre { -brand-name-0din }
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Conectá tus aplicaciones a la web con una automatización confiable y convertí páginas web activas en resultados limpios y estructurados.
-firefox-products-start-automating-the-web = Automatice la web
+firefox-products-start-automating-the-web = Automatizá la web
 firefox-products-learn-more-about-tabstack = Conocer más sobre { -brand-name-tabstack }
 
 ## Otari
@@ -86,8 +86,8 @@ firefox-products-learn-more-about-otari = Conocer más sobre { -brand-name-otari
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
-firefox-products-mozilla-ads-desc = Agrega confianza a tu compra de publicidad. Conectarás con más de 210 millones de usuarios selectivos, exigentes y leales a la marca.
-firefox-products-extend-your-reach = Amplíe su alcance
+firefox-products-mozilla-ads-desc = Agregá confianza a tu compra de publicidad. Conectarás con más de 210 millones de usuarios selectivos, exigentes y leales a la marca.
+firefox-products-extend-your-reach = Ampliá tu alcance
 firefox-products-learn-more-about-mozilla-ads = Conocer más sobre { -brand-name-mozilla-ads }
 
 ## Firefox for Enterprise
