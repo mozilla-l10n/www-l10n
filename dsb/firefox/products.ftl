@@ -13,6 +13,10 @@ firefox-products-products = Produkty
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } jo jano zachopjeńk.
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } jo produktowa swójźba, kótaraž wšykne su myslone za to, až sćo wěsćejšy a wěcej inteligentny online.
 
+## Section headings
+
+firefox-products-tabs-everyone = Za kuždego
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
