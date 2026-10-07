@@ -9,7 +9,7 @@
 privacy-faq-v2-title = Perguntas Frequentes sobre a Privacidade de Dados da { -brand-name-mozilla }
 # HTML page description
 privacy-faq-v2-desc = Na { -brand-name-mozilla }, respeitamos e protegemos a sua informação pessoal.
-privacy-faq-v2-heading = Nós preferimos pessoas ao lucro.
+privacy-faq-v2-heading = Preferimos Pessoas ao Lucro.
 privacy-faq-v2-intro = Pode ser complicado para as pessoas, saber o que esperar de qualquer software ou serviços que utilizam atualmente. A tecnologia que potencia as nossas vidas é complexa e as pessoas não têm tempo para analisar todos os detalhes. Isto também é verdade para o { -brand-name-firefox }, onde verificamos que as pessoas têm ideias diferentes sobre o que se passa nos bastidores do seu navegador.
 privacy-faq-v2-at-mozilla = Na { -brand-name-mozilla }, respeitamos e protegemos a sua informação pessoal:
 # Variables:

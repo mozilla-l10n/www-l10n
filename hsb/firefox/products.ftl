@@ -13,6 +13,13 @@ firefox-products-products = Produkty
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } je jenož spočatk.
 firefox-products-mozillas-family-of-products-sentence = Produktowa swójba { -brand-name-mozilla } je za to myslena, zo sće wěsćiši a bóle inteligentny online.
 
+## Section headings
+
+firefox-products-tabs-everyone = Za kóždeho
+firefox-products-tabs-business = Za předewzaća
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Produktowe kategorije
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -58,12 +65,14 @@ firefox-products-download-thunderbird = Sćehńće { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Zwjazajće swoje systemy KI z globalnym zhromadźenstwom wěstotnych ekspertow, kotřiž zahe zranitosće GenAI wotkrywaja a pomhaja, je porjedźić.
+firefox-products-test-your-ai = Testujće swojich agentow KI
 firefox-products-learn-more-about-0din = Dalše informacije wo { -brand-name-0din }
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Zwjazajće swoje nałoženja z webom ze spušćomnej awtomatizaciju a přetworće webstrony do čistych, strukturowanych wuslědkow.
+firefox-products-start-automating-the-web = Awtomatizujće web
 firefox-products-learn-more-about-tabstack = Wočińće wjace wo { -brand-name-tabstack }
 
 ## Otari
@@ -75,3 +84,11 @@ firefox-products-learn-more-about-otari = Zhońće wjace wo { -brand-name-otari 
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-extend-your-reach = Rozšěrće swoju dosažliwosć
+firefox-products-learn-more-about-mozilla-ads = Dalše informacije wo { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-manage-your-fleet = { -brand-name-firefox } rozdźělić
+firefox-products-learn-more-about-firefox-enterprise = Dalše informacije wo { -brand-name-firefox-enterprise }
