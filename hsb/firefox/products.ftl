@@ -79,6 +79,7 @@ firefox-products-learn-more-about-tabstack = Wočińće wjace wo { -brand-name-t
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } kompleksnosć rjadowanja wjacorych poskićowarjow KI eliminuje. Zjednoćuje routing, wěstotu, budgetowe planowanje, failover a pruwowanje zličbowankow za jednotliwym kónčnym dypkom API.
+firefox-products-own-your-ai-stack = Dźeržće swój stapl KI pod kontrolu
 firefox-products-learn-more-about-otari = Zhońće wjace wo { -brand-name-otari }
 
 ## Mozilla Ads
