@@ -23,8 +23,8 @@ privacy-faq-v2-following-questions = As perguntas e respostas seguintes devem aj
 ## FAQ
 
 privacy-faq-v2-i-use-firefox = Eu uso o { -brand-name-firefox } para quase tudo na internet. Vocês na { -brand-name-mozilla } devem saber uma tonelada de coisas sobre mim, certo?
-privacy-faq-v2-mozilla-does-not-know = A { -brand-name-mozilla } não sabe tanto quanto você esperava sobre como as pessoas navegam na Internet. O { -brand-name-firefox }, o navegador de Internet que funciona no seu dispositivo ou computador, é a sua porta de entrada para a Internet. O seu navegador irá gerir muita informação sobre os sites que visita, mas essa informação geralmente fica no seu dispositivo.
-privacy-faq-v2-it-seems-like = Parece que todas as empresas na Internet estão a comprar e a vender os meus dados. Provavelmente vocês não são diferentes.
+privacy-faq-v2-mozilla-does-not-know = A { -brand-name-mozilla } não sabe tanto quanto você esperaria sobre como as pessoas navegam na internet. O { -brand-name-firefox }, o navegador de internet que funciona no seu dispositivo ou computador, é a sua porta de entrada para a internet. O seu navegador irá gerir muita informação sobre os sites que visita, mas essa informação geralmente fica no seu dispositivo.
+privacy-faq-v2-it-seems-like = Parece que todas as empresas na internet estão a comprar e a vender os meus dados. Provavelmente vocês não são diferentes.
 privacy-faq-v2-we-never-sell-your = Nós nunca vendemos os seus dados pessoais. Ao contrário de outras grandes empresas de tecnologia que recolhem e lucram com a sua informação pessoal, em nós foi construído com a privacidade como predefinição. Não sabemos a sua idade, Género, localização precisa, ou outras informações que as Big Tech recolhem e com as quais lucram.
 privacy-faq-v2-wait-so-how = Esperem, então como é que fazem dinheiro?
 # Variables:
