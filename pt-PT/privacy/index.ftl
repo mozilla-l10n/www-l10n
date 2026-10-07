@@ -38,6 +38,6 @@ privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }
 privacy-index-smart-window = Janela Smart
-privacy-index-mozilla-subscription-services = Serviços de subscrição da { -brand-name-mozilla }
+privacy-index-mozilla-subscription-services = Serviços de Subscrição da { -brand-name-mozilla }
 # This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".
 privacy-index-mozilla-accounts = Contas da { -brand-name-mozilla }

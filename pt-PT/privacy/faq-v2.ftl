@@ -44,20 +44,19 @@ privacy-faq-v2-mozilla-pre-release = As versões pré-lançamento do { -brand-na
 privacy-faq-v2-but-why-do-you = Mas porque recolhem dados de todo?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/ohttp-explained
-privacy-faq-v2-if-we-dont-know = Se não soubermos como o navegador está a funcionar ou que funcionalidades as pessoas utilizam, não poderemos melhorar e fornecer o excelente produto que pretende. Nós investimos no desenvolvimento de ferramentas de recolha e análise de dados que nos permitem tomar decisões inteligentes sobre o nosso produto enquanto respeitamos a privacidade das pessoas. Pode ler mais acerca de algumas das tecnologias de privacidade que utilizamos, como o <a { $attrs }>Ohtt</a>.
-privacy-faq-v2-data-collection-bugs-me = A recolha de dados ainda me incomoda. Posso desativar a mesma?
+privacy-faq-v2-if-we-dont-know = Se não soubermos como está o desempenho do navegador ou quais as funcionalidades que as pessoas utilizam, não podemos melhorá-lo nem oferecer o excelente produto que desejam. Investimos no desenvolvimento de ferramentas de recolha e análise de dados que nos permitem tomar decisões informadas sobre o nosso produto, respeitando sempre a privacidade das pessoas. Pode ler mais sobre algumas das tecnologias de preservação da privacidade que usamos, como o <a { $attrs }>OHTTP</a>.
+privacy-faq-v2-data-collection-bugs-me = A recolha de dados ainda me incomoda. Posso desligá-la?
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 #   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
-privacy-faq-v2-yes-user-control = Sim. O controlo pelo utilizador é um dos nossos princípios de privacidade dos dados. Nós colocámos isto em prática no { -brand-name-firefox } na nossa <a { $privacy }>página de definições de privacidade</a>, que funciona como um balcão único para qualquer pessoa assumir o controlo da sua privacidade em { -brand-name-firefox }. Pode <a { $data }>desativar a recolha de dados</a> aí.
+privacy-faq-v2-yes-user-control = Sim. O controlo pelo utilizador é um dos nossos princípios de privacidade dos dados. Nós colocámos isto em prática no { -brand-name-firefox } na nossa <a { $privacy }>página de definições de privacidade</a>, que funciona como um sítio único para qualquer pessoa assumir o controlo da sua privacidade no { -brand-name-firefox }. Pode <a { $data }>desativar a recolha de dados</a> aí.
 privacy-faq-v2-what-about-my-account = E sobre os dados da minha conta?
 privacy-faq-v2-we-are-big-believers = Nós somos grandes adeptos da minimização dos dados e de não pedir coisas que não precisamos.
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/account/
-privacy-faq-v2-you-dont-need-an-account = Não precisa de uma conta para utilizar o { -brand-name-firefox }. As <a { $attrs }>contas</a> são necessárias para sincronizar os dados entre os dispositivos, mas só lhe pedimos um endereço de e-mail e a sua idade (apenas para ter a certeza que não é uma pessoa).
-privacy-faq-v2-you-use-digital = Vocês utilizam publicidade digital como parte da vossa estratégia de marketing. Compram dados de pessoas para melhor direcionar a vossa publicidade online?
+privacy-faq-v2-you-dont-need-an-account = Não precisa de uma conta para utilizar o { -brand-name-firefox }. As <a { $attrs }>Contas</a> são necessárias para sincronizar os dados entre os dispositivos, mas só lhe pedimos um endereço de e-mail e a sua idade (apenas para ter a certeza que não é uma criança).
 privacy-faq-v2-no-we-do-not-buy = Não, não compramos dados de pessoas para publicidade direcionada.
-privacy-faq-v2-we-do-not-ask = Nós solicitamos aos nossos parceiros de publicidade que apenas utilizem dados que sites e editores conheçam sobre os seus utilizadores, tais como o navegador e o dispositivo que estavam a utilizar.
+privacy-faq-v2-we-do-not-ask = Solicitamos aos nossos parceiros publicitários que utilizem apenas dados próprios de que os sites e os editores têm conhecimento sobre todos os utilizadores, tais como o navegador que está a utilizar e o dispositivo em que se encontra.
 privacy-faq-v2-well-it-seems = Bem, parece que estão mesmo do meu lado nesta questão da privacidade.
 privacy-faq-v2-yes-we-do = Sim, estamos.
-privacy-faq-v2-find-out-more = Saiba mais sobre como a { -brand-name-mozilla } protege a Internet.
+privacy-faq-v2-find-out-more = Saiba mais sobre como a { -brand-name-mozilla } protege a internet.
