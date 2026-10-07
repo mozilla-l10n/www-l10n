@@ -29,7 +29,7 @@ firefox-products-get-the-browser-that-blocks = Скачайте браузер, 
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Браузер, сосредоточенный на вашей приватности, с автоматической защитой от отслеживания и блокировкой рекламы.
-firefox-products-get-focus = Получите { -brand-name-firefox-focus }
+firefox-products-get-focus = Получить { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -65,8 +65,8 @@ firefox-products-download-thunderbird = Скачать { -brand-name-thunderbird
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Подключите свои ИИ-системы к глобальному сообществу экспертов по безопасности, которые на ранних стадиях выявляют и помогают устранять уязвимости генеративного ИИ.
-firefox-products-0din-desc-v2 = Находите и устраняйте уязвимости ИИ до того, как они попадут в рабочую версию, при поддержке глобального сообщества исследователей безопасности и крупнейшей доступной ленты атрибутированных эксплойтов.
-firefox-products-test-your-ai = Тестируйте своих агентов ИИ
+firefox-products-0din-desc-v2 = Находите и устраняйте ИИ-уязвимости до того, как они попадут в рабочую версию, при поддержке глобального сообщества исследователей безопасности и крупнейшей доступной ленты атрибутированных эксплойтов.
+firefox-products-test-your-ai = Тестируйте своих ИИ-агентов
 firefox-products-learn-more-about-0din = Узнайте больше о { -brand-name-0din }
 
 ## Tabstack
@@ -80,13 +80,13 @@ firefox-products-learn-more-about-tabstack = Узнайте больше о { -b
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } устраняет сложность управления несколькими провайдерами ИИ, объединяя маршрутизацию, безопасность, бюджетирование, аварийное переключение и аудит в одной конечной точке API.
-firefox-products-own-your-ai-stack = Владейте своим стеком ИИ
+firefox-products-own-your-ai-stack = Владейте своим ИИ-стеком
 firefox-products-learn-more-about-otari = Узнайте больше о { -brand-name-otari }
 
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
-firefox-products-mozilla-ads-desc = Добавьте доверия к вашей рекламе. Вы свяжетесь с более чем 210 миллионами разборчивых, разборчивых, верных бренду пользователей.
+firefox-products-mozilla-ads-desc = Добавьте доверия к вашей рекламе. Вы свяжетесь с более чем 210 миллионами отобранных, разборчивых, верных бренду пользователей.
 firefox-products-extend-your-reach = Расширьте свой охват
 firefox-products-learn-more-about-mozilla-ads = Узнайте больше о { -brand-name-mozilla-ads }
 
