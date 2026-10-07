@@ -36,8 +36,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Recevez une alerte si vos données personnelles courent un risque et protégez-les immédiatement.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Masquez votre adresse e-mail et votre numéro de téléphone pour recevoir uniquement les messages que vous désirez.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Créez instantanément un superbe site web pour développer votre entreprise.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Sécurisez vos systèmes d’IA en trouvant et en corrigeant les failles de l’IA générative avant les attaquants.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -142,7 +140,7 @@ m24-home-state-of-mozilla-alt = Pixel art abstrait dans des tons verts, orange e
 m24-home-state-of-mozilla-alt-v2 = Texte : « Choisissez votre futur » sur un fond jaune pixelisé.
 m24-home-read-the-report = Lire le rapport
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Nothing Personal
 m24-home-our-new-magazine = Notre nouveau magazine destiné aux penseurs, aux technologues et aux créateurs indépendants qui sont à l’avant-poste de la culture numérique.

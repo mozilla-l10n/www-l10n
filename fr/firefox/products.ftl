@@ -15,6 +15,10 @@ firefox-products-firefox-beginning-v2 = { -brand-name-firefox } n’est qu’un 
 
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla }, c’est toute une gamme de produits conçus pour garantir votre sécurité et votre productivité en ligne.
 
+## Section headings
+
+
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -55,12 +59,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Accédez à tous vos e-mails, calendriers et contacts dans une même application rapide. Filtrez-les et organisez-les comme vous le souhaitez.
 firefox-products-download-thunderbird = Télécharger { -brand-name-thunderbird }
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = Créez instantanément un superbe site web pour développer votre entreprise, et associez-y gratuitement votre nom de domaine.
-firefox-products-learn-more-about-solo = En savoir plus sur { -brand-name-solo }
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
@@ -74,4 +72,10 @@ firefox-products-tabstack-desc = Connectez vos applications au Web avec une auto
 firefox-products-learn-more-about-tabstack = En savoir plus sur { -brand-name-tabstack }
 
 ## Otari
+
+
+## Mozilla Ads
+
+
+## Firefox for Enterprise
 

@@ -36,8 +36,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Dapatkan peringatan jika maklumat anda berisiko dan lindungi bagai seorang pro.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Sorok e-mel dan nombor telefon agar anda hanya menerima mesej yang anda mahu.
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = Cipta laman web yang menarik segera agar perniagaan anda dapat dikembangkan.
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = Lindungi AI anda dengan mencari dan memperbaiki kelemahan GenAI sebelum dikesan oleh penyerang.
 m24-home-tabstack = { -brand-name-tabstack }
@@ -142,7 +140,7 @@ m24-home-state-of-mozilla-alt = Seni piksel abstrak dalam warna hijau, oren dan 
 m24-home-state-of-mozilla-alt-v2 = Teks 'Choose Your Future' pada latar belakang kuning yang berpiksel
 m24-home-read-the-report = Baca laporannya
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Nothing Personal
 m24-home-our-new-magazine = Majalah terkini kami untuk pemikir bebas, ahli teknologi dan golongan kreatif di barisan hadapan budaya digital.

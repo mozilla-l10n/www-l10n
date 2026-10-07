@@ -15,6 +15,10 @@ firefox-products-firefox-beginning-v2 = { -brand-name-firefox } は、始まり�
 
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } は、オンラインの安全を守り、スマートにする製品ファミリーです。
 
+## Section headings
+
+
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -55,12 +59,6 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = 1 つの高速なアプリでメール、カレンダー、連絡先すべてにアクセス。好みの方法でフィルター処理したり整理したりできます。
 firefox-products-download-thunderbird = { -brand-name-thunderbird } をダウンロード
 
-## Solo
-
-firefox-products-solo = { -brand-name-solo }
-firefox-products-solo-desc = 美しいウェブサイトを瞬時に作成し、ビジネスを成長させます。カスタムドメインの接続とホスティングが無料。
-firefox-products-learn-more-about-solo = { -brand-name-solo } について詳しく知る
-
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
@@ -74,4 +72,10 @@ firefox-products-tabstack-desc = 信頼性の高い自動化でアプリをウ�
 firefox-products-learn-more-about-tabstack = { -brand-name-tabstack } について詳しく知る
 
 ## Otari
+
+
+## Mozilla Ads
+
+
+## Firefox for Enterprise
 

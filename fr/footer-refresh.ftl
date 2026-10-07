@@ -4,13 +4,7 @@
 
 footer-refresh-discover-mozilla-products = Découvrez les produits et les initiatives de { -brand-name-mozilla }. Nous nous engageons à protéger la sécurité et la confidentialité de votre adresse e-mail. Celle-ci ne sera ni partagée ni vendue. Nous l’utiliserons uniquement pour vous envoyer des actualités intéressantes.
 footer-refresh-leadership = Direction
-footer-refresh-mozilla-ads = { -brand-name-mozilla-ads }
-# The content inside the <span> is added to provide information for screen reader users only, and it is visually hidden
-footer-refresh-learn-more-about-mozilla-ads = En savoir plus <span>sur { footer-refresh-mozilla-ads }</span>
-# Obsolete string (expires 2026-10-03)
-footer-refresh-learn-more-about-mozilla-advertising = Apprenez-en plus <span>sur { -brand-name-mozilla } Advertising</span>
 footer-refresh-firefox-release-notes = Notes de version de { -brand-name-firefox }
-footer-refresh-add-trust-to = Vos achats publicitaires, en toute confiance.
 footer-refresh-mdn-v2 = { -brand-name-mdn }
 footer-refresh-follow-mozilla = Suivre @{ -brand-name-mozilla }
 footer-refresh-instagram = Instagram
@@ -36,8 +30,6 @@ footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Outils
 footer-refresh-donate = Faire un don
 footer-refresh-donate-not-for-profit = Faites un don à la <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>, une organisation à but non lucratif.
-# Obsolete string (expires 2026-08-01)
-footer-refresh-visit-mozilla-corporations-v2 = Découvrez la <a { $moco_link }>{ -brand-name-mozilla-foundation }</a>, organisation mère de <a { $mofo_link }>{ -brand-name-mozilla-corporation }</a>.
 footer-refresh-portions-of-this-content = Certaines parties de ce contenu sont ©1998–{ $current_year } par les contributeurs individuels de mozilla.org. Ce contenu est disponible sous <a rel="license" { $href }>licence { -brand-name-creative-commons }</a>.
 footer-refresh-websites-privacy-notice = Déclaration de confidentialité du site
 footer-refresh-websites-cookies = Cookies

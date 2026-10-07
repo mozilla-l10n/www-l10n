@@ -36,8 +36,6 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = 個人情報が危険にさらされていることを通知し、ロックして安心。
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = メールアドレスと電話番号を秘匿することで、必要なメッセージだけを受け取ることができます。
-m24-home-solo = { -brand-name-solo }
-m24-home-solo-desc = 美しいウェブサイトを瞬時に作成し、ビジネスを成長させます。
 m24-home-0din = { -brand-name-0din }
 m24-home-0din-desc = 攻撃者より先に生成 AI の脆弱性を見つけて修正することで、AI を安全に守れます。
 m24-home-tabstack = { -brand-name-tabstack }
@@ -142,7 +140,7 @@ m24-home-state-of-mozilla-alt = 緑、オレンジ、ピンク色の抽象的な
 m24-home-state-of-mozilla-alt-v2 = 「Choose Your Future」というメッセージが黄色のモザイクの背景に書かれている
 m24-home-read-the-report = レポートを読む
 
-## Nothing Personal
+## Nothing Personal is the name of the magazine and should be kept in English.
 
 m24-home-mozilla-nothing-personal = Nothing Personal
 m24-home-our-new-magazine = デジタルカルチャーの最前線で活躍する独立した思想家、テクノロジーエキスパート、クリエイターのために生まれた雑誌。
