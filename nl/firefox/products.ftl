@@ -13,6 +13,13 @@ firefox-products-products = Producten
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } is nog maar het begin.
 firefox-products-mozillas-family-of-products-sentence = De productfamilie van { -brand-name-mozilla } is ontworpen om u online veiliger en slimmer te houden.
 
+## Section headings
+
+firefox-products-tabs-everyone = Voor iedereen
+firefox-products-tabs-business = Voor bedrijven
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Productcategorieën
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -22,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = Download de browser die automatis
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Uw speciale privacybrowser met automatische advertentieblokkering en beveiliging tegen volgen.
+firefox-products-get-focus = { -brand-name-firefox-focus } downloaden
 
 ## Monitor
 
@@ -57,16 +65,34 @@ firefox-products-download-thunderbird = { -brand-name-thunderbird } downloaden
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Verbind uw AI-systemen met een wereldwijde gemeenschap van beveiligingsexperts die GenAI-kwetsbaarheden in een vroeg stadium ontdekken en helpen oplossen.
+firefox-products-0din-desc-v2 = Vind en repareer AI-kwetsbaarheden voordat ze productie bereiken, ondersteund door een wereldwijde gemeenschap van beveiligingsonderzoekers en de grootste beschikbare exploitfeed.
+firefox-products-test-your-ai = Test uw AI-agents
 firefox-products-learn-more-about-0din = Meer info over { -brand-name-0din }
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Verbind uw apps met internet met betrouwbare automatisering en zet live webpagina’s om in duidelijke, gestructureerde resultaten.
+firefox-products-start-automating-the-web = Automatiseer het web
 firefox-products-learn-more-about-tabstack = Meer info over { -brand-name-tabstack }
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } elimineert de complexiteit van het beheren van meerdere AI-providers door routering, beveiliging, budgettering, failover en auditing te verenigen achter één API-eindpunt.
+firefox-products-own-your-ai-stack = Word eigenaar van uw AI-stack
 firefox-products-learn-more-about-otari = Meer info over { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = Voeg vertrouwen toe aan uw advertentieaankoop. U komt in contact met meer dan 210 miljoen selectieve, veeleisende, merktrouwe gebruikers.
+firefox-products-extend-your-reach = Vergroot uw bereik
+firefox-products-learn-more-about-mozilla-ads = Meer info over { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Implementeer, beheer en beveilig { -brand-name-firefox } in uw hele organisatie met beleidsopties op bedrijfsniveau.
+firefox-products-manage-your-fleet = { -brand-name-firefox } implementeren
+firefox-products-learn-more-about-firefox-enterprise = Meer info over { -brand-name-firefox-enterprise }
