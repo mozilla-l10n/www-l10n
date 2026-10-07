@@ -22,6 +22,7 @@ firefox-products-get-the-browser-that-blocks = Wobstarajće sej wobhladowak, kot
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Waš wobhladowak z funkcijemi priwatnosće z awtomatiskim škitom před slědowanjom a blokowanjom wabjenja.
+firefox-products-get-focus = Wobstarajće sej { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -70,3 +71,7 @@ firefox-products-learn-more-about-tabstack = Wočińće wjace wo { -brand-name-t
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } kompleksnosć rjadowanja wjacorych poskićowarjow KI eliminuje. Zjednoćuje routing, wěstotu, budgetowe planowanje, failover a pruwowanje zličbowankow za jednotliwym kónčnym dypkom API.
 firefox-products-learn-more-about-otari = Zhońće wjace wo { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
