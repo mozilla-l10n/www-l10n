@@ -22,7 +22,7 @@ vpn-landing-log-in-to-your-bank-or = Inicie sessão no seu banco ou consultório
 vpn-landing-blocks-advertisers-from = Impede que os anunciantes o utilizem como alvo
 vpn-landing-hide-your-activity-from = Oculte a sua atividade dos rastreadores e do malware para que possa fazer compras sem ser vigiado.
 vpn-landing-take-control = Assuma o controlo com definições de VPN específicas para sites
-vpn-landing-customize-your-vpn = Personalize as suas proteções de VPN para cada site com a extensão { -brand-name-mozilla-vpn } para o { -brand-name-firefox } (Apenas para Windows).
+vpn-landing-customize-your-vpn = Personalize as suas proteções de VPN para cada site com a extensão { -brand-name-mozilla-vpn } para o { -brand-name-firefox } (apenas para Windows).
 vpn-landing-features = Funcionalidades
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
@@ -44,13 +44,13 @@ vpn-landing-no-logging-tracking-or-sharing = Sem registo, rastreio ou partilha d
 vpn-landing-no-bandwidth-restrictions-or = Sem restrições de largura de banda ou limitações
 vpn-landing-extra-security-whole-device = Segurança adicional: proteção total do dispositivo, encaminhamento multi-salto e muito mais
 vpn-landing-built-transparently = Construída de forma transparente em código aberto
-vpn-landing-easy-firefox-integration = Fácil integração do { -brand-name-firefox } com a extensão { -brand-name-mozilla-vpn } (somente no Windows)
+vpn-landing-easy-firefox-integration = Fácil integração do { -brand-name-firefox } com a extensão { -brand-name-mozilla-vpn } (apenas para Windows)
 vpn-landing-see-all-features = Ver todas as funcionalidades
 vpn-landing-fram-a-brand-you-can-trust = De uma marca em que pode confiar
-vpn-landing-mozilla-is-a-non-profit-backed = A { -brand-name-mozilla } é uma empresa de Internet sem fins lucrativos que tem lutado por uma Internet saudável desde 1998.
+vpn-landing-mozilla-is-a-non-profit-backed = A { -brand-name-mozilla } é uma empresa da internet sem fins lucrativos que tem vindo a lutar por uma internet saudável desde 1998.
 vpn-landing-one-subscription-for-all-your = Uma subscrição para todos os seus dispositivos
 # HTML for emphasis
-vpn-landing-powered-by-mozilla-fighting-for = <strong>Apoio da { -brand-name-mozilla }.</strong> A lutar pelo seu direito à privacidade desde 1998.
+vpn-landing-powered-by-mozilla-fighting-for = <strong>Desenvolvido pela { -brand-name-mozilla }.</strong> A lutar pelo seu direito à privacidade desde 1998.
 vpn-landing-learn-more-from-our-experts = Saiba mais com os nossos especialistas
 vpn-landing-do-you-need-a-vpn-at-home = Precisa de uma VPN em casa? Aqui estão 5 razões para o fazer.
 vpn-landing-what-is-an-ip-address = O que é um endereço IP?
