@@ -10,19 +10,19 @@ privacy-faq-v2-title = Perguntas Frequentes sobre a Privacidade de Dados da { -b
 # HTML page description
 privacy-faq-v2-desc = Na { -brand-name-mozilla }, respeitamos e protegemos a sua informação pessoal.
 privacy-faq-v2-heading = Preferimos Pessoas ao Lucro.
-privacy-faq-v2-intro = Pode ser complicado para as pessoas, saber o que esperar de qualquer software ou serviços que utilizam atualmente. A tecnologia que potencia as nossas vidas é complexa e as pessoas não têm tempo para analisar todos os detalhes. Isto também é verdade para o { -brand-name-firefox }, onde verificamos que as pessoas têm ideias diferentes sobre o que se passa nos bastidores do seu navegador.
+privacy-faq-v2-intro = Pode ser complicado para as pessoas, saber o que esperar de qualquer software ou serviços que utilizam atualmente. A tecnologia que potencia as nossas vidas é complexa e as pessoas não têm tempo para analisar todos os detalhes. Isto continua a ser verdade para o { -brand-name-firefox }, onde verificamos que as pessoas têm muitas ideias diferentes sobre o que se passa nos bastidores do seu navegador.
 privacy-faq-v2-at-mozilla = Na { -brand-name-mozilla }, respeitamos e protegemos a sua informação pessoal:
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/privacy/principles/
-privacy-faq-v2-we-follow = Nós seguimos um conjunto de <a { $attrs }>princípios de privacidade dos dados</a> que definem a nossa abordagem à privacidade nos navegadores { -brand-name-firefox } para computadores e dispositivos móveis.
-privacy-faq-v2-we-strive-collect-data = Empenhamo-nos em recolher apenas os dados que precisamos para fazer os melhores produtos.
-privacy-faq-v2-we-work-to = Nós trabalhamos para colocar as pessoas em controlo dos seus dados e experiências na Internet.
-privacy-faq-v2-we-adhere = Nós seguimos o princípio de “sem surpresas”, o que significa que trabalhamos com muito afinco para garantir que a imagem que as pessoas têm do { -brand-name-firefox } corresponde à realidade.
-privacy-faq-v2-following-questions = As perguntas e respostas seguintes devem ajudar a compreender o que esperar da { -brand-name-mozilla } e do { -brand-name-firefox }:
+privacy-faq-v2-we-follow = Seguimos um conjunto de <a { $attrs }>Princípios de Privacidade de Dados</a> que definem a nossa abordagem à privacidade nos navegadores { -brand-name-firefox } para computadores e dispositivos móveis.
+privacy-faq-v2-we-strive-collect-data = Empenhamo-nos por recolher apenas os dados de que precisamos para criar os melhores produtos.
+privacy-faq-v2-we-work-to = Trabalhamos para que as pessoas tenham controlo sobre os seus dados e as suas experiências na internet.
+privacy-faq-v2-we-adhere = Seguimos o princípio de “sem surpresas”, o que significa que trabalhamos afincadamente para garantir que a imagem que as pessoas têm do { -brand-name-firefox } corresponde à realidade.
+privacy-faq-v2-following-questions = As perguntas e respostas seguintes devem ajudá-lo a compreender o que esperar da { -brand-name-mozilla } e do { -brand-name-firefox }:
 
 ## FAQ
 
-privacy-faq-v2-i-use-firefox = Eu utilizo o { -brand-name-firefox } para quase tudo na Internet. Vocês na { -brand-name-mozilla } devem saber muito sobre mim, certo?
+privacy-faq-v2-i-use-firefox = Eu uso o { -brand-name-firefox } para quase tudo na internet. Vocês na { -brand-name-mozilla } devem saber uma tonelada de coisas sobre mim, certo?
 privacy-faq-v2-mozilla-does-not-know = A { -brand-name-mozilla } não sabe tanto quanto você esperava sobre como as pessoas navegam na Internet. O { -brand-name-firefox }, o navegador de Internet que funciona no seu dispositivo ou computador, é a sua porta de entrada para a Internet. O seu navegador irá gerir muita informação sobre os sites que visita, mas essa informação geralmente fica no seu dispositivo.
 privacy-faq-v2-it-seems-like = Parece que todas as empresas na Internet estão a comprar e a vender os meus dados. Provavelmente vocês não são diferentes.
 privacy-faq-v2-we-never-sell-your = Nós nunca vendemos os seus dados pessoais. Ao contrário de outras grandes empresas de tecnologia que recolhem e lucram com a sua informação pessoal, em nós foi construído com a privacidade como predefinição. Não sabemos a sua idade, Género, localização precisa, ou outras informações que as Big Tech recolhem e com as quais lucram.
