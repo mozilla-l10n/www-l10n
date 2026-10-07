@@ -41,3 +41,7 @@ download-button-linux-64-v2 = Lejupielādēt 64 bitu GNU/Linux operētājsistēm
 download-button-using-debian = Izmanto Debian, Ubuntu vai jebkuru uz Debian balstītu operētājsistēmu?<br>Tu vari iestatīt mūsu <a { $attrs }>APT glabātavu</a>.
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = Iegūt no Microsoft
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = Padalies, kā atklāji { -brand-name-firefox } un kā to izmanto ar { -brand-name-mozilla } tirgvedības tehnoloģiju partneriem! Šie dati nekad netiek pārdoti vai izmantoti, lai rādītu reklāmas. <a { $attrs }>Uzzināt, kā mēs izmantojam šos datus</a>.

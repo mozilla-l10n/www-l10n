@@ -10,6 +10,10 @@ firefox-all-download-the-firefox-v2 = Lejupielādē { -brand-name-firefox } ang�
 firefox-all-choose-browser = Jāizvēlas pārlūks, lai turpinātu
 firefox-all-choose-platform = Jāizvēlas platforma, lai turpinātu
 firefox-all-choose-language = Jāizvēlas valoda, lai turpinātu
+firefox-all-change-platform = Izvēlies citu platformu
+firefox-all-change-language = Izvēlies citu valodu
+# Used as an accessible label for an image that points down
+firefox-all-down-arrow = Jāizvēlas no zemāk esošā saraksta
 # Used as an accessible label for a help button. The text is replaced with a "?" icon.
 firefox-all-get-help = Saņemt palīdzību
 firefox-all-browser-v2 = 1. Pārlūks:
@@ -25,6 +29,7 @@ firefox-all-sorry-we-couldnt-find = Atvainojamies, mēs nevarējām atrast mekl�
 firefox-all-64-bit-installers = 64 bitu uzstādītājs
 firefox-all-choose-a-64-bit-installer = 64 bitu uzstādītājs jāizvēlas datoriem, kuriem ir 64 bitu procesors, kas ļauj iedalīt vairāk atmiņas atsevišķām programmām — jo īpaši būtiski spēlēm un citām prasīgām lietotnēm.
 firefox-all-32-bit-installers = 32 bitu uzstādītājs
+firefox-all-microsoft-store-installers = Microsoft veikals
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Lejupielādēt { $esr_version }
@@ -32,6 +37,7 @@ firefox-all-check-the-system-requirements = Pārbaudīt sistēmas prasības
 firefox-all-release-notes = Laidiena piezīmes
 firefox-all-source-code = Pirmkods
 firefox-all-need-help = Nepieciešama palīdzība?
+firefox-all-firefox-privacy-notice = { -brand-name-firefox } privātuma paziņojums
 firefox-all-arm64-installers = ARM64/AArch64 uzstādītāji
 firefox-all-product-send-link = Nosūtīi lejupielādes saiti uz savu tālruni
 # Variables:
