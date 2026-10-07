@@ -21,8 +21,32 @@ firefox-products-get-focus = Iegūt { -brand-name-firefox-focus }
 
 firefox-products-surf-stream-and-get-work-done = Pārlūko, straumē un paveic darāmo serveros vairāk nekā 30 valstīs ar jaunu skatījumu drošā savienojumā ar internetu.
 
+## 0DIN
+
+firefox-products-0din-desc-v2 = Atrodi un novērs MI ievainojamības, pirms tās nonāk produkcijā, ko nodrošina vispasaules drošības pētnieku kopienas un lielākās pieejamās atvasināto ekspluatējumu barotnes!
+firefox-products-test-your-ai = Pārbaudi savus mākslīgā intelekta aģentus
+
+## Tabstack
+
+firefox-products-start-automating-the-web = Automatizē tīmekli
+
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } novērš vairāku AI pakalpojumu sniedzēju pārvaldības sarežģītību ar maršrutēšanas, drošības, līdzekļu plānošanas, kļūmjpārleces un auditēšanas apvienošanu vienā API galapunktā.
+firefox-products-own-your-ai-stack = Izveido savu MI kopumu
 firefox-products-learn-more-about-otari = Uzzināt vairāk par { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = Palielini uzticību savam reklāmas pirkumam! Tu savienosies ar vairāk nekā 210 miljoniem izvēlīgu, prasīgu un zīmolam uzticīgu lietotāju.
+firefox-products-extend-your-reach = Paplašini to, cik daudz vari aizsniegt
+firefox-products-learn-more-about-mozilla-ads = Uzzināt vairāk par { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Izvieto, pārvaldi un aizsargā { -brand-name-firefox } visā apvienībā ar lieluzņēmuma līmeņa pamatnostādņu vadīklām!
+firefox-products-manage-your-fleet = Izvietot { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = Uzzināt vairāk par { -brand-name-firefox-enterprise }
