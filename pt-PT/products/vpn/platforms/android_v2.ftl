@@ -6,13 +6,13 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/android
 
 vpn-android-vpn-for-android = VPN para Android da { -brand-name-mozilla }
-vpn-android-ease-security = Diminua os temores de segurança com a { -brand-name-mozilla-vpn } para Android
-vpn-android-looking-for-a = À procura de uma VPN para proteger o seu dispositivo Android? A { -brand-name-mozilla-vpn } é apoiado por uma empresa sem fins lucrativos. Saiba mais sobre como uma VPN o protege e porque deve confiar à { -brand-name-mozilla } a sua privacidade e segurança.
+vpn-android-ease-security = Diminua os Receiros de Segurança com a { -brand-name-mozilla-vpn } para Android
+vpn-android-looking-for-a = Procura uma VPN para proteger o seu dispositivo Android? A { -brand-name-mozilla-vpn } é apoiada por uma organização sem fins lucrativos. Aprenda como uma VPN o protege e porque deve confiar à { -brand-name-mozilla } a sua privacidade e segurança.
 vpn-android-whether-youre = Quer esteja em casa, no trabalho, ou a inventar um nome engraçado para o seu pedido de café na caixa registadora, proteger a sua segurança na Internet é uma prioridade máxima para a { -brand-name-mozilla }. Como muitos produtos de tecnologia inteligente, os dispositivos Android têm funcionalidades de proteção integradas que protegem o seu dispositivo. Com a VPN para Android da { -brand-name-mozilla }, pode levar a segurança mais além, apenas com um toque do seu dedo.
 vpn-android-using-the-fast = Utilizando o rápido e seguro protocolo de VPN { -brand-name-wireguard }, a nossa VPN é capaz de encriptar o tráfego de Internet entre o seu dispositivo e a rede VPN de servidores. Isto ajuda-nos a manter o seu tráfego da Internet protegido quando está em viagem. É como a proteção que protege o seu chá verde com o doce da medalha que zuni à volta da tabela.
 vpn-android-how-does-a = Como é que uma VPN protege o meu dispositivo Android?
-vpn-android-vpns-help = As VPNs ajudam a impedir:
-vpn-android-your-internet-activity = A sua atividade na Internet seja visível, e depois vendida ou partilhada com os anunciantes.
+vpn-android-vpns-help = As VPNs ajudam a prevenir:
+vpn-android-your-internet-activity = A sua atividade na internet seja visível, e depois vendida ou partilhada com anunciantes.
 vpn-android-low-video = Baixa qualidade de transmissão de vídeo devido a largura de banda mais lenta e restrita do seu provedor de serviços de Internet (ISP)
 vpn-android-your-personal = Os seus dados pessoais a serem furtados ao utilizar uma rede Wi-Fi pública.
 vpn-android-why-should-i = Porquê que devo transferir a { -brand-name-mozilla-vpn } para Android?
