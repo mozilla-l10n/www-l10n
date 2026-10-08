@@ -89,10 +89,3 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Добавьте доверия к вашей рекламе. Вы свяжетесь с более чем 210 миллионами отобранных, разборчивых, верных бренду пользователей.
 firefox-products-extend-your-reach = Расширьте свой охват
 firefox-products-learn-more-about-mozilla-ads = Узнайте больше о { -brand-name-mozilla-ads }
-
-## Firefox for Enterprise
-
-firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
-firefox-products-firefox-enterprise-desc = Разворачивайте, управляйте и защищайте { -brand-name-firefox } в вашей организации с помощью политик корпоративного уровня.
-firefox-products-manage-your-fleet = Развёртывание { -brand-name-firefox }
-firefox-products-learn-more-about-firefox-enterprise = Узнайте больше о { -brand-name-firefox-enterprise }

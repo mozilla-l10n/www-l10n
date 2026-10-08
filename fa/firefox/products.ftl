@@ -89,10 +89,3 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = به خرید تبلیغاتتان اعتماد بیفزایید. با بیش از ۲۱۰ میلیون کاربر گزیده، نکته‌سنج و وفادار به برند ارتباط برقرار می‌کنید.
 firefox-products-extend-your-reach = دامنهٔ دسترسی‌تان را گسترش دهید
 firefox-products-learn-more-about-mozilla-ads = دربارهٔ { -brand-name-mozilla-ads } بیشتر بدانید
-
-## Firefox for Enterprise
-
-firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
-firefox-products-firefox-enterprise-desc = با کنترل‌های سیاستی در سطح سازمانی، { -brand-name-firefox } را در سراسر سازمانتان مستقر، مدیریت و ایمن کنید.
-firefox-products-manage-your-fleet = استقرار { -brand-name-firefox }
-firefox-products-learn-more-about-firefox-enterprise = دربارهٔ { -brand-name-firefox-enterprise } بیشتر بدانید

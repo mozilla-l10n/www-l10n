@@ -87,9 +87,3 @@ firefox-products-learn-more-about-otari = Zhońće wjace wo { -brand-name-otari 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-extend-your-reach = Rozšěrće swoju dosažliwosć
 firefox-products-learn-more-about-mozilla-ads = Dalše informacije wo { -brand-name-mozilla-ads }
-
-## Firefox for Enterprise
-
-firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
-firefox-products-manage-your-fleet = { -brand-name-firefox } rozdźělić
-firefox-products-learn-more-about-firefox-enterprise = Dalše informacije wo { -brand-name-firefox-enterprise }

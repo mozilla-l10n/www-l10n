@@ -89,10 +89,3 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Adde fiducia a tu compra ab annuncio publicitari. Tu te connectera con ultra 210 milliones de usatores selective, experte e fidel al marcas.
 firefox-products-extend-your-reach = Extende tu portata
 firefox-products-learn-more-about-mozilla-ads = Discoperi plus re { -brand-name-mozilla-ads }
-
-## Firefox for Enterprise
-
-firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
-firefox-products-firefox-enterprise-desc = Displica, gere, e garanti { -brand-name-firefox } a transverso tu organisation con controlos de directivas de grado interprisa.
-firefox-products-manage-your-fleet = Displica { -brand-name-firefox }
-firefox-products-learn-more-about-firefox-enterprise = Discoperi plus re { -brand-name-firefox-enterprise }

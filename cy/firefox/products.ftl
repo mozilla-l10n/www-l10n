@@ -89,10 +89,3 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Gallwch ymddiried brynu eich hysbysebu. Byddwch yn cysylltu â dros 210 miliwn o ddefnyddwyr gwybodus, craff, sy'n ffyddlon i'r brand.
 firefox-products-extend-your-reach = Ymestyn eich cyrhaeddiad
 firefox-products-learn-more-about-mozilla-ads = Dysgu rhagor am { -brand-name-mozilla-ads }
-
-## Firefox for Enterprise
-
-firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
-firefox-products-firefox-enterprise-desc = Defnyddio, rheoli a diogelu { -brand-name-firefox } ar draws eich sefydliad gyda rheolaethau polisi gradd menter.
-firefox-products-manage-your-fleet = Defnyddio { -brand-name-firefox }
-firefox-products-learn-more-about-firefox-enterprise = Dysgu rhagor am { -brand-name-firefox-enterprise }

@@ -42,10 +42,3 @@ firefox-products-learn-more-about-otari = מידע נוסף על { -brand-name-o
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-extend-your-reach = להרחיב את טווח ההגעה שלך לאנשים
 firefox-products-learn-more-about-mozilla-ads = מידע נוסף על { -brand-name-mozilla-ads }
-
-## Firefox for Enterprise
-
-firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
-firefox-products-firefox-enterprise-desc = לפרוס, לנהל ולאבטח את { -brand-name-firefox } ברחבי הארגון שלך בעזרת בקרות מדיניות מתקדמות.
-firefox-products-manage-your-fleet = הטעמת { -brand-name-firefox }
-firefox-products-learn-more-about-firefox-enterprise = מידע נוסף על { -brand-name-firefox-enterprise }

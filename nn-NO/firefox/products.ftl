@@ -84,8 +84,3 @@ firefox-products-learn-more-about-otari = Les meir om { -brand-name-otari }
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-learn-more-about-mozilla-ads = Les meir om { -brand-name-mozilla-ads }
-
-## Firefox for Enterprise
-
-firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
-firefox-products-learn-more-about-firefox-enterprise = Les meir om { -brand-name-firefox-enterprise }

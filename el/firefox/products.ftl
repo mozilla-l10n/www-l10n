@@ -89,10 +89,3 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Ενισχύστε την αξιοπιστία της διαφημιστικής σας επένδυσης. Συνδεθείτε με περισσότερους από 210 εκατομμύρια επιλεκτικούς, απαιτητικούς και πιστούς στις αγαπημένες τους επωνυμίες χρήστες.
 firefox-products-extend-your-reach = Διευρύνετε το κοινό σας
 firefox-products-learn-more-about-mozilla-ads = Μάθετε περισσότερα για το { -brand-name-mozilla-ads }
-
-## Firefox for Enterprise
-
-firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
-firefox-products-firefox-enterprise-desc = Διανείμετε, διαχειριστείτε και προστατέψτε το { -brand-name-firefox } σε ολόκληρο τον οργανισμό σας με προηγμένους ελέγχους εταιρικών πολιτικών.
-firefox-products-manage-your-fleet = Διανομή του { -brand-name-firefox }
-firefox-products-learn-more-about-firefox-enterprise = Μάθετε περισσότερα για το { -brand-name-firefox-enterprise }

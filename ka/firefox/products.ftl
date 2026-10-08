@@ -89,10 +89,3 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = დაამატეთ ნდობა თქვენს სარეკლამო შენაძენს. თქვენ დაუკავშირდებით 210 მილიონზე მეტ შერჩეულ, გამჭრიახ, ბრენდის ერთგულ მომხმარებელს.
 firefox-products-extend-your-reach = გააფართოვეთ თქვენი შესაძლებლობები
 firefox-products-learn-more-about-mozilla-ads = გაიგეთ მეტი { -brand-name-mozilla-ads }-ის შესახებ
-
-## Firefox for Enterprise
-
-firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
-firefox-products-firefox-enterprise-desc = გამართეთ, მართეთ და დაიცავით { -brand-name-firefox } თქვენს დაწესებულებაში, დაწესებულების დონის დებულებების მეშვეობით.
-firefox-products-manage-your-fleet = გამართეთ { -brand-name-firefox }
-firefox-products-learn-more-about-firefox-enterprise = გაიგეთ მეტი { -brand-name-firefox-enterprise }-ის შესახებ
