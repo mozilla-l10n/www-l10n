@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/pricing/
 
-vpn-pricing-page-title = Preço - { -brand-name-mozilla-vpn }
+vpn-pricing-page-title = Preços - { -brand-name-mozilla-vpn }
 vpn-pricing-mozilla-vpn = { -brand-name-mozilla-vpn }
 # HTML page title
 vpn-pricing-one-subscription = Uma subscrição para todos os seus dispositivos
@@ -15,8 +15,8 @@ vpn-pricing-included-in-subscription = Incluído na subscrição:
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to =
     { $devices ->
-        [one] Conecte até { $devices } dispositivos
-       *[other] Conecte até { $devices } dispositivos
+        [one] Ligue até { $devices } dispositivo
+       *[other] Ligue até { $devices } dispositivos
     }
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

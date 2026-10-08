@@ -12,7 +12,7 @@ vpn-mac-a-vpn-is = Uma VPN (rede virtual privada) é essencial para a sua privac
 vpn-mac-but-finding = Mas encontrar uma boa VPN pode ser complicado. Alguns são lentos, não confiáveis e até mantêm registos da sua atividade online. É por isto que construímos a { -brand-name-mozilla-vpn }, uma VPN rápida, segura e de confiança, das pessoas que lhe trouxeram o { -brand-name-firefox }.
 vpn-mac-with-mozilla-vpn = Com a { -brand-name-mozilla-vpn } pode:
 vpn-mac-get-one-click = Obtenha privacidade com um clique com uma interface simples e fácil de utilizar.
-vpn-mac-connect-up-to = Ligue até 5 dispositivos diferentes com uma subscrição, incluindo o Mac, mas também iOS, Windows, Linux e Android.
+vpn-mac-connect-up-to = Ligue até 5 dispositivos diferentes com uma subscrição, incluindo Mac, mas também iOS, Windows, Linux, e Android.
 # “Cap” means putting a limit to
 vpn-mac-use-our-vpn = Use a nossa VPN tanto quanto quiser. Ao contrário de algumas VPNs, que apenas protegem uma certa quantidade de dados por mês, nós não limitamos o seu tráfego. Não importa a quantidade de dados que utilize, estes estarão sempre protegidos.
 vpn-mac-get-device-level = Obtenha encriptação ao nível do dispositivo para o seu tráfego. Ao contrário de outras soluções, que apenas encriptam o tráfego do seu navegador, a { -brand-name-mozilla-vpn } encripta tudo, protegendo o seu tráfego de Internet, independentemente da aplicação envolvida.
