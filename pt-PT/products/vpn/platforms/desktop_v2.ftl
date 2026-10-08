@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/
 
 vpn-desktop-vpn-for-pc = VPN para PC ou portátil da { -brand-name-mozilla }
-vpn-desktop-if-you-are = Se está à procura de uma VPN para proteger o seu portátil ou PC, confira a { -brand-name-mozilla-vpn }. A { -brand-name-mozilla-vpn } é apoiado por uma empresa sem fins lucrativos. Saiba mais sobre como uma VPN o protege e porque deve confiar à { -brand-name-mozilla } a sua privacidade e segurança.
+vpn-desktop-if-you-are = Se está à procura de uma VPN para proteger o seu portátil ou PC, conheça a { -brand-name-mozilla-vpn }. A { -brand-name-mozilla-vpn } é apoiada por uma organização sem fins lucrativos. Saiba como uma VPN o protege e por que razão deve confiar a sua privacidade e segurança à { -brand-name-mozilla }.
 vpn-desktop-vpns-can-provide = As VPNs podem fornecer uma camada adicional de segurança para o seu portátil ou PC e ajudar a protegê-lo contra tentativas de piratas informáticos, ataques de phishing e outras ameaças online. As VPNs encriptam os seus dados e localização criando um “túnel” entre o seu computador e a Internet. Se o seu portátil ou PC não estiver a utilizar uma VPN, os piratas informáticos e terceiros poderão conseguir intercetar o seu tráfego, colocando a sua privacidade em risco.
 vpn-desktop-how-does-a = Como é que uma VPN protege o meu portátil ou PC?
 vpn-desktop-there-are-several = Existem várias razões pelas quais deve utilizar uma VPN para se proteger ao utilizar o seu portátil ou PC:
