@@ -55,6 +55,7 @@ privacy-faq-v2-we-are-big-believers = Nós somos grandes adeptos da minimizaçã
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/account/
 privacy-faq-v2-you-dont-need-an-account = Não precisa de uma conta para utilizar o { -brand-name-firefox }. As <a { $attrs }>Contas</a> são necessárias para sincronizar os dados entre os dispositivos, mas só lhe pedimos um endereço de e-mail e a sua idade (apenas para ter a certeza que não é uma criança).
+privacy-faq-v2-you-use-digital = Vocês usam publicidade digital como parte da vossa estratégia de marketing. Compram dados de pessoas para melhor direcionar a vossa publicidade online?
 privacy-faq-v2-no-we-do-not-buy = Não, não compramos dados de pessoas para publicidade direcionada.
 privacy-faq-v2-we-do-not-ask = Solicitamos aos nossos parceiros publicitários que utilizem apenas dados próprios de que os sites e os editores têm conhecimento sobre todos os utilizadores, tais como o navegador que está a utilizar e o dispositivo em que se encontra.
 privacy-faq-v2-well-it-seems = Bem, parece que estão mesmo do meu lado nesta questão da privacidade.
