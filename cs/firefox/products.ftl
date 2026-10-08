@@ -16,7 +16,7 @@ firefox-products-mozillas-family-of-products-sentence = Všechny produkty { -bra
 ## Section headings
 
 firefox-products-tabs-everyone = Pro všechny
-firefox-products-tabs-business = Na podnikání
+firefox-products-tabs-business = Pro podniky
 # Accessible name for the tab list grouping the sections above, read by screen readers.
 firefox-products-tabs-aria-label = Kategorie produktů
 
@@ -65,7 +65,7 @@ firefox-products-download-thunderbird = Stáhněte si { -brand-name-thunderbird 
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Propojte své systémy umělé inteligence s globální komunitou bezpečnostních expertů, kteří odhalují zranitelnosti generativní umělé inteligence a pomáhají je včas odstranit.
-firefox-products-0din-desc-v2 = Nalezněte a opravte zranitelnosti umělé inteligence dříve, než se dostanou do ostrého provozu, za pomoci celosvětové komunity bezpečnostních výzkumníků a pomocí největšího dostupného zdroje informací o možnostech zneužití.
+firefox-products-0din-desc-v2 = Odhalte a opravte zranitelnosti v oblasti umělé inteligence ještě předtím, než se dostanou do produkčního prostředí – s podporou globální komunity bezpečnostních výzkumníků a největšího dostupného zdroje přiřazených exploitů.
 firefox-products-test-your-ai = Otestujte své AI agenty
 firefox-products-learn-more-about-0din = Zjistit více o službě { -brand-name-0din }
 
@@ -73,19 +73,19 @@ firefox-products-learn-more-about-0din = Zjistit více o službě { -brand-name-
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Propojte své aplikace s webem pomocí spolehlivé automatizace a přeměňte živé webové stránky na přehledné a strukturované výsledky.
-firefox-products-start-automating-the-web = Automatizujte web
+firefox-products-start-automating-the-web = Automatizujte úlohy na webu
 firefox-products-learn-more-about-tabstack = Zjistit více o službě { -brand-name-tabstack }
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } zjednodušuje správu více poskytovatelů umělé inteligence tím, že sjednocuje směrování, zabezpečení, rozpočtování, převzetí služeb při selhání a auditování do jediného koncového bodu API.
-firefox-products-own-your-ai-stack = Buďte vlastníkem svého zásobníku umělé inteligence
+firefox-products-own-your-ai-stack = Mějte svůj AI stack pod kontrolou
 firefox-products-learn-more-about-otari = Zjistit více o projektu { -brand-name-otari }
 
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
-firefox-products-mozilla-ads-desc = Přidejte své reklamě na důvěryhodnosti. Spojíte se s více než 210 miliony vybraných, náročných uživatelů, kteří jsou věrní značce.
-firefox-products-extend-your-reach = Rozšiřte svůj dosah
+firefox-products-mozilla-ads-desc = Zajistěte si důvěryhodnost při nákupu reklamního prostoru. Oslovíte tak více než 210 milionů náročných a vybíravých uživatelů, kteří jsou věrní značkám.
+firefox-products-extend-your-reach = Oslovte širší publikum
 firefox-products-learn-more-about-mozilla-ads = Zjistit více o službě { -brand-name-mozilla-ads }
