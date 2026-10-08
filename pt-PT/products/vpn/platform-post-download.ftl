@@ -45,10 +45,10 @@ vpn-download-and-install = <a href="{ $extension }">Transfira e instale a extens
 
 vpn-download-faq-need-help = Precisa de ajuda para começar?
 vpn-download-faq-here-are-some = Aqui estão algumas das questões mais comuns sobre a configuração da { -brand-name-mozilla-vpn }
-vpn-download-faq-why-use = Porquê que devo utilizar a { -brand-name-mozilla-vpn }
+vpn-download-faq-why-use = Por que razão devo usar a { -brand-name-mozilla-vpn }?
 # Variables:
 #   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
-vpn-download-faq-as-more-daily = À medida que a vida quotidiana ocorre através da Internet, a privacidade e a segurança online tornam-se ainda mais importantes. Uma VPN, <a href="{ $faq }">Rede Virtual Privada</a>, cria um túnel encriptado entre os seus dispositivos e a Internet, garantindo que a sua ligação permaneça segura e privada, ao mesmo tempo que o protege de duas maneiras importantes:
+vpn-download-faq-as-more-daily = À medida que a vida quotidiana ocorre através da Internet, a privacidade e a segurança online tornam-se ainda mais importantes. Uma VPN, <a href="{ $faq }">Rede Virtual Privada</a>, cria um túnel encriptado entre os seus dispositivos e a internet, garantindo que a sua ligação permaneça segura e privada ao mesmo tempo que o protege de duas maneiras importantes:
 # Variables:
 #   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
 vpn-download-faq-concealing-ip = Esconder o seu <a href="{ $ip }">endereço IP</a> real: isto ajuda a proteger a sua identidade e obscurece a sua localização dos sites que visita.
