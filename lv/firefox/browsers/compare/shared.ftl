@@ -5,3 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+compare-shared-compare-firefox = Salīdzināt { -brand-name-firefox }
+compare-shared-footer-cta-title = Paveic vairāk ar { -brand-name-firefox }
+compare-shared-its-easy-to-switch = Ir viegli nomainīt
+# Used as a small link to a cited source
+compare-shared-source = avots
