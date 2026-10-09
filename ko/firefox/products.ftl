@@ -13,6 +13,13 @@ firefox-products-products = 제품
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox }는 시작에 불과합니다.
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla }의 모든 제품군은 온라인 환경에서 더 안전하고 똑똑하게 생활할 수 있도록 설계되었습니다.
 
+## Section headings
+
+firefox-products-tabs-everyone = 모두를 위한
+firefox-products-tabs-business = 기업용
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = 제품 분류
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -22,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = 2천개 이상의 데이터 추�
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = 자동 추적 보호 및 광고 차단 기능을 갖춘 당신만의 개인 정보 보호 브라우저입니다.
+firefox-products-get-focus = { -brand-name-firefox-focus } 받기
 
 ## Monitor
 
@@ -57,16 +65,27 @@ firefox-products-download-thunderbird = { -brand-name-thunderbird } 다운로드
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = GenAI 취약점을 조기에 발견하고 수정하는 데 도움을 주는 글로벌 보안 전문가 커뮤니티에 AI 시스템을 연결하세요.
+firefox-products-0din-desc-v2 = 글로벌 보안 연구원 커뮤니티와 사용 가능한 최대 규모의 공격 피드를 기반으로, AI 취약점이 운영 환경에 노출되기 전에 찾아 수정합니다.
+firefox-products-test-your-ai = AI 에이전트 테스트
 firefox-products-learn-more-about-0din = { -brand-name-0din }에 대해 더 알아보기
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = 안정적인 자동화를 통해 앱을 웹에 연결하고 라이브 웹 페이지를 명확하고 구조적인 결과로 바꿔줍니다.
+firefox-products-start-automating-the-web = 웹 자동화
 firefox-products-learn-more-about-tabstack = { -brand-name-tabstack }에 대해 더 알아보기
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari }는 단일 API 엔드포인트에서 라우팅, 보안, 예산, 장애 조치, 감사를 통합하여 여러 AI 공급자를 관리하는 복잡성을 제거합니다.
+firefox-products-own-your-ai-stack = 나만의 AI 스택 소유
 firefox-products-learn-more-about-otari = { -brand-name-otari }에 대해 더 알아보기
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = 광고 구매에 신뢰를 더하세요. 까다롭고 안목이 높으며 브랜드 충성도가 높은 2억 1천만 명 이상의 사용자들과 연결됩니다.
+firefox-products-extend-your-reach = 도달 범위 확장
+firefox-products-learn-more-about-mozilla-ads = { -brand-name-mozilla-ads }에 대해 더 알아보기
