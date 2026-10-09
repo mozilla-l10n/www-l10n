@@ -13,6 +13,13 @@ firefox-products-products = Prodotti
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } è solo l’inizio.
 firefox-products-mozillas-family-of-products-sentence = La famiglia di prodotti { -brand-name-mozilla } è progettata per offrirti un’esperienza online più sicura e consapevole.
 
+## Section headings
+
+firefox-products-tabs-everyone = Per tutti
+firefox-products-tabs-business = Per le aziende
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Tipologie di prodotti
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -22,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = Ottieni il browser che blocca aut
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Il browser dedicato alla privacy con protezione automatica dal tracciamento e blocco degli annunci pubblicitari.
+firefox-products-get-focus = Ottieni { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -57,16 +65,27 @@ firefox-products-download-thunderbird = Scarica { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Collega i tuoi sistemi di intelligenza artificiale a una rete globale di esperti di sicurezza che individuano e contribuiscono a risolvere tempestivamente le vulnerabilità della GenAI.
+firefox-products-0din-desc-v2 = Individua e risolvi le vulnerabilità dell’IA prima che arrivino in produzione, con il sostegno di una comunità globale di ricercatori di sicurezza e del più ampio feed disponibile di exploit con attribuzione.
+firefox-products-test-your-ai = Metti alla prova i tuoi agenti IA
 firefox-products-learn-more-about-0din = Ulteriori informazioni su { -brand-name-0din }
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Connetti le tue app al Web con un’automazione affidabile e trasforma le pagine web in risultati chiari e strutturati.
+firefox-products-start-automating-the-web = Automazione per il web
 firefox-products-learn-more-about-tabstack = Ulteriori informazioni su { -brand-name-tabstack }
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } semplifica la gestione di più fornitori di IA, riunendo instradamento, sicurezza, controllo dei costi, failover e audit in un unico endpoint API.
+firefox-products-own-your-ai-stack = Prendi il controllo del tuo stack IA
 firefox-products-learn-more-about-otari = Ulteriori informazioni su { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = Rendi più affidabile il tuo investimento pubblicitario. Raggiungerai oltre 210 milioni di utenti esigenti, attenti e fedeli ai brand.
+firefox-products-extend-your-reach = Amplia il tuo pubblico
+firefox-products-learn-more-about-mozilla-ads = Scopri di più su { -brand-name-mozilla-ads }
