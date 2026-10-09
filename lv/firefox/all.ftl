@@ -35,6 +35,10 @@ firefox-all-microsoft-store-installers = Microsoft veikals
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Lejupielādēt { $esr_version }
+# Variables:
+#   $esr_next_major (string) Next major version number e.g. 128
+#   $esr_current_major (string) Current major version number e.g. 115
+firefox-all-esr-we-are-in-transition = Mēs atrodamies pārejas laika posmā starp galvenajām ESR versijām { $esr_next_major } un { $esr_current_major }.
 firefox-all-check-the-system-requirements = Pārbaudīt sistēmas prasības
 firefox-all-release-notes = Laidiena piezīmes
 firefox-all-source-code = Pirmkods
@@ -57,3 +61,5 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS TestFlight
+firefox-all-download-esr-115 = Lejupielādēt ESR 115
