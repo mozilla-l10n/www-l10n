@@ -65,6 +65,7 @@ firefox-products-download-thunderbird = Descargar { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Conecta tus sistemas de IA a una comunidad mundial de expertos en seguridad que descubren y ayudan a solucionar las vulnerabilidades de GenAI de forma temprana.
+firefox-products-0din-desc-v2 = Detecta y corrige las vulnerabilidades de la IA antes de que lleguen a producción, con el respaldo de una comunidad global de investigadores de seguridad y la mayor base de datos de exploits atribuidos disponible.
 firefox-products-test-your-ai = Prueba tus agentes de IA
 firefox-products-learn-more-about-0din = Aprender más sobre { -brand-name-0din }
 
@@ -87,3 +88,4 @@ firefox-products-learn-more-about-otari = Aprender más sobre { -brand-name-otar
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Genera confianza en tu inversión publicitaria. Conectarás con más de 210 millones de usuarios selectivos, exigentes y fieles a la marca.
 firefox-products-extend-your-reach = Amplía tu alcance
+firefox-products-learn-more-about-mozilla-ads = Aprender más sobre { -brand-name-mozilla-ads }
