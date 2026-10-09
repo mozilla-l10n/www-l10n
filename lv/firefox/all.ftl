@@ -7,6 +7,8 @@
 
 # HTML page title. Replace "English (US)" with your local language.
 firefox-all-download-the-firefox-v2 = Lejupielādē { -brand-name-firefox } angļu (amerikāņu) un vairāk nekā 90 citās valodās
+# HTML page description, also used as the introductory text.
+firefox-all-everyone-deserves-access-v2 = Ikviens ir pelnījis piekļuvi internetam — valodai nekad nevajadzētu būt šķērslim. Tieši tāpēc — ar apņēmīgu brīvprātīgo palīdzību visā pasaulē — mēs padarām { -brand-name-firefox } pieejamu vairāk nekā 90 valodās.
 firefox-all-choose-browser = Jāizvēlas pārlūks, lai turpinātu
 firefox-all-choose-platform = Jāizvēlas platforma, lai turpinātu
 firefox-all-choose-language = Jāizvēlas valoda, lai turpinātu
