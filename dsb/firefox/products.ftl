@@ -87,3 +87,5 @@ firefox-products-learn-more-about-otari = Zgóńśo wěcej wó { -brand-name-ota
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Pśidajśo swójej wabjeńskej kupi dowěru. Zwěžćo z wěcej ako 210 milionami pakosnych, wupominańskich wužywarjow, kótarež su marce zwěrne.
+firefox-products-extend-your-reach = Wobrośćo se na šyršy publikum
+firefox-products-learn-more-about-mozilla-ads = Dalšne informacije wó { -brand-name-mozilla-ads }

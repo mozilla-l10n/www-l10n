@@ -87,5 +87,5 @@ firefox-products-learn-more-about-otari = Zhońće wjace wo { -brand-name-otari 
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Přidajće swojej wabjenskej kupi dowěru. Zwjazajće z wjace hač 210 milionami wuběrawych, naročnych wužiwarjow, kotřiž su marce swěrni.
-firefox-products-extend-your-reach = Rozšěrće swoju dosažliwosć
+firefox-products-extend-your-reach = Wobroćće so na šěrši publikum
 firefox-products-learn-more-about-mozilla-ads = Dalše informacije wo { -brand-name-mozilla-ads }
