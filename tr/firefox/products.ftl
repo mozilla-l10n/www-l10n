@@ -13,6 +13,13 @@ firefox-products-products = Ürünler
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } yalnızca başlangıç.
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } ürün ailesi, daha güvenli ve daha verimli bir internet deneyimi için tasarlandı.
 
+## Section headings
+
+firefox-products-tabs-everyone = Herkes için
+firefox-products-tabs-business = İşletmeler için
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Ürün kategorileri
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -63,9 +70,15 @@ firefox-products-learn-more-about-0din = { -brand-name-0din } hakkında bilgi al
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Güvenilir otomasyonla uygulamalarınızı web’e bağlayın, yayındaki web sayfalarını yalın ve yapılandırılmış sonuçlara dönüştürün.
+firefox-products-start-automating-the-web = Web’i otomatikleştirin
 firefox-products-learn-more-about-tabstack = { -brand-name-tabstack } hakkında bilgi alın
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-learn-more-about-otari = { -brand-name-otari } hakkında bilgi alın
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-learn-more-about-mozilla-ads = { -brand-name-mozilla-ads } hakkında bilgi alın

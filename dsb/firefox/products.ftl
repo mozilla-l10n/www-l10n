@@ -16,6 +16,9 @@ firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } 
 ## Section headings
 
 firefox-products-tabs-everyone = Za kuždego
+firefox-products-tabs-business = Za pśedewześa
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Produktowe kategorije
 
 ## Firefox
 
@@ -26,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = Wobstarajśo se wobglědowak, kó
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Waš wobglědowak z funkcijami priwatnosći z awtomatiskim  šćitom pśed slědowanim a blokěrowanim wabjenja.
+firefox-products-get-focus = Wobstarajśo se { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -61,16 +65,24 @@ firefox-products-download-thunderbird = Ześěgniśo { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Zwěžćo swóje systemy KI z globalnym zgromaźeństwom wěstotnych ekspertow, kótarež jěsno zranjobnosći GenAI namakaju a pomagaju, je pórěźiś.
+firefox-products-0din-desc-v2 = Namakajśo a pórěźćo zranjobnosći KI, nježli až do produkcije dojdu, z pódpěru globalnego zgromaźeństwa wěstotnych slěźerjow a nejwětšego pśistupnego kanala eksploitow.
+firefox-products-test-your-ai = Testujśo swójich agentow KI
 firefox-products-learn-more-about-0din = Dalšne informacije wó { -brand-name-0din }
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Zwězajśo swóje nałoženja z webom ze spušćobneju awtomatizaciju a pśetwóŕśo webboki do cystych, strukturěrowanych wuslědkow.
+firefox-products-start-automating-the-web = Awtomatizěrujśo web
 firefox-products-learn-more-about-tabstack = Dalšne informacije wó { -brand-name-tabstack }
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } kompleksnosć zastojanja někotarych póbitowarjow KI eliminěrujo. Zjadnośujo routing, wěstotu, budgetowe planowanje, failover a pśespytowanje zliceńkow za jadnotliwym kóńcnym dypkom API.
+firefox-products-own-your-ai-stack = Źaržćo swój štapjel KI pód kontrolu
 firefox-products-learn-more-about-otari = Zgóńśo wěcej wó { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
