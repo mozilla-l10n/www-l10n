@@ -29,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = 2.000’den fazla veri takip kodu
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Otomatik izlenme koruması ve reklam engelleme özelliğiyle gizlilik yanlısı tarayıcınız.
+firefox-products-get-focus = { -brand-name-firefox-focus }’u indir
 
 ## Monitor
 
@@ -64,6 +65,7 @@ firefox-products-download-thunderbird = { -brand-name-thunderbird }’ü indir
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Yapay zekâ sistemlerinizi, GenAI güvenlik açıklarını erken aşamada ortaya çıkaran ve giderilmesine yardımcı olan küresel bir güvenlik uzmanları topluluğuna bağlayın.
+firefox-products-test-your-ai = Yapay zekâ agent’larınızı test edin
 firefox-products-learn-more-about-0din = { -brand-name-0din } hakkında bilgi alın
 
 ## Tabstack
