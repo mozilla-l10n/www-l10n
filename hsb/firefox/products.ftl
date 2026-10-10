@@ -65,6 +65,7 @@ firefox-products-download-thunderbird = Sćehńće { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Zwjazajće swoje systemy KI z globalnym zhromadźenstwom wěstotnych ekspertow, kotřiž zahe zranitosće GenAI wotkrywaja a pomhaja, je porjedźić.
+firefox-products-0din-desc-v2 = Namakajće a porjedźće zranitosće KI, prjedy hač do produkcije dóńdu, z podpěru globalneho zhromadźenstwa wěstotnych slědźerjow a najwjetšeho přistupneho kanala eksploitow.
 firefox-products-test-your-ai = Testujće swojich agentow KI
 firefox-products-learn-more-about-0din = Dalše informacije wo { -brand-name-0din }
 
@@ -85,5 +86,6 @@ firefox-products-learn-more-about-otari = Zhońće wjace wo { -brand-name-otari 
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = Přidajće swojej wabjenskej kupi dowěru. Zwjazajće z wjace hač 210 milionami wuběrawych, naročnych wužiwarjow, kotřiž su marce swěrni.
 firefox-products-extend-your-reach = Rozšěrće swoju dosažliwosć
 firefox-products-learn-more-about-mozilla-ads = Dalše informacije wo { -brand-name-mozilla-ads }
