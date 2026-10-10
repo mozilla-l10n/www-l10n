@@ -65,6 +65,7 @@ firefox-products-download-thunderbird = Last ned { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Kople AI-systema dine til ein global fellesskap av tryggingsekspertar som avdekkjer og bidreg til å rette GenAI-sårbarheiter tidleg.
+firefox-products-test-your-ai = Test KI-agentane dine
 firefox-products-learn-more-about-0din = Les meir om { -brand-name-0din }
 
 ## Tabstack
@@ -78,9 +79,11 @@ firefox-products-learn-more-about-tabstack = Les meir om { -brand-name-tabstack 
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } gjer det enklare å administrere fleire KI-leverandørar ved å samle ruting, sikkerheit, budsjettering, redundans og revisjon bak eitt enkelt API-endepunkt.
+firefox-products-own-your-ai-stack = Ta kontroll over KI-stakken din
 firefox-products-learn-more-about-otari = Les meir om { -brand-name-otari }
 
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-extend-your-reach = Nå ut til fleire
 firefox-products-learn-more-about-mozilla-ads = Les meir om { -brand-name-mozilla-ads }
