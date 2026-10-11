@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/desktop/linux
 
 vpn-linux-mozilla-vpn = Linux’ta { -brand-name-mozilla-vpn }
+vpn-linux-looking-for = Linux cihazınızı koruyacak bir VPN mi arıyorsunuz? { -brand-name-mozilla-vpn }, kâr amacı gütmeyen bir şirket tarafından sunulan tek VPN hizmetidir. VPN’in sizi nasıl koruduğunu ve gizliliğiniz ile güvenliğiniz için neden { -brand-name-mozilla }’ya güvenebileceğinizi öğrenin.
 vpn-linux-mozilla-vpn-on-linux = Daha gizli ve güvenli bir internet için Linux’ta { -brand-name-mozilla-vpn }
 vpn-linux-linux-is-free = Linux özgür, açık kaynaklı ve özelleştirilebilir olsa da çevrimiçi güvenlik ve gizlilik sorunlarına karşı bağışık değildir. Diğer işletim sistemlerini kullananlar gibi Linux kullanıcıları da sansür, gözetim ve hacking ile karşı karşıya kalır.
 vpn-linux-why-choose = Linux için neden { -brand-name-mozilla-vpn }’i seçmeliyim?

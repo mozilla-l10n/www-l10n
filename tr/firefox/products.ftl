@@ -66,7 +66,7 @@ firefox-products-download-thunderbird = { -brand-name-thunderbird }’ü indir
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Yapay zekâ sistemlerinizi, GenAI güvenlik açıklarını erken aşamada ortaya çıkaran ve giderilmesine yardımcı olan küresel bir güvenlik uzmanları topluluğuna bağlayın.
 firefox-products-0din-desc-v2 = Küresel bir güvenlik araştırmacıları topluluğunun ve mevcut en büyük attributed exploit veri akışının desteğiyle, yapay zekâ güvenlik açıklarını canlıya almadan tespit edip giderin.
-firefox-products-test-your-ai = Yapay zekâ agent’larınızı test edin
+firefox-products-test-your-ai = Yapay zekâ ajanlarını test et
 firefox-products-learn-more-about-0din = { -brand-name-0din } hakkında bilgi alın
 
 ## Tabstack
