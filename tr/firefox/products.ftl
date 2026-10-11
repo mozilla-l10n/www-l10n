@@ -65,6 +65,7 @@ firefox-products-download-thunderbird = { -brand-name-thunderbird }’ü indir
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Yapay zekâ sistemlerinizi, GenAI güvenlik açıklarını erken aşamada ortaya çıkaran ve giderilmesine yardımcı olan küresel bir güvenlik uzmanları topluluğuna bağlayın.
+firefox-products-0din-desc-v2 = Küresel bir güvenlik araştırmacıları topluluğunun ve mevcut en büyük attributed exploit veri akışının desteğiyle, yapay zekâ güvenlik açıklarını canlıya almadan tespit edip giderin.
 firefox-products-test-your-ai = Yapay zekâ agent’larınızı test edin
 firefox-products-learn-more-about-0din = { -brand-name-0din } hakkında bilgi alın
 
@@ -72,15 +73,19 @@ firefox-products-learn-more-about-0din = { -brand-name-0din } hakkında bilgi al
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Güvenilir otomasyonla uygulamalarınızı web’e bağlayın, yayındaki web sayfalarını yalın ve yapılandırılmış sonuçlara dönüştürün.
-firefox-products-start-automating-the-web = Web’i otomatikleştirin
+firefox-products-start-automating-the-web = Web’i otomatikleştir
 firefox-products-learn-more-about-tabstack = { -brand-name-tabstack } hakkında bilgi alın
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari }, yönlendirme, güvenlik, bütçe yönetimi, yük devretme ve denetim işlevlerini tek bir API uç noktasında birleştirerek çok sayıda yapay zekâ sağlayıcısını yönetmeyi kolaylaştırır.
+firefox-products-own-your-ai-stack = AI altyapınızın kontrolü sizde olsun
 firefox-products-learn-more-about-otari = { -brand-name-otari } hakkında bilgi alın
 
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = Reklam yatırımınıza güven katın. Seçici, bilinçli ve marka sadakati yüksek 210 milyondan fazla kullanıcıya ulaşın.
+firefox-products-extend-your-reach = Daha geniş kitlelere ulaşın
 firefox-products-learn-more-about-mozilla-ads = { -brand-name-mozilla-ads } hakkında bilgi alın
