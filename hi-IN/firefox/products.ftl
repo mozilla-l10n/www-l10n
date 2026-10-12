@@ -76,6 +76,3 @@ firefox-products-learn-more-about-tabstack = { -brand-name-tabstack } के ब
 
 ## Mozilla Ads
 
-
-## Firefox for Enterprise
-

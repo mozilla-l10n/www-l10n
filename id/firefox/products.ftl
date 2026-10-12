@@ -76,6 +76,3 @@ firefox-products-learn-more-about-tabstack = Pelajari lebih lanjut mengenai { -b
 
 ## Mozilla Ads
 
-
-## Firefox for Enterprise
-
