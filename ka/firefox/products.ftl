@@ -80,12 +80,12 @@ firefox-products-learn-more-about-tabstack = უკეთ გაიცანი�
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } აგარიდებთ რამდენიმე მომწოდებლის ხელგონით სარგებლობის სირთულეებს, აერთიანებს რა დამისამართებას, უსაფრთხოებას, ფინანსური გეგმის შედგენას, სათადარიგო სისტემაზე გადასვლებსა და შემოწმება/გადასინჯვებს ერთიანი API-მაკავშირებლის გამოყენებით.
-firefox-products-own-your-ai-stack = დაეუფლეთ თქვენს AI სტეკს
+firefox-products-own-your-ai-stack = განკარგეთ თქვენი AI-წყება
 firefox-products-learn-more-about-otari = გაიცანით უკეთ  { -brand-name-otari }
 
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
-firefox-products-mozilla-ads-desc = დაამატეთ ნდობა თქვენს სარეკლამო შენაძენს. თქვენ დაუკავშირდებით 210 მილიონზე მეტ შერჩეულ, გამჭრიახ, ბრენდის ერთგულ მომხმარებელს.
+firefox-products-mozilla-ads-desc = აამაღლეთ ნდობა თქვენი რეკლამისადმი. წვდომა 210 მილიონზე მეტ საგულდაგულოდ შერჩეულ, გათვითცნობიერებულ და ერთგულ მომხმარებელთან.
 firefox-products-extend-your-reach = უფრო ფართო გავრცელება
 firefox-products-learn-more-about-mozilla-ads = უკეთ გაიცანით { -brand-name-mozilla-ads }
