@@ -13,6 +13,13 @@ firefox-products-products = Produse
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } este doar începutul.
 firefox-products-mozillas-family-of-products-sentence = Familia de produse { -brand-name-mozilla } sunt toate concepute ca să te țină în siguranță și mai inteligent online.
 
+## Section headings
+
+firefox-products-tabs-everyone = Pentru toți
+firefox-products-tabs-business = Pentru afaceri
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Categorii de produse
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -22,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = Obține browserul care blochează
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Browser dedicat confidențialității, cu protecție automată de împotriva urmăririi și blocarea reclamelor.
+firefox-products-get-focus = Instalează { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -57,16 +65,27 @@ firefox-products-download-thunderbird = Descarcă { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Conectează sistemele AI la o comunitate globală de experți în securitate care descoperă și ajută la remedierea din timp a vulnerabilităților GenAI.
+firefox-products-0din-desc-v2 = Cauți și repari vulnerabilități AI înainte să ajungă în faza de producție, cu sprijinul unei comunități globale de cercetători în domeniul securității și cu cel mai mare flux disponibil de exploituri atribuite.
+firefox-products-test-your-ai = Testează-ți agenții AI
 firefox-products-learn-more-about-0din = Află mai multe despre { -brand-name-0din }
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Conectează-ți aplicațiile la web cu o automatizare fiabilă și transformă paginile web live în rezultate curate și structurate.
+firefox-products-start-automating-the-web = Automatizează webul
 firefox-products-learn-more-about-tabstack = Află mai multe despre { -brand-name-tabstack }
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } elimină complexitatea gestionării mai multor furnizori AI prin unificarea rutării, securității, bugetării, failoverului și auditării în spatele unui singur endpoint API.
+firefox-products-own-your-ai-stack = Preia controlul asupra stivei AI
 firefox-products-learn-more-about-otari = Află mai multe despre { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = Adaugă încredere reclamelor tale. Te vei conecta cu peste 210 milioane de utilizatori exigenți și loiali mărcilor.
+firefox-products-extend-your-reach = Extinde-ți raza
+firefox-products-learn-more-about-mozilla-ads = Află mai multe despre { -brand-name-mozilla-ads }
