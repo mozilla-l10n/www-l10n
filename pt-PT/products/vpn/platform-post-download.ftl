@@ -70,4 +70,4 @@ vpn-download-faq-lastly = Por fim, em dispositivos suportados, pode tornar a VPN
 vpn-download-faq-need-more = Precisa de um pouco mais de ajuda?
 # Variables
 #   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
-vpn-download-faq-support = Pode entrar em contacto com a nossa equipa de suporte diretamente da aplicação { -brand-name-mozilla-vpn }, clicando em Definições > Obter ajuda > Contactar o suporte. Pode também contactar-nos <a href="{ $support }">na nossa página de apoio</a>.
+vpn-download-faq-support = Pode contactar a nossa equipa de suporte diretamente a partir da Aplicação { -brand-name-mozilla-vpn }, clicando em Definições > Obter Ajuda > Contactar Suporte. Pode também contactar-nos <a href="{ $support }">na nossa página de suporte</a>.
