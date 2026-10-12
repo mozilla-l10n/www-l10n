@@ -38,5 +38,3 @@ footer-refresh-community-participation-guidelines = Retningslinjer for fellesska
 footer-refresh-about-this-site = Om denne nettstaden
 footer-refresh-all-languages = Alle språk
 footer-refresh-language = Språk
-footer-refresh-anonym-privacy-policy = { -brand-name-anonym } personvernpraksis
-footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } generelle vilkår

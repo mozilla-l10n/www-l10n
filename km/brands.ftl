@@ -85,10 +85,6 @@
 
 -brand-name-fakespot = ហ្វេកស្ពត
 
-## Anonym
-
--brand-name-anonym = អនាមិក
-
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla

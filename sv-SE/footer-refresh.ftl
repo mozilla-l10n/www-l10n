@@ -38,5 +38,3 @@ footer-refresh-community-participation-guidelines = Riktlinjer för gemenskapens
 footer-refresh-about-this-site = Om denna webbplats
 footer-refresh-all-languages = Alla språk
 footer-refresh-language = Språk
-footer-refresh-anonym-privacy-policy = { -brand-name-anonym } sekretesspolicy
-footer-refresh-anonym-terms-and-conditions = Allmänna villkor för { -brand-name-anonym }

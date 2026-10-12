@@ -38,5 +38,3 @@ footer-refresh-community-participation-guidelines = Қоғамдастыққа �
 footer-refresh-about-this-site = Бұл сайт туралы
 footer-refresh-all-languages = Барлық тілдер
 footer-refresh-language = Тіл
-footer-refresh-anonym-privacy-policy = { -brand-name-anonym } жекелік саясаты
-footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } Шарттары мен ережелері

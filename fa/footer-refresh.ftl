@@ -38,5 +38,3 @@ footer-refresh-community-participation-guidelines = رهنمودهای مشار�
 footer-refresh-about-this-site = دربارهٔ این سایت
 footer-refresh-all-languages = همهٔ زبان‌ها
 footer-refresh-language = زبان
-footer-refresh-anonym-privacy-policy = سیاست حریم خصوصی { -brand-name-anonym }
-footer-refresh-anonym-terms-and-conditions = شرایط و ضوابط { -brand-name-anonym }

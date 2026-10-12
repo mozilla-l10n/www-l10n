@@ -38,5 +38,3 @@ footer-refresh-community-participation-guidelines = כללי השתתפות בק
 footer-refresh-about-this-site = על אודות אתר זה
 footer-refresh-all-languages = כל השפות
 footer-refresh-language = שפה
-footer-refresh-anonym-privacy-policy = מדיניות הפרטיות של { -brand-name-anonym }
-footer-refresh-anonym-terms-and-conditions = התנאים וההגבלות של { -brand-name-anonym }

@@ -38,5 +38,3 @@ footer-refresh-community-participation-guidelines = 커뮤니티 참여 가이�
 footer-refresh-about-this-site = 이 사이트 정보
 footer-refresh-all-languages = 모든 언어
 footer-refresh-language = 언어
-footer-refresh-anonym-privacy-policy = { -brand-name-anonym } 개인 정보 보호 정책
-footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } 이용 약관

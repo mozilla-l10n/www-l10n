@@ -35,5 +35,3 @@ footer-refresh-community-participation-guidelines = ਕਮਿਊਨਟੀ ਹਿ
 footer-refresh-about-this-site = ਇਸ ਸਾਈਟ ਬਾਰੇ
 footer-refresh-all-languages = ਸਭ ਭਾਸ਼ਾਵਾਂ
 footer-refresh-language = ਭਾਸ਼ਾ
-footer-refresh-anonym-privacy-policy = { -brand-name-anonym } ਪਰਦੇਦਾਰੀ ਨੀਤੀ
-footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ

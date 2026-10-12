@@ -38,5 +38,3 @@ footer-refresh-community-participation-guidelines = Wobźěleńske směrnice zgr
 footer-refresh-about-this-site = Wó toś tom sedle
 footer-refresh-all-languages = Wšykne rěcy
 footer-refresh-language = Rěc
-footer-refresh-anonym-privacy-policy = Pšawidła priwatnosći { -brand-name-anonym }
-footer-refresh-anonym-terms-and-conditions = Wobchodne wuměnjenja { -brand-name-anonym }

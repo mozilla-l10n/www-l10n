@@ -108,10 +108,6 @@
 
 -brand-name-fakespot = Fakespot
 
-## Anonym
-
--brand-name-anonym = Anonym
-
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla

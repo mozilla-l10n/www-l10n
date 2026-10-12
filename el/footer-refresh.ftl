@@ -38,5 +38,3 @@ footer-refresh-community-participation-guidelines = Κανόνες συμμετ�
 footer-refresh-about-this-site = Σχετικά με τον ιστότοπο
 footer-refresh-all-languages = Όλες οι γλώσσες
 footer-refresh-language = Γλώσσα
-footer-refresh-anonym-privacy-policy = Πολιτική απορρήτου του { -brand-name-anonym }
-footer-refresh-anonym-terms-and-conditions = Όροι και προϋποθέσεις του { -brand-name-anonym }

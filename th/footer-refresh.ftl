@@ -38,5 +38,3 @@ footer-refresh-community-participation-guidelines = แนวทางการ�
 footer-refresh-about-this-site = เกี่ยวกับไซต์นี้
 footer-refresh-all-languages = ภาษาทั้งหมด
 footer-refresh-language = ภาษา
-footer-refresh-anonym-privacy-policy = นโยบายความเป็นส่วนตัวของ { -brand-name-anonym }
-footer-refresh-anonym-terms-and-conditions = เงื่อนไขและข้อกำหนดของ { -brand-name-anonym }

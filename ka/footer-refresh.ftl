@@ -38,5 +38,3 @@ footer-refresh-community-participation-guidelines = მონაწილის 
 footer-refresh-about-this-site = საიტის შესახებ
 footer-refresh-all-languages = ყველა ენა
 footer-refresh-language = ენა
-footer-refresh-anonym-privacy-policy = { -brand-name-anonym } – პირადულობის დებულება
-footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } – მომსახურების პირობები

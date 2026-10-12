@@ -89,10 +89,6 @@
 
 -brand-name-fakespot = Fakespot
 
-## Anonym
-
--brand-name-anonym = Dizanv
-
 ## Mozilla projects
 
 -brand-name-bugzilla = Bugzilla

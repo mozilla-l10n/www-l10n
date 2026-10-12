@@ -38,5 +38,3 @@ footer-refresh-community-participation-guidelines = Rjochtlinen foar dielnimming
 footer-refresh-about-this-site = Oer dizze website
 footer-refresh-all-languages = Alle talen
 footer-refresh-language = Taal
-footer-refresh-anonym-privacy-policy = { -brand-name-anonym }-privacybelied
-footer-refresh-anonym-terms-and-conditions = Algemiene betingsten { -brand-name-anonym }

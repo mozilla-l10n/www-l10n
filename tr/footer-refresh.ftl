@@ -38,5 +38,3 @@ footer-refresh-community-participation-guidelines = Topluluk Katılım Kurallar�
 footer-refresh-about-this-site = Bu Site Hakkında
 footer-refresh-all-languages = Tüm diller
 footer-refresh-language = Dil
-footer-refresh-anonym-privacy-policy = { -brand-name-anonym } Gizlilik İlkeleri
-footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } Şart ve Koşulları
