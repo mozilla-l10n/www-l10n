@@ -66,7 +66,7 @@ firefox-products-download-thunderbird = ჩამოტვირთეთ { -bra
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = დააკავშირეთ თქვენი ხელგონის სისტემები უსაფრთხოების ექსპერტთა საერთაშორისო საზოგადოებასთან, რომელიც აღმოაჩენს და დაგეხმარებათ GenAI-მოწყვლადობების დროზე ადრე აღმოფხვრაში.
 firefox-products-0din-desc-v2 = იპოვეთ და გაასწორეთ ხელგონის ხარვეზები, სანამ მიაღწევს წარმოების საფეხურამდე, უსაფრთხოების მკვლევართა საერთაშორისო ერთობისა და დაწვრილებით აღნუსხულ ექსპლოიტთა უდიდესი არხის მეშვეობით.
-firefox-products-test-your-ai = გამოცადეთ თქვენი AI აგენტები
+firefox-products-test-your-ai = გამოცადეთ ხელგონის თქვენი შემსრულებლები
 firefox-products-learn-more-about-0din = უკეთ გაიცანით { -brand-name-0din }
 
 ## Tabstack
@@ -87,5 +87,5 @@ firefox-products-learn-more-about-otari = გაიცანით უკეთ 
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = დაამატეთ ნდობა თქვენს სარეკლამო შენაძენს. თქვენ დაუკავშირდებით 210 მილიონზე მეტ შერჩეულ, გამჭრიახ, ბრენდის ერთგულ მომხმარებელს.
-firefox-products-extend-your-reach = გააფართოვეთ თქვენი შესაძლებლობები
-firefox-products-learn-more-about-mozilla-ads = გაიგეთ მეტი { -brand-name-mozilla-ads }-ის შესახებ
+firefox-products-extend-your-reach = უფრო ფართო გავრცელება
+firefox-products-learn-more-about-mozilla-ads = უკეთ გაიცანით { -brand-name-mozilla-ads }
