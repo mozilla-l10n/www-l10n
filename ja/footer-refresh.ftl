@@ -38,5 +38,3 @@ footer-refresh-community-participation-guidelines = コミュニティ参加ガ�
 footer-refresh-about-this-site = このサイトについて
 footer-refresh-all-languages = すべての言語
 footer-refresh-language = 言語
-footer-refresh-anonym-privacy-policy = { -brand-name-anonym } プライバシーポリシーを見る
-footer-refresh-anonym-terms-and-conditions = { -brand-name-anonym } 利用規約
