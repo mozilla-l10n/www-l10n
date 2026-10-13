@@ -14,6 +14,7 @@ firefox-desktop-out-of-date = Ir pieejama vēl jaunāka { -brand-name-firefox } 
 firefox-desktop-download-get-the-browser = Iegūsti pārlūku, kas aizsargā to, kas ir svarīgs
 firefox-desktop-set-as-default = Iestatīt { -brand-name-firefox } kā noklusējuma pārlūku.
 firefox-desktop-download-download-options = Lejupielāžu iespējas un citas valodas
+firefox-desktop-download-ads-are-distracting = Reklāmas novērš uzmanību un palēnina tīmekļa lapu ielādi, savukārt to izsekotāji uzrauga katru Tavu darbību tiešsaistē. { -brand-name-firefox-browser } automātiski aiztur lielāko daļu izsekotāju, tāpēc nav nepieciešams iedziļināties drošības iestatījumos.
 firefox-desktop-download-search-from-address = Meklēt adrešu joslā
 firefox-desktop-download-bookmarks-manager = Grāmatzīmju pārvaldnieks
 firefox-desktop-download-reader-mode = Lasīšanas režīms
