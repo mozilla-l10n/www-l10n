@@ -38,5 +38,3 @@ footer-refresh-community-participation-guidelines = التعليمات التو�
 footer-refresh-about-this-site = نبذة عن هذا الموقع
 footer-refresh-all-languages = كل اللغات
 footer-refresh-language = اللغة
-footer-refresh-anonym-privacy-policy = سياسة خصوصية { -brand-name-anonym }
-footer-refresh-anonym-terms-and-conditions = شروط وأحكام { -brand-name-anonym }
