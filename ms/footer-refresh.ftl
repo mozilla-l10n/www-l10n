@@ -38,5 +38,3 @@ footer-refresh-community-participation-guidelines = Garis Panduan Penyertaan Kom
 footer-refresh-about-this-site = Mengenai laman ini
 footer-refresh-all-languages = Semua bahasa
 footer-refresh-language = Bahasa
-footer-refresh-anonym-privacy-policy = Polisi Peribadi { -brand-name-anonym }
-footer-refresh-anonym-terms-and-conditions = Terma dan Syarat { -brand-name-anonym }
