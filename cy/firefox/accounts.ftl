@@ -24,7 +24,7 @@ firefox-accounts-send-a-tab = <a href="{ $send }">Anfon tab</a> i ddyfais arall
 #   $password (url) - link to https://www.mozilla.org/firefox/features/password-manager/
 firefox-accounts-save-and-sync = <a href="{ $password }">Cadw a chydweddu cyfrineiriau</a>
 firefox-accounts-get-email-alerts = Derbyn rhybuddion e-bost pan fydd eich manylion yn ymddangos mewn achos hysbys o dor-data
-firefox-accounts-protect-your-identity = Diogelwch eich hunaniaeth trwy guddio rhif ffôn ac e-bost diogel
+firefox-accounts-protect-your-identity = Diogelu eich hunaniaeth trwy guddio rhif ffôn ac e-bost diogel
 firefox-accounts-keep-your-passwords = Cadwch eich cyfrineiriau wedi'u diogelu ac yn gludadwy.
 firefox-accounts-travel-the-internet = Teithiwch y rhyngrwyd gyda diogelwch, ar bob dyfais.
 firefox-accounts-encrypt-your = Amgryptiwch eich gweithgaredd rhwydwaith a chuddio'ch cyfeiriad IP
