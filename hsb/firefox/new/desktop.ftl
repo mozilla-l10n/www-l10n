@@ -52,7 +52,7 @@ firefox-desktop-download-spell-check = Prawopisna kontrola
 firefox-desktop-download-pinned-tabs = Připjate rajtarki
 firefox-desktop-download-stream-share-play = Streamować, dźělić a hrać
 # Autoplay is a feature names and so is capitalized in English
-firefox-desktop-download-block-autoplay-of = Awtomatiske wothrawanje widejow a awdio blokować
+firefox-desktop-download-block-autoplay-of = Awtomatiske wothrawanje widejow a awdijo blokować
 # Picture-in-Picture is a feature names and so is capitalized in English
 firefox-desktop-download-picture-in-picture = Wobraz-we-wobrazu
 firefox-desktop-download-curated-content-on = Hladany wobsah na nowym rajtarku
