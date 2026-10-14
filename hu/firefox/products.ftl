@@ -66,7 +66,7 @@ firefox-products-download-thunderbird = A { -brand-name-thunderbird } letöltés
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Kapcsolja össze az MI rendszereit a biztonsági szakértők globális közösségével, akik feltárják a GenAI sérülékenységeket, és korán javítják őket.
 firefox-products-0din-desc-v2 = Találja meg és hárítsa el az MI sebezhetőségeit, még mielőtt azok elérnék az éles verziót – a biztonsági kutatók globális közösségének támogatásával, és a legnagyobb elérhető sérülékenységforrással.
-firefox-products-test-your-ai = Tesztelje az MI ügynökeit
+firefox-products-test-your-ai = Tesztelje az MI-ügynökeit
 firefox-products-learn-more-about-0din = Tudjon meg többet az { -brand-name-0din } szolgáltatásról
 
 ## Tabstack
