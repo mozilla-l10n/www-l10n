@@ -89,3 +89,11 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Zajistěte si důvěryhodnost při nákupu reklamního prostoru. Oslovíte tak více než 210 milionů náročných a vybíravých uživatelů, kteří jsou věrní značkám.
 firefox-products-extend-your-reach = Oslovte širší publikum
 firefox-products-learn-more-about-mozilla-ads = Zjistit více o službě { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Nasaďte, spravujte a zabezpečte aplikaci { -brand-name-firefox } napříč vaší organizací pomocí nastavení firemních zásad.
+firefox-products-firefox-enterprise-desc-v2 = Firemní firemní platforma kontrolovaná zákazníkem { -brand-name-mozilla }. Vytvořen tak, aby pomohl organizacím posílit jejich digitální suverenitu a provozní odolnost prostřednictvím větší kontroly nad jejich daty, IT infrastrukturou a prostředím prohlížeče.
+firefox-products-manage-your-fleet = Nasadit { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = Zjistit více o službě { -brand-name-firefox-enterprise }

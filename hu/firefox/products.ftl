@@ -89,3 +89,11 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Erősítsen a hirdetésvásárlásában. Több mint 210 millió szelektív, igényes, márkahű felhasználóval lép kapcsolatba.
 firefox-products-extend-your-reach = Bővítse az elérését
 firefox-products-learn-more-about-mozilla-ads = Tudjon meg többet a(z) { -brand-name-mozilla-ads } kiegészítőről
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Telepítse, kezelje és biztosítsa a(z) { -brand-name-firefox } szolgáltatást az egész szervezetén vállalati szintű házirend-vezérlésekkel.
+firefox-products-firefox-enterprise-desc-v2 = A(z) { -brand-name-mozilla } vásárlók által vezérelt, helyszíni vállalati böngészőplatformja. Arra terveztük, hogy az adatai, informatikai infrastruktúrájuk és böngészőkörnyezetük feletti nagyobb ellenőrzés segítségével a szervezetek megerősítsék digitális szuverenitásukat és működési rugalmasságukat.
+firefox-products-manage-your-fleet = { -brand-name-firefox } telepítése
+firefox-products-learn-more-about-firefox-enterprise = Tudjon meg többet a(z) { -brand-name-firefox-enterprise } kiegészítőről

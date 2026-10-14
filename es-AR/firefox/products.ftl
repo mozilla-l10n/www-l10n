@@ -89,3 +89,11 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Agregá confianza a tu compra de publicidad. Conectarás con más de 210 millones de usuarios selectivos, exigentes y leales a la marca.
 firefox-products-extend-your-reach = Ampliá tu alcance
 firefox-products-learn-more-about-mozilla-ads = Conocer más sobre { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Implementá, administrá y asegurá { -brand-name-firefox } en toda tu organización con controles de políticas de nivel empresarial.
+firefox-products-firefox-enterprise-desc-v2 = La plataforma de navegador empresarial local de { -brand-name-mozilla } controlada por el cliente. Creado para ayudar a las organizaciones a fortalecer su soberanía digital y resiliencia operativa a través de un mayor control sobre sus datos, infraestructura de TI y entorno de navegador.
+firefox-products-manage-your-fleet = Implementar { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = Conocer más sobre { -brand-name-firefox-enterprise }

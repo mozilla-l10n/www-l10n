@@ -89,3 +89,11 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = 放心购买广告。您将与超过 2.1 亿有选择性、有眼光、对品牌忠诚的用户建立联系。
 firefox-products-extend-your-reach = 扩大影响力
 firefox-products-learn-more-about-mozilla-ads = 详细了解 { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = 借助企业级策略控制在整个组织部署、管理和保护 { -brand-name-firefox }。
+firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla } 的客户控制内部企业浏览器平台。旨在帮助组织更好地控制数据、IT 基础设施和浏览器环境来增强其数字自主权和运营弹性。
+firefox-products-manage-your-fleet = 部署 { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = 详细了解 { -brand-name-firefox-enterprise }
