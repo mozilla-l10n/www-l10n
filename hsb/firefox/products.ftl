@@ -93,5 +93,6 @@ firefox-products-learn-more-about-mozilla-ads = Dalše informacije wo { -brand-n
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Rozdźělće, rjadujće a zawěsćće { -brand-name-firefox } w swojej organizaciji z wodźenskimi elementami prawidłow za předewzaća.
 firefox-products-manage-your-fleet = { -brand-name-firefox } rozdźělić
 firefox-products-learn-more-about-firefox-enterprise = Dalše informacije wo { -brand-name-firefox-enterprise }
