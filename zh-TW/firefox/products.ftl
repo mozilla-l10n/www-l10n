@@ -94,6 +94,6 @@ firefox-products-learn-more-about-mozilla-ads = 了解 { -brand-name-mozilla-ads
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
 firefox-products-firefox-enterprise-desc = 運用企業級原則控制，在整個組織中部署、管理並讓 { -brand-name-firefox } 變得更安全。
-firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla } 由客戶自行控制的企業內部瀏覽器平台。透過加強控制組織的資料、IT 基礎架構、瀏覽器環境等方式幫助組織加強數位主控權與營運彈性。
+firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla } 推出的企業內部瀏覽器部署平台，讓客戶掌握完整控制權。透過強化對資料、IT 基礎架構與瀏覽器環境的掌控，協助組織提升數位自主與營運韌性。
 firefox-products-manage-your-fleet = 部署 { -brand-name-firefox }
 firefox-products-learn-more-about-firefox-enterprise = 了解 { -brand-name-firefox-enterprise } 的更多資訊
