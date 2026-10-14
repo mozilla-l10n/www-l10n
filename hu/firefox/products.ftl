@@ -29,7 +29,7 @@ firefox-products-get-the-browser-that-blocks = Szerezze be azt a böngészőt, a
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = A dedikált adatvédelmi böngészője automatikus követés elleni védelemmel és reklámblokkolással.
-firefox-products-get-focus = { -brand-name-firefox-focus } beszerzése
+firefox-products-get-focus = A { -brand-name-firefox-focus } beszerzése
 
 ## Monitor
 
@@ -65,7 +65,7 @@ firefox-products-download-thunderbird = A { -brand-name-thunderbird } letöltés
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Kapcsolja össze az MI rendszereit a biztonsági szakértők globális közösségével, akik feltárják a GenAI sérülékenységeket, és korán javítják őket.
-firefox-products-0din-desc-v2 = Találja meg és hárítsa el a MI sebezhetőségeit, még mielőtt azok elérnék az éles verziót, a biztonsági kutatók globális közössége támogatásával, és a legnagyobb elérhető exploit hírforrással.
+firefox-products-0din-desc-v2 = Találja meg és hárítsa el az MI sebezhetőségeit, még mielőtt azok elérnék az éles verziót – a biztonsági kutatók globális közösségének támogatásával, és a legnagyobb elérhető sérülékenységforrással.
 firefox-products-test-your-ai = Tesztelje az MI ügynökeit
 firefox-products-learn-more-about-0din = Tudjon meg többet az { -brand-name-0din } szolgáltatásról
 
