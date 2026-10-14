@@ -89,3 +89,9 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Gör ditt annonsköp mer trovärdigt. Nå över 210 miljoner kvalitetsmedvetna, kräsna och varumärkeslojala användare.
 firefox-products-extend-your-reach = Nå ut till fler
 firefox-products-learn-more-about-mozilla-ads = Läs mer om { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-manage-your-fleet = Driftsätt { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = Läs mer om { -brand-name-firefox-enterprise }
