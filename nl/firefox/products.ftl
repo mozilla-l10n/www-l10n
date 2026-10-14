@@ -94,5 +94,6 @@ firefox-products-learn-more-about-mozilla-ads = Meer info over { -brand-name-moz
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
 firefox-products-firefox-enterprise-desc = Implementeer, beheer en beveilig { -brand-name-firefox } in uw hele organisatie met beleidsopties op bedrijfsniveau.
+firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla }’s door de klant beheerde, lokale browserplatform voor ondernemingen. Gebouwd om organisaties te helpen hun digitale soevereiniteit en operationele weerbaarheid te versterken door meer controle over hun gegevens, IT-infrastructuur en browseromgeving.
 firefox-products-manage-your-fleet = { -brand-name-firefox } implementeren
 firefox-products-learn-more-about-firefox-enterprise = Meer info over { -brand-name-firefox-enterprise }
