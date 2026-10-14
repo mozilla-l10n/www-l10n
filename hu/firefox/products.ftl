@@ -80,7 +80,7 @@ firefox-products-learn-more-about-tabstack = Tudjon meg többet a { -brand-name-
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = Az { -brand-name-otari } leegyszerűsíti a több MI-szolgáltató kezelését: az útválasztást, a biztonságot, a költségkeretek kezelését, a feladatátvételt és a naplózást egyetlen API-végpont mögött egyesíti.
-firefox-products-own-your-ai-stack = Legyen a tulajdonosa a MI veremnek
+firefox-products-own-your-ai-stack = Vegye saját kézbe az MI-eszközkészletét
 firefox-products-learn-more-about-otari = Tudjon meg többet az { -brand-name-otari }ról
 
 ## Mozilla Ads
@@ -88,12 +88,12 @@ firefox-products-learn-more-about-otari = Tudjon meg többet az { -brand-name-ot
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Erősítsen a hirdetésvásárlásában. Több mint 210 millió szelektív, igényes, márkahű felhasználóval lép kapcsolatba.
 firefox-products-extend-your-reach = Bővítse az elérését
-firefox-products-learn-more-about-mozilla-ads = Tudjon meg többet a(z) { -brand-name-mozilla-ads } kiegészítőről
+firefox-products-learn-more-about-mozilla-ads = További tudnivalók a { -brand-name-mozilla-ads }ről
 
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
-firefox-products-firefox-enterprise-desc = Telepítse, kezelje és biztosítsa a(z) { -brand-name-firefox } szolgáltatást az egész szervezetén vállalati szintű házirend-vezérlésekkel.
-firefox-products-firefox-enterprise-desc-v2 = A(z) { -brand-name-mozilla } vásárlók által vezérelt, helyszíni vállalati böngészőplatformja. Arra terveztük, hogy az adatai, informatikai infrastruktúrájuk és böngészőkörnyezetük feletti nagyobb ellenőrzés segítségével a szervezetek megerősítsék digitális szuverenitásukat és működési rugalmasságukat.
-firefox-products-manage-your-fleet = { -brand-name-firefox } telepítése
-firefox-products-learn-more-about-firefox-enterprise = Tudjon meg többet a(z) { -brand-name-firefox-enterprise } kiegészítőről
+firefox-products-firefox-enterprise-desc = Telepítse, kezelje és biztosítsa a { -brand-name-firefox }ot az egész szervezetében a vállalati szintű házirend-szabályozással.
+firefox-products-firefox-enterprise-desc-v2 = A { -brand-name-mozilla } ügyfél által vezérelt, helyben üzemelő vállalati böngészőplatformja. Arra terveztük, hogy a szervezetek az adataik, az informatikai infrastruktúrájuk és a böngészőkörnyezetük feletti nagyobb ellenőrzés segítségével megerősítsék digitális szuverenitásukat és működési rugalmasságukat.
+firefox-products-manage-your-fleet = A { -brand-name-firefox } telepítése
+firefox-products-learn-more-about-firefox-enterprise = Tudjon meg többet a { -brand-name-firefox-enterprise }-ról
