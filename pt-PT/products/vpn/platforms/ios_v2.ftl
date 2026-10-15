@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/ios/
 
 vpn-ios-vpn-for-iphone = VPN para iPhone da { -brand-name-mozilla }
-vpn-ios-looking-for-a = À procura de uma VPN para o seu iPhone? Os serviços de VPN da { -brand-name-mozilla } asseguram que está protegido online sempre que iniciar sessão no seu dispositivo. Continue a ler para saber mais sobre como manter o seu iPhone protegido contra ataques cibernados com a { -brand-name-mozilla-vpn } para iPhone.
+vpn-ios-looking-for-a = Procura uma VPN para o seu iPhone? Os serviços de VPN da { -brand-name-mozilla } garantem a sua proteção online sempre que inicia sessão no dispositivo. Continue a ler para saber sobre como como proteger o seu iPhone contra ciberataques com a { -brand-name-mozilla-vpn } para iPhone.
 vpn-ios-iphones-are-great = Os iPhones são excelentes a proteger a sua privacidade, mas não podem protegê-lo de todos os riscos da Internet. É por isso que precisa da { -brand-name-mozilla-vpn }, um serviço para o iPhone que encripta o seu tráfego de Internet e oculta a sua localização. Neste artigo, iremos explicar como utilizar a { -brand-name-mozilla-vpn } para iPhone, quais os benefícios que esta oferece e como se compara com outras VPNs.
 vpn-ios-mozilla-vpn-is = A { -brand-name-mozilla-vpn } é um serviço de rede privada virtual que encripta o seu tráfego da Internet e oculta o seu endereço IP de olhares indiscretos.
 vpn-ios-there-are-many = Existem muitos motivos para querer utilizar a { -brand-name-mozilla-vpn } para iPhone, tais como:
