@@ -48,3 +48,6 @@ firefox-products-learn-more-about-mozilla-ads = Uzzināt vairāk par { -brand-na
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
 firefox-products-firefox-enterprise-desc = { -brand-name-firefox } izvietošana, pāŗvaldīšana un aizsargāšana visā apvienībā ar lieluzņēmuma līmeņa pamatnostādņu vadīklām.
+firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla } klientu pārvaldīta, uz vietas pieejama lieluzņēmumu pārlūka platforma. Veidota, lai palīdzētu apvienībām stiprināt savu neatkarību un darbības noturību ciparu pasaulē ar lielāku pārraudzību pār to datiem, IT saimniecību un pārlūka vidi.
+firefox-products-manage-your-fleet = Izvietot { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = Uzzināt vairāk par { -brand-name-firefox-enterprise }
