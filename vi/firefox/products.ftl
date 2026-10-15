@@ -13,6 +13,13 @@ firefox-products-products = Sản phẩm
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } chỉ là khởi đầu.
 firefox-products-mozillas-family-of-products-sentence = Tất cả dòng sản phẩm của { -brand-name-mozilla } đều được thiết kế để giúp bạn trực tuyến an toàn hơn và thông minh hơn.
 
+## Section headings
+
+firefox-products-tabs-everyone = Cho tất cả mọi người
+firefox-products-tabs-business = Cho doanh nghiệp
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Danh mục sản phẩm
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -22,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = Nhận trình duyệt chặn 2000
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Trình duyệt dành riêng cho quyền riêng tư của bạn với tính năng chống theo dõi tự động và chặn quảng cáo.
+firefox-products-get-focus = Tải { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -57,16 +65,35 @@ firefox-products-download-thunderbird = Tải về { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Kết nối hệ thống AI của bạn với cộng đồng chuyên gia bảo mật toàn cầu, những người sẽ phát hiện và giúp khắc phục các lỗ hổng bảo mật của thế hệ AI từ sớm.
+firefox-products-0din-desc-v2 = Tìm và khắc phục các lỗ hổng bảo mật AI trước khi chúng được đưa vào sản xuất, được hỗ trợ bởi cộng đồng các nhà nghiên cứu bảo mật toàn cầu và nguồn cấp dữ liệu khai thác lớn nhất hiện có.
+firefox-products-test-your-ai = Kiểm tra AI agent của bạn
 firefox-products-learn-more-about-0din = Tìm hiểu thêm về { -brand-name-0din }
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Kết nối ứng dụng của bạn với web bằng công nghệ tự động hóa đáng tin cậy và chuyển đổi trang web đang hoạt động thành kết quả rõ ràng, có cấu trúc.
+firefox-products-start-automating-the-web = Tự động hoá trang web
 firefox-products-learn-more-about-tabstack = Tìm hiểu thêm về { -brand-name-tabstack }
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } loại bỏ sự phức tạp trong việc quản lý nhiều nhà cung cấp AI bằng cách hợp nhất định tuyến, bảo mật, ngân sách, dự phòng và kiểm toán đằng sau một endpoint API duy nhất.
+firefox-products-own-your-ai-stack = Làm chủ hệ thống AI của bạn
 firefox-products-learn-more-about-otari = Tìm hiểu thêm về { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = Tăng thêm sự tin tưởng cho chiến dịch quảng cáo của bạn. Bạn sẽ kết nối với hơn 210 triệu người dùng có chọn lọc, tinh tế và trung thành với thương hiệu.
+firefox-products-extend-your-reach = Mở rộng tầm với của bạn
+firefox-products-learn-more-about-mozilla-ads = Tìm hiểu thêm về { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Triển khai, quản lý và bảo mật { -brand-name-firefox } trên toàn tổ chức của bạn với các biện pháp kiểm soát chính sách cấp doanh nghiệp.
+firefox-products-firefox-enterprise-desc-v2 = Nền tảng trình duyệt doanh nghiệp tại chỗ, do khách hàng kiểm soát của { -brand-name-mozilla }. Được xây dựng để giúp các tổ chức tăng cường chủ quyền kỹ thuật số và khả năng phục hồi hoạt động thông qua việc kiểm soát tốt hơn dữ liệu, cơ sở hạ tầng CNTT và môi trường trình duyệt của họ.
+firefox-products-manage-your-fleet = Triển khai { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = Tìm hiểu thêm về { -brand-name-firefox-enterprise }
