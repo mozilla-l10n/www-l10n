@@ -89,3 +89,11 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Жарнама сатып алуыңызға сенімділік қосыңыз. Сіз 210 миллионнан астам таңдаулы, талғампаз, брендке адал пайдаланушылармен байланыс орнатасыз.
 firefox-products-extend-your-reach = Қолжетімділікті кеңейтіңіз
 firefox-products-learn-more-about-mozilla-ads = { -brand-name-mozilla-ads } туралы көбірек білу
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Кәсіпорын деңгейіндегі саясатты басқару элементтерімен ұйымыңызда { -brand-name-firefox } орналастырыңыз, басқарыңыз және қорғаңыз.
+firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla } компаниясының тұтынушы басқаратын, жергілікті кәсіпорындық браузер платформасы. Ұйымдарға деректерін, IT инфрақұрылымын және браузер ортасын бақылауды күшейту арқылы цифрлық егемендігін және операциялық тұрақтылығын нығайтуға көмектесу үшін жасалған.
+firefox-products-manage-your-fleet = { -brand-name-firefox } орналастыру
+firefox-products-learn-more-about-firefox-enterprise = { -brand-name-firefox-enterprise } туралы көбірек білу
