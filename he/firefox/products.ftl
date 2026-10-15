@@ -47,5 +47,6 @@ firefox-products-learn-more-about-mozilla-ads = מידע נוסף על { -brand-
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
 firefox-products-firefox-enterprise-desc = לפרוס, לנהל ולאבטח את { -brand-name-firefox } ברחבי הארגון שלך בעזרת בקרות מדיניות מתקדמות.
+firefox-products-firefox-enterprise-desc-v2 = פלטפורמת הדפדפן הארגוני המקומית של { -brand-name-mozilla }, הנשלטת על ידי הלקוח. היא נבנתה כדי לסייע לארגונים לחזק את הריבונות הדיגיטלית ואת החוסן התפעולי שלהם באמצעות שליטה רבה יותר על הנתונים, תשתית ה־IT וסביבת הדפדפן שלהם.
 firefox-products-manage-your-fleet = הטמעת { -brand-name-firefox }
 firefox-products-learn-more-about-firefox-enterprise = מידע נוסף על { -brand-name-firefox-enterprise }
