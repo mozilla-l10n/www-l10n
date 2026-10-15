@@ -43,3 +43,8 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Palielini uzticību savam reklāmas pirkumam! Tu savienosies ar vairāk nekā 210 miljoniem izvēlīgu, prasīgu un zīmolam uzticīgu lietotāju.
 firefox-products-extend-your-reach = Paplašini to, cik daudz vari aizsniegt
 firefox-products-learn-more-about-mozilla-ads = Uzzināt vairāk par { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = { -brand-name-firefox } izvietošana, pāŗvaldīšana un aizsargāšana visā apvienībā ar lieluzņēmuma līmeņa pamatnostādņu vadīklām.
