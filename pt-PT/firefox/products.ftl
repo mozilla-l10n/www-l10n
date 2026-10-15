@@ -94,6 +94,6 @@ firefox-products-learn-more-about-mozilla-ads = Saiba mais sobre { -brand-name-m
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
 firefox-products-firefox-enterprise-desc = Distribua, faça a gestão, e proteja o { -brand-name-firefox } em toda a sua organização com controlos de políticas de nível empresarial.
-firefox-products-firefox-enterprise-desc-v2 = A plataforma de navegador empresarial local e controlado pelo cliente de { -brand-name-mozilla }. Criado para ajudar as organizações a fortalecer a sua soberana digital e resiliência operacional através de um maior controlo sobre os seus dados, infraestrutura de TI e ambiente do navegador.
+firefox-products-firefox-enterprise-desc-v2 = A plataforma de navegador empresarial local da { -brand-name-mozilla }, controlada pelos clientes. Criada para ajudar as organizações a fortalecer a sua soberania digital e resiliência operacional através de um maior controlo sobre os seus dados, infraestrutura de TI e ambiente do navegador.
 firefox-products-manage-your-fleet = Implemente o { -brand-name-firefox }
 firefox-products-learn-more-about-firefox-enterprise = Saiba mais sobre o { -brand-name-firefox-enterprise }
