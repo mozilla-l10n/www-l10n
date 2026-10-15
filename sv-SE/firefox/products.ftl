@@ -93,5 +93,7 @@ firefox-products-learn-more-about-mozilla-ads = Läs mer om { -brand-name-mozill
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Distribuera, hantera och säkra { -brand-name-firefox } i hela din organisation med företagsbaserade policykontroller.
+firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla }:s lokalt installerade webbläsarplattform för företag, där kunden har kontrollen. Utformad för att hjälpa organisationer att stärka sin digitala suveränitet och operativa motståndskraft genom ökad kontroll över sina data, sin IT-infrastruktur och sin webbläsarmiljö.
 firefox-products-manage-your-fleet = Driftsätt { -brand-name-firefox }
 firefox-products-learn-more-about-firefox-enterprise = Läs mer om { -brand-name-firefox-enterprise }
