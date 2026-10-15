@@ -89,3 +89,11 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Adaugă încredere reclamelor tale. Te vei conecta cu peste 210 milioane de utilizatori exigenți și loiali mărcilor.
 firefox-products-extend-your-reach = Extinde-ți raza
 firefox-products-learn-more-about-mozilla-ads = Află mai multe despre { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Implementează, gestionează și securizează { -brand-name-firefox } în întreaga ta organizație prin instrumente de control al politicilor la nivel de întreprindere.
+firefox-products-firefox-enterprise-desc-v2 = Platforma de browser { -brand-name-mozilla } pentru întreprinderi, găzduită local și controlată de client. Construită pentru a ajuta organizațiile să își consolideze suveranitatea digitală și reziliența operațională printr-un control sporit asupra datelor, infrastructurii IT și mediului de navigare.
+firefox-products-manage-your-fleet = Implementează { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = Află mai multe despre { -brand-name-firefox-enterprise }
