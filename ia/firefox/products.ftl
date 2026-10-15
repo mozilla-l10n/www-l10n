@@ -94,3 +94,6 @@ firefox-products-learn-more-about-mozilla-ads = Discoperi plus re { -brand-name-
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
 firefox-products-firefox-enterprise-desc = Displica, gere, e garanti { -brand-name-firefox } a transverso tu organisation con controlos de directivas de grado interprisa.
+firefox-products-firefox-enterprise-desc-v2 = Le platteforma navigator local de interprisa de { -brand-name-mozilla } on-premises. Construite pro adjutar le organisationes a reinfortiar lor soveranitate digital e resilientia operative per major controlo super lor datos, super infrastructura pro le Technologia Informatic e le ambiente de navigator.
+firefox-products-manage-your-fleet = Displica { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = Discoperi plus re { -brand-name-firefox-enterprise }
