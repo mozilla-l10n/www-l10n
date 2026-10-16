@@ -29,5 +29,8 @@ vpn-linux-if-you-use-v2 = Ubuntu’nun desteklenen sürümlerinden birini kullan
 #   $attrs (string) includes url - https://support.mozilla.org/kb/how-install-mozilla-vpn-linux-computer
 vpn-linux-ubuntu-command = <strong>Ubuntu komut satırı modu:</strong> Komut satırı araçlarını kullanarak { -brand-name-mozilla-vpn }'i yükleme yönergeleri için <a { $attrs }>{ -brand-name-mozilla-vpn } Linux bilgisayara nasıl kurulur</a> sayfasına göz atın.
 # Variables:
+#   $attrs (string) includes url - https://help.ubuntu.com/community/Repositories/Ubuntu#Adding_Personal_Package_Archives_.28PPAs.29
+vpn-linux-ubuntu-graphical = <strong>Ubuntu grafik kullanıcı arayüzü:</strong> <a { $attrs }>Bu makaleye</a> gidip “Adding personal package archives” bölümündeki yönergeleri izleyin.
+# Variables:
 #   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
 vpn-linux-additionally = Ayrıca, desteklenmeyen Linux dağıtımları için <a { $attrs }>resmi GitHub deposundan</a> kaynak kodlarını alıp derleyebilirsiniz.
