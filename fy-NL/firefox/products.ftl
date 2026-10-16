@@ -89,3 +89,11 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Foegje fertrouwen ta oan jo advertinsjeoankeap. Jo sille ferbine mei mear as 210 miljoen selektive, krityske, merktrouwe brûkers.
 firefox-products-extend-your-reach = Fergrutsje jo berik
 firefox-products-learn-more-about-mozilla-ads = Mear ynfo oer { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Ymplemintearje, behear en befeiligje { -brand-name-firefox } yn jo organisaasje mei beliedsopsjes op bedriuwsnivo.
+firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla }’s troch de klant behearde, lokale browserplatfoarm foar ûndernimmingen. Boud om organisaasjes te helpen harren digitale soevereiniteit en operasjonele fearkrêft te fersterkjen troch mear kontrôle oer harren gegevens, IT-ynfrastruktuer en browseromjouwing.
+firefox-products-manage-your-fleet = { -brand-name-firefox } ymplemintearje
+firefox-products-learn-more-about-firefox-enterprise = Mear ynfo oer { -brand-name-firefox-enterprise }
