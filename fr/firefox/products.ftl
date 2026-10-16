@@ -76,3 +76,6 @@ firefox-products-learn-more-about-tabstack = En savoir plus sur { -brand-name-ta
 
 ## Mozilla Ads
 
+
+## Firefox for Enterprise
+
