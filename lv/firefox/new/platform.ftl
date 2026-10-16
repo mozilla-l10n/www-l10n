@@ -11,9 +11,10 @@
 new-platform-free-web-browser = Bezmaksas tīmekļa pārlūks
 new-platform-need-help = Nepieciešama palīdzība?
 
-# Linux
-
-
 ## Mac
 
 new-platform-block-trackers = Liegt izsekotājus
+
+## Windows
+
+new-platform-live-your-life = Dzīvo savu dzīvi, { -brand-name-firefox } nenovēro! Izvēlies, ko un kad kopīgot!
