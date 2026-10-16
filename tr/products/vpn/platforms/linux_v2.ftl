@@ -13,9 +13,13 @@ vpn-linux-mozilla-vpn-is-a = { -brand-name-mozilla-vpn }, açık kaynaklı ve so
 vpn-linux-why-choose = Linux için neden { -brand-name-mozilla-vpn }’i seçmeliyim?
 vpn-linux-fast-and-v2 = <strong>Hızlı ve güvenilir:</strong> { -brand-name-mozilla-vpn } diğer VPN protokollerinden daha iyi performans ve kararlılık sunan { -brand-name-wireguard }® protokolünü kullanır.
 vpn-linux-no-logs = <strong>Kayıt tutulmaz:</strong> { -brand-name-mozilla-vpn } ağ etkinliğinizi kaydetmez, ziyaret ettiğiniz web sitelerini takip etmez ve trafiğinizi incelemez.
+vpn-linux-additional-security = <strong>Ek güvenlik özellikleri:</strong> Reklamları, takip kodlarını ve kötü amaçlı yazılımları engellemek için DNS tabanlı engelleme kullanıyoruz. Tarayıcılar ise sadece web sitelerinin cihazınıza kötü amaçlı yazılım bulaştırmasını ve sizi izlemesini önleyebilir.
 vpn-linux-device-level = <strong>Cihaz düzeyinde şifreleme:</strong> Yalnızca tarayıcı trafiğinizi şifreleyen VPN’lerin aksine { -brand-name-mozilla-vpn } tüm uygulamalarınız ve oyunlarınız dahil olmak üzere cihazınızın tüm trafiğini şifreler.
+vpn-linux-multi-hop = <strong>Çok sunuculu yönlendirme:</strong> Ek koruma için { -brand-name-mozilla-vpn }, trafiğinizi şifreleyip tek konum yerine iki konum üzerinden yönlendirerek çevrimiçi etkinliğinizin izlenmesini zorlaştırabilir.
 vpn-linux-simple-and = <strong>Basit ve sezgisel arayüz:</strong> Tek tıklamayla istediğiniz sunucuya bağlanın. Ayrıca ayarlarınızı ve tercihlerinizi ihtiyaçlarınıza göre özelleştirebilirsiniz.
+vpn-linux-it-helps-restore = <strong>Ağ tarafsızlığının sağlanmasına yardımcı olur:</strong> { -brand-name-mozilla-vpn }, internet sağlayıcılarının bant genişliğinizi kısıtlamasını, beğenmedikleri ya da kendileriyle rekabet eden siteleri ve hizmetleri engellemesini önleyerek çevrimiçi etkinliklerinizin kontrolünü yeniden ele almanıza yardımcı olur.
 vpn-linux-gui-client = <strong>GUI istemcisi:</strong> { -brand-name-mozilla-vpn } bir GUI istemcisine (grafik kullanıcı arayüzü) sahiptir, oysa bazı VPN sağlayıcıları yalnızca CLI sürümü (komut satırı) sunar.
+vpn-linux-by-using = { -brand-name-mozilla-vpn } ile çevrimiçi etkinliklerinizin kontrolünü yeniden elinize alabilir, gizliliğinizi ve verilerinizi koruyabilirsiniz. { -brand-name-mozilla-vpn }’i bugün indirin; kayıt tutulmayan, zahmetsiz ve risksiz bir deneyimin yanı sıra 30 günlük para iade garantisinden yararlanın.
 vpn-linux-how-to-install = { -brand-name-mozilla-vpn } Linux’a nasıl kurulur?
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
