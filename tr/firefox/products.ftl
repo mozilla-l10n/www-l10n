@@ -89,3 +89,11 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Reklam yatırımınıza güven katın. Seçici, bilinçli ve marka sadakati yüksek 210 milyondan fazla kullanıcıya ulaşın.
 firefox-products-extend-your-reach = Daha geniş kitlelere ulaşın
 firefox-products-learn-more-about-mozilla-ads = { -brand-name-mozilla-ads } hakkında bilgi alın
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Kurumsal düzeyde ilke denetimleriyle { -brand-name-firefox }’u kuruluşunuzda dağıtın, yönetin ve güvenliğini sağlayın.
+firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla }’nın müşteri kontrolünde, şirket içi kurumsal tarayıcı platformu. Kuruluşların verileri, BT altyapıları ve tarayıcı ortamları üzerinde daha fazla denetim sahibi olarak dijital egemenliklerini ve operasyonel dayanıklılıklarını güçlendirmek için geliştirildi.
+firefox-products-manage-your-fleet = { -brand-name-firefox }’u dağıtın
+firefox-products-learn-more-about-firefox-enterprise = { -brand-name-firefox-enterprise } hakkında bilgi alın
