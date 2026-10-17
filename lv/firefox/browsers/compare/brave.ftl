@@ -9,3 +9,4 @@
 compare-brave-firefox-vs-brave = { -brand-name-firefox } pret Brave
 # HTML page description
 compare-brave-read-our-comparison = Izlasi mūsu salīdzinājumu { -brand-name-firefox } un Brave pārlūku iespējām, privātumu un izmantošanas vienkāršumu!
+compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } ļauj ērti izvēlēties, kuru meklētāju vēlaties izmantot katru reizi, kad veicat meklēšanu. Brave pēc noklusējuma izmanto savu meklētāju, un jums ir jāiziet pārlūka iestatījumos, lai izvēlētos kaut ko citu.

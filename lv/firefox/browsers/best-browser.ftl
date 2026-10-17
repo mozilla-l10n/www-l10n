@@ -36,4 +36,8 @@ best-browser-another-way-to-stop = Vēl viens veids, kā apturēt izsekotājus n
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 best-browser-one-easy-way-to-check = Viens vienkāršs veids, kā to pārbaudīt, ir apmeklēt pārlūku satura iestatījumu lapu un konfidencialitātes politiku. Konfidencialitātes tīmekļa lapā ir jānorāda, vai jūsu dati tiek kopīgoti un kāpēc. Tāpēc <a href="{ $privacy }">{ -brand-name-firefox } konfidencialitātes paziņojums</a> ir viegli lasāms un viegli atrodams.
+best-browser-choosing-the-best-browser = Izvēlēties sev piemērotāko pārlūku ir ļoti līdzīgi kā izvēlēties mājokli. Jums jāizpēta iespējas, jāveic izpēte un jāpieņem lēmums, pamatojoties uz to, kas jums ir svarīgs.
+# Variables:
+# $privacy (url) - link to https://www.mozilla.org/firefox/new/
+best-browser-at-firefox-weve-worked = Uzņēmumā <a href="{ $firefox }">{ -brand-name-firefox }  </a> mēs esam smagi strādājuši, lai izveidotu pārlūku, kas ir divreiz ātrāka nekā iepriekš un sniedz lietotājiem lielāku kontroli pār savu dzīvi tiešsaistē.
 best-browser-take-control-of-your = Pārņem vadību pār savu pārlūku!

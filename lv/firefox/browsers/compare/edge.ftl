@@ -7,3 +7,5 @@
 
 # Page title
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } pret Microsoft Edge
+# HTML page description
+compare-edge-read-our-comparison = Izlasiet mūsu { -brand-name-firefox } un Edge pārlūku salīdzinājumu par funkcijām, privātumu un lietošanas ērtumu.

@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/compare/
 
+# Page title
+compare-index-compare-firefox-with-other = Salīdziniet { -brand-name-firefox } ar citiem pārlūkiem
 compare-index-firefox-versus-google-chrome = { -brand-name-firefox } pret Google Chrome
 compare-index-firefox-versus-microsoft-edge = { -brand-name-firefox } pret Microsoft Edge
 compare-index-firefox-versus-apple-safari = { -brand-name-firefox } pret Apple Safari
