@@ -90,6 +90,7 @@
 -brand-name-bugzilla = Bugzilla
 -brand-name-gecko = Gecko
 -brand-name-glean = Glean
+-brand-name-irl-podcast = IRL Podcast
 -brand-name-solo = Solo
 -brand-name-solo-ai = Solo AI
 -brand-name-0din = 0DIN
