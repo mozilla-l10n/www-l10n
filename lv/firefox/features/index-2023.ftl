@@ -11,3 +11,7 @@ features-index-the-latest-browser-speed-benchmarks = Jaunākie pārlūku ātruma
 features-index-is-firefox-a-private-browser = Vai { -brand-name-firefox } ir privāta pārlūka?
 features-index-customize-your-firefox-browser = Pielāgojiet savu { -brand-name-firefox } pārlūku
 features-index-firefox-browser-sync = { -brand-name-firefox } pārlūka vienādošana
+features-index-automatically-delete-cookies = Automātiski dzēst sīkfailus un pārlūka vēsturi, kad to aizverat.
+features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } pievienojumprogrammas un pārlūka paplašinājumi
+features-index-pinned-browser-tabs = Piespraustas pārlūka cilnes
+features-index-translate-websites-to-your = Tulkojiet tīmekļa vietnes savā valodā tieši savā { -brand-name-firefox } pārlūkā — nekopīgojot savus datus ar nevienu citu.
