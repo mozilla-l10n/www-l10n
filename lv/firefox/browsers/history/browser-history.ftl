@@ -5,4 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/browser-history/
 
+browser-history-browser-history = Pārlūku vēsture: episkas cīņas par varu, kas mums radīja modernas pārlūku
 browser-history-the-history-of-web = Tīmekļa pārlūku vēsture

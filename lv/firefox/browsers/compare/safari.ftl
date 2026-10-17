@@ -7,3 +7,6 @@
 
 # Page title
 compare-safari-firefox-vs-apple-safari = { -brand-name-firefox } pret Apple Safari
+# HTML page description
+compare-safari-read-our-comparison = Izlasiet mūsu { -brand-name-firefox } un Safari pārlūku salīdzinājumu par funkcijām, privātumu un lietošanas ērtumu.
+compare-safari-firefox-offers-a-wide-range-of = { -brand-name-firefox } piedāvā plašu pielāgošanas iespēju klāstu, tostarp iespēju pārvietot izvēlnes un rīkjoslas uz citām vietām pārlūka logā. Safari saskarne ir mazāk pielāgojama.

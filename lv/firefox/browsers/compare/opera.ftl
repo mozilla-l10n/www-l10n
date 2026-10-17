@@ -9,3 +9,4 @@
 compare-opera-firefox-vs-opera = { -brand-name-firefox } pret Opera
 # HTML page description
 compare-opera-read-our-comparison = Izlasi mūsu salīdzinājumu { -brand-name-firefox } un Opera pārlūku iespējām, privātumu un izmantošanas vienkāršumu!
+compare-opera-firefox-offers-a-wide-range-of = { -brand-name-firefox } piedāvā plašu pielāgošanas iespēju klāstu, tostarp iespēju pārvietot izvēlnes un rīkjoslas uz dažādām vietām pārlūka logā. Opera saskarne ir mazāk pielāgojama.
