@@ -15,3 +15,4 @@ features-index-automatically-delete-cookies = Automātiski dzēst sīkfailus un 
 features-index-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } pievienojumprogrammas un pārlūka paplašinājumi
 features-index-pinned-browser-tabs = Piespraustas pārlūka cilnes
 features-index-translate-websites-to-your = Tulkojiet tīmekļa vietnes savā valodā tieši savā { -brand-name-firefox } pārlūkā — nekopīgojot savus datus ar nevienu citu.
+features-index-got-things-to-do = Ir ko darīt un ko skatīties? Dariet abus, izmantojot funkciju “Attēls attēlā” pārlūkā { -brand-name-firefox }.
