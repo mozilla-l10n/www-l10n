@@ -3,20 +3,27 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 navigation-refresh-mozilla = { -brand-name-mozilla }
+# An accessible label used to describe that the role of the element is the primary website navigation.
+navigation-refresh-landmark-label = بنیادی
 
 ## About us
 
 navigation-refresh-about-us = اساݙے بارے
+navigation-refresh-about-mozilla = { -brand-name-mozilla } دا تعارف
 navigation-refresh-close-about-us-menu = تعارف مینیو بند کرو
 navigation-refresh-mozilla-manifesto = { -brand-name-mozilla } دا منشور
+navigation-refresh-mozilla-manifesto-v2 = { -brand-name-mozilla } دا منشور
 navigation-refresh-mozilla-foundation = { -brand-name-mozilla-foundation }
 navigation-refresh-get-involved = نال رلت کرو
 navigation-refresh-get-involved-v2 = نال رلت کرو
 navigation-refresh-blog = بلاگ
 navigation-refresh-our-mission = ساݙا مشن
+navigation-refresh-our-work = ساݙا کم
 navigation-refresh-mozilla-builders = { -brand-name-mozilla-builders }
 navigation-refresh-mozilla-ai-v3 = { -brand-name-mozilla-ai-v2 }
 navigation-refresh-mozilla-ventures-v2 = { -brand-name-mozilla-ventures }
+navigation-refresh-mozilla-advertising = { -brand-name-mozilla } ایڈورٹائزنگ
+navigation-refresh-mozilla-new-products = { -brand-name-mozilla } نویں مصنوعات
 
 ## Firefox
 
@@ -40,3 +47,4 @@ navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
 navigation-refresh-thunderbird = { -brand-name-thunderbird }
 navigation-refresh-0din = { -brand-name-0din }
 navigation-refresh-tabstack = { -brand-name-tabstack }
+navigation-refresh-otari = { -brand-name-otari }

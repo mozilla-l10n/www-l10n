@@ -15,6 +15,21 @@ features-adblocker-an-ad-blocker-is-a-piece = ایڈ بلاکر سافٹ ویئ�
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
 features-adblocker-these-ads-might-be-loud = ایہ اشتہارات اُچی آواز وِچ ویڈیو اشہتارات، اینجھے اشتہارات جیڑھے ویب تے تہاݙا پیچھا کریندے ہن، ٹریکرز، تریاکل کوکیاں وغیرہ تھی سڳدے ہن جیڑھے تہاݙے براؤزر وِچ دستیاب ہن۔ <a href="{ $firefox }">{ -brand-name-firefox }</a>، مثال دے طور تے <a href="{ $addons }"> منظور شدہ ایڈ بلاکر ایڈ آنز دی ایہ تندیر ہے </a> ایں تندیر ( یا تہاݙے براؤزر کیتے منظور شدہ ایڈ بلاکرز) تے کلک کرو تے ݙیکھو جو کیڑھا تہاݙیاں لوڑاں دے مطابق ہے۔
 features-adblocker-find-the-right-ad-blocker = آپݨے کیتے ٹھیک مشہوری بلاکر لبھو
+features-adblocker-there-are-scores-of-content = کافی سارے مواد بلاکر موجود ہن، پر ایتھے { -brand-name-mozilla } ولوں چݨے ڳئے کجھ بہترین آپشن ہن۔
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ublock-origin/ with other attributes
+features-adblocker-considered-by-many-to-be-the = اشتہار بلاکرز وچ بہترین معیار سمجھے ونڄݨ آلا، <a { $attrs }>uBlock Origin</a> اپݨی افادیت تے کارکردگی کیتے مشہور ہے۔ بہترین حسب ضرورت بݨایا ونڄ سڳدے، پر ایہہ بغیر کہیں سیٹنگ دے وی بہترین کم کریندے۔
+# Variables:
+#   $attrs1 (string) - link to https://addons.mozilla.org/firefox/addon/adguard-adblocker/ with other attributes
+#   $attsr2 (string) - link to https://addons.mozilla.org/firefox/addon/popup-blocker/ with other attributes
+features-adblocker-adguard-adblocker-blunts = <a { $attrs1 }>AdGuard AdBlocker</a> ہر جاہ اشتہارات کوں کندھ بݨیندے۔ ایہہ ویب، سوشل میڈیا، حتیٰ کہ اوں پریشان کرݨ آلے پاپ اپس وی بلاک کریندے (بھانویں جے تساں صرف پاپ اپس دباوݨ چہندے ہو تاں <a { $attrs2 }>Popup Blocker</a> نال تساں غلط نیں تھی سڳدے)۔
+# Variables:
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/ghostery/ with other attributes
+features-adblocker-ghostery-is-another-great = <a { $attrs }>Ghostery</a> ہک ٻیا بہترین انتخاب ہے جو نہ صرف اشتہارات بلاک کریندے بلکہ اضافی اینٹی ٹریکنگ فائدے وی ݙیندے۔
+# Variables:
+#   $attrs1 (string) - link to /firefox/new/ with other attributes
+#   $attsr2 (string) - link to /firefox/mobile/android/ with other attributes
+features-adblocker-these-extensions-work-beautifully = ایہہ ایکسٹینشنز <a { $attrs1 }>{ -brand-name-firefox } ڈیسک ٹاپ کیتے</a> تے <a { $attrs2 }>Android</a> ݙوہاں تے بہترین کم کریندین۔
 features-adblocker-create-a-tracker-free = مواد بلاک کرݨ نال ٹریکر کنوں آزاد زون بݨاؤ
 # Variables:
 #   $privacy (url) - link to https://restoreprivacy.com/firefox-privacy/

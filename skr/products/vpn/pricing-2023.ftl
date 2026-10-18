@@ -19,6 +19,13 @@ vpn-pricing-connect-up-to =
        *[other] { $devices } ڈیوائساں تائیں کنکٹ تھیوو
     }
 # Variables:
+#   $devices (number) - number of devices users can connect to VPN
+vpn-pricing-connect-up-to-platforms =
+    { $devices ->
+        [one] Android، iOS، Windows، macOS یا Linux دے { $devices } ڈیوائس تائیں کنیکٹ کرو
+       *[other] Android، iOS، Windows، macOS یا Linux دے { $devices } ڈیوائساں تائیں کنیکٹ کرو
+    }
+# Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
@@ -49,4 +56,9 @@ vpn-pricing-if-already-subscribed = جے تساں پہلے کنوں ای { -bran
 
 ## Mobile only subscription copy
 
+vpn-pricing-scan-qrcode-to-download = ایپ ڈاؤن لوڈ کرݨ کیتے، اپݨے موبائل ڈیوائس یا ٹیبلیٹ نال QR کوڈ سکین کرو۔
+vpn-pricing-scan-qrcode-to-download-android = ایپ ڈاؤن لوڈ کرݨ کیتے، اپݨے Android ڈیوائس یا ٹیبلیٹ نال QR کوڈ سکین کرو۔
+vpn-pricing-sign-up-on-your-mobile-device = اپݨے موبائل ڈیوائس تے { -brand-name-mozilla-vpn } دی سبسکرپشن کیتے سائن اپ کرو۔
+vpn-pricing-sign-up-on-your-android-device = اپݨے Android ڈیوائس تے { -brand-name-mozilla-vpn } دی سبسکرپشن کیتے سائن اپ کرو۔
 vpn-pricing-download-the-app = ایپ ڈاؤن لوڈ کرو
+vpn-pricing-transaction-may-be-in = * لین دین مقامی کرنسی دے برابر وی تھی سگدا ہے۔

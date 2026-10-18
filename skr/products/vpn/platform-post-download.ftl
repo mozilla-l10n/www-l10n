@@ -35,7 +35,11 @@ vpn-launch-the-app = 2۔ ایپ لانچ کرو
 vpn-login-or-signup = 3۔ لاگ ان یا سائن اپ
 vpn-enter-your-email = لاگ ان تھیوݨ یا سائن اپ کرݨ  تے شروع کرݨ کیتے آپݨاں ای میل پتہ درج کرو
 vpn-turn-on-vpn = 4۔ وی پی این چالو کرو
+vpn-install-firefox-extension = 5۔ { -brand-name-firefox } ایکسٹینشن انسٹال کرو
 vpn-pick-a-recommended = تِکّھے، مستحکم کنکشن کِیتے تجویز کِیتا ڳِیا مقام چُݨو یا دستی طور تے آپݨی مطلوبہ جاء چُݨو، وَل ٹوگل کوں چالو کرو
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">ایکسٹینشن ڈاؤن لوڈ تے انسٹال کرو</a> تاں جو ہر سائٹ کیتے اخراج سیٹ کر سگوں تے مختلف ویب سائٹاں کیتے مختلف لوکیشناں چݨ سگوں۔
 
 ## FAQ Strings
 

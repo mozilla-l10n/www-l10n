@@ -34,6 +34,7 @@ firefox-all-64-bit-installers = 64 بٹ انسٹالرز
 firefox-all-choose-a-64-bit-installer = 64 بٹ پروسیسرز والے کمپیوٹرز کیتے 64 بٹ انسٹالر دا انتخاب کرو، جیڑھا انہاں کوں انفرادی پروگراماں کیتے زیادہ RAM مختص کرݨ دی اجازت ݙیندا ہے - خاص طور تے گیماں تے بئے مطلوبہ ایپلی کیشنز کیتے اہم۔
 firefox-all-32-bit-installers = 32 بٹ انسٹالرز
 firefox-all-microsoft-store-installers = مائیکروسافٹ سٹور
+firefox-all-choose-a-microsoft-store-installer = ایہہ آپشن مائیکروسافٹ اسٹور ویب پورٹل وچ { -brand-name-firefox } پراڈکٹ دا پیج کھولیسی۔ جے تساں Windows 10 یا Windows 11 چلایندے پئے ہو، تاں تساں ایں صفحے توں مائیکروسافٹ اسٹور کھول سڳدے ہو اتے { -brand-name-firefox } انسٹال کر سڳدے ہو۔ جے تساں مائیکروسافٹ اسٹور توں انسٹال کریندے ہو، تاں { -brand-name-firefox } دے اپڈیٹس وی مائیکروسافٹ اسٹور سنبھالیسی۔ مائیکروسافٹ اسٹور توں انسٹال کرݨ تے { -brand-name-firefox } دے رویے تے صلاحیتاں وچ معمولی فرق ہن، پر اکثر ورتاݨ آلیاں کیتے ایہہ فرق محسوس نیں تھیندے۔
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = { $esr_version } ڈاؤن لوڈ کرو
@@ -41,6 +42,8 @@ firefox-all-download-esr-version = { $esr_version } ڈاؤن لوڈ کرو
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = اساں وݙے ای ایس آر ورژناں { $esr_next_major } تے{ $esr_current_major } دے درمیان عبوری دور وچ ہیں۔
+firefox-all-esr-when-there-is = جڈاں کوئی وݙا ورژن اپڈیٹ ہوندا ہے، تاں ہمیشہ { -brand-name-firefox-esr } دے کجھ پوائنٹ ریلیزز دا اوورلیپ ہوندا ہے، تاکہ پرانا ورژن استعمال کرݨ آلیاں کوں نویں ورژن تے ونجݨ دی تیاری کرݨ دا موقع ملے۔
+firefox-all-esr-if-you-choose = جے تساں پرانا ESR ورژن ڈاؤن لوڈ کرݨ دی چونݨدے ہو، تاں منتقلی دی مدت ختم تھیوݨ تے تہاکوں خود بخود نویں ورژن تے اپڈیٹ کر ݙتا ویسی۔
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
 firefox-all-esr-read-more = <a { $attrs }>{ -brand-name-firefox-esr } ریلیز چکر </a> بارے ٻیا پڑھو۔
@@ -76,3 +79,5 @@ firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
 firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS ٹیسٹ فلائٹ
+firefox-all-download-esr-115 = ESR 115 ڈاؤن لوڈ کرو
+firefox-all-note-unsupported = نوٹ: جے تساں Windows 7، Windows 8، Windows 8.1، یا macOS 10.12، 10.13 یا 10.14 استعمال کریندے پئے ہو، تاں { -brand-name-firefox } استعمال کرݨ کیتے مہربانی کرکے ESR 115 ڈاؤن لوڈ کرو۔

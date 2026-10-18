@@ -41,3 +41,7 @@ download-button-linux-64-v2 = لائنکس 64 بٹ کیتے ڈاؤن لوڈ کر
 download-button-using-debian = ڈیبیان، یوبنٹو یا ڈیبیان اُتے مبنی کُئی ون٘ڈ استعمال کرین٘دے پئے ہِیوے؟<br>تُساں اِین٘دے کنوں اَن٘ج اَساݙا <a { $attrs }>اے پی ٹی ترتیب ݙے سڳدے ہِیوے</a>۔
 # Microsoft Windows Store badge
 download-button-get-it-from-microsoft = ایہ مائیکروسافٹ کنوں گھنو
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = تساں ایہہ ݙسو کہ تساں { -brand-name-firefox } کوں کینویں لبھا اتے کہ تساں { -brand-name-mozilla } دے مارکیٹنگ ٹیکنالوجی پارٹنراں دے نال اینکوں استعمال کریندے ہو۔ ایہہ ڈیٹا کݙاں وی نیں ویچیا ویندا یا تہاکوں اشتہار ݙکھاوݨ کیتے استعمال نیں تھیندا۔ <a { $attrs }>سکھو کہ اساں ڈیٹا کینویں استعمال کریندے ہیں</a>۔

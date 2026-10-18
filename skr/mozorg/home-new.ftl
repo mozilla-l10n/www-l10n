@@ -25,8 +25,13 @@ home-mozilla-takes-bets = "{ -brand-name-mozilla }دُنیاں کو اِیہ ݙ�
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = قابل اعتماد اے آئی دی تشکیل وچ ساݙے نال رلو
+home-work-on-ai = { -brand-name-mozilla } دا اے آئی نال کم محض کوئی نویں ڳالھ نئیں — اساں سالاں توں اوں اے آئی دی فنڈنگ، تیاری تے وکالت وچ لڳے ہوئے ہیں جیڑھی کھلی، منصفانہ تے ذمہ داری نال تیار کیتی ڳئی ہووے۔ ساݙی توجہ اوں اے آئی بݨاوݨ تے ہے جیڑھی لوکاں دی خدمت کرے، شفافیت کوں ترجیح ݙیوے تے عوامی بھلائی دی حمایت کرے، کارپوریٹ ایجنڈیاں دی نئیں۔
 home-read-more = ٻیا پڑھو
 home-so-what-is-mozilla = تے، { -brand-name-mozilla } کیا ہے؟
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core-v2 = اصل وچ، { -brand-name-mozilla } ہک سرگرم تنظیم ہے جیندے دی اڳواݨی { -brand-name-mozilla-foundation } کریندی ہے تے جیڑھی مختلف منصوبیاں راہیں دنیا وچ تبدیلی گھن آندی ہے، جنہاں وچ { -brand-name-mozilla-corporation }، MZLA، <a { $ventures }>{ -brand-name-mozilla-ventures }</a> تے <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a> شامل ہن۔ اساں ٻیاں توں کیویں مختلف ہیں؟ کیوں جو اساں مقصد توں چلدے ہیں، ایندا مطلب ہے اساں کوں ایہ آزادی ہے کہ اساں اپݨے سارے فیصلے ایندے آدھار تے کروں کہ انٹرنیٹ تے آن لائن ہر ہک کیتے کیا سبھ توں بہتر ہے، شیئر ہولڈراں دے مطالبات تے نئیں — اساں کول اصل وچ اوہ ہن ہی کائنی۔
 home-learn-about-mofo = { -brand-name-mozilla-foundation } بارے ٻیا سکھو
 home-join-the-fight = تکڑے انٹرنیٹ کیتے جدوجہد وچ شامل تھیوو
 home-your-voice-your-code = تُہاݙی اواز۔ تُہاݙا کوڈ۔ تُہاݙے وِچار۔ اِتّھاں لوّظی طور تے ہزاراں طریقے ہِن جِنّھاں نال تُساں { -brand-name-mozilla } وِچ تعاون کر سڳدے ہِیوے۔

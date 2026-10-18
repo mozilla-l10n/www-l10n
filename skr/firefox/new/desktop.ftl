@@ -20,6 +20,7 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 #   $update_url (url) - link to https://support.mozilla.org/kb/update-firefox-latest-release
 firefox-desktop-out-of-date = ہک ٻیا وی نواں { -brand-name-firefox } دستیاب ہے۔  <a { $update_url }>  نویں نکور ورژن وِچ اپ ڈیٹ کرو </a>
 firefox-desktop-download-get-the-browser = براؤزر گھنو جہڑا حفاظت کریندے تے تہاݙے کیتے اہم ہے
+firefox-desktop-download-fast-reliable-private = تیز، قابلِ بھروسا تے پرائیویٹ — آن لائن ذہنی سکون کیتے۔
 firefox-desktop-download-download-options = ڈاؤن لوڈ اختیارات تے ٻیاں زباناں
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } سپورٹ
 firefox-desktop-download-we-block-the-ad = اساں اشتہاری ٹریکرز کوں بلاک کریندے ہیں۔ تساں انٹرنیٹ کوں تکھاجی نال دریافت کریندے او۔
