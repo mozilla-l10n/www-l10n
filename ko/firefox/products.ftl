@@ -94,3 +94,6 @@ firefox-products-learn-more-about-mozilla-ads = { -brand-name-mozilla-ads }에 �
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
 firefox-products-firefox-enterprise-desc = 엔터프라이즈급 정책 제어를 통해 조직 전체에 { -brand-name-firefox }를 배포와 관리, 보호하세요.
+firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla }의 고객 제어형, 사내 구축형 엔터프라이즈 브라우저 플랫폼입니다. 조직이 데이터, IT 인프라 및 브라우저 환경에 대한 더 나은 제어를 통해 디지털 주권과 운영 복원성을 강화하도록 돕기 위해 제작되었습니다.
+firefox-products-manage-your-fleet = { -brand-name-firefox } 배포
+firefox-products-learn-more-about-firefox-enterprise = { -brand-name-firefox-enterprise }에 대해 더 알아보기

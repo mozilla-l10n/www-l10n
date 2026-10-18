@@ -21,3 +21,5 @@ firefox-developer-firefox-is-the-only-browser = { -brand-name-firefox } ir vien�
 firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-developer-edition } automātiski sūta atsauksmes uz { -brand-name-mozilla }.
 firefox-developer-download-the-firefox-browser = Lejupielādējiet izstrādātājiem paredzēto pārlūku { -brand-name-firefox }
 firefox-developer-made-for-developers = Izstrādātājiem radīts pārlūks
+firefox-developer-preferences-tailored = Preferences <strong>pielāgotas tīmekļa izstrādātājiem</strong>: pēc noklusējuma ir iespējota pārlūkā un attālā atkļūdošana, kā arī tumšā tēma un izstrādātāja rīkjoslas poga.
+firefox-developer-mdn-the-web-doesnt-have = Tīmeklī nav izmaiņu žurnāla, taču { -brand-name-mdn } var palīdzēt. Saderības izmaiņas var personalizēt un filtrēt, pamatojoties uz pārlūkiem vai tehnoloģiju kategoriju, kas jūs interesē, piemēram, JavaScript, CSS utt.

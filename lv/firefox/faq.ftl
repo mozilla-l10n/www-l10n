@@ -5,42 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/faq/
 
-
-# Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/browsers/
-# $url2 (url) - link to https://www.mozilla.org/products/
-
-
-# Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/new/
-# $url2 (url) - link to https://www.mozilla.org/firefox/windows/
-# $url3 (url) - link to https://www.mozilla.org/firefox/mac/
-# $url4 (url) - link to https://www.mozilla.org/firefox/linux/
-# $url5 (url) - link to https://www.mozilla.org/firefox/mobile/
-
-
-# Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/browsers/compare/chrome/
-
-
-# Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/new/
-
-
-# Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/features/private/
-
-
-# Variables:
-# $url (url) - link to https://www.mozilla.org/firefox/privacy/
-
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/change-your-default-search-settings-firefox
-
+whether-you-searched-privacy = Neatkarīgi no tā, vai meklējāt ātru pārlūku, kas aizsargā jūsu privātumu, šie bieži uzdotie jautājumi ir šeit, lai atbildētu uz aktuālākajiem ar { -brand-name-firefox } saistītajiem jautājumiem.
+whether-you-searched-independant = Neatkarīgi no tā, vai meklējāt ātru pārlūku vai neatkarīgu tehnoloģiju, kas aizsargā jūsu privātumu, šis bieži uzdoto jautājumu saraksts ir šeit, lai atbildētu uz visaktuālākajiem ar { -brand-name-firefox } saistītajiem jautājumiem.
+the-firefox-browser-the-only = { -brand-name-firefox-browser }, vienīgais lielākais pārlūks, ko atbalsta bezpeļņas organizācija, palīdz aizsargāt jūsu personas informāciju. Uzziniet vairāk par <a href="{ $url }">{ -brand-name-firefox-browsers } </a> un <a href="{ $url2 }">citiem produktiem.</a>
+you-can-easily = { -brand-name-firefox } darbvirsmas pārlūku varat viegli lejupielādēt <a href="{ $url }">šeit.</a> { -brand-name-firefox } darbojas <a href="{ $url2 }">{ -brand-name-windows },</a> <a href="{ $url3 }">{ -brand-name-mac-short } </a> un <a href="{ $url4 }">{ -brand-name-linux } </a> ierīcēs, un tā ir pieejama arī <a href="{ $url5 }">{ -brand-name-android } un { -brand-name-ios }.</a> Pārliecinieties, ka lejupielādējat mūsu pārlūku no vienas no mūsu uzticamajām { -brand-name-mozilla }/{ -brand-name-firefox } lapām.
+no-we-dont = Nē, mēs neuzskatām, ka { -brand-name-chrome } ir labāks par { -brand-name-firefox }, un lūk, kāpēc: kad cilvēki jautā, kura pārlūks ir labāks, viņi patiesībā jautā, kura pārlūks ir ātrāks un drošāks. { -brand-name-firefox } tiek atjaunināts katru mēnesi, lai nodrošinātu, ka jums ir ātrākais pārlūks, kas automātiski ievēro jūsu privātumu.
 firefoxs-default-search = { -brand-name-google } ir { -brand-name-firefox } noklusējuma meklētājs, kas nozīmē, ka var meklēt tīmeklī tieši no adreses joslas. <a href="{ $url }">Uzzināt vairāk par meklētāja iestatījumiem un noklusējumu mainīšanu.</a>
-
-# Variables:
-# $url (url) - link to https://www.mozillafoundation.org
-# $url2 (url) - link to https://www.mozilla.org/foundation/moco/
-
