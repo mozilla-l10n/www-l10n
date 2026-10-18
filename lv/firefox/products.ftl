@@ -15,7 +15,7 @@ firefox-products-tabs-aria-label = Produktu kategorijas
 
 ## Firefox
 
-firefox-products-get-the-browser-that-blocks = Iegūstiet pārlūku, kas automātiski bloķē vairāk nekā 2000 datu izsekotāju. Uzlabotā izsekošanas aizsardzība ir standarta aprīkojumā katrā { -brand-name-firefox } pārlūkprogrammā.
+firefox-products-get-the-browser-that-blocks = Iegūstiet pārlūku, kas automātiski bloķē vairāk nekā 2000 datu izsekotāju. Uzlabotā izsekošanas aizsardzība ir standarta aprīkojumā katrā { -brand-name-firefox } pārlūkā.
 
 ## Focus
 

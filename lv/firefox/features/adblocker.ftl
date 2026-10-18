@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/adblocker/
 
+features-adblocker-how-to-stop-seeing-too = Kā pārtraukt pārāk daudz reklāmu redzēšanu un neļaut uzņēmumiem izsekot jums tiešsaistē. Reklāmu bloķētāja ceļvedis no tīmekļa pārlūkos { -brand-name-firefox }.
 # Variables:
 #   $firefox (url) - link to https://www.mozilla.org/firefox/new/
 #   $addons (url) - link to https://blog.mozilla.org/firefox/ad-blocker-roundup-5-adblockers-that-improve-your-internet-experience/
