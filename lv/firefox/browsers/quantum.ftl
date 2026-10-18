@@ -7,3 +7,4 @@
 
 page-title = Lejupielādēt { -brand-name-firefox-quantum }
 page-description = { -brand-name-firefox-quantum } bija revolūcija. 2017. gadā mēs izveidojām jaunu, zibenīgi ātru pārlūku, kas pastāvīgi uzlabojas. { -brand-name-firefox-quantum } ir { -brand-name-firefox-browser }.
+firefox-quantum-was = { -brand-name-firefox-quantum } bija revolūcija { -brand-name-firefox } izstrādē. 2017. gadā mēs izveidojām jaunu, zibenīgi ātru pārlūku, kas pastāvīgi uzlabojas. { -brand-name-firefox-quantum } ir { -brand-name-firefox-browser }.
