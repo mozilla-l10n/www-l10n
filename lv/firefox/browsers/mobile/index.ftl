@@ -17,7 +17,7 @@ browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } tālruņa
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = Iegūstiet uzlabotu izsekošanas aizsardzību un padariet { -brand-name-firefox } par savu noklusējuma, vienmēr izmantojamo pārlūku savā { -brand-name-iphone } un { -brand-name-ipad } ierīcē.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
-browsers-mobile-looking-for-a-streamlined = Meklējat optimizētu, īpaši ātru mobilo pārlūku ar nākamā līmeņa privātuma funkcijām? { -brand-name-firefox-focus } automātiski dzēš visu jūsu pārlūkošanas vēsturi no brīža, kad atverat pārlūkprogrammu, līdz brīdim, kad to aizverat.
+browsers-mobile-looking-for-a-streamlined = Meklējat optimizētu, īpaši ātru mobilo pārlūku ar nākamā līmeņa privātuma funkcijām? { -brand-name-firefox-focus } automātiski dzēš visu jūsu pārlūkošanas vēsturi no brīža, kad atverat pārlūku, līdz brīdim, kad to aizverat.
 browsers-mobile-compare = Salīdzināt
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words; please omit the strong tags if they need to be around multiple words in your language.
 browsers-mobile-see-how-firefox-for-desktop-strong-v2 = Skatiet, kā { -brand-name-firefox } <strong>darbvirsmai</strong> salīdzināms ar citiem pārlūkiem.
