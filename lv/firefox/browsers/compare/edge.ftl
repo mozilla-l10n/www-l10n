@@ -9,3 +9,7 @@
 compare-edge-firefox-vs-microsoft-edge = { -brand-name-firefox } pret Microsoft Edge
 # HTML page description
 compare-edge-read-our-comparison = Izlasiet mūsu { -brand-name-firefox } un Edge pārlūku salīdzinājumu par funkcijām, privātumu un lietošanas ērtumu.
+compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } padara privātuma aizsardzību vienkāršu un ērtu, lai jums par to nebūtu jāuztraucas.
+compare-edge-we-block-trackers-by-default = Mēs pēc noklusējuma bloķējam izsekotājus. Edge to nedara.
+compare-edge-and-we-make-it-easy-for-you = Un mēs atvieglojam jums meklētāja izvēli, kuru izmantojat, veicot meklēšanu. Edge ļauj jums pārskatīt iestatījumus, lai izmantotu meklētāju, kas nav Bing.
+compare-edge-microsoft-has-to-make-their-shareholders = Microsoft ir jāpadara savi akcionāri laimīgi, bet mēs varam koncentrēties uz to, lai jūs būtu laimīgi, un Jūsu privātumu likt pirmajā vietā.
