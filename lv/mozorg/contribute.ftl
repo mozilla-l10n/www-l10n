@@ -9,3 +9,4 @@
 ## Web compat
 
 contribute-web-compat-heading = Sarežģījumi ar tīmekļa lapu?
+contribute-web-compat-desc = Ja jūsu vietnes lietošanas pieredze dažādos pārlūkos atšķiras, iespējams, esat atklājis tīmekļa saderības problēmu. Mēs labprāt par to uzzinātu!

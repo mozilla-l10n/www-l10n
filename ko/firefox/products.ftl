@@ -89,3 +89,8 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = 광고 구매에 신뢰를 더하세요. 까다롭고 안목이 높으며 브랜드 충성도가 높은 2억 1천만 명 이상의 사용자들과 연결됩니다.
 firefox-products-extend-your-reach = 도달 범위 확장
 firefox-products-learn-more-about-mozilla-ads = { -brand-name-mozilla-ads }에 대해 더 알아보기
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = 엔터프라이즈급 정책 제어를 통해 조직 전체에 { -brand-name-firefox }를 배포와 관리, 보호하세요.
