@@ -42,4 +42,5 @@ cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } تج�
 ## Privacy section
 
 cookie-settings-privacy-heading = ساݙا رازداری نوٹس
+cookie-settings-privacy-desc = جڈاں تساں ساݙیاں ویب سائٹاں تے ویندے ہو تاں { -brand-name-mozilla } کہڑے قسم دیاں معلومات اکٹھیاں کریندا ہے، انھاں دے بارے وچ ودھیک تفصیلی معلومات کیتے تساں تھلے ساݙے رازداری نوٹس دا لنک ڳھول سڳدے ہو۔
 cookie-settings-privacy-policy-link = رازداری نوٹس

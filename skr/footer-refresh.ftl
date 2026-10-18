@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+footer-refresh-discover-mozilla-products = { -brand-name-mozilla } دیاں مصنوعات تے اقدامات دریافت کرو۔ اساں وعدہ کریندے ہائیں جو تہاݙا ای میل نجی تے محفوظ رکھسوں — نہ ونڈݨ، نہ ویچݨ، صرف چنگیاں تازہ ترین خبراں۔
 footer-refresh-leadership = قیادت
 footer-refresh-firefox-release-notes = { -brand-name-firefox } ریلیز نوٹ
 footer-refresh-mdn-v2 = { -brand-name-mdn }
@@ -15,16 +16,20 @@ footer-refresh-youtube = YouTube
 footer-refresh-company = کمپنی
 footer-refresh-press-center = پریس سنٹر
 footer-refresh-careers = روزگار تے کم
+# Our "merch" store is an online store which sells Mozilla branded stuff. (Merch is short for merchandise).
+footer-refresh-store = مرچ اسٹور
 footer-refresh-contact = رابطہ
 footer-refresh-support = سہارا
 footer-refresh-product-help = مصنوعات دی مدد
 footer-refresh-file-a-bug = بگ فائل کرو
 footer-refresh-localize-mozilla = { -brand-name-mozilla } مقامی بݨاؤ
+footer-refresh-security = سلامتی
 footer-refresh-developers = ڈویلپرز
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = اوزار
 footer-refresh-donate = عطیہ ݙیوو
+footer-refresh-donate-not-for-profit = غیر منافع بخش <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> کوں عطیہ ݙیو۔
 footer-refresh-portions-of-this-content = ایں مواد دے حصے ©1998–{ $current_year } انفرادی mozilla.org دے تعاون کنندگان دے ذریعہ ہن۔ <a rel="license" { $href }>{ -brand-name-creative-commons } لائسنس</a> دے تحت دستیاب مواد۔
 footer-refresh-websites-privacy-notice = ویب سائٹ رازداری نوٹس
 footer-refresh-websites-cookies = کوکیاں

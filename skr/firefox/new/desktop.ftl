@@ -21,8 +21,11 @@ firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 firefox-desktop-out-of-date = ہک ٻیا وی نواں { -brand-name-firefox } دستیاب ہے۔  <a { $update_url }>  نویں نکور ورژن وِچ اپ ڈیٹ کرو </a>
 firefox-desktop-download-get-the-browser = براؤزر گھنو جہڑا حفاظت کریندے تے تہاݙے کیتے اہم ہے
 firefox-desktop-download-fast-reliable-private = تیز، قابلِ بھروسا تے پرائیویٹ — آن لائن ذہنی سکون کیتے۔
+firefox-desktop-set-as-default = { -brand-name-firefox } کوں اپݨا ڈیفالٹ براؤزر بݨاؤ۔
 firefox-desktop-download-download-options = ڈاؤن لوڈ اختیارات تے ٻیاں زباناں
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } سپورٹ
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-do-what-you-do-v2 = آن لائن اپݨا کم کرو۔<br> { -brand-name-firefox-browser } تہاکوں <strong>محفوظ</strong> رکھیندا ہے۔
 firefox-desktop-download-we-block-the-ad = اساں اشتہاری ٹریکرز کوں بلاک کریندے ہیں۔ تساں انٹرنیٹ کوں تکھاجی نال دریافت کریندے او۔
 firefox-desktop-download-ads-are-distracting = اشتہار پریشان کن ہوندے ہن تے ویب ورقیاں کوں سست لوڈ کریندے ہن جݙاں جو انہاں دے ٹریکرز تہاݙی آن لائن ہر حرکت کوں ݙیکھدےہن۔ { -brand-name-firefox-browser } زیادہ تر ٹریکرز کوں آپوں ڄاݨ بلاک کر ݙیندا ہے، ایں سانگے تہاݙیاں حفاظتی ترتیباں کوں کھَٹݨ دی لوڑ کائنی۔
 firefox-desktop-download-see-your-report = اپݨے تحفظ دی رپورٹ ݙیکھو
@@ -107,6 +110,9 @@ firefox-desktop-download-from-security-to = سیکیورٹی کنون گھن ت�
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = { -brand-name-firefox } کوں <a { $attrs }>{ -brand-name-mozilla }</a> { -brand-name-ie } جیویں براؤزرز دے تیز، زیادہ نجی متبادل دے طور تے بݨایا ہا۔ ہݨ { -brand-name-chrome }۔ اڄ، اساݙی مشن نال چلݨ والی کمپنی تے رضاکار برادری تہاݙی رازداری کوں ہر چیز تے مقدم رکھیندی ہے۔
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
+firefox-desktop-download-as-the-internet-v2 = جیویں انٹرنیٹ ودھدا تے بدلیندا ہے، { -brand-name-firefox } تہاݙے پرائیویسی دے حق تے دھیان ݙیندا رہندا ہے — ایہہ ہمیشہ توں ساݙا کم ہے۔ ساݙے ڈیٹا دے طریقیاں بارے ودھیک ڄاݨو ساݙے <a { $attrs }>رازداری نوٹس</a> وچ۔
 # Variables:
 #   $attrs (attrs) - link to https://accounts.firefox.com/signin
 firefox-desktop-download-firefox-is-available-v2 = { -brand-name-firefox }تُہاݙے سبّھے ڈیوائساں اُتے دستیاب ہِے۔ آپݨے ٹیبز، ہسٹری اَتے بُک مارکس آپݨے نال گِھن ون٘ڄو۔ تُہاکوں صرف ہِک <a { $attrs }>{ -brand-name-mozilla-account }</a> دی لوڑ ہِے اَتے تُہاکوں ہم وقت پذیری اَتے ٻئے { -brand-name-mozilla }مصنوعات تئیں رسائی مِلسی۔

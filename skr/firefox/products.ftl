@@ -13,6 +13,13 @@ firefox-products-products = مصنوعات
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } ہݨیں ہݨیں شروع تھیندی پئی ہے۔
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } بݨتاں دا ہک پورا ٹٻر ہے جیڑھا تہاکوں آن لائن محفوظ تے بہتر رکھݨ کیتے ڈیزائن کیتے ڳئے ہن۔
 
+## Section headings
+
+firefox-products-tabs-everyone = سبھݨے کیتے
+firefox-products-tabs-business = کاروبار کیتے
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = مصنوعات دیاں ونڈیاں
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -22,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = اینجھا براؤزر حاص�
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = خود کار طریقے نال ٹریکنگ دے تحفظ تے اشتہار کوں بلاک کرݨ دے نال تہاݙا سرٻدھ نجی براؤزر۔
+firefox-products-get-focus = { -brand-name-firefox-focus } گھنو
 
 ## Monitor
 
@@ -56,9 +64,36 @@ firefox-products-download-thunderbird = { -brand-name-thunderbird } ڈاؤن ل�
 ## 0DIN
 
 firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = اپݨے AI سسٹمز کوں سیکیورٹی دے ماہرین دی عالمی بیادری نال ڳنڈھو، جیہڑے GenAI دیاں کمزوریاں کوں ویلے توں پہلاں لبھ تے ٹھیک کرݨ وچ مدد کریندن۔
+firefox-products-0din-desc-v2 = AI دیاں کمزوریاں کوں پروڈکشن تائیں پہنچݨ توں پہلاں لبھو تے ٹھیک کرو، سیکیورٹی محققین دی عالمی بیادری تے سب توں وݙے منسوب ایکسپلائٹ فیڈ دی مدد نال۔
+firefox-products-test-your-ai = اپݨے AI ایجنٹاں کوں آزماؤ
 firefox-products-learn-more-about-0din = { -brand-name-0din } بارے ٻیا سکھو
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = اپݨیاں ایپس کوں بھروسے جوڳ آٹومیشن نال ویب نال ڳنڈھو تے جیندے ویب صفحیاں کوں صاف ستھرے، ترتیب ݙتے نتائج وچ بدلو۔
+firefox-products-start-automating-the-web = ویب کوں خودکار بݨاؤ
 firefox-products-learn-more-about-tabstack = { -brand-name-tabstack } بارے ٻیا سکھو
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari } روٹنگ، سیکیورٹی، بجٹنگ، فیل اوور تے آڈٹنگ کوں ہک API اینڈ پوائنٹ دے پچھوں ہکٹھا کر کے کئی AI فراہم کنندگان دے انتظام دی پیچیدگی کوں ختم کریندے۔
+firefox-products-own-your-ai-stack = اپݨے AI اسٹیک دے مالک بݨو
+firefox-products-learn-more-about-otari = { -brand-name-otari } بارے ودھیک ڄاݨو
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = اپݨے اشتہار دی خرید وچ اعتماد ودھاؤ۔ تساں 210 ملین توں ودھ چݨویں، سمجھدار تے برانڈ دے وفادار ورتݨ آلیاں نال ڳنڈھسو۔
+firefox-products-extend-your-reach = اپݨی رسائی ودھاؤ
+firefox-products-learn-more-about-mozilla-ads = { -brand-name-mozilla-ads } بارے ودھیک ڄاݨو
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = { -brand-name-firefox } کوں اپݨی تنظیم وچ انٹرپرائز درجے دے پالیسی کنٹرولز نال تعینات کرو، سنبھالو تے محفوظ بݨاؤ۔
+firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla } دا گاہک دے زیرِ انتظام، اپݨے احاطے وچ چلݨ آلا انٹرپرائز براؤزر پلیٹ فارم۔ تنظیماں کوں انہاں دے ڈیٹا، آئی ٹی انفراسٹرکچر تے براؤزر ماحول تے ودھیک کنٹرول دے ذریعے انہاں دی ڈیجیٹل خودمختاری تے آپریشنل لچک مضبوط کرݨ وچ مدد کرݨ کیتے بݨایا ڳیا ہے۔
+firefox-products-manage-your-fleet = { -brand-name-firefox } تعینات کرو
+firefox-products-learn-more-about-firefox-enterprise = { -brand-name-firefox-enterprise } بارے ودھیک ڄاݨو

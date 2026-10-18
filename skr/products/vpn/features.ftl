@@ -49,6 +49,8 @@ vpn-features-support-for-custom-dns = آپݨی مرضی دے مطابق ڈی ا�
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = { -brand-name-mozilla-vpn }دے نال، تُساں آپݨی ٹریفک کوں محفوظ رکھ سڳدے ہِیوے اَتے وَل وی آپݨے ڈی این ایس سوالاں کوں جِتّھاں چاہؤو روٹ کر سڳدے ہِیوے۔ <a { $dns }>لوڑ مطابق ڈی این ایس حمایت دے بارے وِچ ودھیک ڄاݨو</a>۔
 vpn-features-flexible = لچکدار
+vpn-features-webste-specific-vpn = سائٹ دے حساب نال وی پی این دی سیٹنگز، جیہڑے موزیلا فائر فاکس وچ بہترین طریقے نال شامل ہن۔
+vpn-features-with-the-mozilla-vpn-extention = موزيلا فائر فاکس (صرف ونڈوز) کیتے موزیلا وی پی این ایکسٹینشن نال، تساں ہر ویب سائٹ دے حساب نال اپݨے وی پی این دے تجربے کوں بہتر بݨا سڳدے ہیوے۔ کہیں خاص ویب سائٹ کوں وی پی این پروٹیکشن توں ٻاہر رکھو یا خاص سائیٹس کیتے پسندیدہ سرور لوکیشنز سیٹ کرو، جیندے نال تیکوں ہک زیادہ لچکدار تے ذاتی نوعیت دا تجربہ ملسی۔
 vpn-features-personalized-server = ذاتی سرور دے مقام دیاں سفارشاں
 vpn-features-well-suggest-which-servers = اَساں صلاح ݙین٘دے ہِسے جو تُہاݙے نیڑے کِہڑے سرورز تِکّھے ترین، قابلِ اعتماد انٹرنیٹ کنکشن کوں یقینی بݨیسِن۔
 vpn-features-personalize-which-apps = ذاتی بݨاؤ جو کہڑی ایپس کوں وی پی این تحفظ حاصل ہِے۔
@@ -69,3 +71,6 @@ vpn-features-reviewed-by-third = فریق تریجھا سیکیورٹی ماہر
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
 vpn-features-weve-been-audited = اَساݙا آڈٹ Cure53 دے ذریعے کِیتا ڳِیا ہِے، ہِک معروف سائبر سیکیورٹی آڈیٹنگ تنظیم۔ <a { $report }>رپورٹ اِتّھاں ݙٰکھو</a>۔
 vpn-features-people-over-profits = منافع کنوں ودھ لوک
+# Variables
+#   $mofo (url) - link to https://www.mozillafoundation.org/
+vpn-features-were-backed-by-mofo-v2 = اساں <a { $mofo }>{ -brand-name-mozilla-foundation } دی طرفوں سپورٹ یافتہ ہیں، جو کہ ہک غیر منافع بخش ادارہ ہے جیڑھا ساریاں کیتے ویب کوں کھلا تے صحت مند رکھݨ کیتے لڑدا پیا ہے۔

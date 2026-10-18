@@ -10,9 +10,23 @@ m24-about-page-title = { -brand-name-mozilla } بارے ٻیا سکھو
 # HTML page description
 m24-about-page-desc = { -brand-name-mozilla } براؤزرز، ایپس، کوڈ تے ٹولز بݨیندا ہے جیڑھے لوکاں کوں منافع کنوں پہلے رکھیندے ہن۔ اساݙا مشن: انٹرنیٹ کوں کھلا تے سبھ کیتے قابل رسائی رکھو۔
 
+## Intro
+
+m24-about-guard-the-internet = کھلے انٹرنیٹ دی حفاظت کرو
+# Obsolete string (expires 2026-09-11)
+m24-about-reclaim-the-internet = ساݙے نال انٹرنیٹ واپس گھنو
+m24-about-mozilla-is-working = { -brand-name-mozilla } انٹرنیٹ دا کنٹرول انہاں لوکاں دے ہتھاں وچ واپس ݙیوݨ کیتے کم کریندی پئی ہے جیہڑے ایہہ ورتیندے ہن۔
+
 ## Manifesto
 
+m24-about-together-we-can = رل مل کے، اساں انٹرنیٹ کوں سوکھا، محفوظ تے آزاد رکھ سڳدے ہائیں — سبھݨے کیتے۔
 m24-about-read-our-manifesto = ساݙا منشور پڑھو
+# Used as an accessible text alternative for an image
+m24-about-a-group-of = فرش تے دائرے وچ ٻیٹھے، اپݨے خیال سانجھے کریندے مفکرین دا ہک گروہ۔
+m24-about-advocate = وکالت
+m24-about-we-advocate-for = اساں چنگیاں مصنوعات دی وکالت کریندے ہائیں تے حکومتاں تے ٹیک کارپوریشناں کوں انہاں دیاں تخلیقاں دا جوابدہ ٹھہریندے ہائیں۔
+m24-about-research = تحقیق
+m24-about-we-uncover-insights = اساں بصیرتاں لبھدے ہائیں، مصنوعات کوں بہتر بݨاوݨ کیتے مہم چلیندے ہائیں تے ایسیاں پالیسیاں کوں اڳوں ودھیندے ہائیں جیہڑیاں تہاݙے مفاداں دی نمائندگی کریندیاں ہن۔
 m24-about-build = تعمیر
 m24-about-we-build-products-v2 = اساں اینجھے پروڈکٹس بݨیندے ہاں جو تیکوں کنٹرول ݙیندن — جیویں { -brand-name-firefox } تے ٻئے وی۔
 m24-about-fund = فنڈ

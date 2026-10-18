@@ -15,7 +15,9 @@ vpn-download-not-available-in-country = افسوس، تہاݙے ملک وچ { -b
 vpn-download-for-windows-v2 = { -brand-name-windows } کیتے وی پی این
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (64-بٹ صرف)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = { -brand-name-windows } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
+vpn-download-for-firefox-extension = انسٹال { -brand-name-firefox } ایکسٹیشن
 vpn-download-for-mac = { -brand-name-mac-short } کیتے وی پی این
 vpn-download-for-mac-long = { -brand-name-mac-short } کیتے { -brand-name-mozilla-vpn } ڈاؤن لوڈ کرو
 # Variables:
@@ -40,3 +42,9 @@ vpn-download-also-available = ایں کیتے وی دستیاب ہے:
 vpn-download-from-the-maker = { -brand-name-firefox }دے بݨاوݨ آلے کنوں، { -brand-name-mozilla-vpn }جدید ترین<a href="{ $url }" { $attrs }>{ -brand-name-wireguard }دا استعمال کرین٘دا ہِے </a>® پروٹوکول تُہاݙی آن لائن سرگرمی کوں انکرپٹ کرݨ اَتے تُہاݙی جاء لُکاوݨ کِیتے۔
 vpn-download-we-never-log = اساں تہاݙے نیٹ ورک ڈیٹا کوں کݙاہیں وی لاگ، ٹریک یا شیئر کائنی کریندے۔
 vpn-download-previous-versions = { -brand-name-windows } تے { -brand-name-mac-short } کیتے پچھلے ورژن ڈاؤن لوڈ کرو
+vpn-download-install-via-flathub = فلیتھ ہب دے زریعے انسٹال
+vpn-download-install-via-apt = اے پی ٹی دے زریعے انسٹال
+vpn-download-flathub = فلیتھ ہب
+vpn-download-apt = اے پی ٹی
+vpn-download-windows = 64ــ بٹ
+vpn-download-windows-arm = اے آر ایم

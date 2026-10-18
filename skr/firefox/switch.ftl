@@ -23,6 +23,8 @@ switch-enjoy-the-web-faster = تکھاجی نال ویب دا لطف گھنو، 
 switch-download-and-switch = ڈاؤم لوڈ کرو تے سوئچ کرو
 switch-share-to-facebook = فیسبک تے شیئر کرو
 switch-share-to-facebook-updated = { -brand-name-facebook } تے شیئر کرو
+# Note: Bluesky is a brand name and should not be translated
+switch-share-to-bluesky = Bluesky تے شیئر کرو
 switch-hey = اَوے،
 switch-check-it-out = اینکوں چیک کرو تے میکوں ݙساؤ جو تساں کیا سوچیندے او:
 switch-send-an-email = ہک ای میل پٹھو

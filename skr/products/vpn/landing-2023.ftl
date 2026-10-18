@@ -16,10 +16,13 @@ vpn-landing-whats-a-vpn = وی پی این کیا ہے؟
 vpn-landing-a-virtual-private-network-protects = ہِک ورچوئل پرائیویٹ نیٹ ورک انٹرنیٹ نال تُہاݙے کنکشن دی راکھی کرین٘دا ہِے، تُہاݙی جاء اَتے تُساں جِہڑا کُجھ آن لائن کرین٘دے ہِیوے آپݨی ڈیوائس اُتے وَدھ نجی رکھین٘دے ہوئے۔
 vpn-landing-see-all-the-ways-mozilla-vpn = سارے او طریقے ݙیکھو { -brand-name-mozilla-vpn } تہاݙی حفاظت کریندے۔
 vpn-landing-how-a-vpn-helps-you = وی پی این تہاݙی کینویں مدد کریندے
+vpn-landing-how-a-vpn-helps-you-v2 = موزيلا وی پی این (Mozilla VPN) تیکوں کیویں فیدہ ڈیندے؟
 vpn-landing-keeps-your-data-safe = عوامی وائی فائی تے تہاݙا ڈیٹا محفوظ رکھیندے
 vpn-landing-log-in-to-your-bank-or = ہوائی اݙّے، کیفے یا کِتھاؤں وی، ذہنی سکون دے نال آپݨے بینک یا ڈاکٹر دے دفتر وِچ لاگ اِن تِھیؤو۔
 vpn-landing-blocks-advertisers-from = مشتہرین کوں تُہاکوں نشانہ بݨاوݨ کنوں بلاک کریندے
 vpn-landing-hide-your-activity-from = ٹریکرز اَتے مالویئر کنوں آپݨی سرگرمی لُکاؤ تاں جو تُساں ݙِٹّھے مُتُّوں خریداری کر سڳو۔
+vpn-landing-take-control = سائٹ دے حساب نال وی پی این دی سیٹنگز نال کنٹرول آپݨے ہتھ وچ رکھو۔
+vpn-landing-customize-your-vpn = موزيلا فائر فاکس (صرف ونڈوز) کیتے موزیلا وی پی این ایکسٹینشن نال ہر ویب سائٹ دے حساب نال اپݨے وی پی این پروٹیکشن دی سیٹنگز کرو۔
 vpn-landing-features = خاص
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN

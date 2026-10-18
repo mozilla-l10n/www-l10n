@@ -115,4 +115,5 @@ manifesto-share-on-bluesky = بلو اسکائی تے شیئر کرو
 manifesto-our-10-principles = <strong>ساݙے 10</strong> اصول
 manifesto-the-mozilla-manifesto-addendum = { -brand-name-mozilla } دا منشور ضمیمہ
 manifesto-show-your-support = آپݨی سپورٹ ݙکھاؤ
+manifesto-i-support-the-vision-of-v2 = میں { -brand-name-mozilla } دی طرفوں ہک بہتر، صحت مند انٹرنیٹ دے وژن دی حمایت کریندا ہاں، کیا تساں میݙے نال رل سو؟
 manifesto-read-the-entire-manifesto = سارا منشور پڑھو
