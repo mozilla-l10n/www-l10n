@@ -13,6 +13,10 @@ firefox-products-tabs-business = Uzņēmējdarbībai
 # Accessible name for the tab list grouping the sections above, read by screen readers.
 firefox-products-tabs-aria-label = Produktu kategorijas
 
+## Firefox
+
+firefox-products-get-the-browser-that-blocks = Iegūstiet pārlūku, kas automātiski bloķē vairāk nekā 2000 datu izsekotāju. Uzlabotā izsekošanas aizsardzība ir standarta aprīkojumā katrā { -brand-name-firefox } pārlūkprogrammā.
+
 ## Focus
 
 firefox-products-get-focus = Iegūt { -brand-name-firefox-focus }
