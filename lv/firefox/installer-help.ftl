@@ -6,3 +6,4 @@
 ### URL: https://www-dev.allizom.org/firefox/installer-help/
 
 installer-help-firefox-developer-desc = Veidojiet, testējiet, mērogojiet un veiciet citas darbības ar vienīgo pārlūku, kas paredzēts tikai izstrādātājiem.
+installer-help-firefox-nightly-desc = Ieskatieties mūsu nākamās paaudzes tīmekļa pārlūkā un palīdziet mums to padarīt par labāko pārlūku.

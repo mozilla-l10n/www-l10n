@@ -6,6 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/mobile/
 
 firefox-mobile-download-the-firefox-browser = Lejupielādē { -brand-name-firefox-browser } savā { -brand-name-ios } un { -brand-name-android } tālrunī
+firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } mobilajām ierīcēm pēc noklusējuma bloķē vairāk nekā 2000 izsekotāju, nodrošinot jums pelnīto privātumu un nepieciešamo ātrumu privātā mobilajā pārlūkā.
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Iegūsti tālruņa pārlūku radītu Tevi, nevis reklāmdevējiem

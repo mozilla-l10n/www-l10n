@@ -6,6 +6,8 @@
 ### URL: https://www-dev.allizom.org/firefox/new/
 
 firefox-desktop-download-meta-title-v2 = Lejupielādēt { -brand-name-firefox } darbvirsmai — no { -brand-name-mozilla }
+firefox-desktop-download-meta-desc = Iegūstiet { -brand-name-firefox } — bezmaksas tīmekļa pārlūku, ko nodrošina { -brand-name-mozilla } — bezpeļņas organizācija, kas veltīta interneta veselībai un privātumam. Tagad pieejama operētājsistēmās { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } un { -brand-name-ios }.
+firefox-desktop-download-meta-desc-v2 = Iegūstiet { -brand-name-firefox } priekš { -brand-name-windows }, { -brand-name-mac-short } vai { -brand-name-linux }. { -brand-name-firefox } ir bezmaksas tīmekļa pārlūks, ko atbalsta { -brand-name-mozilla } — bezpeļņas organizācija, kas veltīta interneta veselībai un privātumam.
 firefox-desktop-download-og-desc = Ātrāka lapu ielāde, mazāks atmiņas lietojums un pilns ar iespējām, jaunais { -brand-name-firefox } ir klāt.
 firefox-desktop-download-firefox = { -brand-name-firefox-browser }
 # Variables:
