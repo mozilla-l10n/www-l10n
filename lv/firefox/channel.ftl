@@ -15,8 +15,14 @@ firefox-channel-tips-for-filing-a-bug = Padomi nepilnību pieteikšanā
 firefox-channel-try-new-features-in-a-pre = Izmēģiniet jaunas funkcijas pirmsizlaiduma { -brand-name-android } pārlūkprogrammā | { -brand-name-firefox }
 firefox-channel-download-and-test-future = Lejupielādējiet un pārbaudiet { -brand-name-firefox } nākamās versijas datoram, { -brand-name-android } un { -brand-name-ios } ierīcēm.
 firefox-channel-experience-cutting-edge-android-updated = Izbaudiet jaunākās funkcijas pirmsizlaiduma pārlūkā { -brand-name-android }: { -brand-name-firefox-beta } un { -brand-name-firefox-nightly }. Instalējiet tūlīt!
+firefox-channel-experience-cutting-edge-android = Izbaudiet jaunākās funkcijas pirmsizlaiduma pārlūkā { -brand-name-android }: { -brand-name-firefox-beta }, { -brand-name-firefox-aurora } un { -brand-name-firefox-nightly }. Instalējiet tūlīt!
+firefox-channel-try-the-latest-android-features = Izmēģiniet jaunākās { -brand-name-android } funkcijas, pirms tās tiek izlaistas pārējai pasaulei.
 firefox-channel-all-languages-and-platforms = Visas valodas un platformas
 firefox-channel-all-languages-and-builds = Visas valodas un būvējumi
+# Variables:
+#   $link (url) - link to https://www.mozilla.org/privacy/firefox/#pre-release
+firefox-channel-beta-is-an-unstable-testing = { -brand-name-beta } ir nestabila testēšanas un izstrādes platforma. Pēc noklusējuma { -brand-name-beta } nosūta datus uz { -brand-name-mozilla } — un dažreiz arī uz mūsu partneriem —, lai palīdzētu mums risināt problēmas un izmēģināt idejas. <a href="{ $link }">Uzziniet, kas tiek koplietots</a>.
+firefox-channel-firefox-beta-automatically = { -brand-name-firefox-beta } automātiski nosūta atsauksmes uz { -brand-name-mozilla }.
 firefox-channel-beta = { -brand-name-beta }
 firefox-channel-release-notes = Laidiena piezīmes
 firefox-channel-developer-edition = { -brand-name-developer-edition }

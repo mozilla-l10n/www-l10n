@@ -15,7 +15,7 @@ browsers-mobile-firefox-for-ios = { -brand-name-firefox } priekš { -brand-name-
 browsers-mobile-go-your-own-way = Ej savu ceļu ar { -brand-name-firefox } tālruņa versiju
 browsers-mobile-firefox-mobile-adapts-to-you = { -brand-name-firefox } tālruņa versija pielāgojas jums un atvieglo visu atvērto cilņu, iepriekšējo meklējumu un iecienītāko vietņu skatīšanu.
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
-browsers-mobile-get-enhanced-tracking-protection = Iegūstiet uzlabotu izsekošanas aizsardzību un padariet { -brand-name-firefox } par savu noklusējuma, vienmēr izmantojamo pārlūkprogrammu savā { -brand-name-iphone } un { -brand-name-ipad } ierīcē.
+browsers-mobile-get-enhanced-tracking-protection = Iegūstiet uzlabotu izsekošanas aizsardzību un padariet { -brand-name-firefox } par savu noklusējuma, vienmēr izmantojamo pārlūku savā { -brand-name-iphone } un { -brand-name-ipad } ierīcē.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
 browsers-mobile-looking-for-a-streamlined = Meklējat optimizētu, īpaši ātru mobilo pārlūkprogrammu ar nākamā līmeņa privātuma funkcijām? { -brand-name-firefox-focus } automātiski dzēš visu jūsu pārlūkošanas vēsturi no brīža, kad atverat pārlūkprogrammu, līdz brīdim, kad to aizverat.
 browsers-mobile-compare = Salīdzināt
