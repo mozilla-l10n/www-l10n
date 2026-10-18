@@ -10,6 +10,8 @@
 
 new-platform-free-web-browser = Bezmaksas tīmekļa pārlūks
 new-platform-need-help = Nepieciešama palīdzība?
+# /firefox/linux/ HTML page description
+new-platform-download-mozilla-desc-linux = Lejupielādējiet { -brand-name-mozilla } { -brand-name-firefox } operētājsistēmai { -brand-name-linux } — bezmaksas tīmekļa pārlūku. { -brand-name-firefox } ir izveidojusi globāla bezpeļņas organizācija, kuras mērķis ir nodrošināt indivīdiem kontroli tiešsaistē. Iegūstiet { -brand-name-firefox } operētājsistēmai { -brand-name-linux } jau šodien!
 
 ## Mac
 

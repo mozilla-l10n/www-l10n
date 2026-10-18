@@ -17,6 +17,7 @@ firefox-desktop-download-get-the-browser = Iegūsti pārlūku, kas aizsargā to,
 firefox-desktop-set-as-default = Iestatīt { -brand-name-firefox } kā noklusējuma pārlūku.
 firefox-desktop-download-download-options = Lejupielāžu iespējas un citas valodas
 firefox-desktop-download-ads-are-distracting = Reklāmas novērš uzmanību un palēnina tīmekļa lapu ielādi, savukārt to izsekotāji uzrauga katru Tavu darbību tiešsaistē. { -brand-name-firefox-browser } automātiski aiztur lielāko daļu izsekotāju, tāpēc nav nepieciešams iedziļināties drošības iestatījumos.
+firefox-desktop-download-take-your-privacy = Ņemiet savu privātumu līdzi visur. { -brand-name-firefox-browsers } pārlūks { -brand-name-ios } un { -brand-name-android } ir vienādi stingri privātuma iestatījumi, lai bloķētu izsekotājus, kas ļauj jums sekot tīmeklī neatkarīgi no jūsu atrašanās vietas.
 firefox-desktop-download-search-from-address = Meklēt adrešu joslā
 firefox-desktop-download-bookmarks-manager = Grāmatzīmju pārvaldnieks
 firefox-desktop-download-reader-mode = Lasīšanas režīms
@@ -33,9 +34,20 @@ firefox-desktop-download-themes = Izskati
 firefox-desktop-download-adjust-search-bar = Pielāgot meklēšanas joslas iestatījumus
 firefox-desktop-download-your-privacy-comes = Tavs privātums ir pirmajā vietā
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
+firefox-desktop-download-download-this-browser = <a { $attrs } >Lejupielādējiet šo pārlūka paplašinājumu</a>, lai apturētu { -brand-name-facebook } (un { -brand-name-instagram }) izsekošanu tīmeklī.
 firefox-desktop-download-from-watching-a = No tīmekļa pamācības skatīšanās līdz sekošanai iecienītākajai komandai video seko Tev, kamēr vienlaicīgi veic dažādus uzdevumus.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-download-the-mobile = Lejupielādējiet { -brand-name-firefox } mobilo pārlūku, lai nodrošinātu automātisku aizsardzību visās savās ierīcēs.
 firefox-desktop-download-learn-about-the = Uzzini vairāk par { -brand-name-firefox } darbvirsmu pārlūku zemāk
+# Variables:
+#   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
+# "just right" could also be translated as "the way you want it to be" or "perfect for you"
+firefox-desktop-download-from-security-to = No drošības līdz ziņām un spēlēm — ikvienam ir savs <a { $attrs }>paplašinājums</a>. Pievienojiet tik daudz paplašinājumu, cik vēlaties, līdz jūsu pārlūks ir tieši tāds, kāds jums vajadzīgs.
+# Variables:
+#   $attrs (attrs) - link to https://www.mozilla.org/about/
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } izveidoja <a { $attrs }>{ -brand-name-mozilla } </a> kā ātrāku un privātāku alternatīvu tādām pārlūku kā { -brand-name-ie } un tagad arī { -brand-name-chrome }. Mūsdienās mūsu misijas vadītais uzņēmums un brīvprātīgo kopiena turpina jūsu privātumu likt augstāk par visu.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Internetam augot un mainoties, { -brand-name-firefox } turpina pievērsties tiesībām uz privātumu — tas vienmēr ir bijis mūsu uzdevums. Vairāk par mūsu darbu ar datiem var uzzināt mūsu <a { $attrs }>Privātuma paziņojumā</a>.
