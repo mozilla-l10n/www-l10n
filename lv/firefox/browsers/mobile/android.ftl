@@ -9,3 +9,4 @@
 mobile-android-firefox-browser-for = { -brand-name-firefox } pārlūkus operētājsistēmai { -brand-name-android } ir ātra, droša un privāta jau no pirmās atvēršanas reizes.
 mobile-android-got-a-big = Vai jums ir liels tālrunis un normāla izmēra īkšķi? Nav problēmu. { -brand-name-firefox } operētājsistēmai { -brand-name-android } ļauj pārvietot meklēšanas joslu no augšas uz leju, tādējādi atvieglojot lietošanu ar vienu roku. Varat arī izvēlēties savu meklētāju pārlūkā un, ja vēlaties, iestatīt { -brand-name-firefox } kā noklusējuma pārlūku.
 mobile-android-addons-are-like = Papildinājumi ir kā jaudīgi mazi rīki, ko varat pievienot pārlūkam, lai veiktu tādas darbības kā noklusējuma privātuma iestatījumu palielināšana un pieredzes pielāgošana.
+mobile-android-see-all-your-open-tabs = Skatiet visas atvērtās cilnes, nesen meklētās meklēšanas un iecienītākās vietnes vienuviet, izmantojot { -brand-name-firefox } pārlūku { -brand-name-android }.

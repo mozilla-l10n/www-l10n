@@ -7,3 +7,4 @@
 
 # HTML page description
 features-pip-got-things-to-do-and-things-to-watch = Ir ko darīt un ko skatīties? Dariet abus, izmantojot funkciju “Attēls attēlā” pārlūkā { -brand-name-firefox }.
+features-pip-play-any-video-in-your-updated = <strong>Atskaņojiet jebkuru video</strong> savā { -brand-name-firefox } pārlūkā, piemēram, šo.
