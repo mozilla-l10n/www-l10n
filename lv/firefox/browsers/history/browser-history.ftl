@@ -9,13 +9,24 @@ browser-history-browser-history = Pārlūku vēsture: episkas cīņas par varu, 
 browser-history-the-browser-wars-underdogs-giants = Pārlūku kari, autsaideru cīņa pret milžiem un brīži, kas mainīja pasauli. Lasiet par tīmekļa pārlūku vēsturi.
 browser-history-the-history-of-web = Tīmekļa pārlūku vēsture
 browser-history-world-history-is = Pasaules vēsture ir pilna ar episkām cīņām par varu, pasauli iekarojošiem tirāniem un varonīgiem autsaideriem. Tīmekļa pārlūku vēsture nav īpaši atšķirīga. Universitāšu pionieri rakstīja vienkāršu programmatūru, kas aizsāka informācijas revolūciju un cīņu par pārlūku pārākumu un interneta lietotājiem.
+browser-history-before-web-era = Pirms tīmekļa ēras
+browser-history-in-1950-computers = 1950. gadā datori aizņēma veselas telpas un bija dumjāki par mūsdienu kabatas kalkulatoriem. Taču progress bija straujš, un līdz 1960. gadam tie spēja palaist sarežģītas programmas. Valdības un universitātes visā pasaulē uzskatīja, ka būtu lieliski, ja mašīnas spētu runāt, veicinot sadarbību un zinātniskus atklājumus.
+# Variables:
+#   $arpanet (url) - https://en.wikipedia.org/wiki/ARPANET
+browser-history-arpanet-was-the = <a href="{ $arpanet }">ARPANET</a> bija pirmais veiksmīgais tīklošanas projekts, un 1969. gadā no Kalifornijas Universitātes Losandželosā (UCLA) datorzinātņu laboratorijas uz Stenfordas pētniecības institūtu (SRI), kas arī atrodas Kalifornijā.
 browser-history-that-sparked-a-revolution = Tas aizsāka revolūciju datoru tīklos. Veidojās jauni tīkli, kas savienoja universitātes un pētniecības centrus visā pasaulē. Taču nākamos 20 gadus internets nebija pieejams sabiedrībai. Tas bija pieejams tikai universitāšu un valdības pētniekiem, studentiem un privātiem uzņēmumiem. Bija desmitiem programmu, kas varēja apmainīties ar informāciju pa telefona līnijām, taču neviena no tām nebija viegli lietojama. Patiesais atvērtais internets un pirmā tīmekļa pārlūks tika izveidota tikai 1990. gadā.
+browser-history-web-era = Tīmekļa laikmets
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
 browser-history-british-computer = Britu datorzinātnieks Tims Berners-Lī 1990. gadā, strādājot CERN (Eiropas Kodolpētījumu organizācijā) Šveicē, izveidoja pirmo tīmekļa serveri un grafisko tīmekļa pārlūku. Savu jauno logu internetā viņš nosauca par “WorldWideWeb”. Tas bija viegli lietojams grafiskais interfeiss, kas izveidots NeXT datoram. Pirmo reizi teksta dokumenti tika savienoti kopā publiskā tīklā — tīmeklī, kādu mēs to pazīstam.
+browser-history-a-year-later-berners = Gadu vēlāk Berners-Lī lūdza CERN matemātikas studentei Nikolai Pellovai uzrakstīt Line Mode Browser — programmu pamata datoru termināļiem.
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox
 browser-history-by-1993-the-web = Līdz 1993. gadam tīmeklis piedzīvoja eksploziju. Universitātes, valdības un privāti uzņēmumi saskatīja iespēju atvērtajā internetā. Ikvienam bija nepieciešamas jaunas datorprogrammas, lai tam piekļūtu. Tajā gadā datorzinātnieks Marks Andresens Ilinoisas Universitātes Urbana-Šampeinā Nacionālajā superdatoru lietojumprogrammu centrā (NCSA) izveidoja Mosaic. Tā bija pati pirmais populārā tīmekļa pārlūks un <a href="{ $firefox }">{ -brand-name-mozilla } { -brand-name-firefox } </a> agrīnais priekštecis.
+# Variables:
+#   $netscape (url) - https://en.wikipedia.org/wiki/Netscape_(web_browser)
+browser-history-ncsa-mosaic-ran = NCSA Mosaic darbojās { -brand-name-windows } datoros, bija viegli lietojams un ikvienam ar datoru nodrošināja piekļuvi agrīnajām tīmekļa lapām, tērzētavām un attēlu bibliotēkām. Nākamajā gadā (1994. gadā) Andreesens nodibināja <a href="{ $netscape }">{ -brand-name-netscape } </a> un izlaida { -brand-name-netscape } Navigator sabiedrībai. Tas guva milzīgus panākumus un bija pirmais pārlūks tautai. Tas bija arī pirmais solis jauna veida karā par interneta lietotājiem.
+browser-history-the-browser-wars = Pārlūku kari
 # Variables:
 #   $mozilla (url) - https://en.wikipedia.org/wiki/Mozilla
 #   $marketshare (url) - https://en.wikipedia.org/wiki/Internet_Explorer#Market_adoption_and_usage_share

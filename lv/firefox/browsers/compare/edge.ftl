@@ -13,3 +13,6 @@ compare-edge-firefox-makes-privacy-protection = { -brand-name-firefox } padara p
 compare-edge-we-block-trackers-by-default = Mēs pēc noklusējuma bloķējam izsekotājus. Edge to nedara.
 compare-edge-and-we-make-it-easy-for-you = Un mēs atvieglojam jums meklētāja izvēli, kuru izmantojat, veicot meklēšanu. Edge ļauj jums pārskatīt iestatījumus, lai izmantotu meklētāju, kas nav Bing.
 compare-edge-microsoft-has-to-make-their-shareholders = Microsoft ir jāpadara savi akcionāri laimīgi, bet mēs varam koncentrēties uz to, lai jūs būtu laimīgi, un Jūsu privātumu likt pirmajā vietā.
+# Variables:
+# $howto (url) - link to https://support.mozilla.org/kb/import-bookmarks-and-other-data-microsoft-edge
+compare-edge-switching-to-firefox-is-easy = Pārslēgšanās uz { -brand-name-firefox } ir vienkārša un ātra — importējiet savas Edge grāmatzīmes, paroles, vēsturi un preferences ar vienu klikšķi un nekavējoties esiet gatavs izmantot { -brand-name-firefox }. Lūk, <a { $howto }>kā izmantot pogu Importēt, lai pārslēgtos</a>.
