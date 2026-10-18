@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
+features-translate-while-other-browsers-rely-on-v2 = Lai gan citas pārlūki izmanto mākoņpakalpojumus, { -brand-name-firefox-translations } valodu modeļi tiek lejupielādēti lietotāja pārlūkprogrammā, un tulkojumi tiek veikti lokāli, tāpēc { -brand-name-mozilla } neieraksta, kuras tīmekļa lapas jūs tulkojat.
 features-translate-what-languages-are-currently = Kuras valodas pašlaik tiek atbalstītas?
 # This is followed by a localized list of supported languages
 features-translate-the-languages-below-are-what-v2 = Zemāk esošās valodas pašlaik nodrošina { -brand-name-firefox-translations } iespēja:
