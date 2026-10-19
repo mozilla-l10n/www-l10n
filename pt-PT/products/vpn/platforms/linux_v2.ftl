@@ -33,4 +33,4 @@ vpn-linux-ubuntu-command = <strong>Modo de linha de comando do Ubuntu:</strong> 
 vpn-linux-ubuntu-graphical = <strong>Interface gráfica de utilizador do Ubuntu:</strong> Visite <a { $attrs }>este artigo</a> e siga as instruções na secção Adicionar arquivos de pacotes pessoais.
 # Variables:
 #   $attrs (string) includes url - https://github.com/mozilla-mobile/mozilla-vpn-client/
-vpn-linux-additionally = Adicionalmente, para distribuídas Linux não suportadas, pode obter e compilar o código fonte do <a { $attrs }>repositório oficial do GitHub</a>.
+vpn-linux-additionally = Adicionalmente, para distribuições Linux não suportadas, pode obter e compilar o código-fonte a partir do <a { $attrs }>repositório oficial no GitHub</a>.
