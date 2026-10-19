@@ -49,7 +49,7 @@ vpn-features-support-for-custom-dns = آپݨی مرضی دے مطابق ڈی ا�
 #   $dns (url) - link to https://support.mozilla.org/kb/how-do-i-change-my-dns-settings
 vpn-features-keep-traffic-protected = { -brand-name-mozilla-vpn }دے نال، تُساں آپݨی ٹریفک کوں محفوظ رکھ سڳدے ہِیوے اَتے وَل وی آپݨے ڈی این ایس سوالاں کوں جِتّھاں چاہؤو روٹ کر سڳدے ہِیوے۔ <a { $dns }>لوڑ مطابق ڈی این ایس حمایت دے بارے وِچ ودھیک ڄاݨو</a>۔
 vpn-features-flexible = لچکدار
-vpn-features-webste-specific-vpn = سائٹ دے حساب نال وی پی این دی سیٹنگز، جیہڑے موزیلا فائر فاکس وچ بہترین طریقے نال شامل ہن۔
+vpn-features-webste-specific-vpn = سائٹ دے حساب نال وی پی این دی سیٹنگز، جیہڑے { -brand-name-firefox } وچ بہترین طریقے نال شامل تھی ڳیاں ہن۔
 vpn-features-with-the-mozilla-vpn-extention = موزيلا فائر فاکس (صرف ونڈوز) کیتے موزیلا وی پی این ایکسٹینشن نال، تساں ہر ویب سائٹ دے حساب نال اپݨے وی پی این دے تجربے کوں بہتر بݨا سڳدے ہیوے۔ کہیں خاص ویب سائٹ کوں وی پی این پروٹیکشن توں ٻاہر رکھو یا خاص سائیٹس کیتے پسندیدہ سرور لوکیشنز سیٹ کرو، جیندے نال تیکوں ہک زیادہ لچکدار تے ذاتی نوعیت دا تجربہ ملسی۔
 vpn-features-personalized-server = ذاتی سرور دے مقام دیاں سفارشاں
 vpn-features-well-suggest-which-servers = اَساں صلاح ݙین٘دے ہِسے جو تُہاݙے نیڑے کِہڑے سرورز تِکّھے ترین، قابلِ اعتماد انٹرنیٹ کنکشن کوں یقینی بݨیسِن۔
