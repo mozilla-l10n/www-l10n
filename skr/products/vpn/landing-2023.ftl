@@ -22,7 +22,7 @@ vpn-landing-log-in-to-your-bank-or = ہوائی اݙّے، کیفے یا کِت�
 vpn-landing-blocks-advertisers-from = مشتہرین کوں تُہاکوں نشانہ بݨاوݨ کنوں بلاک کریندے
 vpn-landing-hide-your-activity-from = ٹریکرز اَتے مالویئر کنوں آپݨی سرگرمی لُکاؤ تاں جو تُساں ݙِٹّھے مُتُّوں خریداری کر سڳو۔
 vpn-landing-take-control = سائٹ دے حساب نال وی پی این دی سیٹنگز نال کنٹرول آپݨے ہتھ وچ رکھو۔
-vpn-landing-customize-your-vpn = موزيلا فائر فاکس (صرف ونڈوز) کیتے موزیلا وی پی این ایکسٹینشن نال ہر ویب سائٹ دے حساب نال اپݨے وی پی این پروٹیکشن دی سیٹنگز کرو۔
+vpn-landing-customize-your-vpn = { -brand-name-firefox } (صرف ونڈوز) کیتے { -brand-name-mozilla-vpn } ایکسٹینشن نال ہر ویب سائٹ دے حساب نال اپݨے وی پی این پروٹیکشن دی سیٹنگز کرو۔
 vpn-landing-features = خاص
 # Variables:
 #   $devices (number) - number of devices users can connect to VPN
