@@ -43,10 +43,10 @@ m24-home-tabstack-desc = با یک API ساده و ویژهٔ توسعه‌ده�
 
 ## Donate
 
-m24-home-donate-to-v2 = کمک مالی به { -brand-name-mozilla-foundation }
+m24-home-donate-to-v2 = اعانه به { -brand-name-mozilla-foundation }
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } آینده‌ای می‌سازد که در آن فناوری با نیروی مردم پیش می‌رود و از پایه باز طراحی شده است. برای همین از راه دادخواهی، آموزش، حمایت مالی و نوآوری به فناوری‌های مردم‌محور نیرو می‌دهیم تا مطمئن شویم آیندهٔ فناوری برای همه خوب است. اما این فقط وقتی ممکن است که با هم انجامش دهیم.
 m24-home-were-proudly-nonprofit = با افتخار غیرانتفاعی هستیم. امروز به { -brand-name-mozilla } کمک مالی می‌کنید؟
-m24-home-donate = کمک مالی
+m24-home-donate = اعانه
 
 ## AI gallery
 

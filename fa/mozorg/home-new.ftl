@@ -48,4 +48,4 @@ home-feature-blur-your-location = با <span>{ -brand-name-mozilla-vpn }</span> 
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = جنبش ما را بسازید
 home-mofo-donate-to-mofo-today = همین امروز به { -brand-name-mozilla-foundation } کمک مالی کنید تا اینترنت باز و در دسترس همه بماند.
-home-mofo-donate = کمک مالی
+home-mofo-donate = اعانه
