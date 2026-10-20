@@ -31,6 +31,10 @@ privacy-faq-v2-wait-so-how = انتظار کرو، تساں پیسہ کین٘و�
 #   $attrs (url) - link to https://stateof.mozilla.org
 privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } کوئی عام ادارہ نئیں۔ 1998 وچ ہک کمیونٹی اوپن سورس پروجیکٹ دے طور تے شروع تھیا، { -brand-name-mozilla } ہک مقصد نال جُڑیا ہویا ادارہ ہے جیہڑا ہک زیادہ صحت مند انٹرنیٹ کیتے کم کریندے پیا ہے۔ { -brand-name-mozilla-corporation } دی آمدنی دا زیادہ تر حصہ دنیا بھر وچ { -brand-name-firefox } ویب براؤزر دی سرچ پارٹنرشپ تے ڈسٹری بیوشن ڈیلز توں ملݨ آلیاں رائلٹیز توں آندا ہے۔ تساں ساݙے <a { $attrs }>سالانہ مالیاتی رپورٹ وچ ایہ پڑھ سڳدے ہو جو اساں پیسے کِویں کمیندے ہیں۔
 privacy-faq-v2-softballs = ٹھیک ہے، او پہلے کجھ سافت بالاں ہن۔ تساں کیڑھا ڈیٹا کٹھا کریندے او؟
+# Variables:
+#   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
+#   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
+privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } ڈیفالٹ دے طور تے { -brand-name-firefox } توں محدود ڈیٹا دا ہک سیٹ ضرور کٹھا کریندے جیندے نال اساں کوں ایہ سمجھݨ وچ مدد ملدی ہے جو لوک براؤزر کِویں استعمال کریندے پئے ہن۔ تساں ساݙے <a { $privacy }>رازداری دے نوٹس (privacy notice) وچ ایں بارے مزید پڑھ سڳدے ہو تے <a { $data }>اینہہ ڈیٹا کولیکشن دی مکمل دستاویزات وی ݙیکھ سڳدے ہو. اساں آپݨی دستاویزات کوں عوامی وی رکھیندے ہوں تاکہ کوئی وی بندہ ایں ڳالھ دی تصدیق کر سڳے جو اساں جیہڑا آکھدے ہوں او ہ ہے، اساں کوں مشورہ ڈے سڳے جو اتھاں بہتری دی ضرورت ہے، تے ایں ڳالھ دا یقین رکھ سڳے جو اساں کجھ وی لُکاوݨ نئیں پووے.
 privacy-faq-v2-do-you-collect = بھلا تساں { -brand-name-firefox } دے پری ریلیز ورشناں وچ ٻیا ڈیٹا کٹھا کریندے ہو؟
 privacy-faq-v2-sort-of = ایں طراں، اوتے بیان کردہ ڈیٹا دے علاوہ، اساکوں { -brand-name-firefox } دے پری ریلیز ورژن وِچ بطور ڈیفالٹ کریش تے خرابی دیاں رپورٹاں وصول تھیندیاں ہن۔
 # Variables:
