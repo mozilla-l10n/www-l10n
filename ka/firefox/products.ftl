@@ -93,7 +93,7 @@ firefox-products-learn-more-about-mozilla-ads = უკეთ გაიცან�
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
-firefox-products-firefox-enterprise-desc = გამართეთ, მართეთ და დაიცავით { -brand-name-firefox } თქვენს დაწესებულებაში, დაწესებულების დონის დებულებების მეშვეობით.
+firefox-products-firefox-enterprise-desc = გამართეთ, მართეთ და გახადეთ დაცული { -brand-name-firefox } თქვენს დაწესებულებაში, დაწესებულებისთვის გათვლილი დებულებების მეშვეობით.
 firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla }-ის კლიენტის მიერ კონტროლირებადი, შიდა ორგანიზაციის ბრაუზერი. შექმნილია იმისთვის, რომ ორგანიზაციებს დაეხმარონ თავიანთი ციფრული სუვერენიტეტისა და საოპერაციო მდგრადობის განმტკიცებაში, თავიანთი მონაცემების, IT ინფრასტრუქტურისა და ბრაუზერის გარემოზე მეტი კონტროლის გზით.
 firefox-products-manage-your-fleet = გამართეთ { -brand-name-firefox }
-firefox-products-learn-more-about-firefox-enterprise = გაიგეთ მეტი { -brand-name-firefox-enterprise }-ის შესახებ
+firefox-products-learn-more-about-firefox-enterprise = უკეთ გაიცანით { -brand-name-firefox-enterprise }
