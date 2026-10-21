@@ -94,5 +94,6 @@ firefox-products-learn-more-about-mozilla-ads = Dalšne informacije wó { -brand
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
 firefox-products-firefox-enterprise-desc = Rozdźělśo, zastojśo a zawěsććo { -brand-name-firefox } w swójej organizaciji z wóźeńskimi elementami pšawidłow za pśedewześa.
+firefox-products-firefox-enterprise-desc-v2 = Wót wužywarjow kontrolěrowana, lokalna pśedewześowa platforma wobglědowaka { -brand-name-mozilla }. Wuwita, aby organizacijam pomagała, jich digitalnu suwerenitu a zawodnu wobśěžabnosć pśez wětšu kontrolu nad swójimi datami, infrastrukturu IT a wokolinu wobglědowaka kšuśiś.
 firefox-products-manage-your-fleet = { -brand-name-firefox } rozdźěliś
 firefox-products-learn-more-about-firefox-enterprise = Dalšne informacije wó { -brand-name-firefox-enterprise }
