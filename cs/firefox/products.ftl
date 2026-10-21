@@ -93,7 +93,7 @@ firefox-products-learn-more-about-mozilla-ads = Zjistit více o službě { -bran
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
-firefox-products-firefox-enterprise-desc = Nasaďte, spravujte a zabezpečte aplikaci { -brand-name-firefox } napříč vaší organizací pomocí nastavení firemních zásad.
-firefox-products-firefox-enterprise-desc-v2 = Firemní firemní platforma kontrolovaná zákazníkem { -brand-name-mozilla }. Vytvořen tak, aby pomohl organizacím posílit jejich digitální suverenitu a provozní odolnost prostřednictvím větší kontroly nad jejich daty, IT infrastrukturou a prostředím prohlížeče.
+firefox-products-firefox-enterprise-desc = Nasaďte, spravujte a zabezpečte { -brand-name-firefox(case: "acc") } v celé organizaci pomocí pokročilých nástrojů pro řízení firemních zásad.
+firefox-products-firefox-enterprise-desc-v2 = Lokálně provozovaná platforma podnikového prohlížeče od organizace { -brand-name-mozilla }, kterou mají zákazníci plně pod kontrolou. Pomáhá organizacím posílit digitální suverenitu a provozní odolnost díky větší kontrole nad daty, IT infrastrukturou a prostředím prohlížeče.
 firefox-products-manage-your-fleet = Nasadit { -brand-name-firefox }
-firefox-products-learn-more-about-firefox-enterprise = Zjistit více o službě { -brand-name-firefox-enterprise }
+firefox-products-learn-more-about-firefox-enterprise = Další informace o { -brand-name-firefox-enterprise(case: "loc") }
