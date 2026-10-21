@@ -25,7 +25,7 @@ vpn-shared-pricing-monthly = { $amount }<span>/mês</span>
 # Monthly price plus tax (shown in US and Canada).
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
-vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/mês + impostos</span>
+vpn-shared-pricing-monthly-plus-tax = { $amount }<span>/mês + imposto</span>
 # Variables:
 #   $percent (number) - percentage saved with chosen subscription plan e.g. '40'
 vpn-shared-pricing-save-percent = Poupe { $percent }%
@@ -43,7 +43,7 @@ vpn-shared-pricing-total = total { $amount }
 # total price plus tax (shown in US and Canada).
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
-vpn-shared-pricing-total-plus-tax = total + impostos de { $amount }
+vpn-shared-pricing-total-plus-tax = total + imposto { $amount }
 vpn-shared-mozilla-vpn-is-not-yet-available = A { -brand-name-mozilla-vpn } ainda não está disponível no seu país
 vpn-shared-platform-cta-button = Ver preços e disponibilidade
 vpn-shared-platform-what-is = O que é a { -brand-name-mozilla-vpn }?
@@ -61,8 +61,8 @@ vpn-press-as-seen-in = Como visto em
 # Variables
 #   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
 vpn-press-mozillas-vpn-can-also-integrate-into = “A VPN da { -brand-name-mozilla } também pode <a { $attrs }>integrar-se a algumas funcionalidades interessantes de proteção de privacidade</a> do seu navegador { -brand-name-firefox }.”
-vpn-press-unique-features-like-its-multi-account = “…funcionalidades únicas, como os Multi-Account Containers, podem tornar a funcionalidade facilmente acessível a utilizadores com preocupações mais sérias com a privacidade.”
-vpn-press-mozilla-vpns-feature-list-has-grown = “A lista de funcionalidades da { -brand-name-mozilla-vpn } cresceu significativamente desde o lançamento e o serviço agora supera muitas VPNs especialistas em algumas áreas.”
+vpn-press-unique-features-like-its-multi-account = “…funcionalidades únicas, como os Contentores Multi-Contas, podem tornar a funcionalidade facilmente acessível a utilizadores com preocupações mais sérias com a privacidade.”
+vpn-press-mozilla-vpns-feature-list-has-grown = “A lista de funcionalidades da { -brand-name-mozilla-vpn } cresceu consideravelmente desde o lançamento, e o serviço supera agora muitas VPNs especialistas em algumas áreas.”
 
 ## Unsupported language notification
 
@@ -70,7 +70,7 @@ vpn-press-mozilla-vpns-feature-list-has-grown = “A lista de funcionalidades da
 # Variables
 #   $language (string) - localized native language name for the locale of the current page.
 #   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
-vpn-shared-unsupported-language-warning = A { -brand-name-mozilla-vpn } não é atualmente oferecida em { $language }, mas pode ser utilizada em Inglês, Francês, Alemão, Espanhol e <a { $href }>mais de 30 outros idiomas</a> .
+vpn-shared-unsupported-language-warning = A { -brand-name-mozilla-vpn } não está disponível neste momento em { $language }, mas pode utilizá-la em Inglês, Francês, Alemão, Espanhol e <a { $href }>em mais de 30 outros idiomas</a>.
 # Variables
 #   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
 vpn-shared-unsupported-language-contribute = Quer ajudar a levar a { -brand-name-mozilla-vpn } a mais pessoas? <a { $href }>Torne-se um tradutor voluntário</a>.
