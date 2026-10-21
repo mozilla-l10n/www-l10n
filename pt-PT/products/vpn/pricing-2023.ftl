@@ -22,18 +22,18 @@ vpn-pricing-connect-up-to =
 #   $devices (number) - number of devices users can connect to VPN
 vpn-pricing-connect-up-to-platforms =
     { $devices ->
-        [one] Conecte até { $devices } dispositivos Android, iOS, Windows, macOS ou Linux
-       *[other] Conecte até { $devices } dispositivos Android, iOS, Windows, macOS ou Linux
+        [one] Ligue até { $devices } dispositivo Android, iOS, Windows, macOS ou Linux
+       *[other] Ligue até { $devices } dispositivos Android, iOS, Windows, macOS ou Linux
     }
 # Variables:
 #   $servers (number) - number of VPN servers
 #   $countries (number) - number of available countries
 vpn-pricing-access =
     { $servers ->
-        [one] Aceda a { $servers } servidor em +{ $countries } países
-       *[other] Aceda a { $servers } servidores em +{ $countries } países
+        [one] Aceda a { $servers } servidor em + de { $countries } países
+       *[other] Aceda a { $servers } servidores em + de { $countries } países
     }
-vpn-pricing-money-back = Garantia de devolução do dinheiro em 30 dias (apenas para clientes principiantes)
+vpn-pricing-money-back = Garantia de devolução do dinheiro em 30 dias (apenas para novos clientes)
 vpn-pricing-annual = Anual
 vpn-pricing-monthly = Mensal
 vpn-pricing-get-annual-subscription = Obter uma subscrição anual
@@ -42,14 +42,14 @@ vpn-pricing-vpn-not-available = A { -brand-name-mozilla-vpn } ainda não está d
 # FAQs is short for Frequently Asked Questions
 vpn-pricing-faqs = Perguntas frequentes
 vpn-pricing-refund-policy = Qual é a política de reembolso da { -brand-name-mozilla-vpn }?
-vpn-pricing-the-first-time-you = Na primeira vez que se inscrever na { -brand-name-mozilla-vpn } através do site da { -brand-name-mozilla }, se cancelar a sua conta nos primeiros 30 dias, poderá pedir um reembolso e a { -brand-name-mozilla } reembolsará o seu primeiro período de subscrição.
-vpn-pricing-if-you-purchased = Se comprou a sua subscrição através de compra dentro da aplicação na Apple App Store ou na Google Play Store, o seu pagamento estará sujeito aos termos e condições da loja. Deve direcionar quaisquer pedidos de consulta de cobrança e reembolso para tais compras para a Apple ou a Google, conforme apropriado.
+vpn-pricing-the-first-time-you = Na primeira vez que subscrever a { -brand-name-mozilla-vpn } através do site da { -brand-name-mozilla }, se cancelar a sua conta nos primeiros 30 dias, poderá pedir um reembolso e a { -brand-name-mozilla } reembolsará o seu primeiro período de subscrição.
+vpn-pricing-if-you-purchased = Se comprou a sua subscrição através de compra feita dentro da aplicação na Apple App Store ou na Google Play Store, o seu pagamento estará sujeito aos termos e condições da loja. Tem de dirigir quaisquer pedidos de consulta de cobrança e reembolso para tais compras para a Apple ou a Google, conforme apropriado.
 vpn-pricing-what-information = Que informação a { -brand-name-mozilla-vpn } mantém?
 # Variables
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $notice (url) - link to https://www.mozilla.org/privacy/subscription-services/
-vpn-pricing-we-adhere-strictly = Nós aderimos estritamente aos <a { $principles }>Princípios de Privacidade de Dados</a> da { -brand-name-mozilla }. Apenas recolhemos os dados necessários para manter a { -brand-name-mozilla-vpn } operacional e melhorar o produto ao longo do tempo. Também rastreamos dados de campanha e referência na nossa aplicação móvel para ajudar a { -brand-name-mozilla } a compreender a eficácia das nossas campanhas de marketing. Leia mais na nossa <a { $notice }>política de privacidade</a>.
-vpn-pricing-how-do-i-manage = Como é que giro a minha subscrição e altero o meu plano?
+vpn-pricing-we-adhere-strictly = Nós aderimos estritamente aos <a { $principles }>Princípios de Privacidade de Dados</a> da { -brand-name-mozilla }. Apenas recolhemos os dados necessários para manter a { -brand-name-mozilla-vpn } operacional e melhorar o produto ao longo do tempo. Também rastreamos dados de campanha e referência na nossa aplicação móvel para ajudar a { -brand-name-mozilla } a compreender a eficácia das nossas campanhas de marketing. Leia mais na nossa <a { $notice }>Política de Privacidade</a>.
+vpn-pricing-how-do-i-manage = Como posso gerir a minha subscrição e mudar de plano?
 # Variables
 # $manage (url) - link to subscription management page
 vpn-pricing-if-already-subscribed = Se já tem uma subscrição na { -brand-name-mozilla-vpn }, pode alterar o seu plano ou <a { $manage }>gerir a sua subscrição</a> a qualquer momento.
@@ -59,6 +59,5 @@ vpn-pricing-if-already-subscribed = Se já tem uma subscrição na { -brand-name
 vpn-pricing-scan-qrcode-to-download = Para transferir a aplicação, digitalize o código QR com o seu dispositivo móvel ou tablet
 vpn-pricing-scan-qrcode-to-download-android = Para transferir a aplicação, digitalize o código QR com o seu dispositivo ou tablet Android
 vpn-pricing-sign-up-on-your-mobile-device = Registe-se para uma subscrição da { -brand-name-mozilla-vpn } no seu dispositivo móvel
-vpn-pricing-sign-up-on-your-android-device = Registe-se para uma subscrição da { -brand-name-mozilla-vpn } no seu dispositivo Android
 vpn-pricing-download-the-app = Transferir a aplicação
 vpn-pricing-transaction-may-be-in = * A transação pode ser equivalente na moeda local.
