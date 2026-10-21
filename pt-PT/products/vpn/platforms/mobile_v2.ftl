@@ -5,9 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/products/vpn/mobile/
 
-vpn-mobile-get-a-vpn = Obtenha uma VPN para dispositivos móveis da { -brand-name-mozilla }
-vpn-mobile-looking-for-a = À procura de uma VPN para proteger o seu dispositivo móvel? A { -brand-name-mozilla-vpn } é apoiado por uma empresa sem fins lucrativos. Saiba mais sobre como uma VPN o protege e porque deve confiar à { -brand-name-mozilla } a sua privacidade e segurança.
-vpn-mobile-vpn-for-mobile = VPN para dispositivos móveis da { -brand-name-mozilla }
+vpn-mobile-get-a-vpn = Tenha uma VPN para Dispositivos móveis da { -brand-name-mozilla }
+vpn-mobile-looking-for-a = Procura uma VPN para proteger o seu dispositivo móvel? A { -brand-name-mozilla-vpn } é apoiada por uma organização sem fins lucrativos. Saiba mais sobre como uma VPN o protege e porque deve confiar à { -brand-name-mozilla } a sua privacidade e segurança.
+vpn-mobile-vpn-for-mobile = VPN para Dispositivos móveis da { -brand-name-mozilla }
 vpn-mobile-in-todays = No mundo de hoje, focado em dispositivos móveis, confiamos nos nossos telefones e dispositivos móveis para comunicação, entretenimento e trabalho. No entanto, sem uma VPN, a sua informação pessoal pode ficar vulnerável a vários riscos de segurança e de privacidade.
 vpn-mobile-why-do-i = Porque preciso de uma VPN para Dispositivos Móveis?
 vpn-mobile-the-mozilla-vpn = A app móvel da { -brand-name-mozilla-vpn } é pequena, por isso não utiliza muito da sua memória e não irá tornar o seu telemóvel lento nem gastar a sua bateria.
