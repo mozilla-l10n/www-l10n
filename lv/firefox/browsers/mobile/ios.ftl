@@ -29,3 +29,6 @@ mobile-ios-get-to-the-parts = Ātrāk sasniedziet sev svarīgās interneta daļa
 mobile-ios-find-it-all = Atrodi visu ātrāk
 mobile-ios-get-search-suggestions = Saņemiet meklēšanas ieteikumus meklēšanas joslā un ātri piekļūstiet visbiežāk apmeklētajām vietnēm. Ievadiet meklēšanas jautājumu un saņemiet ieteiktos un iepriekš meklētos rezultātus savās iecienītākajās meklētājprogrammās.
 mobile-ios-discover-more-of = Atklājiet vairāk no tā, kas jums patīk
+mobile-ios-open-a-new-v2 = Atveriet jaunu cilni { -brand-name-firefox }, lai skatītu visbiežāk apmeklētās vietnes un nesen izmantotās grāmatzīmes. { -brand-name-firefox } nodrošina ātru piekļuvi nesen izmantotajām vietnēm, lai palīdzētu jums ātrāk nokļūt galamērķī.
+mobile-ios-about-mozilla = Par { -brand-name-mozilla }
+mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } pastāv, lai veidotu internetu kā publisku resursu, kas pieejams visiem, jo mēs ticam, ka atvērtība un brīvība ir labāka par slēgtību un kontroli. Mēs veidojam tādus produktus kā { -brand-name-firefox }, lai veicinātu izvēles iespējas, pārredzamību un kontroli.

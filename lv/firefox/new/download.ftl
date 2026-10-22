@@ -9,4 +9,7 @@ firefox-new-get-the-latest-firefox = Iegūstiet jaunāko { -brand-name-firefox }
 
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
+firefox-new-fast = Ātrs, privāts un brīvs
+firefox-new-from-mozilla = no { -brand-name-mozilla }
 firefox-new-desc = { -brand-name-firefox-browser } ir bezmaksas tīmekļa pārlūks ar ātru lapu ielādi, mazāku atmiņas izmantošanu un daudzām funkcijām — bezpeļņas organizācijas { -brand-name-mozilla } projekts.
+firefox-new-download-a-different = Lejupielādēt citu platformu vai valodu
