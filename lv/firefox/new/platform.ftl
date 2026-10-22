@@ -13,6 +13,7 @@ new-platform-download-the-fastest = Lejupielādējiet visu laiku ātrāko { -bra
 new-platform-faster-page-loading = Ātrāka lapu ielāde, mazāks atmiņas patēriņš un daudz funkciju — jaunā { -brand-name-firefox } versija ir klāt.
 new-platform-2x-faster = 2x ātrāka
 new-platform-advanced-install-options = Papildu instalēšanas opcijas un citas platformas
+new-platform-download-in-another = Lejupielādēt citā valodā
 new-platform-need-help = Nepieciešama palīdzība?
 new-platform-download-mozilla-linux = Lejupielādēt { -brand-name-mozilla } { -brand-name-firefox } operētājsistēmai { -brand-name-linux }
 # /firefox/linux/ HTML page description

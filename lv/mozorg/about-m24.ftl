@@ -5,8 +5,22 @@
 
 ### URL: https://www-dev.allizom.org/about/
 
+# HTML Page title
+m24-about-page-title = Uzziniet par { -brand-name-mozilla }
 # HTML page description
 m24-about-page-desc = { -brand-name-mozilla } izstrādā pārlūku, lietotnes, kodu un rīkus, kas cilvēkus liek augstāk par peļņu. Mūsu misija: Saglabāt internetu atvērtu un pieejamu visiem.
+
+## Intro
+
+m24-about-guard-the-internet = Aizsargājiet atvērto internetu
+# Obsolete string (expires 2026-09-11)
+m24-about-reclaim-the-internet = Atgūstiet internetu kopā ar mums
+m24-about-mozilla-is-working = { -brand-name-mozilla } strādā, lai atgūtu kontroli pār internetu to lietotāju rokās.
+
+## Manifesto
+
+m24-about-together-we-can = Kopā mēs varam nodrošināt, lai internets būtu vienkāršs, drošs un bezmaksas — ikvienam.
+m24-about-read-our-manifesto = Izlasiet mūsu manifestu
 
 ## Community
 

@@ -64,18 +64,43 @@ firefox-desktop-download-cryptominer-blocking = Kriptovalūtu ieguves bloķēša
 firefox-desktop-download-private-browsing-mode = Privātā Pārlūkošana
 firefox-desktop-download-individual-protections-report = Individuālās aizsardzības ziņojums
 firefox-desktop-download-secure-your-personal = Aizsargājiet savu personisko informāciju
+firefox-desktop-download-breached-website-alerts = Brīdinājumi par ielaušanos vietnēs
 firefox-desktop-download-built-in-password = Iebūvēts paroļu pārvaldnieks
+firefox-desktop-download-clear-history = Notīrīt vēsturi
+firefox-desktop-download-form-autofill = Veidlapas automātiskā aizpilde
 firefox-desktop-download-automatic-updates = Automātiski atjauninājumi
 firefox-desktop-download-customize-your-browser = Pārlūka pielāgošana
 firefox-desktop-download-themes = Izskati
+firefox-desktop-download-dark-mode = Tumšais režīms
+firefox-desktop-download-library-of-extensions = Paplašinājumu bibliotēka
 firefox-desktop-download-adjust-search-bar = Pielāgot meklēšanas joslas iestatījumus
+firefox-desktop-download-change-new-tab = Mainīt jaunās cilnes izkārtojumu
+firefox-desktop-download-make-firefox-your = Padariet <strong>{ -brand-name-firefox } </strong> par savu
+firefox-desktop-download-extensions-for-every = Paplašinājumi katrai interesei
+firefox-desktop-download-change-up-your = Mainiet savu izskatu
+firefox-desktop-download-go-from-light = Pārslēdzieties no gaišā režīma uz tumšo režīmu atkarībā no noskaņojuma vai vēlmēm vai atdzīviniet lietas ar pielāgotu tēmu (piemēram, varavīksnes vienradzis).
+firefox-desktop-download-tweak-your-settings = Pielāgojiet savus iestatījumus
+firefox-desktop-download-theres-no-need = Nav nepieciešams samierināties. Mainiet jauno cilnes lapu, meklēšanas joslu, grāmatzīmes un citas funkcijas, lai izpētītu internetu tā, kā vēlaties.
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-backed-by-the = Atbalsta <strong>bezpeļņas</strong> organizācija, kas cilvēkus liek pirmajā vietā
+firefox-desktop-download-challenging-the-status = Status quo apstrīdēšana kopš 1998. gada
 firefox-desktop-download-your-privacy-comes = Tavs privātums ir pirmajā vietā
+# The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
+firefox-desktop-download-keep-all-your = Saglabājiet visas savas iecienītākās pārlūka funkcijas un <strong>atklājiet</strong> jaunas.
+# Gmail and Docs are product names and should not be translated
+firefox-desktop-download-all-your-favourite = Visi jūsu iecienītākie { -brand-name-google } rīki (piemēram, Gmail un Dokumenti) nevainojami darbojas { -brand-name-firefox-browser }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 firefox-desktop-download-download-this-browser = <a { $attrs } >Lejupielādējiet šo pārlūka paplašinājumu</a>, lai apturētu { -brand-name-facebook } (un { -brand-name-instagram }) izsekošanu tīmeklī.
+firefox-desktop-download-sync-your-devices = Vienādojiet savas ierīces
+firefox-desktop-download-screenshots = Ekrānuzņēmumi
+# Enhanced Tracking Protection is a feature name and so is capitalized in English
+firefox-desktop-download-enhanced-tracking-protection = Uzlabota izsekošanas aizsardzība (ETP)
 firefox-desktop-download-from-watching-a = No tīmekļa pamācības skatīšanās līdz sekošanai iecienītākajai komandai video seko Tev, kamēr vienlaicīgi veic dažādus uzdevumus.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
+firefox-desktop-download-get-firefox-android = Iegūstiet { -brand-name-firefox-browser } priekš <strong>{ -brand-name-android } </strong>
+firefox-desktop-download-get-firefox-ios = Iegūstiet { -brand-name-firefox-browser } priekš <strong>{ -brand-name-ios } </strong>
 firefox-desktop-download-download-the-mobile = Lejupielādējiet { -brand-name-firefox } mobilo pārlūku, lai nodrošinātu automātisku aizsardzību visās savās ierīcēs.
 firefox-desktop-download-learn-about-the = Uzzini vairāk par { -brand-name-firefox } darbvirsmu pārlūku zemāk
 # Variables:
