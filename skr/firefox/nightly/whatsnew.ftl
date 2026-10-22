@@ -19,7 +19,7 @@ nightly-whatsnew-this-is-a-good = { -brand-name-firefox } کوں بہتر بݨا
 nightly-whatsnew-if-you-want-to-v4 = جیكر تُساں ڄاݨن چاہندے ہو جو { -brand-name-nightly } تے این٘دی بیادری دے نیڑے تیڑے کیا تھیندا پیا ہے، <a { $blog }>بلاگ</a> پڑھو تے <a { $mastodon }>Mastodon</a> یا <a { $bluesky }>Bluesky</a> تے ساݙی پیروی کرݨ چنگا آغاز ہے!
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = کیا تساں ڄاݨݨ چاہندے ہاو کہ { -brand-name-nightly } تے کیہڑیاں پلیٹ فارم خصوصیات آزما سڳدے ہاو، جیہڑیاں ٻئے { -brand-name-firefox } چینلاں تے ہالی تائیں وکھالی نئیں ݙتیاں ڳئیاں؟ تاں <a { $attrs }>{ -brand-name-firefox-labs } ترجیحات آلا صفحہ ݙیکھو۔
+nightly-whatsnew-want-to-know-which-v3 = کیا تساں ڄاݨݨ چاہندے ہاو کہ { -brand-name-nightly } تے کیہڑیاں پلیٹ فارم خصوصیات آزما سڳدے ہاو، جیہڑیاں ٻئے { -brand-name-firefox } چینلاں تے ہالی تائیں وکھالی نئیں ݙتیاں ڳئیاں؟ تاں <a { $attrs }>{ -brand-name-firefox-labs }</a> ترجیحات آلا صفحہ ݙیکھو۔
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = کیا تساں کریشز دا تجربہ کریندے او؟ غیر متوقع رویہ؟ ویب مطابقت پذیری؟ اساں انہاں کوں <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a> وِچ فائل کراوݨ پسند کریسو تاں جو ایہ یقینی بݨایا ونڄ سڳے جو او حتمی ریلیز تائیں نہیں پڄ سڳدے (اضافی کرما جے تساں اپݨیاں بگ رپورٹاں وِچ <em> { -brand-name-nightly } کمیونٹی </em> کلیدی لفظ شامل کرو)!
