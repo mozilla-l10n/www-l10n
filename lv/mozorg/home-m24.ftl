@@ -52,9 +52,41 @@ m24-home-donate = Ziedo
 
 m24-home-tag-product = Produkts
 m24-home-tag-project = Projekts
+m24-home-tag-program = Programma
+m24-home-tag-event = Pasākums
+m24-home-read-more = Lasīt vairāk
+m24-home-get-started = Sāksim!
+m24-home-join-the-movement = Pievienojieties kustībai:<br> Mākslīgais intelekts cilvēkiem
+m24-home-our-mission-is = Mūsu misija ir atvieglot cilvēkiem darbu ar atvērtā pirmkoda, uzticamu mākslīgo intelektu un sadarbību tajā.
+m24-home-alt-builders = Veidotāji
+m24-home-alt-builders-v2 = { -brand-name-builders }
+m24-home-mozilla-builders = { -brand-name-mozilla } Veidotāji
+m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+m24-home-builders-helps-independent = Veidotāji palīdz neatkarīgiem izstrādātājiem radīt transformējošus atvērtā pirmkoda mākslīgā intelekta projektus, izmantojot pielāgotu sadarbību, programmēšanu un kopienu.
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } palīdz neatkarīgiem izstrādātājiem veidot transformējošus atvērtā pirmkoda mākslīgā intelekta projektus, izmantojot pielāgotu sadarbību, programmēšanu un kopienu.
+m24-home-own-what-you = Pārvaldi to, ko veido
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = Vai mākslīgā intelekta laikmetam mums ir nepieciešama “LAMP kolekcija"? Mums ir nepieciešamas tehnoloģijas, kas ir caurspīdīgas, atbildīgas un pieder cilvēkiem, kuri tās izmanto.
+m24-home-watch-now = Skatīties tūlīt
+m24-home-choice-first-stack = Pirmā kolekcija
+m24-home-your-tools-your = Jūsu rīki, jūsu izvēle. Vienots atvērtā pirmkoda risinājumu komplekts, kas vienkāršo mūsdienīgu mākslīgā intelekta aģentu un lietotņu veidošanu un testēšanu.
+m24-home-get-started-now = Sāciet tūlīt
+# Used as an accessible text alternative for an image
+m24-home-alt-ventures = Runātājs uz skatuves ar vairākiem produktu logotipiem.
 
 ## Media Springboard
 
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } Izpilddirektors runā par atvērtā pirmkoda mākslīgā intelekta priekšrocībām
+m24-home-introducing-thundermail-and-v2 = Iepazīstinām ar { -brand-name-thundermail } un { -brand-name-thunderbird-pro }
+m24-home-what-comes-next = Tehnoloģiju nākamais solis ir izvēle. Izvēlieties kopā ar mums.
+m24-home-a-good-moment = “Labs brīdis mums”: { -brand-name-firefox } pievēršas mākslīgā intelekta pārlūkprogrammām un tīmekļa nākotnes plāniem
+m24-home-the-guardian = The Guardian
+m24-home-axios = Axios
+m24-home-mozillas-new-message = { -brand-name-mozilla } jaunais ziņojums: Mēs esam vienīgā pārlūkprogramma, ko neatbalsta miljardieri.
+m24-home-fast-company = Fast Company
+m24-home-mozilla = { -brand-name-mozilla }
+m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = Pārprogrammējot { -brand-name-mozilla }: Darām mākslīgā intelekta labā to, ko darījām tīmekļa labā
 m24-home-interview-with-mark = Intervija ar Marku Surmanu: Kā { -brand-name-mozilla } pielāgojas mākslīgā intelekta laikmetam
 m24-home-women-in-product = Saruna par sievietēm produktos: GenAI pievienošana, nezaudējot sižetu
 m24-home-scaling-open-source = Atvērtā pirmkoda mākslīgā intelekta mērogošana: Marks Surmans un Tims Bredšovs

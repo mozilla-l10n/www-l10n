@@ -34,3 +34,18 @@ home-so-what-is-mozilla = Tātad, kas ir { -brand-name-mozilla }?
 home-at-its-core-v2 = Pēc būtības { -brand-name-mozilla } ir aktīvistu organizācija, ko vada { -brand-name-mozilla-foundation } un kas ievieš pārmaiņas pasaulē, izmantojot dažādus pasākumus, tostarp { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures } </a> un <a { $mozai }>{ -brand-name-mozilla-ai-v2 } </a>. Ar ko mēs atšķiramies? Tā kā mūsu misija ir virzīta, tas nozīmē, ka mums ir brīvība pieņemt visus lēmumus, pamatojoties uz to, kas ir vislabākais internetam un visiem tiešsaistē esošajiem, nevis uz akcionāru prasībām — mums faktiski nav neviena no tām.
 home-learn-about-mofo = Uzziniet par { -brand-name-mozilla-foundation }
 home-join-the-fight = Pievienojieties cīņai par veselīgu internetu
+home-your-voice-your-code = Tava balss. Tavs kods. Tavas idejas. Ir burtiski tūkstošiem veidu, kā tu vari dot savu ieguldījumu { -brand-name-mozilla }.
+home-volunteer-with-mozilla = Kļūsti par brīvprātīgo uzņēmumā { -brand-name-mozilla }
+home-that-one-time = Tajā reizē, kad mēs atdevām savu pirmkodu…
+home-the-mozilla-project = Projekts { -brand-name-mozilla } tika dibināts Sanfrancisko 1998. gadā, kad { -brand-name-netscape } pārlūkprogramma pieņēma radikālu lēmumu nodot savu programmas kodu publiskai lietošanai, lai to varētu attīstīt un uzlabot. Tajā laikā vienam uzņēmumam piederēja praktiski monopols pār to, kā cilvēki uztver internetu.
+home-eventually-the-open = Galu galā atvērtā pirmkoda { -brand-name-mozilla } projekts pārtapa par ārkārtīgi populāro { -brand-name-firefox } pirmo versiju.
+home-today-mozilla-continues = Mūsdienās { -brand-name-mozilla } turpina virzīties uz labāku internetu ar miljoniem aktīvu kopienas locekļu visā pasaulē, kuri aizstāv ētiskas tehnoloģijas, uzticamu mākslīgo intelektu un rada produktus, kuros prioritāte ir privātums un kas sniedz cilvēkiem lielākas iespējas.
+home-learn-more-about-mozilla = Uzziniet vairāk par { -brand-name-mozilla }
+# VPN Feature
+home-featured-product = Piedāvātais produkts
+# HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
+home-feature-blur-your-location = Aizmiglojiet savu atrašanās vietu un aktivitātes, izmantojot <span>{ -brand-name-mozilla-vpn } </span>
+# Mozilla Foundation donation promo
+home-mofo-build-our-movement = Veidojiet mūsu kustību
+home-mofo-donate-to-mofo-today = Ziedojiet { -brand-name-mozilla-foundation } jau šodien, lai nodrošinātu, ka internets paliek atvērts un pieejams visiem.
+home-mofo-donate = Ziedot
