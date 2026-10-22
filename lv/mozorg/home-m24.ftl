@@ -73,9 +73,33 @@ m24-home-your-tools-your = Jūsu rīki, jūsu izvēle. Vienots atvērtā pirmkod
 m24-home-get-started-now = Sāciet tūlīt
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Runātājs uz skatuves ar vairākiem produktu logotipiem.
+m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
+m24-home-got-an-earlystage = Vai jums ir agrīnas stadijas jaunuzņēmums? Piedāvājiet savu uzņēmumu { -brand-name-mozilla-ventures } un nostipriniet finansējumu, lai veicinātu pozitīvas pārmaiņas mākslīgā intelekta un interneta nākotnē.
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective atjauno mākslīgā intelekta datu ekosistēmu, centrā izvirzot kopienas.
+m24-home-join-today = Pievienojies šodien
+m24-home-a-double-bottom = Divkāršs ieguvums tehnoloģiju nozarē
+m24-home-mark-surman-discusses = Marks Surmans apspriež, kā mēs varam izveidot tehnoloģiju ekosistēmu ar dubultu peļņu — tādu, kas novērtē gan misiju, gan naudu.
+m24-home-agent-platform = Aģentu platforma
+m24-home-stop-wiring-tools = Beidziet savienot instrumentus kopā un pieskatīt trauslas automatizācijas. Ar { -brand-name-mozilla-ai-v2 } aģentu platformu jūs aprakstāt savu mērķi, mēs ģenerējam adaptīvus mākslīgā intelekta aģentus, kas darbojas ar jūsu rīkiem un procesiem.
 
 ## Media Springboard
 
+m24-home-type = Veids
+m24-home-author-v2 = Autors(-i)
+m24-home-topic = Tēma
+m24-home-intro = Ievads
+m24-home-tag-article = Raksts
+m24-home-tag-podcast = Raidieraksts
+m24-home-tag-video = Video
+m24-home-topic-news = Jaunumi
+m24-home-topic-products = Produkti
+m24-home-topic-ai = Mākslīgais intelekts
+m24-home-topic-open-source-ai = Atvērtā koda mākslīgais intelekts
+m24-home-topic-ps = Privātums un drošība
+m24-home-headline-you-ai-v2 = Tu, mākslīgais intelekts un internets — kas īsti notiek?
+m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } sveic Rafi Krikorianu tehnoloģiju direktora amatā
+m24-home-tech-target = Tehnoloģiju mērķis
 m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 } Izpilddirektors runā par atvērtā pirmkoda mākslīgā intelekta priekšrocībām
 m24-home-introducing-thundermail-and-v2 = Iepazīstinām ar { -brand-name-thundermail } un { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Tehnoloģiju nākamais solis ir izvēle. Izvēlieties kopā ar mums.

@@ -39,4 +39,12 @@ navigation-refresh-firefox-blog = { -brand-name-firefox } emuārs
 
 ## Products
 
+navigation-refresh-products = Produkti
+navigation-refresh-close-products-menu = Aizvērt produktu izvēlni
+navigation-refresh-mozilla-monitor-v2 = { -brand-name-mozilla-monitor }
+navigation-refresh-mozilla-vpn-v2 = { -brand-name-mozilla-vpn }
+navigation-refresh-mdn-plus = { -brand-name-mdn-plus }
+navigation-refresh-thunderbird = { -brand-name-thunderbird }
+navigation-refresh-0din = { -brand-name-0din }
+navigation-refresh-tabstack = { -brand-name-tabstack }
 navigation-refresh-otari = { -brand-name-otari }

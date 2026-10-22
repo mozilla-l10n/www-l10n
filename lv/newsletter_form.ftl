@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+newsletter-form-please-enter-a-valid = Lūdzu, ievadiet derīgu epasta adresi
+newsletter-form-you-must-agree-to = Jums jāpiekrīt paziņojumam par konfidencialitāti
+newsletter-form-your-email-address = Jūsu epasta adrese
+newsletter-form-we-are-sorry-but-there = Atvainojiet, bet radās problēma ar mūsu sistēmu. Lūdzu, mēģiniet vēlreiz vēlāk!
+newsletter-form-please-select-country = Lūdzu, atlasiet valsti vai reģionu
 newsletter-form-please-select-language = Lūdzu izvēlieties valodu.
 # Only localize "yourname". Do not change "@example.com".
 newsletter-form-yournameexamplecom = yourname@example.com
