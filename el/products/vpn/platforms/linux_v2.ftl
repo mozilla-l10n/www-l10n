@@ -20,7 +20,7 @@ vpn-linux-simple-and = <strong>Απλή και εύχρηστο περιβάλλ
 vpn-linux-it-helps-restore = <strong>Συνεισφορά στην αποκατάσταση της δικτυακής ουδετερότητας:</strong> Το { -brand-name-mozilla-vpn } σάς βοηθά να ανακτήσετε τον έλεγχο της διαδικτυακής σας δραστηριότητας, εμποδίζοντας τους παρόχους διαδικτύου από το να περιορίσουν το εύρος ζώνης σας ή να αποκλείσουν ιστοτόπους και υπηρεσίες που δεν τους αρέσουν ή που ανταγωνίζονται τις δικές τους παροχές.
 vpn-linux-gui-client = <strong>Εφαρμογή με γραφικό περιβάλλον:</strong> Το { -brand-name-mozilla-vpn } διαθέτει μια εφαρμογή με γραφικό περιβάλλον χρήστη (GUI), ενώ ορισμένοι πάροχοι VPN διαθέτουν μόνο εκδόσεις γραμμής εντολών (CLI).
 vpn-linux-by-using = Χρησιμοποιώντας το { -brand-name-mozilla-vpn }, μπορείτε να ανακτήσετε τον έλεγχο των διαδικτυακών σας δραστηριοτήτων και να προστατέψετε το απόρρητο και τα δεδομένα σας. Κάντε λήψη του { -brand-name-mozilla-vpn } σήμερα και απολαύστε εγγύηση επιστροφής χρημάτων 30 ημερών χωρίς αρχεία καταγραφής, χωρίς ταλαιπωρία και χωρίς κίνδυνο.
-vpn-linux-how-to-install = Εγκατάσταση του { -brand-name-mozilla-vpn } στο Linux
+vpn-linux-how-to-install = Οδηγίες εγκατάστασης του { -brand-name-mozilla-vpn } στο Linux
 # Variables:
 #   $url (string) - https://launchpad.net/~mozillacorp/+archive/ubuntu/mozillavpn
 # 'mozillavpn' should not be translated as it is the proper name of the package
