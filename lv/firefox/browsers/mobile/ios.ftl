@@ -27,3 +27,5 @@ mobile-ios-see-your-open-tabs = Skatiet savas atvērtās cilnes, iepriekšējās
 mobile-ios-own-your-home = Pārvaldi savu sākuma ekrānu
 mobile-ios-get-to-the-parts = Ātrāk sasniedziet sev svarīgās interneta daļas. Izvēlieties skatīt visas atvērtās cilnes, nesen veiktās meklēšanas, grāmatzīmes un iecienītākās vietnes vienuviet.
 mobile-ios-find-it-all = Atrodi visu ātrāk
+mobile-ios-get-search-suggestions = Saņemiet meklēšanas ieteikumus meklēšanas joslā un ātri piekļūstiet visbiežāk apmeklētajām vietnēm. Ievadiet meklēšanas jautājumu un saņemiet ieteiktos un iepriekš meklētos rezultātus savās iecienītākajās meklētājprogrammās.
+mobile-ios-discover-more-of = Atklājiet vairāk no tā, kas jums patīk
