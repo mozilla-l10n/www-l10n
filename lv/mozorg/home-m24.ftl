@@ -15,7 +15,7 @@ m24-home-page-desc-v2 = Mēs strādājam, lai atgrieztu kontroli pār internetu 
 ## Intro
 
 m24-home-welcome-to-mozilla = Laipni lūdzam { -brand-name-mozilla }
-m24-home-from-trustworthy-tech = Sākot ar uzticamām tehnoloģijām un beidzot ar politikām, kas aizsargā jūsu digitālās tiesības, mēs jūs vienmēr izvirzām pirmajā vietā.
+m24-home-from-trustworthy-tech = Sākot ar uzticamām tehnoloģijām un beidzot ar nostāju, kas aizsargā jūsu digitālās tiesības, - mēs jūs vienmēr izvirzām pirmajā vietā.
 m24-home-learn-about-us = Uzziniet par mums
 # Used as accessible text alternative for image
 m24-home-alt-flag = Stilizēts zaļš karogs uz melna fona, kas veidots no burta “M” kā { -brand-name-mozilla } un pikseļa, kas ir pārvietots, lai norādītu uz tā sākotnējo dinozaura logotipu.
