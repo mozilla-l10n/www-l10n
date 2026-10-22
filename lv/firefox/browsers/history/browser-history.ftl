@@ -18,7 +18,7 @@ browser-history-that-sparked-a-revolution = Tas aizsāka revolūciju datoru tīk
 browser-history-web-era = Tīmekļa laikmets
 # Variables:
 #   $cern (url) - https://home.cern/topics/birth-web
-browser-history-british-computer = Britu datorzinātnieks Tims Berners-Lī 1990. gadā, strādājot CERN (Eiropas Kodolpētījumu organizācijā) Šveicē, izveidoja pirmo tīmekļa serveri un grafisko tīmekļa pārlūku. Savu jauno logu internetā viņš nosauca par “WorldWideWeb”. Tas bija viegli lietojams grafiskais interfeiss, kas izveidots NeXT datoram. Pirmo reizi teksta dokumenti tika savienoti kopā publiskā tīklā — tīmeklī, kādu mēs to pazīstam.
+browser-history-british-computer = Britu datorzinātnieks Tims Berners-Lī 1990. gadā, <a href="{ $cern }">strādājot CERN</a> (Eiropas Kodolpētījumu organizācijā) Šveicē, izveidoja pirmo tīmekļa serveri un grafisko tīmekļa pārlūku. Savu jauno logu internetā viņš nosauca par “WorldWideWeb”. Tas bija viegli lietojams grafiskais interfeiss, kas izveidots NeXT datoram. Pirmo reizi teksta dokumenti tika savienoti kopā publiskā tīklā — tīmeklī, kādu mēs to pazīstam.
 browser-history-a-year-later-berners = Gadu vēlāk Berners-Lī lūdza CERN matemātikas studentei Nikolai Pellovai uzrakstīt Line Mode Browser — programmu pamata datoru termināļiem.
 # Variables:
 #   $firefox (url) - https://en.wikipedia.org/wiki/Firefox

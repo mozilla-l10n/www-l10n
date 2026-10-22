@@ -29,7 +29,7 @@ privacy-faq-v2-we-never-sell-your = اساں تہاݙا ذاتی ڈیٹا کݙا
 privacy-faq-v2-wait-so-how = انتظار کرو، تساں پیسہ کین٘ویں کماندے ہو؟
 # Variables:
 #   $attrs (url) - link to https://stateof.mozilla.org
-privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } کوئی عام ادارہ نئیں۔ 1998 وچ ہک کمیونٹی اوپن سورس پروجیکٹ دے طور تے شروع تھیا، { -brand-name-mozilla } ہک مقصد نال جُڑیا ہویا ادارہ ہے جیہڑا ہک زیادہ صحت مند انٹرنیٹ کیتے کم کریندے پیا ہے۔ { -brand-name-mozilla-corporation } دی آمدنی دا زیادہ تر حصہ دنیا بھر وچ { -brand-name-firefox } ویب براؤزر دی سرچ پارٹنرشپ تے ڈسٹری بیوشن ڈیلز توں ملݨ آلیاں رائلٹیز توں آندا ہے۔ تساں ساݙے <a { $attrs }>سالانہ مالیاتی رپورٹ وچ ایہ پڑھ سڳدے ہو جو اساں پیسے کِویں کمیندے ہیں۔
+privacy-faq-v2-mozilla-is-not = { -brand-name-mozilla } کوئی عام ادارہ نئیں۔ 1998 وچ ہک کمیونٹی اوپن سورس پروجیکٹ دے طور تے شروع تھیا، { -brand-name-mozilla } ہک مقصد نال جُڑیا ہویا ادارہ ہے جیہڑا ہک زیادہ صحت مند انٹرنیٹ کیتے کم کریندے پیا ہے۔ { -brand-name-mozilla-corporation } دی آمدنی دا زیادہ تر حصہ دنیا بھر وچ { -brand-name-firefox } ویب براؤزر دی سرچ پارٹنرشپ تے ڈسٹری بیوشن ڈیلز توں ملݨ آلیاں رائلٹیز توں آندا ہے۔ تساں ساݙے <a { $attrs }>سالانہ مالیاتی رپورٹ</a> وچ ایہ پڑھ سڳدے ہو جو اساں پیسے کِویں کمیندے ہیں۔
 privacy-faq-v2-softballs = ٹھیک ہے، او پہلے کجھ سافت بالاں ہن۔ تساں کیڑھا ڈیٹا کٹھا کریندے او؟
 # Variables:
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
