@@ -17,6 +17,8 @@ firefox-products-mozillas-family-of-products-sentence = A família de produtos {
 
 firefox-products-tabs-everyone = Para todos
 firefox-products-tabs-business = Para empresas
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Categorias de produtos
 
 ## Firefox
 
@@ -27,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = Use o navegador que bloqueia auto
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Seu navegador dedicado à privacidade, com proteção contra rastreamento e bloqueio de anúncios, automaticamente.
+firefox-products-get-focus = Instale o { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -62,12 +65,15 @@ firefox-products-download-thunderbird = Baixe o { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Conecte seus sistemas de inteligência artificial a uma comunidade global de especialistas em segurança que identificam e ajudam a corrigir antecipadamente vulnerabilidades de GenAI (inteligência artificial generativa).
+firefox-products-0din-desc-v2 = Encontre e corrija vulnerabilidades de inteligência artificial antes que cheguem à produção, com apoio de uma comunidade global de pesquisadores de segurança e o maior feed de explorações atribuídas disponível.
+firefox-products-test-your-ai = Teste seus agentes de inteligência artificial
 firefox-products-learn-more-about-0din = Saiba mais sobre o { -brand-name-0din }
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Conecte seus aplicativos à web com automação confiável e transforme páginas web ativas em resultados limpos e estruturados.
+firefox-products-start-automating-the-web = Automatize a web
 firefox-products-learn-more-about-tabstack = Saiba mais sobre o { -brand-name-tabstack }
 
 ## Otari
