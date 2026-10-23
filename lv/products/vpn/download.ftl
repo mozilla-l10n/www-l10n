@@ -33,3 +33,18 @@ vpn-download-for-android-long = Lejupielādēt { -brand-name-mozilla-vpn } oper�
 vpn-download-for-ios = VPN operētājsistēmai { -brand-name-ios }
 vpn-download-for-ios-long-v2 = Lejupielādēt { -brand-name-mozilla-vpn } operētājsistēmai { -brand-name-ios }
 vpn-download-based-on-your = Pamatojoties uz jūsu pašreizējo ierīci
+vpn-download-get-mozilla-vpn = Iegūt { -brand-name-mozilla-vpn }
+vpn-download-privacy-you-can = Privātums, kuram varat uzticēties
+vpn-download-also-available = Pieejams arī:
+# Variables:
+#   $url (url) - link to https://mullvad.net/help/why-wireguard/
+#   $attrs (string) - specific attributes added to external links
+vpn-download-from-the-maker = No { -brand-name-firefox } izstrādātāja, { -brand-name-mozilla-vpn } izmanto uzlaboto <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® protokolu, lai šifrētu jūsu tiešsaistes aktivitātes un slēptu jūsu atrašanās vietu.
+vpn-download-we-never-log = Mēs nekad nereģistrējam, nesekojam un nekopīgojam jūsu tīkla datus.
+vpn-download-previous-versions = Lejupielādēt iepriekšējās { -brand-name-windows } un { -brand-name-mac-short } versijas
+vpn-download-install-via-flathub = Instalēt, izmantojot Flathub
+vpn-download-install-via-apt = Instalēt, izmantojot APT
+vpn-download-flathub = Flathub
+vpn-download-apt = APT
+vpn-download-windows = 64 bitu
+vpn-download-windows-arm = ARM
