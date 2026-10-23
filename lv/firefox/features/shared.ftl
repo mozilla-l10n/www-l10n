@@ -5,4 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/
 
+features-shared-firefox-features = { -brand-name-firefox } Funkcijas
+features-shared-footer-cta-title = Paveiciet vairāk ar { -brand-name-firefox }
 features-shared-footer-cta-desc = Iegūstiet ātru, vieglo, uz privātumu vērstu pārlūku, ko atbalsta bezpeļņas organizācija un kas darbojas visās jūsu ierīcēs.

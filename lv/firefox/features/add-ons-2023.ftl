@@ -5,6 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/add-ons/
 
+features-add-ons-firefox-add-ons = { -brand-name-firefox } pievienojumi
 features-add-ons-firefox-add-ons-and-browser-extensions = { -brand-name-firefox } pievienojumi un pārlūka paplašinājumi
 features-add-ons-extensions-also-known-as-add-ons = Paplašinājumi jeb { -brand-name-firefox } pievienojumprogrammas ir papildu funkcijas, ko varat lejupielādēt un instalēt, lai pārlūkam pievienotu vairāk funkcionalitātes un rīku. Papildinājumi ļauj pielāgot { -brand-name-firefox } pārlūku un uzlabot tīmekļa lietošanas veidu.
 # Variables:

@@ -7,4 +7,6 @@
 
 # page title
 features-sync-firefox-browser-sync = { -brand-name-firefox } pārlūks vienādošanai
+# HTML page description
+features-sync-access-your-firefox-bookmarks = Piekļūstiet savām { -brand-name-firefox } grāmatzīmēm, parolēm, atvērtajām cilnēm un citām lietām no jebkuras ierīces.
 features-sync-the-send-tab-feature-in-firefox = Funkcija “Sūtīt cilni” pārlūkā { -brand-name-firefox } ļauj nosūtīt lapas no { -brand-name-firefox } vienā ierīcē uz citām ierīcēm (piemēram, iPhone, iPad vai Android ierīci). Vai, pārlūkojot tīmekli savā tālrunī, atradāt rakstu, kuru vēlaties izlasīt, atgriežoties pie rakstāmgalda? Vai svarīgu dokumentu no darba, kuru vēlaties saglabāt, atgriežoties mājās? Varbūt klēpjdatorā atradāt recepti, kuru vēlaties nosūtīt uz planšetdatoru virtuvē. Nosūtiet šo cilni!
