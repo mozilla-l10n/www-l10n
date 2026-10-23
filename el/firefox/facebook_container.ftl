@@ -24,7 +24,7 @@ facebook-container-facebook-can-track-almost = Το { -brand-name-facebook } μ�
 facebook-container-install-and-contain = Εγκατάσταση και απομόνωση
 # Variables:
 #   $fbcontainer (url) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
-facebook-container-installing-the-extension-is = Η εγκατάσταση της <a href="{ $fbcontainer }">επέκτασης</a> είναι απλή και, μόλις ενεργοποιηθεί, θα ανοίγει το { -brand-name-facebook } σε μια μπλε καρτέλα όποτε το χρησιμοποιείτε. Χρησιμοποιήστε και απολαύστε το { -brand-name-facebook } κανονικά. Το { -brand-name-facebook } θα μπορεί ακόμη να σας στέλνει διαφημίσεις και προτάσεις στην ιστοσελίδα του, αλλά θα είναι πολύ πιο δύσκολο να χρησιμοποιήσει τη δραστηριότητά σας <strong>εκτός του { -brand-name-facebook }</strong> για να σας στείλει διαφημίσεις και άλλα στοχευμένα μηνύματα.
+facebook-container-installing-the-extension-is = Η εγκατάσταση της <a href="{ $fbcontainer }">επέκτασης</a> είναι απλή και, μόλις ενεργοποιηθεί, θα ανοίγει το { -brand-name-facebook } σε μια μπλε καρτέλα όποτε το χρησιμοποιείτε. Χρησιμοποιήστε και απολαύστε το { -brand-name-facebook } κανονικά. Το { -brand-name-facebook } θα μπορεί ακόμη να σας στέλνει διαφημίσεις και προτάσεις στον ιστότοπό του, αλλά θα είναι πολύ πιο δύσκολο να χρησιμοποιήσει τη δραστηριότητά σας <strong>εκτός του { -brand-name-facebook }</strong> για να σας στείλει διαφημίσεις και άλλα στοχευμένα μηνύματα.
 facebook-container-about-firefox-and-mozilla = Σχετικά με το { -brand-name-firefox } και τη { -brand-name-mozilla }
 # Variables:
 #   $mozilla (url) - link to https://www.mozilla.org/

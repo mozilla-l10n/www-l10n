@@ -20,7 +20,7 @@ firefox-developer-help-build-the-last = Βοηθήστε μας να δημιο�
 firefox-developer-start-now = Έναρξη τώρα
 firefox-developer-design-code-test = Σχέδιο. Κώδικας. Δοκιμή. Τελειοποίηση.
 # Line break for visual formatting
-firefox-developer-build-and-perfect = Κατασκευάστε και τελειοποιήστε τις ιστοσελίδες σας<br> με τα { -brand-name-firefox-devtools }
+firefox-developer-build-and-perfect = Κατασκευάστε και τελειοποιήστε τους ιστοτόπους σας<br> με τα { -brand-name-firefox-devtools }
 firefox-developer-inspector = Επιθεώρηση
 firefox-developer-inspect-and-refine = Επιθεωρήστε και βελτιώστε τον κώδικα για να χτίσετε τέλειες διατάξεις.
 firefox-developer-learn-about-page-inspector = Μάθετε περισσότερα σχετικά με την επιθεώρηση σελίδων
