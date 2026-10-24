@@ -16,3 +16,5 @@ about-shared-our-products = Mūsu produkti
 about-shared-software-innovations = Programmatūra un citas inovācijas, kas radītas mūsu misijas attīstībai.
 about-shared-get-involved = Iesaisties!
 about-shared-volunteer = Kļūsti par brīvprātīgo kādā no daudzajām mūsu darbības jomām.
+vision-for-the-web = { -brand-name-mozilla } vīzija par tīmekli
+read-about-our-vision = Lasiet par mūsu tīmekļa vīziju un to, kā mēs plānojam to īstenot.
