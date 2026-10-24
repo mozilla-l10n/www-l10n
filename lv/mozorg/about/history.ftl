@@ -38,7 +38,7 @@ history-not-many-people-noticed = Toreiz daudzi to nepamanīja, bet pirmā Phoen
 history-in-2003-the-mozilla-project = 2003. gadā projekts { -brand-name-mozilla } izveidoja { -brand-name-mozilla-foundation } — <a href="{ $foundation }">neatkarīgu bezpeļņas organizāciju</a>, ko atbalsta individuāli ziedotāji un dažādi uzņēmumi.
 # Variables:
 #   $manifesto (url) link to https://www.mozilla.org/about/manifesto/
-history-the-new-mozilla-foundation = Jaunveidotais { -brand-name-mozilla-foundation } turpināja pārvaldīt projekta ikdienas darbības un arī oficiāli ieņēma pozīciju interneta piedāvāto <a href="{ $manifesto }">atvērtību, inovāciju un iespēju</a> veicināšanā.
+history-the-new-mozilla-foundation = Jaunais { -brand-name-mozilla-foundation } turpināja pārvaldīt projekta ikdienas darbību un oficiāli uzņēmās arī <a href="{ $manifesto }">atvērtības, inovāciju un iespēju</a> veicināšanas lomu internetā.
 # Variables:
 #   $grants (url) link to https://www.mozilla.org/moss/
 history-it-did-this-by-continuing = Lai šos mērķus sasniegtu, fonds turpināja veidot lietotnes kā { -brand-name-firefox } un { -brand-name-thunderbird }, vienlaicīgi atveroties jauniem laukiem, piemēram piedāvājot <a href="{ $grants }">stipendijas</a> lai atbalstītu pieejamības uzlabošanas centienus tīmeklī.
