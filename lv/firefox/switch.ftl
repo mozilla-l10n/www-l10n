@@ -20,5 +20,11 @@ switch-switch-to-firefox = Pārslēgties uz { -brand-name-firefox }
 switch-firefox-makes-switching-fast-email = { -brand-name-firefox } padara pārslēgšanos no { -brand-name-chrome } ļoti ātru. Man tas ļoti patīk, un jums vajadzētu to izmēģināt.
 switch-still-not-convinced = Joprojām neesat pārliecināts, ka pāreja uz { -brand-name-firefox } ir vienkārša?
 switch-enjoy-the-web-faster = Izbaudiet tīmekli ātrāk, viss ir iestatīts jūsu vietā.
+switch-download-and-switch = Lejupielādēt un pārslēgties
+switch-share-to-facebook = Kopīgot Facebook
+switch-share-to-facebook-updated = Kopīgot vietnē { -brand-name-facebook }
+# Note: Bluesky is a brand name and should not be translated
+switch-share-to-bluesky = Kopīgot pakalpojumā Bluesky
 switch-hey = Hei,
 switch-check-it-out = Apskati to un paziņo man savu viedokli:
+switch-send-an-email = Sūtīt epastu

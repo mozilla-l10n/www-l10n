@@ -22,3 +22,4 @@ features-pip-3-more-ways-to-use-picture = Vēl 3 veidi, kā izmantot attēlu att
 features-pip-3-ways-to-use-picture = 3 veidi, kā izmantot attēlu attēlā
 features-pip-watch-a-lecture-or-meeting = Skatieties lekciju vai sanāksmi, pierakstot piezīmes
 features-pip-keep-a-tutorial-video-open = Gatavošanas laikā turiet atvērtu pamācības video ar recepti
+features-pip-entertain-cats-dogs-and-kids = Izklaidējiet kaķus, suņus un bērnus, kamēr veicat darbu

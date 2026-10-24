@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/private-browsing
 
+features-private-browsing-private-browsing-mode = Privātais pārlūkošanas režīms
+# HTML page title
+features-private-browsing-firefox-private-browsing-mode = { -brand-name-firefox } privātais pārlūkošanas režīms
 features-private-browsing-if-you-share-a-computer = Ja koplietojat datoru ar citiem cilvēkiem vai vēlaties ierobežot to, cik daudz datu vietnes var apkopot par jums, varat izmantot privātās pārlūkošanas režīmu pārlūkā { -brand-name-firefox }. Privātā pārlūkošana izdzēš digitālās pēdas, ko atstājat, pārlūkojot tiešsaistē, — iedomājieties tās kā pēdas mežā.
 features-private-browsing-what-does-private-browsing-do = Ko dara privātā pārlūkošana?
 features-private-browsing-private-browsing-mode-opens-v2 = Privātais pārlūkošanas režīms atver jaunu pārlūka logu. Aizverot pēdējo privātās pārlūkošanas logu, jūsu pārlūkošanas vēsture un visi izsekošanas sīkfaili no apmeklētajām vietnēm tiks dzēsti. <strong>{ -brand-name-firefox } Padoms profesionāļiem:</strong> Neaizmirstiet aizvērt visus privātās pārlūkošanas logus, kad esat pabeidzis!
