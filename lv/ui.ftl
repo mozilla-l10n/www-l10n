@@ -14,6 +14,8 @@ ui-watch-the-video = Aplūkot video
 ui-replay = Atkārtot
 ui-share = Dalīties
 ui-menu = Izvēlne
+# Short for Table of Contents
+ui-contents = Saturs
 ui-please-turn-on-javascript = Lūgums ieslēgt JavaScript, lai pareizi attēlotu šo lapu.
 ui-show-more = Rādīt vairāk
 ui-show-less = Rādīt mazāk
@@ -21,3 +23,7 @@ ui-show-all = Rādīt visu
 ui-hide-all = Paslēpt visu
 ui-learn-more = Uzzināt vairāk
 ui-view = Skats
+ui-pause-animation = Apturēt animāciju
+ui-play-animation = Atskaņot animāciju
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = Paaugstināšana

@@ -5,6 +5,15 @@
 
 ## Products menu
 
+navigation-v2-see-if-your-email-has = Pārbaudiet, vai jūsu epasts nav parādījies uzņēmuma datu noplūdes rezultātā.
+navigation-v2-facebook-container = { -brand-name-facebook-container }
+navigation-v2-help-prevent-facebook-from = Palīdziet novērst { -brand-name-facebook } datu vākšanu ārpus viņu vietnes.
+navigation-v2-mozilla-vpn = { -brand-name-mozilla-vpn }
+navigation-v2-get-protection-beyond-your-browser = Iegūstiet aizsardzību ārpus savas pārlūkprogrammas visās savās ierīcēs.
+navigation-v2-firefox-relay = { -brand-name-firefox-relay }
+navigation-v2-firefox-relay-beta = { -brand-name-firefox-relay } (beta versija)
+navigation-v2-sign-up-for-new-accounts = Reģistrējieties jauniem kontiem, nenododot savu epasta adresi.
+navigation-v2-mdn-plus = { -brand-name-mdn-plus }
 navigation-v2-new-features-and-tools = Jaunas funkcijas un rīki pielāgotai { -brand-name-mdn } pieredzei
 navigation-v2-view-all-products = Skatīt visus produktus
 

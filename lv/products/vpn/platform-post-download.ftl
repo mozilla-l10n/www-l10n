@@ -15,8 +15,31 @@ vpn-windows-go-to-your-downloads = Jādodas uz lejupielāžu mapi un jāveic div
 
 vpn-mac-go-to-your-downloads = Jādodas uz lejupielāžu mapi un jāveic divkāršais klikšķis uz .pkg datnes
 
+## Shared strings
+
+vpn-install-firefox-extension = 5. Instalējiet paplašinājumu { -brand-name-firefox }
+vpn-pick-a-recommended = Izvēlieties ieteicamo atrašanās vietu ātram un stabilam savienojumam vai manuāli izvēlieties vēlamo atrašanās vietu un pēc tam ieslēdziet slēdzi.
+# Variables:
+#   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
+vpn-download-and-install = <a href="{ $extension }">Lejupielādējiet un instalējiet paplašinājumu</a>, lai iestatītu izņēmumus konkrētām vietnēm un izvēlētos dažādas atrašanās vietas dažādām vietnēm.
+
 ## FAQ Strings
 
+vpn-download-faq-need-help = Vai nepieciešama palīdzība, lai sāktu darbu?
+vpn-download-faq-here-are-some = Šeit ir daži no visbiežāk uzdotajiem jautājumiem par { -brand-name-mozilla-vpn } iestatīšanu.
+vpn-download-faq-why-use = Kāpēc man vajadzētu izmantot { -brand-name-mozilla-vpn }?
+# Variables:
+#   $faq (url) - link to https://www.mozilla.org/products/vpn/more/what-is-a-vpn/
+vpn-download-faq-as-more-daily = Tā kā arvien vairāk ikdienas dzīves notiek internetā, tiešsaistes privātums un drošība kļūst vēl svarīgāka. VPN jeb <a href="{ $faq }">virtuālais privātais tīkls</a> izveido šifrētu tuneli starp jūsu ierīcēm un internetu, nodrošinot jūsu savienojuma drošību un privātumu, vienlaikus aizsargājot jūs divos svarīgos veidos:
+# Variables:
+#   $ip (url) - link to https://www.mozilla.org/products/vpn/more/what-is-an-ip-address/
+vpn-download-faq-concealing-ip = Jūsu patiesās <a href="{ $ip }">IP adreses</a> slēpšana: tas palīdz aizsargāt jūsu identitāti un aizsedz jūsu atrašanās vietu no jūsu apmeklētajām vietnēm.
+vpn-download-faq-encrypting = Jūsu interneta datplūsmas šifrēšana: lai neviens pie tīkla nevarētu izspiegot jūsu aktivitātes tiešsaistē.
+vpn-download-faq-working = Kā es varu zināt, vai VPN darbojas?
+# Variables:
+#   $connected (url) - link to https://support.mozilla.org/kb/how-can-i-tell-if-mozilla-vpn-connected
+#   $monitor (url) link to https://monitor.mozilla.org/
+vpn-download-faq-visual-indicators-v2 = { -brand-name-mozilla-vpn } gan rīkjoslā, gan lietojumprogrammas sākuma ekrānā attēlo vizuālus indikatorus par savu pašreizējo statusu, tādējādi atvieglojot jūsu tiešsaistes darbību aizsardzību. Šie indikatori ļauj apstiprināt, kad jūsu navigācija ir privāta un droša. Turklāt, kamēr ir izveidots savienojums, varat apmeklēt vietni <a href="{ $monitor }">https://monitor.mozilla.org/</a>, lai apstiprinātu, vai jūsu IP adrese ir maskēta. Lai iegūtu sīkāku informāciju, lūdzu, skatiet sadaļu <a href="{ $connected }">Kā es varu noteikt, vai { -brand-name-mozilla-vpn } ir izveidots savienojums?</a>.
 vpn-download-faq-add-device = Kā pievienot vēl vienu ierīci?
 # Variables:
 #   $subscription - link to https://support.mozilla.org/kb/how-add-devices-your-mozilla-vpn-subscription

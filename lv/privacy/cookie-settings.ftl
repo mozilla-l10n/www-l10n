@@ -35,3 +35,12 @@ cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } izma
 ## Analytics cookies section
 
 cookie-settings-category-analytics-heading = Analītika
+cookie-settings-category-analytics-what-are-subheading = Kas ir analītikas sīkfaili?
+cookie-settings-category-analytics-what-are-desc = Šīs tehnoloģijas apkopo informāciju par to, kā cilvēki izmanto tīmekļa vietnes, piemēram, apmeklētās lapas, noklikšķinātās saites un no kurām citām tīmekļa vietnēm nāk apmeklējumi.
+cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } izmanto analītikas informāciju, lai izprastu, kā lietotāji mijiedarbojas ar mūsu tīmekļa vietnēm, lai mēs varētu tās uzlabot un novērst visas radušās problēmas. Mēs varam arī izmantot datus no sīkfailiem, ierīces informāciju un IP adreses, lai labāk izprastu, kā lietotāji mijiedarbojas ar mūsu produktiem, pakalpojumiem, saziņu, tīmekļa vietnēm, tiešsaistes kampaņām, ierīcēm un citām platformām. Mēs apkoposim analītikas informāciju un iestatīsim analītikas sīkfailus tikai ar jūsu piekrišanu.
+
+## Privacy section
+
+cookie-settings-privacy-heading = Mūsu paziņojums par konfidencialitāti
+cookie-settings-privacy-desc = Lai iegūtu detalizētāku informāciju par dažādiem informācijas veidiem, ko { -brand-name-mozilla } apkopo, kad apmeklējat mūsu tīmekļa vietnes, varat atrast saiti uz mūsu paziņojumu par konfidencialitāti zemāk.
+cookie-settings-privacy-policy-link = Paziņojums par konfidencialitāti
