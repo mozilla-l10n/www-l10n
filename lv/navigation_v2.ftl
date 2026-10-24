@@ -2,9 +2,35 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
+navigation-v2-mozilla = { -brand-name-mozilla }
+navigation-v2-get-mozilla-vpn = Iegūt { -brand-name-mozilla-vpn }
+navigation-v2-menu = Izvēlne
+
+## Firefox menu
+
+navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
+navigation-v2-close-firefox-browsers-menu = Aizvērt { -brand-name-firefox-browsers } izvēlni
+navigation-v2-firefox-for-desktop = { -brand-name-firefox } Darbvirsmai
+navigation-v2-get-the-not-for-profit-backed = Iegūstiet bezpeļņas organizācijas atbalstītu pārlūkprogrammu operētājsistēmām { -brand-name-windows }, { -brand-name-mac-short } vai { -brand-name-linux }.
+navigation-v2-firefox-for-android = { -brand-name-firefox } priekš { -brand-name-android }
+navigation-v2-get-the-customizable-mobile = Iegūstiet pielāgojamu pārlūkprogrammu { -brand-name-android } viedtālruņiem.
+navigation-v2-firefox-for-ios = { -brand-name-firefox } priekš { -brand-name-ios }
+navigation-v2-get-the-mobile-browser = Iegūstiet pārlūkprogrammu savam { -brand-name-iphone } vai { -brand-name-ipad } tālrunim.
+navigation-v2-firefox-for-mobile = { -brand-name-firefox-browser } tālruņiem
+navigation-v2-take-speed-privacy-and = Ņemiet līdzi ātrumu, privātumu un sirdsmieru. Ierīcēs { -brand-name-android } un { -brand-name-ios }.
+navigation-v2-firefox-focus = { -brand-name-firefox-focus }
+navigation-v2-simply-private-mobile = Vienkārši privāta tālruņa pārlūkošana.
+navigation-v2-firefox-blog = { -brand-name-firefox } emuārs
+navigation-v2-read-about-new-firefox-features = Lasiet par jaunajām { -brand-name-firefox } funkcijām un veidiem, kā saglabāt drošību tiešsaistē.
+navigation-v2-release-notes = Laidiena piezīmes
+navigation-v2-get-the-details-on-the = Iegūstiet informāciju par jaunākajiem { -brand-name-firefox } atjauninājumiem.
+navigation-v2-view-all-firefox-browsers = Skatīt visus { -brand-name-firefox-browsers }
 
 ## Products menu
 
+navigation-v2-products = Produkti
+navigation-v2-close-products-menu = Aizvērt produktu izvēlni
+navigation-v2-mozilla-monitor = { -brand-name-mozilla-monitor }
 navigation-v2-see-if-your-email-has = Pārbaudiet, vai jūsu epasts nav parādījies uzņēmuma datu noplūdes rezultātā.
 navigation-v2-facebook-container = { -brand-name-facebook-container }
 navigation-v2-help-prevent-facebook-from = Palīdziet novērst { -brand-name-facebook } datu vākšanu ārpus viņu vietnes.

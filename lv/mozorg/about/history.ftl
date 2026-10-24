@@ -26,10 +26,10 @@ history-community-members-got-involved = Kopienas dalībnieki iesaistījās un p
 history-people-contributed-to-mozilla = Ieguldījumi { -brand-name-mozilla } bija vairāku veidu, bet katram bija iedvesma brīvu programmatūru veidošanai, lai ļautu cilvēkiem būt izvēlei viņu interneta lietošanā.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
-history-after-several-years-of-development = Pēc vairākiem izstrādes gadiem, <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, pirmā svarīgā versija, tika palaista 2002. gadā. Šī versija iekļāva daudzus uzlabojumus pārlūkam, pastu lasītājam un citām komplekta lietotnēm, bet lietotāju skaits bija mazs.
+history-after-several-years-of-development = Pēc vairāku gadu izstrādes 2002. gadā tika izlaista <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, pirmā lielākā versija. Šajā versijā bija daudz uzlabojumu pārlūkprogrammā, epasta klientā un citās komplektā iekļautajās lietojumprogrammās, taču to nelietoja daudz cilvēki.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
-history-by-2002-well-over-90 = 2002. gadā, <a href="{ $over90 }">vairāk nekā 90% interneta lietotāji</a> pārlūkoja ar { -brand-name-ie }.
+history-by-2002-well-over-90 = Līdz 2002. gadam <a href="{ $over90 }">vairāk nekā 90% interneta lietotāju</a> pārlūkojot internetu, izmantoja { -brand-name-ie }.
 # Variables:
 #   $charter (url) link to https://www-archive.mozilla.org/projects/firefox/charter.html
 history-not-many-people-noticed = Daži tikai to pamanīja, bet Phoenix (vēlāk pārsaukts par { -brand-name-firefox }) arī { -brand-name-mozilla } tika palaists tajā gadā ar mērķi piedāvāt <a href="{ $charter }">vislabāko iespējamo pārlūkošanas pieredzi</a> visplašākajam skaitam cilvēku.

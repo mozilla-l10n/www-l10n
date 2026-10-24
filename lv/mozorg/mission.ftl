@@ -11,6 +11,9 @@ mission-our-mission-is-to-ensure-the-internet = Mūsu misija ir nodrošināt lai
 mission-our-mission-is-to-promote-openness = Mūsu misija ir atvērtības, inovācijas un iespēju veicināšana tīmeklī.
 mission-at-mozilla-were-a-global-community-v2 = Uzņēmumā { -brand-name-mozilla } mēs esam globāla tehnoloģiju speciālistu, domātāju un veidotāju kopiena, kas kopīgi strādā, lai uzturētu internetu dzīvu un pieejamu, lai cilvēki visā pasaulē varētu kļūt par informētiem tīmekļa veidotājiem un veicinātājiem.
 mission-we-believe-this-act-of-human-collaboration = Mēs ticam, ka šī cilvēku sadarbība caur atvērtu platformu ir būtiska mūsu individuālai attīstībai un kopīgai nākotnei.
+# Variables:
+#   $url (url) - link to https://www.mozilla.org/about/manifesto/
+mission-read-the-mozilla-manifesto-to-learn-v2 = Izlasiet <a href="{ $url }">{ -brand-name-mozilla } manifestu</a>, lai uzzinātu vēl vairāk par vērtībām un principiem, kas vada mūsu misijas īstenošanu.
 mission-watch-the-video-above-to-learn-more = Apskatiet video, lai uzzinātu, kas mēs esam, no kurienes nākam un ko darām, lai padarītu internetu labāku priekš jums.
 mission-get-involved = Iesaistieties
 mission-volunteer-opportunities-in-a-number = Iesaistīšanas iespējas vairākas atšķirīgās jomās
@@ -19,3 +22,4 @@ mission-where-we-come-from-and-how-we-got = No kurienes mēs esam un kā mēs te
 mission-forums = Forumi
 mission-topics-include-support-products = Tēmas iekļauj atbalstu, produkti, un tehnoloģijas
 mission-governance = Pārvaldība
+mission-our-structure-organization-and-the-v2 = Mūsu struktūra, organizācija un plašākā { -brand-name-mozilla } kopiena

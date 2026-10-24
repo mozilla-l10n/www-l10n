@@ -17,6 +17,18 @@ vpn-mac-go-to-your-downloads = Jādodas uz lejupielāžu mapi un jāveic divkār
 
 ## Shared strings
 
+vpn-download-unable-to-download = Nevar lejupielādēt { -brand-name-mozilla-vpn }
+vpn-download-not-in-country = Atvainojiet, { -brand-name-mozilla-vpn } nav pieejams jūsu valstī.
+# The <br> tag is a line break for the HTML text
+# Variables:
+#   $url (url) - link for either Windows or Mac download, depending on user platform
+#   $id (string) - unique ID for the anchor tag
+vpn-your-download-should-start = Jūsu { -brand-name-mozilla-vpn } lejupielādei vajadzētu sākties automātiski. Ja tā nenotiek, <br> <a href="{ $url }" id="{ $id }">restartējiet lejupielādi</a> vai atgriezieties pie lejupielādes citā ierīcē.
+vpn-open-the-file = 1. Atveriet failu
+vpn-launch-the-app = 2. Palaidiet lietotni
+vpn-login-or-signup = 3. Piesakieties vai reģistrējieties
+vpn-enter-your-email = Ievadiet savu epasta adresi, lai pieteiktos vai reģistrētos un sāktu darbu
+vpn-turn-on-vpn = 4. Ieslēdziet VPN
 vpn-install-firefox-extension = 5. Instalējiet paplašinājumu { -brand-name-firefox }
 vpn-pick-a-recommended = Izvēlieties ieteicamo atrašanās vietu ātram un stabilam savienojumam vai manuāli izvēlieties vēlamo atrašanās vietu un pēc tam ieslēdziet slēdzi.
 # Variables:
