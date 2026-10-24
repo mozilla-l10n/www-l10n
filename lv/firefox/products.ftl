@@ -5,6 +5,13 @@
 
 ### URL: https://www-dev.allizom.org/products/
 
+# HTML page title
+firefox-products-mozilla-products = { -brand-name-mozilla } produkti
+# HTML page description
+firefox-products-mozillas-family-of-products = { -brand-name-mozilla } produktu saime ir izstrādāta, lai padarītu jūs drošāku un viedāku tiešsaistē.
+firefox-products-products = Produkti
+firefox-products-firefox-beginning-v2 = { -brand-name-firefox } ir tikai sākums.
+firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } produktu saime ir izstrādāta, lai padarītu jūs drošāku un viedāku tiešsaistē.
 
 ## Section headings
 
@@ -15,14 +22,18 @@ firefox-products-tabs-aria-label = Produktu kategorijas
 
 ## Firefox
 
+firefox-products-firefox = { -brand-name-firefox }
 firefox-products-get-the-browser-that-blocks = Iegūstiet pārlūku, kas automātiski bloķē vairāk nekā 2000 datu izsekotāju. Uzlabotā izsekošanas aizsardzība ir standarta aprīkojumā katrā { -brand-name-firefox } pārlūkā.
 
 ## Focus
 
+firefox-products-firefox-focus = { -brand-name-firefox-focus }
+firefox-products-your-dedicated-privacy = Jūsu īpašais privātuma pārlūks ar automātisku izsekošanas aizsardzību un reklāmu bloķēšanu.
 firefox-products-get-focus = Iegūt { -brand-name-firefox-focus }
 
 ## Monitor
 
+firefox-products-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-products-see-if-your-personal-information = Pārbaudiet, vai jūsu personas dati nav tikuši apdraudēti korporatīvā datu pārkāpuma dēļ, un reģistrējieties turpmākiem brīdinājumiem.
 firefox-products-check-for-breaches = Pārbaudiet, vai nav pārkāpumu
 
@@ -63,6 +74,7 @@ firefox-products-learn-more-about-0din = Uzziniet vairāk par { -brand-name-0din
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Savienojiet savas lietotnes ar tīmekli, izmantojot uzticamu automatizāciju, un pārvērtiet tiešsaistes tīmekļa lapas tīros, strukturētos rezultātos.
 firefox-products-start-automating-the-web = Automatizē tīmekli
+firefox-products-learn-more-about-tabstack = Uzziniet vairāk par { -brand-name-tabstack }
 
 ## Otari
 

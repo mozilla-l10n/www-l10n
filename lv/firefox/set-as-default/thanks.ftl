@@ -22,6 +22,8 @@ set-as-default-thanks-youre-all-set = Viss ir iestatīts.
 set-as-default-thanks-get-firefox-for-mobile = Iegūt { -brand-name-firefox } tālrunim
 set-as-default-thanks-travel-the-internet-with = Ceļo internetā ar aizsardzību visās savās ierīcēs!
 set-as-default-thanks-download-the-app = Lejupielādēt lietotni
+set-as-default-create-an-account = Izveidot kontu
+set-as-default-thanks-sign-up-for-a-free-account-v2 = Reģistrējieties bezmaksas { -brand-name-mozilla-account } kontam un sinhronizējiet visas savas paroles, pārlūkošanas vēsturi un preferences visās savās ierīcēs.
 # Account here refers to a Firefox Account
 set-as-default-thanks-get-an-account = Iegūt kontu
 set-as-default-thanks-having-trouble = Ir sarežģījumi?
