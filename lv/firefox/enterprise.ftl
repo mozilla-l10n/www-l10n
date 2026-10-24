@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/firefox/enterprise/
 
+firefox-enterprise-get-firefox-for-your-enterprise-with = Iegūstiet { -brand-name-firefox } savam uzņēmumam ar { -brand-name-esr } un Rapid Release
+firefox-enterprise-get-unmatched-data-protection = Iegūstiet nepārspējamu datu aizsardzību ar jums piemērotu izlaišanas ritmu, izmantojot { -brand-name-firefox } uzņēmumiem. Lejupielādējiet { -brand-name-esr } un Rapid Release.
 firefox-enterprise-enterprise = { -brand-name-enterprise }
 firefox-enterprise-get-firefox-for-your-enterprise = Iegūstiet { -brand-name-firefox } savam uzņēmumam
 # Variables:

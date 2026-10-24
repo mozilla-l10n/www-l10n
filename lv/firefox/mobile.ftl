@@ -10,4 +10,7 @@ firefox-mobile-firefox-browser-for-mobile = { -brand-name-firefox-browser } mobi
 firefox-mobile-firefox = { -brand-name-firefox }
 firefox-mobile-firefox-browser = { -brand-name-firefox-browser }
 firefox-mobile-get-the-mobile-browser-built = Iegūsti tālruņa pārlūku radītu Tevi, nevis reklāmdevējiem
+firefox-mobile-check-out-firefox-again-its = Apskatiet { -brand-name-firefox } vēlreiz. Tas ir ātrs, privāts un jūsu pusē. Paredzēts { -brand-name-ios } un { -brand-name-android }.
 firefox-mobile-get-firefox-mobile = Saņem { -brand-name-firefox } tālruņiem
+firefox-mobile-send-a-download-link-to-your = Nosūtiet lejupielādes saiti uz savu tālruni.
+firefox-mobile-scan-the-qr-code-to-get-started = Noskenējiet QR kodu, lai sāktu darbu

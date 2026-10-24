@@ -21,17 +21,47 @@ firefox-products-get-the-browser-that-blocks = Iegūstiet pārlūku, kas automā
 
 firefox-products-get-focus = Iegūt { -brand-name-firefox-focus }
 
+## Monitor
+
+firefox-products-see-if-your-personal-information = Pārbaudiet, vai jūsu personas dati nav tikuši apdraudēti korporatīvā datu pārkāpuma dēļ, un reģistrējieties turpmākiem brīdinājumiem.
+firefox-products-check-for-breaches = Pārbaudiet, vai nav pārkāpumu
+
+## Relay
+
+firefox-products-relay = { -brand-name-firefox-relay }
+firefox-products-protect-your-real = Aizsargājiet savu īsto epasta adresi, lai labāk kontrolētu iesūtni.
+firefox-products-get-relay = Iegūt { -brand-name-firefox-relay }
+
 ## VPN
 
+firefox-products-mozilla-vpn = { -brand-name-mozilla-vpn }
 firefox-products-surf-stream-and-get-work-done = Pārlūko, straumē un paveic darāmo serveros vairāk nekā 30 valstīs ar jaunu skatījumu drošā savienojumā ar internetu.
+firefox-products-get-mozilla-vpn = Iegūt { -brand-name-mozilla-vpn }
+
+## MDN Plus
+
+firefox-products-mdn-plus = { -brand-name-mdn-plus }
+firefox-products-resources-for-developers = Resursi izstrādātājiem no izstrādātājiem. Atbalstiet { -brand-name-mdn } un pielāgojiet to savām vajadzībām ar kolekcijām, paziņojumiem un rotaļu laukumiem.
+firefox-products-support-mdn = Atbalsts { -brand-name-mdn }
+
+## Thunderbird
+
+firefox-products-thunderbird = { -brand-name-thunderbird }
+firefox-products-access-all = Piekļūstiet visiem saviem epastiem, kalendāriem un kontaktpersonām vienā ātrā lietotnē. Filtrējiet un kārtojiet tos, kā vēlaties.
+firefox-products-download-thunderbird = Lejupielādēt { -brand-name-thunderbird }
 
 ## 0DIN
 
+firefox-products-0din = { -brand-name-0din }
+firefox-products-0din-desc = Savienojiet savas mākslīgā intelekta sistēmas ar globālu drošības ekspertu kopienu, kas atklāj un palīdz laikus novērst GenAI ievainojamības.
 firefox-products-0din-desc-v2 = Atrodi un novērs MI ievainojamības, pirms tās nonāk produkcijā, ko nodrošina vispasaules drošības pētnieku kopienas un lielākās pieejamās atvasināto ekspluatējumu barotnes!
 firefox-products-test-your-ai = Pārbaudi savus mākslīgā intelekta aģentus
+firefox-products-learn-more-about-0din = Uzziniet vairāk par { -brand-name-0din }
 
 ## Tabstack
 
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-tabstack-desc = Savienojiet savas lietotnes ar tīmekli, izmantojot uzticamu automatizāciju, un pārvērtiet tiešsaistes tīmekļa lapas tīros, strukturētos rezultātos.
 firefox-products-start-automating-the-web = Automatizē tīmekli
 
 ## Otari
