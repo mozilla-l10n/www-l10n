@@ -5,6 +5,9 @@
 
 ### URL: https://www-dev.allizom.org/firefox/features/translate/
 
+# HTML page title
+features-translate-translate-a-webpage-with-firefox = Tīmekļa lapas tulkošana, izmantojot { -brand-name-firefox }
+features-translate-translate-the-web = Tulkot tīmekli
 features-translate-while-other-browsers-rely-on-v2 = Lai gan citas pārlūki izmanto mākoņpakalpojumus, { -brand-name-firefox-translations } valodu modeļi tiek lejupielādēti lietotāja pārlūkā, un tulkojumi tiek veikti lokāli, tāpēc { -brand-name-mozilla } neieraksta, kuras tīmekļa lapas jūs tulkojat.
 features-translate-what-languages-are-currently = Kuras valodas pašlaik tiek atbalstītas?
 # This is followed by a localized list of supported languages
