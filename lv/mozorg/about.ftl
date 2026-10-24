@@ -50,3 +50,4 @@ about-get-involved = Iesaistieties
 
 about-get-the-mozilla-newsletter = Saņemiet { -brand-name-mozilla } jaunumus
 about-stay-informed-about-the-issues = Esiet informēti par problēmām, kas ietekmē internetu, un uzziniet, kā varat iesaistīties pasaules jaunākā publiskā resursa aizsardzībā.
+about-subscribe = Abonēt

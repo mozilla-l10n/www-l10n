@@ -23,3 +23,9 @@ welcome-page4-get-data-trackers-off-your = Atbrīvojieties no datu izsekotājiem
 welcome-page4-enhanced-tracking-protection = Uzlabota izsekošanas aizsardzība <a href="{ $privacy }">bloķē vairāk nekā 2000 izsekotāju</a>, kas ļauj jums izsekot tīmeklī.
 # "Leave no trace" is an expression for leaving nothing behind.
 welcome-page4-leave-no-trace = Neatstāj pēdas
+welcome-page4-automatically-clear-your-history = Automātiski notīriet vēsturi un sīkfailus, izmantojot privātās pārlūkošanas režīmu.
+welcome-page4-go-faster-do-more = Darbojies ātrāk. Paveic vairāk.
+welcome-page4-take-it-all-with-you = Paņemiet to visu līdzi
+welcome-page4-more-done-fast-smart = Paveiciet vairāk savā dienā ar zibenīgi ātru lapu ielādi un viediem meklēšanas ieteikumiem.
+welcome-page4-dont-walk-out-the-door-without = Neizej pa durvīm bez grāmatzīmēm, cilnēm, piezīmēm un parolēm.
+welcome-page4-why-am-i-seeing-this = Kāpēc es to redzu?

@@ -1,0 +1,22 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at https://mozilla.org/MPL/2.0/.
+
+
+### URL: https://www-dev.allizom.org/about/legal/
+
+legal-legal = Juridiskā informācija
+legal-get-involved = Iesaistieties
+legal-protect-the-fox = Aizsargājiet Lapsu
+legal-takedown-requests = Noņemšanas pieprasījumi
+legal-back-to-legal = Atpakaļ uz juridisko sadaļu
+legal-special-thanks-to-all-of-you = Īpašs paldies visiem, kas palīdz ziņot par { -brand-name-mozilla } preču zīmju ļaunprātīgu izmantošanu, piedalās pārvaldības forumos, sniedz atsauksmes par mūsu lokalizācijām un juridiskajiem noteikumiem, kā arī veicina { -brand-name-mozilla } projekta panākumus.
+legal-terms = Noteikumi
+legal-our-websites = Mūsu tīmekļa vietnes
+legal-firefox-services = { -brand-name-firefox } Pakalpojumi
+legal-pocket = { -brand-name-pocket }
+legal-privacy-trademarks = Konfidencialitāte un preču zīmes
+legal-privacy-notices-and-policy = Konfidencialitātes paziņojumi un politika
+legal-downloadable-software-notices = Lejupielādējamas programmatūras paziņojumi
+# heading for the table of contents, a shorter heading is better
+legal-firefox-contents = Saturs

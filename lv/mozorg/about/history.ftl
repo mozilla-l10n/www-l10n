@@ -5,7 +5,7 @@
 
 ### URL: https://www-dev.allizom.org/about/history/
 
-history-history-of-the-mozilla-project = { -brand-name-mozilla } projekta mājas
+history-history-of-the-mozilla-project = { -brand-name-mozilla } projekta vēsture
 # Variables:
 #   $coderush (url) - link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
 #   $sourcerelease (url) - link to https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html'
@@ -62,5 +62,18 @@ history-more-people-than-ever-before = Vairāk nekā jebkad agrāk, jauni lietot
 #   $range (url) link to https://www.wikipedia.org
 #   $areas (url) link to https://creativecommons.org/
 history-a-sustainable-organization = Ilgtspējīga organizācija tika izveidota, izmantojot tirgus mehānismus, lai atbalstīt vispārējas nozīmes uzdevumus. Šīs modelis tika lietots citos projektos lai izveidotu atvērtas, pārredzamas un sadarbojošās organizācijas <a href="{ $range }">daudzos atšķirīgos</a> <a href="{ $areas }">laukos</a>.
+history-the-future-is-full-of-challenges = Nākotne ir pilna izaicinājumu un iespēju, kas ir līdzvērtīgas mūsu pagātnes iespējām.
+history-theres-no-guarantee-that = Nav garantijas, ka internets paliks atvērts, patīkams vai drošs.
+history-mozilla-will-continue-to = { -brand-name-mozilla } turpinās sniegt cilvēkiem iespēju paust savu viedokli un veidot savu dzīvi tiešsaistē.
 history-of-course-were-not-alone = Protams, mēs neesam vienīgie kuri šo dara.
+history-the-mozilla-community-together = { -brand-name-mozilla } kopiena kopā ar citiem atvērtā pirmkoda projektiem un citām sabiedriskā labuma organizācijām pastāv tikai pateicoties cilvēkiem, kuri ir iesaistīti mūsu kopīgo mērķu īstenošanā.
+# Variables:
+#   $contribute (url) link to https://www.mozilla.org/contribute/
+history-if-you-want-to-join-us-in = Ja vēlaties pievienoties mūsu misijai, lūdzu, <a href="{ $contribute }">iesaistieties</a>.
+history-for-more-information-about = Lai iegūtu plašāku informāciju par { -brand-name-mozilla } vēsturi, skatiet tālāk norādīto:
 history-mozilla-bookmarks = { -brand-name-mozilla } grāmatzīmes
+history-timeline-of-mozilla-project = { -brand-name-mozilla } projekta laika skala
+history-mozilla-digital-memory-bank = { -brand-name-mozilla } Digitālā atmiņas banka
+# Variables:
+#   $link (url) link to https://www.foxkeh.com/downloads/
+history-the-history-of-firefox-and = <a href="{ $link }">{ -brand-name-firefox } un { -brand-name-mozilla } plakātu vēsture</a> (pieejami angļu un japāņu valodā)

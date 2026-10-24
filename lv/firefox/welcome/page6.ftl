@@ -7,6 +7,11 @@
 
 # HTML page title
 welcome-page6-make-firefox-your-default = Padarīt { -brand-name-firefox } par noklusējuma pārlūku
+welcome-page6-make-sure-youre-protected = Pārliecinieties, ka esat aizsargāts katru reizi, kad pieslēdzaties tiešsaistē
+welcome-page6-when-you-choose-firefox-you = Izvēloties { -brand-name-firefox }, jūs atbalstāt labāku tīmekli sev un visiem pārējiem. Tagad speriet nākamo soli, lai aizsargātu sevi.
+welcome-page6-get-the-firefox-app = Iegūstiet lietotni { -brand-name-firefox }
+welcome-page6-get-firefox-on-your-phone = Saņem { -brand-name-firefox } tālruņiem
+welcome-page6-scan-the-qr-code-to-get-started = Noskenējiet QR kodu, lai sāktu darbu
 welcome-page6-qr-code-to-scan-for-firefox = QR kods, lai skenētu { -brand-name-firefox }
 welcome-page6-choose-automatic-privacy = Izvēlieties automātisko privātumu
 welcome-page6-companies-keep-finding-new = Uzņēmumi turpina atrast jaunus veidus, kā nozagt jūsu personas datus. { -brand-name-firefox } ir pārlūks, kura misija ir atrast jaunus veidus, kā jūs aizsargāt.
