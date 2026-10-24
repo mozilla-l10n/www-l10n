@@ -21,3 +21,23 @@ privacy-index-data-privacy-principles = Datu privātuma principi
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
 privacy-index-mozillas-data-privacy-principles = { -brand-name-mozilla } <a href="{ $principles }">datu privātuma principi</a> iedvesmo mūsu praksi, kas respektē un aizsargā cilvēkus, kuri izmanto internetu. Uzziniet, kā šie principi ietekmē { -brand-name-firefox } un visus mūsu produktus, izlasot šo <a href="{ $faq }">BUJ</a>.
 privacy-index-transparency-report = Atklātības ziņojums
+privacy-index-get-involved = Iesaistieties
+# Variables:
+#   $report (url) - link to https://www.mozilla.org/about/policy/transparency/
+privacy-index-as-an-open-source-project = Kā atvērtā pirmkoda projektam, caurspīdīgums un atklātība ir būtiska { -brand-name-mozilla } dibināšanas principu sastāvdaļa. Mūsu kodu bāzes ir atvērtas un auditējamas. Mūsu izstrādes darbs ir atvērts. Arī mūsu pusgada <a href="{ $report }">caurspīdīguma ziņojums</a> apliecina mūsu apņemšanos ievērot šos principus.
+# Variables:
+#   $group (url) - link to https://groups.google.com/a/mozilla.org/g/governance/
+privacy-index-to-review-and-comment-on-proposed = Lai pārskatītu un komentētu ierosinātās izmaiņas mūsu privātuma politikās, <a href="{ $group }"> abonējiet { -brand-name-mozilla } pārvaldības grupu</a>.
+# Variables:
+#   $blog (url) - link to https://blog.mozilla.org/privacy/
+privacy-index-read-more-about-our-ongoing = Uzziniet vairāk par mūsu notiekošo darbu privātuma un drošības publiskās politikas jomā <a href="{ $blog }">{ -brand-name-mozilla } atvērtās politikas un aizstāvības emuārā</a>.
+privacy-index-outdated-policies = Novecojušas nostājas
+privacy-index-mozilla-websites-communications = { -brand-name-mozilla } Tīmekļa vietnes, saziņa un sīkfaili
+privacy-index-firefox-browser = { -brand-name-firefox-browser }
+privacy-index-firefox-focus = { -brand-name-firefox-focus }
+privacy-index-thunderbird = { -brand-name-thunderbird }
+privacy-index-mdn-plus = { -brand-name-mdn-plus }
+privacy-index-smart-window = Viedais logs
+privacy-index-mozilla-subscription-services = { -brand-name-mozilla } Abonēšanas pakalpojumi
+# This is title case since it appears in a menu, so does not use the normal brand name terms for "Mozilla accounts".
+privacy-index-mozilla-accounts = { -brand-name-mozilla } konti

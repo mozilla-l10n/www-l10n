@@ -9,11 +9,17 @@
 
 ## Windows download page
 
+vpn-windows-download-page-title = Lejupielādēt { -brand-name-mozilla-vpn } operētājsistēmai { -brand-name-windows }
+vpn-windows-downloading-mozilla-vpn = Notiek { -brand-name-mozilla-vpn } lejupielāde operētājsistēmai { -brand-name-windows }…
 vpn-windows-go-to-your-downloads = Jādodas uz lejupielāžu mapi un jāveic divkāršais klikšķis uz .msi datnes
+vpn-windows-a-progress-bar = Parādīsies progresa josla, un sāksies instalēšanas process.
 
 ## Mac download page
 
+vpn-mac-download-page-title = Lejupielādēt { -brand-name-mozilla-vpn } priekš { -brand-name-mac-short }
+vpn-mac-downloading-mozilla-vpn = Notiek { -brand-name-mozilla-vpn } lejupielāde operētājsistēmai { -brand-name-mac-short }…
 vpn-mac-go-to-your-downloads = Jādodas uz lejupielāžu mapi un jāveic divkāršais klikšķis uz .pkg datnes
+vpn-mac-follow-the-steps = Lai palaistu lietotni, izpildiet { -brand-name-mozilla-vpn } instalētājā norādītās darbības.
 
 ## Shared strings
 

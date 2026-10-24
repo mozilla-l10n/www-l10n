@@ -19,7 +19,7 @@ privacy-faq-we-put-people-in-control-of = Mēs ļaujam cilvēkiem kontrolēt sav
 privacy-faq-we-adhere-to-no-surprises-principle-v2 = Mēs ievērojam principu “bez pārsteigumiem”, kas nozīmē, ka mēs cītīgi strādājam, lai nodrošinātu, ka cilvēku izpratne par { -brand-name-firefox } atbilst realitātei.
 privacy-faq-the-following-questions-and = Šie jautājumi un atbildes palīdzēs jums saprast, ko sagaidīt no { -brand-name-mozilla } un { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Es izmantoju { -brand-name-firefox } gandrīz visam tīmeklī. Jūs, { -brand-name-mozilla } lietotāji, noteikti zināt par mani ļoti daudz, vai ne?
-privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, tīmekļa pārlūks, kas darbojas jūsu ierīcē vai datorā, ir jūsu vārti uz internetu. Jūsu pārlūkprogramma pārvaldīs daudz informācijas par jūsu apmeklētajām vietnēm, taču šī informācija parasti paliek jūsu ierīcē. { -brand-name-mozilla }, uzņēmums, kas ražo { -brand-name-firefox }, to neapkopo (ja vien jūs to nelūdzat).
+privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, tīmekļa pārlūks, kas darbojas jūsu ierīcē vai datorā, ir jūsu vārti uz internetu. Jūsu pārlūks pārvaldīs daudz informācijas par jūsu apmeklētajām vietnēm, taču šī informācija parasti paliek jūsu ierīcē. { -brand-name-mozilla }, uzņēmums, kas ražo { -brand-name-firefox }, to neapkopo (ja vien jūs to nelūdzat).
 privacy-faq-really-you-dont-collect-my-browsing = Tiešām, jūs neapkopojat manu pārlūkošanas vēsturi?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } nezina tik daudz par to, kā cilvēki pārlūko tīmekli, cik varētu gaidīt. Kā pārlūka veidotājam tas mums patiesībā ir liels izaicinājums. Tāpēc esam izveidojuši izvēles rīkus, kas ļauj ieinteresētajiem lietotājiem sniegt mums ieskatu savā tīmekļa pārlūkošanā. Ja sinhronizējat savu pārlūkošanas vēsturi dažādās { -brand-name-firefox } instalācijās, mēs nezinām, kāda ir šī vēsture, jo tā ir šifrēta jūsu ierīcē.
 privacy-faq-it-seems-like-every-company = Šķiet, ka katrs uzņēmums tīmeklī pērk un pārdod manus datus. Jūs droši vien neesat izņēmums.
@@ -27,19 +27,19 @@ privacy-faq-we-never-sell-your = Mēs nekad nepārdodam jūsu personas datus. At
 privacy-faq-wait-so-how-do-you-make-money = Paga, kā tad jūs pelnāt naudu?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/
-privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } nav tipiska organizācija. { -brand-name-mozilla }, kas dibināta 1998. gadā kā kopienas atvērtā pirmkoda projekts, ir misijas vadīta organizācija, kas strādā pie veselīgāka interneta. Lielākā daļa { -brand-name-mozilla-corporation } ieņēmumu ir no autoratlīdzībām, kas nopelnītas, izmantojot { -brand-name-firefox } tīmekļa pārlūkprogrammu meklēšanas partnerības un izplatīšanas līgumus visā pasaulē. Vairāk par to, kā mēs pelnām naudu, varat uzzināt mūsu <a href="{ $link }">gada finanšu pārskatā</a>.
+privacy-faq-mozilla-is-not-your-average = { -brand-name-mozilla } nav tipiska organizācija. { -brand-name-mozilla }, kas dibināta 1998. gadā kā kopienas atvērtā pirmkoda projekts, ir misijas vadīta organizācija, kas strādā pie veselīgāka interneta. Lielākā daļa { -brand-name-mozilla-corporation } ieņēmumu ir no autoratlīdzībām, kas nopelnītas, izmantojot { -brand-name-firefox } tīmekļa pārlūka meklēšanas partnerības un izplatīšanas līgumus visā pasaulē. Vairāk par to, kā mēs pelnām naudu, varat uzzināt mūsu <a href="{ $link }">gada finanšu pārskatā</a>.
 # A "softball" is a question that is really easy to answer.
 privacy-faq-okay-those-first-few-were-softballs = Labi, tie pirmie bija softbola spēlētāji. Kādus datus jūs apkopojat?
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited-v2 = { -brand-name-mozilla } pēc noklusējuma apkopo ierobežotu datu kopu no { -brand-name-firefox }, kas palīdz mums izprast, kā cilvēki lieto pārlūkprogrammu. Vairāk par to varat lasīt mūsu <a href="{ $privacy }">paziņojumā par konfidencialitāti</a>, kā arī varat izlasīt <a href="{ $data }">pilnu dokumentāciju par šo datu apkopošanu</a>.
+privacy-faq-mozilla-does-collect-a-limited-v2 = { -brand-name-mozilla } pēc noklusējuma apkopo ierobežotu datu kopu no { -brand-name-firefox }, kas palīdz mums izprast, kā cilvēki lieto pārlūku. Vairāk par to varat lasīt mūsu <a href="{ $privacy }">paziņojumā par konfidencialitāti</a>, kā arī varat izlasīt <a href="{ $data }">pilnu dokumentāciju par šo datu apkopošanu</a>.
 privacy-faq-we-make-our-documentation-public = Mēs publiskojam savu dokumentāciju, lai ikviens varētu pārbaudīt mūsu teiktā patiesumu, pateikt mums, ja mums ir jāuzlabojas, un būt pārliecināts, ka mēs neko neslēpjam.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Šī dokumentācija man šķiet pilnīgi nesaprotama! Vai varat to man uzrakstīt vienkāršā angļu valodā?
 privacy-faq-there-are-two-categories-of = Mūsu { -brand-name-firefox } laidiena versijā pēc noklusējuma tiek apkopotas divas datu kategorijas.
-privacy-faq-the-first-is-what-we-call-technical = Pirmais ir tas, ko mēs saucam par “tehniskajiem datiem”. Tie ir dati par pašu pārlūkprogrammu, piemēram, operētājsistēmu, kurā tā darbojas, un informācija par kļūdām vai avārijām.
-privacy-faq-the-second-is-what-we-call-interaction-v2 = Otrais ir tas, ko mēs saucam par “mijiedarbības datiem”. Tie ir dati par personas mijiedarbību ar { -brand-name-firefox }, piemēram, atvērto cilņu skaits, lietotāja preferenču statuss vai noteiktu pārlūkprogrammas funkciju, piemēram, ekrānuzņēmumu vai konteineru, izmantošanas reižu skaits. Piemēram, mēs apkopojam šos datus, izmantojot pogu Atpakaļ (bultiņa pārlūkprogrammas augšējā kreisajā stūrī, kas ļauj atgriezties iepriekšējā tīmekļa lapā) tādā veidā, kas parāda, ka kāds ir izmantojis pogu Atpakaļ, bet nenorāda, kurām konkrētām tīmekļa lapām tiek piekļūts.
+privacy-faq-the-first-is-what-we-call-technical = Pirmais ir tas, ko mēs saucam par “tehniskajiem datiem”. Tie ir dati par pašu pārlūku, piemēram, operētājsistēmu, kurā tā darbojas, un informācija par kļūdām vai avārijām.
+privacy-faq-the-second-is-what-we-call-interaction-v2 = Otrais ir tas, ko mēs saucam par “mijiedarbības datiem”. Tie ir dati par personas mijiedarbību ar { -brand-name-firefox }, piemēram, atvērto cilņu skaits, lietotāja preferenču statuss vai noteiktu pārlūka funkciju, piemēram, ekrānuzņēmumu vai konteineru, izmantošanas reižu skaits. Piemēram, mēs apkopojam šos datus, izmantojot pogu Atpakaļ (bultiņa pārlūka augšējā kreisajā stūrī, kas ļauj atgriezties iepriekšējā tīmekļa lapā) tādā veidā, kas parāda, ka kāds ir izmantojis pogu Atpakaļ, bet nenorāda, kurām konkrētām tīmekļa lapām tiek piekļūts.
 privacy-faq-do-you-collect-more-data-in = Vai { -brand-name-firefox } pirmsizlaides versijās tiek apkopoti vairāk datu?
 privacy-faq-sort-of-in-addition-to-the-data-v2 = Kaut kā tā. Papildus iepriekš aprakstītajiem datiem { -brand-name-firefox } pirmsizlaides versijās mēs pēc noklusējuma saņemam avāriju un kļūdu ziņojumus.
 # Variables:
@@ -50,11 +50,17 @@ privacy-faq-but-why-do-you-collect-any-data = Bet kāpēc jūs vispār vācat da
 privacy-faq-if-we-dont-know-how-the-browser = Ja mēs nezinām, kā darbojas pārlūks vai kādas funkcijas cilvēki izmanto, mēs nevaram to uzlabot un nodrošināt jums vēlamo lielisko produktu. Esam ieguldījuši datu vākšanas un analīzes rīku izveidē, kas ļauj mums pieņemt gudrus lēmumus par mūsu produktu, vienlaikus respektējot cilvēku privātumu.
 privacy-faq-data-collection-still-bugs-me = Datu vākšana mani joprojām kaitina. Vai varu to izslēgt?
 # Variables:
+#   $settings (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
+#   $data (url) - link to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
+privacy-faq-yes-user-control-is-one-of-our = Jā. Lietotāju kontrole ir viens no mūsu datu privātuma principiem. Mēs to ieviešam praksē { -brand-name-firefox } mūsu <a href="{ $settings }">privātuma iestatījumu lapā</a>, kas kalpo kā universāls resurss ikvienam, kurš vēlas kontrolēt savu privātumu { -brand-name-firefox }. Tur varat <a href="{ $data }">izslēgt datu vākšanu</a>.
+privacy-faq-what-about-my-account-data = Kā ar mana konta datiem?
+privacy-faq-we-are-big-believers-of-data = Mēs ticam datu minimizēšanas nepieciešamībai un tam, ka nelūdzam lietas, kas mums nav vajadzīgas.
+# Variables:
 #   $accounts (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 privacy-faq-you-dont-need-an-account-to = Lai izmantotu { -brand-name-firefox }, konts nav nepieciešams. <a href="{ $accounts }">Konti</a> ir nepieciešami datu sinhronizēšanai starp ierīcēm, taču mēs lūdzam tikai e-pasta adresi. Mēs nevēlamies zināt tādu informāciju kā jūsu vārds, adrese, dzimšanas diena un tālruņa numurs.
 privacy-faq-you-use-digital-advertising = Jūs izmantojat digitālo reklāmu kā daļu no sava mārketinga kompleksa. Vai jūs pērkat cilvēku datus, lai labāk atlasītu savas tiešsaistes reklāmas?
 privacy-faq-no-we-do-not-buy-peoples-data = Nē, mēs nepērkam cilvēku datus, lai mērķētu reklāmu.
-privacy-faq-we-do-ask-our-advertising-partners = Mēs lūdzam mūsu reklāmas partnerus izmantot tikai pirmās puses datus, ko tīmekļa vietnes un izdevēji zina par visiem lietotājiem, piemēram, jūsu izmantoto pārlūkprogrammu un ierīci.
+privacy-faq-we-do-ask-our-advertising-partners = Mēs lūdzam mūsu reklāmas partnerus izmantot tikai pirmās puses datus, ko tīmekļa vietnes un izdevēji zina par visiem lietotājiem, piemēram, jūsu izmantoto pārlūku un ierīci.
 privacy-faq-well-it-seems-like-you-really = Nu, šķiet, ka tu mani tiešām atbalsti šajā privātuma lietās.
 privacy-faq-yes-we-do = Jā, mēs to darām.
 privacy-faq-find-out-more-about-how-mozilla = Uzziniet vairāk par to, kā { -brand-name-mozilla } aizsargā internetu.
