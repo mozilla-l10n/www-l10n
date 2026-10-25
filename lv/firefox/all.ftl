@@ -12,7 +12,7 @@ firefox-all-everyone-deserves-access-v2 = Ikviens ir pelnījis piekļuvi interne
 firefox-all-choose-browser = Jāizvēlas pārlūks, lai turpinātu
 firefox-all-choose-platform = Jāizvēlas platforma, lai turpinātu
 firefox-all-choose-language = Jāizvēlas valoda, lai turpinātu
-firefox-all-change-browser = Izvēlieties citu produktu
+firefox-all-change-browser = Izvēlies citu produktu
 firefox-all-change-platform = Izvēlies citu platformu
 firefox-all-change-language = Izvēlies citu valodu
 # Used as an accessible label for an image that points down
