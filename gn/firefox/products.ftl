@@ -13,6 +13,13 @@ firefox-products-products = Apopyre
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } ha’e ñepyrũrã añoite.
 firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } ojapopyréva aty oñemoheñói ne rekorosãverã ha ndera’eve hag̃ua ñandutípe.
 
+## Section headings
+
+firefox-products-tabs-everyone = Opavavépe g̃uarã
+firefox-products-tabs-business = Mba’apohaguasúpe g̃uarã
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Apopyre peteĩteĩchagua
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -22,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = Ereko kundahára ojokóva ijehegu
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Ne kundahára omba’apóva tekoñemíre ñemo’ã ijeheguíva tapykueho rovake ha ñemurã jejokópe.
+firefox-products-get-focus = Ereko { -brand-name-firefox-focus }
 
 ## Monitor
 
