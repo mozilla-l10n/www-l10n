@@ -65,7 +65,7 @@ firefox-products-download-thunderbird = Stiahnite si { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Prepojte svoje systémy umelej inteligencie s globálnou komunitou bezpečnostných expertov, ktorí odhaľujú a pomáhajú včas opraviť zraniteľnosti GenAI.
-firefox-products-0din-desc-v2 = Odhaľte a odstráňte zraniteľnosti systémov AI ešte pred ich nasadením do produkcie. Spoľahnite sa pritom na globálnu komunitu bezpečnostných výskumníkov a najväčší dostupný zdroj údajov o exploitoch s uvedeným pôvodom.
+firefox-products-0din-desc-v2 = Odhaľte a odstráňte zraniteľnosti umelej inteligencie ešte pred ich nasadením do produkcie. Spoľahnite sa pritom na globálnu komunitu bezpečnostných výskumníkov a najväčší dostupný zdroj údajov o zneužívaní údajov.
 firefox-products-test-your-ai = Otestujte svojich agentov s umelou inteligenciou
 firefox-products-learn-more-about-0din = Ďalšie informácie o projekte { -brand-name-0din }
 

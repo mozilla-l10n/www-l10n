@@ -30,13 +30,13 @@ m24-about-we-uncover-insights = Odhaľujeme štatistiky, robíme kampane na zlep
 m24-about-build = Budujeme
 m24-about-we-build-products-v2 = Vytvárame produkty, ktoré vám dávajú kontrolu do vlastných rúk – napríklad { -brand-name-firefox(case: "acc") }, a iné.
 m24-about-fund = Podporujeme
-m24-about-we-fund-and = Financujeme a investujeme do ľudí a úsilia, ktoré posúvajú technológie, internet a AI správnym smerom.
+m24-about-we-fund-and = Financujeme a investujeme do ľudí a úsilia, ktoré posúvajú technológie, internet a umelú inteligenciu správnym smerom.
 
 ## News
 
 m24-about-read-more = Prečítajte si viac
 m24-about-read-the-latest = Prečítajte si najnovšie novinky a články o { -brand-name-mozilla(case: "loc") }
-m24-about-rewiring-mozilla = Prepracovanie { -brand-name-mozilla(case: "gen") }: Robíme pre AI to, čo sme urobili pre web. Prečítajte si o našej stratégii novej generácie a o tom, ako transformujeme { -brand-name-mozilla(case: "acc") } pre éru umelej inteligencie.
+m24-about-rewiring-mozilla = Prepracovanie { -brand-name-mozilla(case: "gen") }: Robíme pre umelú inteligenciu to, čo sme urobili pre web. Prečítajte si o našej stratégii novej generácie a o tom, ako transformujeme { -brand-name-mozilla(case: "acc") } pre éru umelej inteligencie.
 m24-about-what-comes-next = Čo bude ďalej v oblasti technológií, je otázka voľby. Vyberte si s nami.
 m24-about-watch-here = Sledujte tu
 # "Double Bottom Line" refers to accounting for both money and mission values
@@ -52,7 +52,7 @@ m24-about-read-about-our = Prečítajte si o našom záväzku
 ## Careers
 
 # Used as an accessible text alternative for an image
-m24-about-alt-trustworthy = Dôveryhodná AI, { -brand-name-common-voice }, Federated Learnings.
+m24-about-alt-trustworthy = Dôveryhodná umelá inteligencia, { -brand-name-common-voice }, Federated Learnings.
 # Used as an accessible text alternative for an image
 m24-about-alt-conversation = Zamestnanci { -brand-name-mozilla(case: "gen") } uprostred rozhovoru.
 # Used as an accessible text alternative for an image

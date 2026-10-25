@@ -24,14 +24,14 @@ home-cta-get-monitor = Získajte { -brand-name-monitor }
 home-mozilla-takes-bets = „{ -brand-name-mozilla } sa snaží ukázať svetu, že sa dá robiť biznis s dôveryhodnou AI. To zahŕňa aj to, aby sa veci ako ľudské práva, ochrana údajov a transparentnosť stali jadrom fungovania týchto zložitých systémov.“
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
-home-join-us-in-shaping = Pridajte sa k nám pri vytváraní dôveryhodnej AI
-home-work-on-ai = Práca s AI nie je pre { -brand-name-mozilla(case: "acc") } nová vec – roky financujeme, budujeme a obhajujeme AI, ktorá je otvorená, spravodlivá a vyvíja sa zodpovedne. Zameriavame sa na vytváranie AI, ktorá slúži ľuďom, uprednostňuje transparentnosť a podporuje verejné blaho, nie záujmy korporácií.
+home-join-us-in-shaping = Pridajte sa k nám pri formovaní dôveryhodnej umelej inteligencie
+home-work-on-ai = Práca spoločnosti { -brand-name-mozilla } s umelou inteligenciou nie je len novinkou – roky sme financovali, budovali a presadzovali umelú inteligenciu, ktorá je otvorená, spravodlivá a vyvíjaná zodpovedne. Zameriavame sa na vytváranie umelej inteligencie, ktorá slúži ľuďom, uprednostňuje transparentnosť a podporuje verejné blaho, nie firemné agendy.
 home-read-more = Ďalšie informácie
 home-so-what-is-mozilla = Čo je teda { -brand-name-mozilla }?
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core-v2 = Vo svojom jadre je { -brand-name-mozilla } aktivistická organizácia vedená nadáciou { -brand-name-mozilla-foundation }, ktorá mení svet prostredníctvom rôznych aktivít vrátane { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> a <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. V čom sme iní? Keďže sme riadení poslaním, znamená to, že máme slobodu robiť všetky naše rozhodnutia na základe toho, čo je najlepšie pre internet a pre každého online, nie na základe požiadaviek akcionárov – v skutočnosti žiadnych nemáme.
+home-at-its-core-v2 = V jadre je { -brand-name-mozilla } aktivistická organizácia vedená { -brand-name-mozilla-foundation }, ktorá mení svet prostredníctvom rôznych podnikov vrátane { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> a <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. V čom sa líšime? Pretože sme riadení poslaním, znamená to, že máme slobodu robiť všetky naše rozhodnutia na základe toho, čo je najlepšie pre internet a pre všetkých online, nie na základe požiadaviek akcionárov – v skutočnosti žiadne z nich nemáme.
 home-learn-about-mofo = Ďalšie informácie o { -brand-name-mozilla-foundation }
 home-join-the-fight = Zapojte sa do boja za zdravý internet
 home-your-voice-your-code = Váš hlas. Váš kód. Vaše nápady. Existujú doslova tisíce spôsobov, ako môžete { -brand-name-mozilla(case: "dat") } pomôcť.
@@ -39,7 +39,7 @@ home-volunteer-with-mozilla = Staňte sa dobrovoľníkom v { -brand-name-mozilla
 home-that-one-time = Jedného dňa sme sprístupnili náš zdrojový kód…
 home-the-mozilla-project = Projekt { -brand-name-mozilla } bol založený v San Franciscu v roku 1998, keď prehliadač { -brand-name-netscape } urobil radikálne rozhodnutie poskytnúť svoj zdrojový kód verejnosti, aby na ňom mohla stavať a zlepšovať ho. V tom čase mala jedna spoločnosť virtuálny monopol na to, ako ľudia prežívali internet.
 home-eventually-the-open = Nakoniec sa open-source projekt { -brand-name-mozilla } premenil na veľmi populárnu prvú verziu prehliadača { -brand-name-firefox }.
-home-today-mozilla-continues = Dnes { -brand-name-mozilla } pokračuje vo svojom pohybe smerom k lepšiemu internetu s miliónmi aktívnych členov komunity po celom svete, ktorí obhajujú etické technológie, dôveryhodnú AI a vyrábajú produkty na ochranu súkromia, ktoré dávajú ľuďom viac energie.
+home-today-mozilla-continues = Dnes { -brand-name-mozilla } pokračuje vo svojom úsilí o lepší internet s miliónmi aktívnych členov komunity po celom svete, ktorí sa zasadzujú za etické technológie, dôveryhodnú umelú inteligenciu a vytvárajú produkty kladúce dôraz na súkromie, ktoré dávajú ľuďom väčšiu moc.
 home-learn-more-about-mozilla = Ďalšie informácie o { -brand-name-mozilla(case: "loc") }
 # VPN Feature
 home-featured-product = Odporúčaný produkt

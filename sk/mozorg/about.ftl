@@ -30,7 +30,7 @@ about-a-global-view = Celosvetový pohľad
 about-with-offices-all-over-the = S <a href="{ $url }">kanceláriami po celom svete</a> sa na internet dokážeme pozerať z pohľadu mnohých kultúrnych zvykov a kontextov.
 about-san-francisco = San Francisco
 about-talking-tech-issues-irl = IRL podcasty o technológiách
-about-in-mozillas-multi-award-winning = Vo viackrát ocenenom podcaste { -brand-name-mozilla(case: "gen") } sa moderátorka Bridget Toddová rozpráva s ľuďmi, ktorí formujú budúcnosť internetu a AI.
+about-in-mozillas-multi-award-winning = V mnohonásobne ocenenom podcaste { -brand-name-mozilla(case: "gen") } sa moderátorka Bridget Todd rozpráva s ľuďmi, ktorí formujú budúcnosť internetu a umelej inteligencie.
 # The number inside the strong tag will be big, bold, and on its own line. Remove the strong tag if you need to put the number in the middle of the phrase.
 about-2000-non-employee-guests-welcomed = Každý rok sa u nás zastaví <strong>2000</strong> rôznych hostí
 about-berlin = Berlín
