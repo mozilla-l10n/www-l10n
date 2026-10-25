@@ -65,10 +65,30 @@ firefox-products-download-thunderbird = Emboguejy { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Embojoaju nde IA apopyvusu tekoha arapygua ikatupyrýva tekorosãrãme ojuhu ha omoĩporãva GenAI imarãkuaahápe ñemyatyrõ pya’erã.
+firefox-products-test-your-ai = Eiporu peteĩva IA
 firefox-products-learn-more-about-0din = Eikuaave { -brand-name-0din } rehegua
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Embojoaju ne rembiporu’ikuéra ñandutíre ojereroviávare ha ejapo ñanduti roguégui mba’epotĩ ha oikoporãvape.
+firefox-products-start-automating-the-web = Embojehegui ñanduti
 firefox-products-learn-more-about-tabstack = Eikuaave { -brand-name-tabstack } rehegua
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-own-your-ai-stack = Eñemomba’e nde stack IA rehe
+firefox-products-learn-more-about-otari = Eikuaave { -brand-name-otari } rehegua
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-extend-your-reach = Embotuichave ehupytyséva
+firefox-products-learn-more-about-mozilla-ads = Eikuaave { -brand-name-mozilla-ads } rehegua
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-manage-your-fleet = Eipyso { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = Eikuaave { -brand-name-firefox-enterprise } rehegua
