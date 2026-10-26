@@ -29,7 +29,7 @@ browser-history-ncsa-mosaic-ran = NCSA Mosaic darbojās { -brand-name-windows } 
 browser-history-the-browser-wars = Pārlūku kari
 # Variables:
 #   $ie (url) - https://en.wikipedia.org/wiki/Internet_Explorer
-browser-history-by-1995-netscape = Līdz 1995. gadam { -brand-name-netscape } Navigator vairs nebija vienīgais veids, kā piekļūt internetam. Datorprogrammatūras gigants { -brand-name-microsoft } licencēja veco Mosaic kodu un izveidoja savu logu tīmeklī — <a href="{ $ie }">{ -brand-name-ie }</a> </a>. Šī izlaišana izraisīja karu. { -brand-name-netscape } un { -brand-name-microsoft } drudžaini strādāja, lai izveidotu jaunas savu programmu versijas, katrs cenšoties pārspēt otru ar ātrākiem un labākiem produktiem.
+browser-history-by-1995-netscape = Līdz 1995. gadam { -brand-name-netscape } Navigator vairs nebija vienīgais veids, kā piekļūt internetam. Datorprogrammatūras gigants { -brand-name-microsoft } licencēja veco Mosaic kodu un izveidoja savu logu tīmeklī — <a href="{ $ie }">{ -brand-name-ie }</a>. Šī izlaišana izraisīja karu. { -brand-name-netscape } un { -brand-name-microsoft } drudžaini strādāja, lai izveidotu jaunas savu programmu versijas, katrs cenšoties pārspēt otru ar ātrākiem un labākiem produktiem.
 # Variables:
 #   $blink (url) - https://developer.mozilla.org/en-US/docs/Glossary/blink_element
 browser-history-netscape-created = { -brand-name-netscape } izveidoja un izlaida JavaScript, kas tīmekļa vietnēm deva jaudīgas skaitļošanas iespējas, kādas tām nekad iepriekš nebija bijušas. (Viņi arī izveidoja bēdīgi slaveno <a href="{ $blink }">&lt;blink&gt; tagu</a>.) { -brand-name-microsoft } tam pretojās ar Cascading Style Sheets (CSS), kas kļuva par tīmekļa lapu dizaina standartu.
