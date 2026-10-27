@@ -28,6 +28,7 @@ firefox-products-get-the-browser-that-blocks = Dapatkan peramban yang memblokir 
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Peramban yang disiapkan khusus untuk melindungi privasi Anda dengan perlindungan pelacakan otomatis dan pemblokiran iklan.
+firefox-products-get-focus = Dapatkan { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -73,9 +74,15 @@ firefox-products-learn-more-about-tabstack = Pelajari lebih lanjut mengenai { -b
 
 ## Otari
 
+firefox-products-otari = { -brand-name-otari }
+firefox-products-learn-more-about-otari = Pelajari lebih lanjut mengenai { -brand-name-otari }
 
 ## Mozilla Ads
 
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-learn-more-about-mozilla-ads = Pelajari lebih lanjut mengenai { -brand-name-mozilla-ads }
 
 ## Firefox for Enterprise
 
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-learn-more-about-firefox-enterprise = Pelajari lebih lanjut mengenai { -brand-name-firefox-enterprise }
