@@ -28,6 +28,7 @@ firefox-products-get-the-browser-that-blocks = احصل على المتصفّح 
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = مُتصفّح الخصوصية المُكرّس لِخدمتك والمزوّد بحماية تلقائية من التتبّع ومن حظر الإعلانات.
+firefox-products-get-focus = احصل على { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -73,9 +74,15 @@ firefox-products-learn-more-about-tabstack = اطَّلِع على المزيد 
 
 ## Otari
 
+firefox-products-otari = { -brand-name-otari }
+firefox-products-learn-more-about-otari = اطَّلِع على المزيد حول { -brand-name-otari }
 
 ## Mozilla Ads
 
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-learn-more-about-mozilla-ads = اطَّلِع على المزيد حول { -brand-name-mozilla-ads }
 
 ## Firefox for Enterprise
 
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-learn-more-about-firefox-enterprise = اطَّلِع على المزيد حول { -brand-name-firefox-enterprise }
