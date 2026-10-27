@@ -28,6 +28,7 @@ firefox-products-get-the-browser-that-blocks = Installez le navigateur qui bloqu
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Votre navigateur dédié à la protection de la vie privée, avec protection automatique contre le pistage et blocage des publicités.
+firefox-products-get-focus = Installer { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -73,9 +74,15 @@ firefox-products-learn-more-about-tabstack = En savoir plus sur { -brand-name-ta
 
 ## Otari
 
+firefox-products-otari = { -brand-name-otari }
+firefox-products-learn-more-about-otari = En savoir plus sur { -brand-name-otari }
 
 ## Mozilla Ads
 
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-learn-more-about-mozilla-ads = En savoir plus sur { -brand-name-mozilla-ads }
 
 ## Firefox for Enterprise
 
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-learn-more-about-firefox-enterprise = En savoir plus sur { -brand-name-firefox-enterprise }
