@@ -28,6 +28,7 @@ firefox-products-get-the-browser-that-blocks = ऐसा ब्राउज़�
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = ऑटोमेटिक ट्रैकिंग सुरक्षा और विज्ञापन ब्लॉकिंग वाला आपका अपना प्राइवेसी ब्राउज़र।
+firefox-products-get-focus = { -brand-name-firefox-focus } प्राप्त करें
 
 ## Monitor
 
@@ -73,9 +74,15 @@ firefox-products-learn-more-about-tabstack = { -brand-name-tabstack } के ब
 
 ## Otari
 
+firefox-products-otari = { -brand-name-otari }
+firefox-products-learn-more-about-otari = { -brand-name-otari } के बारे में और अधिक जानें
 
 ## Mozilla Ads
 
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-learn-more-about-mozilla-ads = { -brand-name-mozilla-ads } के बारे में और अधिक जानें
 
 ## Firefox for Enterprise
 
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-learn-more-about-firefox-enterprise = { -brand-name-firefox-enterprise } के बारे में और अधिक जानें
