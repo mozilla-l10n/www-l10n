@@ -27,4 +27,4 @@ switch-share-to-facebook-updated = Kopīgot vietnē { -brand-name-facebook }
 switch-share-to-bluesky = Kopīgot pakalpojumā Bluesky
 switch-hey = Hei,
 switch-check-it-out = Apskati to un paziņo man savu viedokli:
-switch-send-an-email = Sūtīt epastu
+switch-send-an-email = Nosūtīt e-pastu

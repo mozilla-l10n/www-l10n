@@ -13,7 +13,7 @@ welcome-page4-take-privacy-with-you-on-every = Ņemiet privātumu līdzi katrā 
 welcome-page4-privacy-on-by-default = Jūsu privātums pēc noklusējuma ir ieslēgts jaunajā { -brand-name-firefox } pārlūkā { -brand-name-android } — un tagad jūs varat iestatīt { -brand-name-firefox } par savu noklusējuma pārlūkā operētājsistēmā { -brand-name-ios } 14.
 welcome-page4-get-the-firefox-mobile = Saņem { -brand-name-firefox } tālruņiem
 welcome-page4-get-firefox-on-your-phone = Iegūstiet { -brand-name-firefox } savā tālrunī
-welcome-page4-send-the-download-link-right = Nosūtiet lejupielādes saiti tieši uz savu tālruni vai epastu.
+welcome-page4-send-the-download-link-right = Nosūti lejupielādes saiti tieši uz savu tālruni vai e-pastu!
 welcome-page4-download-firefox-for-your = Lejupielādējiet { -brand-name-firefox } savam viedtālrunim un planšetdatoram.
 welcome-page4-firefox-private-safe-browser = “{ -brand-name-firefox }: Privāts, drošs pārlūks” ierīcē { -brand-name-ios } vai { -brand-name-android }
 # "off your trail" is an expression for not being followed around.
