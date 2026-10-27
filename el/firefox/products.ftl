@@ -94,5 +94,6 @@ firefox-products-learn-more-about-mozilla-ads = Μάθετε περισσότε�
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
 firefox-products-firefox-enterprise-desc = Διανείμετε, διαχειριστείτε και προστατέψτε το { -brand-name-firefox } σε ολόκληρο τον οργανισμό σας με προηγμένους ελέγχους εταιρικών πολιτικών.
+firefox-products-firefox-enterprise-desc-v2 = Εσωτερική, ελεγχόμενη από τους πελάτες πλατφόρμα εταιρικών προγραμμάτων περιήγησης της { -brand-name-mozilla }. Σχεδιασμένη για να βοηθά τους οργανισμούς να ενισχύσουν την ψηφιακή τους κυριαρχία και την επιχειρησιακή τους ανθεκτικότητα, μέσω του καλύτερου ελέγχου των δεδομένων, της υποδομής πληροφορικής και του περιβάλλοντος των προγραμμάτων περιήγησης.
 firefox-products-manage-your-fleet = Διανομή του { -brand-name-firefox }
 firefox-products-learn-more-about-firefox-enterprise = Μάθετε περισσότερα για το { -brand-name-firefox-enterprise }
