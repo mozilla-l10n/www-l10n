@@ -28,6 +28,7 @@ firefox-products-get-the-browser-that-blocks = データトラッカー 2000 件
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = 自動トラッキング防止機能と広告ブロック機能を備えたプライバシー第一のブラウザーです。
+firefox-products-get-focus = { -brand-name-firefox-focus } をダウンロード
 
 ## Monitor
 
@@ -73,9 +74,15 @@ firefox-products-learn-more-about-tabstack = { -brand-name-tabstack } につい�
 
 ## Otari
 
+firefox-products-otari = { -brand-name-otari }
+firefox-products-learn-more-about-otari = { -brand-name-otari } について詳しく知る
 
 ## Mozilla Ads
 
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-learn-more-about-mozilla-ads = { -brand-name-mozilla-ads } について詳しく知る
 
 ## Firefox for Enterprise
 
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-learn-more-about-firefox-enterprise = { -brand-name-firefox-enterprise } について詳しく知る
