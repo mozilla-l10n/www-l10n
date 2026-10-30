@@ -45,3 +45,4 @@ vpn-download-install-via-flathub = Zainstaluj przez Flathub
 vpn-download-install-via-apt = Zainstaluj przez APT
 vpn-download-flathub = Flathub
 vpn-download-apt = APT
+vpn-download-windows-arm = ARM

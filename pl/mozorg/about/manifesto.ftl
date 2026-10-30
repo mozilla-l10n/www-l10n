@@ -59,6 +59,11 @@ manifesto-details-build-and-deliver = budować i wdrażać wysokiej jakości pr
 manifesto-details-use-the-mozilla = używać aktywów { -brand-name-mozilla(case: "gen") } (własności intelektualnych, takich jak prawa autorskie, znaki handlowe, infrastruktura, fundusze i reputacja), aby Internet pozostał otwartą platformą;
 manifesto-details-promote-models = promować modele tworzenia wartości ekonomicznych z pożytkiem publicznym; oraz
 manifesto-details-promote-the-mozilla = promować pryncypia Manifestu { -brand-name-mozilla(case: "gen") } w dyskursie publicznym i wewnątrz branży internetowej.
+manifesto-our-commitments = Nasze zobowiązania
+manifesto-commitment-1 = Zobowiązanie 1
+manifesto-commitment-2 = Zobowiązanie 2
+manifesto-commitment-3 = Zobowiązanie 3
+manifesto-commitment-4 = Zobowiązanie 4
 
 ## Obsolete strings (expire 2026-09-10)
 

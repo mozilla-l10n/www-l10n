@@ -24,6 +24,7 @@ legal-firefox = { -brand-name-firefox }
 legal-firefox-rights = { -brand-name-firefox }: O prawach użytkownika
 legal-thunderbird = { -brand-name-thunderbird }
 legal-thunderbird-rights = { -brand-name-thunderbird }: O prawach użytkownika
+legal-smart-window = Inteligentne okno
 legal-websites-and-communications = Warunki użytkowania witryn i kanałów komunikacyjnych
 legal-acceptable-use-policy = O zasadach akceptowanego użytkowania
 legal-firefox-cloud-services = Usługi { -brand-name-firefox } Cloud — Warunki świadczenia
