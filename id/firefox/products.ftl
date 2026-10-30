@@ -17,7 +17,11 @@ firefox-products-mozillas-family-of-products-sentence = Rangkaian produk { -bran
 
 ## Section headings
 
+firefox-products-tabs-everyone = Untuk semua
+firefox-products-tabs-business = Untuk bisnis
 
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Kategori produk
 
 ## Firefox
 
@@ -64,25 +68,35 @@ firefox-products-download-thunderbird = Unduh { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Hubungkan sistem AI Anda dengan komunitas global pakar keamanan yang membantu menemukan dan memperbaiki kerentanan GenAI sejak dini.
+firefox-products-0din-desc-v2 = Temukan dan perbaiki celah keamanan AI sebelum diterapkan ke lingkungan produksi, dengan dukungan komunitas peneliti keamanan dari seluruh dunia dan kumpulan data eksploitasi terbesar yang tersedia, lengkap dengan informasi sumbernya.
+firefox-products-test-your-ai = Uji agen AI Anda
 firefox-products-learn-more-about-0din = Pelajari lebih lanjut mengenai { -brand-name-0din }
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Hubungkan aplikasi Anda ke web dengan fitur otomatisasi yang andal, lalu transformasi halaman web aktif menjadi lebih rapi dan terstruktur.
+firefox-products-start-automating-the-web = Otomatiskan web
 firefox-products-learn-more-about-tabstack = Pelajari lebih lanjut mengenai { -brand-name-tabstack }
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari } menyederhanakan pengelolaan berbagai penyedia AI dengan menggabungkan pengaturan rute, keamanan, anggaran, pengalihan otomatis saat terjadi gangguan, dan audit dalam satu titik akses API.
+firefox-products-own-your-ai-stack = Kelola sendiri sistem AI Anda
 firefox-products-learn-more-about-otari = Pelajari lebih lanjut mengenai { -brand-name-otari }
 
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = Tambahkan kepercayaan ke pembelian iklan Anda. Jangkau lebih dari 210 juta pengguna yang mempertimbangkan pilihan dengan cermat dan memiliki loyalitas tinggi terhadap merek favorit mereka.
+firefox-products-extend-your-reach = Perluas jangkauan Anda
 firefox-products-learn-more-about-mozilla-ads = Pelajari lebih lanjut mengenai { -brand-name-mozilla-ads }
 
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Terapkan, kelola, dan lindungi { -brand-name-firefox } di seluruh organisasi Anda dengan kontrol kebijakan berstandar perusahaan.
+firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla } adalah platform peramban untuk perusahaan yang dapat dikelola langsung oleh pelanggan dan dijalankan di server mereka sendiri. Dirancang untuk membantu organisasi memperkuat kedaulatan digital dan menjaga kelangsungan operasional dengan memberi mereka kendali lebih besar atas data, infrastruktur TI, dan lingkungan peramban.
+firefox-products-manage-your-fleet = Terapkan { -brand-name-firefox }
 firefox-products-learn-more-about-firefox-enterprise = Pelajari lebih lanjut mengenai { -brand-name-firefox-enterprise }
