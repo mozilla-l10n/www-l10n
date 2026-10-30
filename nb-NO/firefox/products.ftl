@@ -89,3 +89,8 @@ firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 firefox-products-mozilla-ads-desc = Gjør annonsekjøpene dine mer troverdige. Du når over 210 millioner selektive, kvalitetsbevisste og merkelojale brukere.
 firefox-products-extend-your-reach = Nå ut til flere
 firefox-products-learn-more-about-mozilla-ads = Les mer om { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Rull ut, administrer og sikre { -brand-name-firefox } i hele organisasjonen med policykontroller på virksomhetsnivå.
