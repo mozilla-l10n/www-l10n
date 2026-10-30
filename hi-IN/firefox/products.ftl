@@ -17,7 +17,11 @@ firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } 
 
 ## Section headings
 
+firefox-products-tabs-everyone = सभी के लिए
+firefox-products-tabs-business = बिज़नेस के लिए
 
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = प्रोडक्ट कैटेगरी
 
 ## Firefox
 
@@ -64,25 +68,35 @@ firefox-products-download-thunderbird = { -brand-name-thunderbird } डाउन
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = GenAI की कमजोरियों को जल्दी पहचानने और सुधारने के लिए, सुरक्षा विशेषज्ञों के वैश्विक समुदाय से अपने AI सिस्टम कनेक्ट करें।
+firefox-products-0din-desc-v2 = AI की कमज़ोरियों को प्रोडक्शन में आने से पहले ही ढूंढकर ठीक कर लें, इसके लिए सुरक्षा शोधकर्ताओं का एक वैश्विक समुदाय और अभी उपलब्ध सबसे बड़ा 'एक्सप्लॉइट फ़ीड' आपकी मदद के लिए हाज़िर है।
+firefox-products-test-your-ai = अपने AI एजेंटों को टेस्ट कर लें
 firefox-products-learn-more-about-0din = { -brand-name-0din } के बारे में और अधिक जानें
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = अपने ऐप्स को भरोसेमंद ऑटोमेशन के ज़रिए इंटरनेट से कनेक्ट करें और लाइव वेब पेजों को साफ़-सुथरे, सुव्यवस्थित डेटा में बदलें।
+firefox-products-start-automating-the-web = वेब ऑटोमेशन करें
 firefox-products-learn-more-about-tabstack = { -brand-name-tabstack } के बारे में और अधिक जानें
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari } कई AI प्रोवाइडर्स को मैनेज करने की मुश्किल को हल कर देता है। इसके लिए यह रूटिंग, सिक्योरिटी, बजटिंग, फ़ेलओवर और ऑडिटिंग को एक ही API एंडपॉइंट के तहत एक साथ कर देता है।
+firefox-products-own-your-ai-stack = अपने AI स्टैक को अपने कंट्रोल में रखें
 firefox-products-learn-more-about-otari = { -brand-name-otari } के बारे में और अधिक जानें
 
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = विज्ञापन खरीद में भरोसे की ताकत जोड़ें। आपका जुड़ाव 21 करोड़ से भी अधिक चुनिंदा, समझदार, ब्रांड-लॉयल यूज़र्स से होगा।
+firefox-products-extend-your-reach = अपनी पहुंच का विस्तार करें
 firefox-products-learn-more-about-mozilla-ads = { -brand-name-mozilla-ads } के बारे में और अधिक जानें
 
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = एंटरप्राइज़-ग्रेड पॉलिसी कंट्रोल्स की मदद से, अपने पूरे ऑर्गनाइज़ेशन में { -brand-name-firefox } को काम में लाएं, मैनेज करें और सिक्योर करें।
+firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla } का ग्राहक-नियंत्रित, ऑन-प्रिमाइसेस एंटरप्राइज़ ब्राउज़र प्लेटफ़ॉर्म। इसे इस तरह बनाया गया है कि ऑर्गनाइज़ेशन अपने डेटा, IT इंफ़्रास्ट्रक्चर और ब्राउज़र एनवायरनमेंट पर ज़्यादा कंट्रोल के ज़रिए अपनी डिजिटल सॉवरेनिटी और ऑपरेशनल रेज़िलिएंस को बेहतर कर सकें।
+firefox-products-manage-your-fleet = { -brand-name-firefox } इस्तेमाल करें
 firefox-products-learn-more-about-firefox-enterprise = { -brand-name-firefox-enterprise } के बारे में और अधिक जानें
