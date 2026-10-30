@@ -94,3 +94,6 @@ firefox-products-learn-more-about-mozilla-ads = Les mer om { -brand-name-mozilla
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
 firefox-products-firefox-enterprise-desc = Rull ut, administrer og sikre { -brand-name-firefox } i hele organisasjonen med policykontroller på virksomhetsnivå.
+firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla } sin kundestyrte, lokale nettleserplattform for bedrifter. Bygget for å hjelpe organisasjoner med å styrke sin digitale suverenitet og operasjonelle robusthet gjennom større kontroll over data, IT-infrastruktur og nettlesermiljø.
+firefox-products-manage-your-fleet = Rull ut { -brand-name-firefox }
+firefox-products-learn-more-about-firefox-enterprise = Les mer om { -brand-name-firefox-enterprise }
