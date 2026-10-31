@@ -80,3 +80,11 @@ firefox-products-learn-more-about-tabstack = Saiba mais sobre o { -brand-name-ta
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-learn-more-about-otari = Saiba mais sobre o { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-learn-more-about-mozilla-ads = Mais informações sobre o { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
