@@ -17,7 +17,11 @@ firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla } 
 
 ## Section headings
 
+firefox-products-tabs-everyone = 全員向け
+firefox-products-tabs-business = ビジネス向け
 
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = 製品カテゴリ
 
 ## Firefox
 
@@ -64,25 +68,35 @@ firefox-products-download-thunderbird = { -brand-name-thunderbird } をダウン
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = 生成 AI の脆弱性を早期に発見し、修正を支援するセキュリティ専門家が集まるグローバルコミュニティに、貴社の AI システムを接続。
+firefox-products-0din-desc-v2 = セキュリティ研究者のグローバルコミュニティと、最大規模の特定されたエクスプロイトフィードをもとに、AI の脆弱性を本番環境に到達する前に発見・修正します。
+firefox-products-test-your-ai = AI エージェントをテスト
 firefox-products-learn-more-about-0din = { -brand-name-0din } について詳しく知る
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = 信頼性の高い自動化でアプリをウェブに接続し、ライブ状態のウェブページを簡潔で構造化された結果に変換します。
+firefox-products-start-automating-the-web = ウェブを自動化
 firefox-products-learn-more-about-tabstack = { -brand-name-tabstack } について詳しく知る
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari } は、ルーティング、セキュリティ、予算管理、フェイルオーバー、監査を単一の API エンドポイントで統合することで、複数の AI プロバイダーを管理する際の煩雑さを解消します。
+firefox-products-own-your-ai-stack = 自作の AI スタック
 firefox-products-learn-more-about-otari = { -brand-name-otari } について詳しく知る
 
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = 広告の購入に信頼を。2 億 1000 万人以上の、目の肥えたブランドに忠実なユーザーと繋がることができます。
+firefox-products-extend-your-reach = リーチを拡大
 firefox-products-learn-more-about-mozilla-ads = { -brand-name-mozilla-ads } について詳しく知る
 
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = エンタープライズグレードのポリシー制御により、組織全体で { -brand-name-firefox } を展開、管理、保護します。
+firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla } の顧客が管理するオンプレミス型エンタープライズブラウザープラットフォーム。組織がデータ、IT インフラ、ブラウザー環境をさらに自在に管理することで、デジタル主権と運用レジリエンスを強化できるよう設計されています。
+firefox-products-manage-your-fleet = { -brand-name-firefox } を展開
 firefox-products-learn-more-about-firefox-enterprise = { -brand-name-firefox-enterprise } について詳しく知る

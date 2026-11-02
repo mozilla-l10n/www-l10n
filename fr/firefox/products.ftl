@@ -17,7 +17,11 @@ firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla },
 
 ## Section headings
 
+firefox-products-tabs-everyone = Pour les particuliers
+firefox-products-tabs-business = Pour les entreprises
 
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Catégories de produit
 
 ## Firefox
 
@@ -64,25 +68,35 @@ firefox-products-download-thunderbird = Télécharger { -brand-name-thunderbird 
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Appuyez-vous sur une communauté mondiale d’experts en sécurité pour détecter et corriger en amont les failles de l’IA générative au sein de vos systèmes d’IA.
+firefox-products-0din-desc-v2 = Détectez et corrigez les vulnérabilités de vos systèmes d’IA avant leur mise en production, avec le soutien d’une communauté mondiale de chercheurs en sécurité et l’accès au plus vaste flux d’exploits attribués disponible.
+firefox-products-test-your-ai = Testez vos agents d’IA
 firefox-products-learn-more-about-0din = En savoir plus sur { -brand-name-0din }
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Connectez vos applications au Web avec une automatisation fiable et transformez des pages web actives en données claires et structurées.
+firefox-products-start-automating-the-web = Automatisez le web
 firefox-products-learn-more-about-tabstack = En savoir plus sur { -brand-name-tabstack }
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari } élimine la complexité liée à la gestion de plusieurs fournisseurs d’IA en centralisant les fonctions de routage, de sécurité, de maîtrise des coûts, de basculement automatique et d’audit au sein d’une API unique.
+firefox-products-own-your-ai-stack = Prenez le contrôle de votre stack IA
 firefox-products-learn-more-about-otari = En savoir plus sur { -brand-name-otari }
 
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = Vos achats publicitaires, en toute confiance. Touchez plus de 210 millions d’internautes avertis, exigeants et fidèles aux marques.
+firefox-products-extend-your-reach = Élargissez votre champ d’action
 firefox-products-learn-more-about-mozilla-ads = En savoir plus sur { -brand-name-mozilla-ads }
 
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Déployez, administrez et sécurisez { -brand-name-firefox } à l’échelle de toute votre organisation, avec des politiques de contrôle de niveau professionnel.
+firefox-products-firefox-enterprise-desc-v2 = La plateforme de navigation pour entreprise de { -brand-name-mozilla }. Sur site et sous contrôle. Une solution conçue pour renforcer la souveraineté numérique et la résilience opérationnelle des organisations, grâce à une maîtrise accrue de leurs données, de leur infrastructure informatique et de leur environnement de navigation.
+firefox-products-manage-your-fleet = Déployez { -brand-name-firefox }
 firefox-products-learn-more-about-firefox-enterprise = En savoir plus sur { -brand-name-firefox-enterprise }

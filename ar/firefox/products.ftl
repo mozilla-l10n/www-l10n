@@ -17,7 +17,11 @@ firefox-products-mozillas-family-of-products-sentence = تم تصميم جميع
 
 ## Section headings
 
+firefox-products-tabs-everyone = للجميع
+firefox-products-tabs-business = للأعمال
 
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = فئات المنتجات
 
 ## Firefox
 
@@ -64,25 +68,35 @@ firefox-products-download-thunderbird = تحميل { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = اربط أنظمة الذكاء الاصطناعي الخاصة بك بمجتمع عالمي من خبراء الأمن الذين يَكتشفون ثغرات GenAI ويساعدون في إصلاحها مبكرًا.
+firefox-products-0din-desc-v2 = اكتشف ثغرات الذكاء الاصطناعي وعالجها قبل وصولها إلى بيئة الإنتاج، بدعم من مجتمع عالمي من الباحثين الأمنيين وأكبر مصدر متاح للبيانات الموثّقة عن عمليات استغلال الثغرات.
+firefox-products-test-your-ai = اختبر وكلاء الذكاء الاصطناعي لديك
 firefox-products-learn-more-about-0din = اطَّلِع على المزيد حول { -brand-name-0din }
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = اربط تطبيقاتك بالويب من خلال أتمتة موثوقة، وحوِّل صفحات الويب المباشرة إلى بيانات واضحة ومنظَّمة.
+firefox-products-start-automating-the-web = أتمِت الويب
 firefox-products-learn-more-about-tabstack = اطَّلِع على المزيد حول { -brand-name-tabstack }
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = يعمل { -brand-name-otari } على تبسيط إدارة عدة مزوّدين لخدمات الذكاء الاصطناعي، من خلال توحيد التوجيه والأمان وإدارة الميزانية والتحويل التلقائي عند الأعطال والتدقيق عبر نقطة نهاية واحدة لواجهة API.
+firefox-products-own-your-ai-stack = تحكّم بالكامل في حزمة الذكاء الاصطناعي لديك
 firefox-products-learn-more-about-otari = اطَّلِع على المزيد حول { -brand-name-otari }
 
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = أضف مزيدًا من الثقة إلى استثماراتك الإعلانية. سَتتواصل مع أكثر من 210 ملايين مستخدم يتسمون بالانتقائية وحسن الاختيار والولاء للعلامات التجارية.
+firefox-products-extend-your-reach = وسّع نطاق وصولك
 firefox-products-learn-more-about-mozilla-ads = اطَّلِع على المزيد حول { -brand-name-mozilla-ads }
 
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = انشر { -brand-name-firefox } وأدِره وأمّن استخدامه في مؤسستك من خلال عناصر تحكم في السياسات بمستوى المؤسسات.
+firefox-products-firefox-enterprise-desc-v2 = منصة { -brand-name-mozilla } لمتصفحات المؤسسات، تعمل داخل مقر المؤسسة وتخضع بالكامل لتحكّم العميل. صُمّمت لمساعدة المؤسسات على تعزيز سيادتها الرقمية ومرونتها التشغيلية، من خلال منحها تحكّمًا أكبر في بياناتها وبنيتها التحتية لتكنولوجيا المعلومات وبيئة التصفح لديها.
+firefox-products-manage-your-fleet = انشر { -brand-name-firefox }
 firefox-products-learn-more-about-firefox-enterprise = اطَّلِع على المزيد حول { -brand-name-firefox-enterprise }
