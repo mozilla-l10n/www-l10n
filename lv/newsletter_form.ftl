@@ -21,7 +21,7 @@ newsletter-form-sign-up-to-receive = Reģistrējieties, lai saņemtu ikmēneša 
 newsletter-form-im-okay-with-mozilla = Esmu ar mieru lai { -brand-name-mozilla } apietos ar manam datnēm kā noteiks šajā <a href="{ $url }">Privātuma Politikā</a>
 newsletter-form-we-will-only-send-v2 = Mēs jums sūtīsim tikai ar { -brand-name-mozilla } saistītu informāciju. Jūs varat jebkurā laikā atteikties no abonēšanas.
 newsletter-form-we-will-only-send-firefox-v2 = Mēs jums sūtīsim tikai ar { -brand-name-firefox } saistītu informāciju. Jūs varat jebkurā laikā atteikties no abonēšanas.
-newsletter-form-if-you-havent-previously = Ja iepriekš neesat apstiprinājis abonementu { -brand-name-mozilla } saistītam informatīvajam izdevumam, iespējams, tas būs jādara. Lūdzu, pārbaudiet savu iesūtni vai surogātpasta filtru, lai atrastu no mums epastu.
+newsletter-form-if-you-havent-previously = Ja iepriekš neapstiprināji abonementu ar { -brand-name-mozilla } saistītam biļetenam, to varētu būt jāizdara. Lūgums pārbaudīt savu iesūtni vai mēstuļu atsijātāju, lai atrastu e-pasta ziņojumu no mums.
 newsletter-form-firefox-and-you = <span>{ -brand-name-firefox }</span> + Jūs
 newsletter-form-get-firefox-tips = Iegūstiet { -brand-name-firefox } ieteikumus, triki, jaunumi un vairāk
 newsletter-form-get-mozilla-updates = Piesakies { -brand-name-mozilla } jaunumiem
