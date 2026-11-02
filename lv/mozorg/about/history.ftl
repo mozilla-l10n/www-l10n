@@ -26,7 +26,7 @@ history-community-members-got-involved = Kopienas dalībnieki iesaistījās un p
 history-people-contributed-to-mozilla = Ieguldījumi { -brand-name-mozilla } bija vairāku veidu, bet katram bija iedvesma brīvu programmatūru veidošanai, lai ļautu cilvēkiem būt izvēlei viņu interneta lietošanā.
 # Variables:
 #   $mozilla1 (url) link to http://www.mozillazine.org/articles/article2278.html
-history-after-several-years-of-development = Pēc vairāku gadu izstrādes 2002. gadā tika izlaista <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, pirmā lielākā versija. Šajā versijā bija daudz uzlabojumu pārlūkprogrammā, epasta klientā un citās komplektā iekļautajās lietojumprogrammās, taču to nelietoja daudz cilvēki.
+history-after-several-years-of-development = Pēc vairāku gadu izstrādes, 2002. gadā tika izlaists <a href="{ $mozilla1 }">{ -brand-name-mozilla } 1.0</a>, pirmā galvenā versija. Šajā versijā bija daudz pārlūka, e-pasta klienta un citu apkopojuma lietotņu uzlabojumu, taču to neizmantoja daudz cilvēku.
 # Variables:
 #   $over90 (url) link to http://www.onestat.com/html/aboutus_pressbox4.html
 history-by-2002-well-over-90 = Līdz 2002. gadam <a href="{ $over90 }">vairāk nekā 90% interneta lietotāju</a> pārlūkojot internetu, izmantoja { -brand-name-ie }.
