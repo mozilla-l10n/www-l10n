@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
-footer-refresh-discover-mozilla-products = Atklājiet { -brand-name-mozilla } produktus un iniciatīvas. Mēs apsolām saglabāt jūsu epasta konfidencialitāti un drošību — nekādas kopīgošanas, nekādas pārdošanas, tikai lieliski atjauninājumi.
+footer-refresh-discover-mozilla-products = Atklāj { -brand-name-mozilla } produktus un ierosmes! Mēs apsolām saglabāt Tavu e-pastu privātu un drošu — nekādas kopīgošanas, pārdošanas, tikai lieliski atjauninājumi.
 footer-refresh-leadership = Vadība
 footer-refresh-firefox-release-notes = { -brand-name-firefox } Laidiena piezīmes
 footer-refresh-mdn-v2 = { -brand-name-mdn }

@@ -40,7 +40,7 @@ firefox-products-check-for-breaches = Pārbaudiet, vai nav pārkāpumu
 ## Relay
 
 firefox-products-relay = { -brand-name-firefox-relay }
-firefox-products-protect-your-real = Aizsargājiet savu īsto epasta adresi, lai labāk kontrolētu iesūtni.
+firefox-products-protect-your-real = Aizsargā savu īsto e-pasta adresi, lai labāk pārvaldītu savu iesūtni!
 firefox-products-get-relay = Iegūt { -brand-name-firefox-relay }
 
 ## VPN
@@ -58,7 +58,7 @@ firefox-products-support-mdn = Atbalsts { -brand-name-mdn }
 ## Thunderbird
 
 firefox-products-thunderbird = { -brand-name-thunderbird }
-firefox-products-access-all = Piekļūstiet visiem saviem epastiem, kalendāriem un kontaktpersonām vienā ātrā lietotnē. Filtrējiet un kārtojiet tos, kā vēlaties.
+firefox-products-access-all = Piekļūsti visiem saviem e-pasta ziņojumiem, kalendāriem un kontaktpersonām vienā ātrā lietotnē! Atsijā un kārto tos tā, kā vēlies!
 firefox-products-download-thunderbird = Lejupielādēt { -brand-name-thunderbird }
 
 ## 0DIN
