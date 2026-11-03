@@ -12,7 +12,7 @@ compare-chome-read-our-comparison = Izlasiet mūsu { -brand-name-firefox } un Ch
 # Variables:
 # $fingerprint (url) - link to https://www.mozilla.org/firefox/features/block-fingerprinting/
 # $adblocker (url) - link to https://www.mozilla.org/firefox/features/adblocker/
-compare-chrome-firefoxs-default-privacy-settings = { -brand-name-firefox } noklusējuma konfidencialitātes iestatījumi ir daudz spēcīgāki nekā Chrome, un mums ir papildu funkcijas, kas neļauj vietnēm izsekot jums, piemēram, <a { $fingerprint }>pirkstu nospiedumu bloķēšana</a>, kā arī jūsu izvēlēti papildinājumi <a { $adblocker }>reklāmu bloķēšanai</a>.
+compare-chrome-firefoxs-default-privacy-settings = { -brand-name-firefox } noklusējuma privātuma iestatījumi ir daudz spēcīgāki nekā Chrome, un mums ir papildu iespējas, kas neļauj vietnēm izsekot Tevi, piemēram, <a { $fingerprint }>pirkstu nospiedumu nolasīšanas liegšana</a>, kā arī papildinājumu izvēle <a { $adblocker }>reklāmu aizturēšanai</a>.
 compare-chrome-we-block-trackers-by-default = Mēs pēc noklusējuma bloķējam izsekotājus. Chrome to nedara.
 compare-chrome-in-fact-by-default-chrome-monitors = Faktiski pēc noklusējuma Chrome uzrauga, kuras vietnes jūs apmeklējat un ko jūs darāt, lai varētu identificēt “reklāmu tēmas” un nosūtīt jums mērķtiecīgākas reklāmas. Jūs varat bloķēt trīs tēmas, taču jūs nevarat likt tām pārtraukt citu reklāmu tēmu identificēšanu.
 compare-chrome-chrome-allows-other-websites-to = Chrome ļauj citām vietnēm apkopot informāciju par jums, lai tās varētu ieteikt reklāmas. Jūs varat bloķēt konkrētu vietņu reklāmu ieteikšanu, taču jūs nevarat apturēt datu vākšanu vai ieteikumus no citām vietnēm.

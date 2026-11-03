@@ -10,7 +10,7 @@ compare-brave-firefox-vs-brave = { -brand-name-firefox } pret Brave
 # HTML page description
 compare-brave-read-our-comparison = Izlasi mūsu salīdzinājumu { -brand-name-firefox } un Brave pārlūku iespējām, privātumu un izmantošanas vienkāršumu!
 # "Fiddling" means you have to make a lot of changes and adjustments to make it work correctly.
-compare-brave-firefoxs-privacy-settings-are = { -brand-name-firefox } konfidencialitātes iestatījumi ir spēcīgi un viegli lietojami. Brave noklusējuma reklāmu bloķēšana var traucēt jūsu apmeklēto vietņu darbību, tāpēc jums tā būs pastāvīgi jāpielāgo. Mēs vēlamies, lai konfidencialitāte būtu pietiekami ērta, lai jūs to patiešām <em>izmantotu</em>.
+compare-brave-firefoxs-privacy-settings-are = { -brand-name-firefox } privātuma iestatījumi ir spēcīgi un viegli lietojami. Brave noklusējuma reklāmu aizturēšana var traucēt apmeklēto tīmekļvietņu darbību, tāpēc tā būs pastāvīgi jāpielāgo. Mēs vēlamies, lai privātums būtu pietiekami ērta, lai Tu to tiešām <em>izmantotu</em>.
 compare-brave-firefox-makes-it-easy-for-you = { -brand-name-firefox } ļauj ērti izvēlēties, kuru meklētāju vēlaties izmantot katru reizi, kad veicat meklēšanu. Brave pēc noklusējuma izmanto savu meklētāju, un jums ir jāiziet pārlūka iestatījumos, lai izvēlētos kaut ko citu.
 # Variables:
 # $primary (url) - link to https://support.mozilla.org/kb/use-primary-password-protect-stored-logins
