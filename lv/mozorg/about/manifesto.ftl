@@ -64,8 +64,8 @@ manifesto-details-promote-the-mozilla = popularizēt { -brand-name-mozilla } man
 manifesto-written-in-2007 = { -brand-name-mozilla } manifests, kas sarakstīts 2007. gadā, izklāsta mūsu pamatprincipus. “Veselīga interneta solījums” tika sarakstīts kā manifesta pielikums 2017. gadā, lai atspoguļotu mūsu dziļo apņemšanos nodrošināt, lai internets kalpotu cilvēku un visas cilvēces vajadzībām. Kopā šie divi dokumenti vada visu darbu { -brand-name-mozilla } platformā — ko mēs veidojam, ko mēs finansējam un kā mēs strādājam kopā kā kopiena.
 manifesto-mozillas-pledge = { -brand-name-mozilla } solījums
 manifesto-across-the-mozilla-project = Visā { -brand-name-mozilla } projektā un ikvienā { -brand-name-mozilla } saimes organizācijā mēs apņemamies atbalstīt { -brand-name-mozilla } manifestu un tā aktivitātes. Konkrēti, mēs:
-manifesto-we-need-you = Mums ir nepieciešams, lai jūs virzītu manifestu uz priekšu
-manifesto-an-internet-with-these-v2 = Internets ar šādām īpašībām neradīsies pats no sevis. Cilvēkiem un organizācijām šīs vēlmes ir jāiekļauj interneta tehnoloģijās un cilvēku pieredzē ar internetu. { -brand-name-mozilla } manifests un pielikums atspoguļo { -brand-name-mozilla } apņemšanos virzīt šīs vēlmes uz priekšu. { -brand-name-mozilla } sadarbojas ar cilvēkiem un organizācijām visā pasaulē, kuri vēlas padarīt internetu par vēl labāku vietu ikvienam.
+manifesto-we-need-you = Mums ir nepieciešams, lai Tu virzītu manifestu uz priekšu
+manifesto-an-internet-with-these-v2 = Internets ar šādām vērtībām neradīsies pats no sevis. Cilvēkiem un apvienībām šīs vēlmes ir jāiekļauj interneta tehnoloģijās un cilvēku pieredzē ar internetu. { -brand-name-mozilla } manifests un pielikums atspoguļo { -brand-name-mozilla } apņemšanos virzīt šīs vēlmes uz priekšu. { -brand-name-mozilla } sadarbojas ar visas pasaules cilvēkiem un apvienībām, kas vēlas padarīt internetu par vēl labāku vietu ikvienam.
 manifesto-our-commitments = Mūsu saistības
 manifesto-commitment-1 = 1. apņemšanās
 manifesto-commitment-2 = 2. apņemšanās
@@ -89,7 +89,7 @@ manifesto-we-invest-in = Mēs <a { $mozvc_link }>investējam atbildīgos tehnolo
 manifesto-we-run-a-global = Mēs <a { $mdc_link }>vadām globālu kopienu</a> godīgai datu apmaiņai.
 # Variables:
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-manifesto-we-host-a-yearly = Mēs <a { $festival_link }>rīkojam ikgadēju globālu salidojumu</a> cilvēkiem, kas veido jebko, lai virzītu Manifestu uz priekšu.
+manifesto-we-host-a-yearly = Mēs <a { $festival_link }>rīkojam ikgadēju vispasaules salidojumu</a> cilvēkiem, kas veido jebko, lai virzītu uz priekšu manifestu.
 # Variables:
 #   $firefox_link (url) - link to https://www.firefox.com/
 #   $thunderbird_link (url) - link to https://www.thunderbird.net/
