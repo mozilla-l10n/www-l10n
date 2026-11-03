@@ -34,7 +34,7 @@ firefox-all-64-bit-installers = 64 bitu uzstādītājs
 firefox-all-choose-a-64-bit-installer = 64 bitu uzstādītājs jāizvēlas datoriem, kuriem ir 64 bitu procesors, kas ļauj iedalīt vairāk atmiņas atsevišķām programmām — jo īpaši būtiski spēlēm un citām prasīgām lietotnēm.
 firefox-all-32-bit-installers = 32 bitu uzstādītājs
 firefox-all-microsoft-store-installers = Microsoft veikals
-firefox-all-choose-a-microsoft-store-installer = Šī opcija atvērs { -brand-name-firefox } produkta lapu Microsoft veikala tīmekļa portālā. Ja izmantojat operētājsistēmu Windows 10 vai Windows 11, šajā lapā varēsiet atvērt Microsoft veikala un instalēt { -brand-name-firefox }. Ja instalēsiet no Microsoft Store, { -brand-name-firefox } atjauninājumus apstrādās arī Microsoft veikala. Instalējot { -brand-name-firefox } no Microsoft veikala, pastāv nelielas atšķirības { -brand-name-firefox } darbībā un iespējās, taču lielākajai daļai lietotāju šīs atšķirības nav pamanāmas.
+firefox-all-choose-a-microsoft-store-installer = Šī iespēja atvērs { -brand-name-firefox } produkta lapu Microsoft veikala tīmekļa portālā. Ja izmanto Windows 10 vai Windows 11, šajā lapā varēsi atvērt Microsoft veikalu un uzstādīt { -brand-name-firefox }. Ja uzstādīsi no Microsoft veikala, { -brand-name-firefox } atjauninājumus arī nodrošinās Microsoft veikals. Ir sīkas atšķirības { -brand-name-firefox } uzvedībā un iespējās, kad tas ir uzstādīts no Microsoft veikala, bet lielākajai daļai lietotāju tās nav manāmas.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Lejupielādēt { $esr_version }
