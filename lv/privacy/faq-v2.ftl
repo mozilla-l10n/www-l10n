@@ -54,7 +54,7 @@ privacy-faq-v2-what-about-my-account = Kā ar mana konta datiem?
 privacy-faq-v2-we-are-big-believers = Mēs ticam datu minimizēšanas nepieciešamībai un tam, ka nelūdzam lietas, kas mums nav vajadzīgas.
 # Variables:
 #   $attrs (url) - link to https://www.mozilla.org/account/
-privacy-faq-v2-you-dont-need-an-account = Lai izmantotu { -brand-name-firefox }, konts nav nepieciešams. <a { $attrs }>Konti</a> ir nepieciešami datu sinhronizēšanai starp ierīcēm, taču mēs lūdzam tikai epasta adresi un vecumu (lai pārliecinātos, ka neesat bērns).
+privacy-faq-v2-you-dont-need-an-account = Nav nepieciešams konts, lai izmantotu { -brand-name-firefox }. <a { $attrs }>Konti</a> ir vajadzīgi, lai starp ierīcēm vienādotu datus, bet mēs vaicājam tikai e-pasta adresi un vecumu (lai pārliecinātos, ka neesi bērns).
 privacy-faq-v2-you-use-digital = Jūs izmantojat digitālo reklāmu kā daļu no sava mārketinga kompleksa. Vai jūs pērkat cilvēku datus, lai labāk atlasītu savas tiešsaistes reklāmas?
 privacy-faq-v2-no-we-do-not-buy = Nē, mēs nepērkam cilvēku datus, lai mērķētu reklāmu.
 privacy-faq-v2-we-do-not-ask = Mēs lūdzam mūsu reklāmas partnerus izmantot tikai pirmās puses datus, ko tīmekļa vietnes un izdevēji zina par visiem lietotājiem, piemēram, jūsu izmantoto pārlūkprogrammu un ierīci.

@@ -8,7 +8,7 @@
 vpn-landing-invite-page-title = Pievienojies gaidīšanas sarakstam: { -brand-name-mozilla-vpn }
 vpn-landing-invite-page-desc-v2 = Saņemiet paziņojumu, kad { -brand-name-mozilla-vpn } būs pieejams jūsu reģionā.
 vpn-landing-invite-page-heading = Pievienojieties VPN gaidīšanas sarakstam
-vpn-landing-invite-email-label = Kāda ir jūsu epasta adrese?
+vpn-landing-invite-email-label = Kāda ir Tava e-pasta adrese?
 vpn-landing-invite-required-label = Obligāts
 # Only localize "yourname". Do not change "@example.com".
 vpn-landing-invite-email-placeholder = yourname@example.com
@@ -19,4 +19,4 @@ vpn-landing-invite-language-label = Izvēlieties vēlamo valodu.
 vpn-landing-invite-privacy-policy = Noklikšķinot uz “Pievienoties gaidīšanas sarakstam”, jūs piekrītat mūsu <a href="{ $privacy }">konfidencialitātes politikai</a>.
 vpn-landing-invite-your-information = Jūsu informācija tiks izmantota tikai, lai informētu jūs par platformas pieejamību.
 vpn-landing-invite-thanks-heading = Paldies! Jūs esat sarakstā.
-vpn-landing-invite-thanks-desc = Tiklīdz { -brand-name-mozilla-vpn } būs pieejams jūsu reģionā, mēs jums nosūtīsim epastu.
+vpn-landing-invite-thanks-desc = Mēs nosūtīsim e-pasta ziņojumu, tiklīdz { -brand-name-mozilla-vpn } kļūs pieejams Tavā apgabalā.
