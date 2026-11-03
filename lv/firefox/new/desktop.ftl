@@ -33,7 +33,7 @@ firefox-desktop-download-for-everyone = { -brand-name-firefox } ir paredzēts ik
 firefox-desktop-download-available-in-over = Pieejams vairāk nekā 90 valodās un saderīgs ar { -brand-name-windows }, { -brand-name-mac-short } un { -brand-name-linux } datoriem, { -brand-name-firefox } darbojas neatkarīgi no tā, ko izmantojat vai kur atrodaties. Lai nodrošinātu vislabāko pieredzi, pārliecinieties, vai jūsu operētājsistēma ir atjaunināta.
 firefox-desktop-download-review-system-req = Pārskatīt sistēmas prasības
 firefox-desktop-download-all-your-devices = Izmantojiet { -brand-name-firefox } visās savās ierīcēs
-firefox-desktop-download-take-your-privacy = Ņemiet savu privātumu līdzi visur. { -brand-name-firefox-browsers } pārlūks { -brand-name-ios } un { -brand-name-android } ir vienādi stingri privātuma iestatījumi, lai bloķētu izsekotājus, kas ļauj jums sekot tīmeklī neatkarīgi no jūsu atrašanās vietas.
+firefox-desktop-download-take-your-privacy = Ņem savu privātumu sev līdzi visur! { -brand-name-firefox-browsers } pārlūks { -brand-name-ios } un { -brand-name-android } ir vienādi stingri privātuma iestatījumi, lai aizturētu izsekotājus, kas sekot Tev tīmeklī, neatkarīgi no atrašanās vietas.
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-it-all = Dariet <strong>visu</strong> ar { -brand-name-firefox }
 firefox-desktop-download-search-smarter = Meklējiet gudrāk, ātrāk
