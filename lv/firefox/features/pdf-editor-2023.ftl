@@ -11,7 +11,7 @@ pdf-editor-pdf-editor = PDF redaktors
 pdf-editor-add-text-to-pdfs-v2 = Rediģējiet PDF failus bez maksas, izmantojot { -brand-name-firefox } PDF redaktoru
 # HTML page description
 pdf-editor-view-and-edit-pdf-files-right-in = Skatiet un rediģējiet PDF failus tieši { -brand-name-firefox }.
-pdf-editor-if-you-need-to-add-stuff-to-a-pdf = Ja PDF dokumentam ir jāpievieno kaut kas, tagad to var izdarīt tiešsaistē, izmantojot { -brand-name-firefox }. Atveriet PDF failu { -brand-name-firefox } un noklikšķiniet uz pogām Teksts vai Zīmēt augšējā labajā stūrī, lai veiktu izmaiņas dokumentā. Lejupielādējiet failu, lai saglabātu to ar savām izmaiņām.
+pdf-editor-if-you-need-to-add-stuff-to-a-pdf = Ja PDF dokumentam ir jāpievieno kaut kas, tagad to var izdarīt tiešsaistē ar { -brand-name-firefox }. Atver PDF datni { -brand-name-firefox } un klikšķini uz pogām "Teksts" vai "Zīmēt" augšējā labajā stūrī, lai veiktu izmaiņas dokumentā! Lejupielādē datni, lai saglabātu to ar savām izmaiņām.
 pdf-editor-fill-in-forms-online-without = Aizpildiet veidlapas tiešsaistē bez drukāšanas un skenēšanas
 pdf-editor-weve-all-faced-this-you-need-to = Mēs visi esam saskārušies ar šādu problēmu: jāaizpilda veidlapa PDF formātā, taču to nevar rediģēt. Agrāk vienīgā iespēja bija to izdrukāt uz nokaltuša koka, uzrakstīt ar tinti un pēc tam ieskenēt atpakaļ datorā.
 pdf-editor-no-more-now-all-you-need-to-do = Vairs nē! Tagad viss, kas jādara, ir jālabo PDF datne tiešsaistē ar { -brand-name-firefox }, jāsaglabā tā un jānosūta e-pastā no sava datora.
