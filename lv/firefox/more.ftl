@@ -7,7 +7,7 @@
 
 firefox-products-are = { -brand-name-firefox } produkti ir izstrādāti, lai aizsargātu jūsu privātumu
 learn-more-about-firefox = Uzziniet vairāk par { -brand-name-firefox }, tā vēsturi, funkcijām un misiju.
-learn-more-about = Uzziniet vairāk par { -brand-name-firefox } pārlūkiem un produktiem, kas apstrādā jūsu datus ar cieņu un ir veidoti, lai nodrošinātu privātumu jebkurā vietā tiešsaistē.
+learn-more-about = Uzzini vairāk par { -brand-name-firefox } pārlūkiem un produktiem, kas apstrādā datus ar cieņu un ir veidoti, lai nodrošinātu privātumu jebkurā vietā tiešsaistē.
 learn-more-faq = { -brand-name-firefox } BUJ
 the-history-of = Tīmekļa pārlūku vēsture
 firefox-has-been = { -brand-name-firefox } ir bijis tur gandrīz kopš paša sākuma.
