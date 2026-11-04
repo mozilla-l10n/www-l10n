@@ -8,7 +8,7 @@
 # HTML page title and main title
 privacy-principles-data-privacy-principles = Datu privātuma principi
 # HTML page description
-privacy-principles-mozilla-is-an-open-source = { -brand-name-mozilla } ir atvērtā koda projekts ar misiju izlabot Internetu. Šis vadmotīvs balsta arī mūsu privātuma principus.
+privacy-principles-mozilla-is-an-open-source = { -brand-name-mozilla } ir atvērta pirmkoda projekts ar mērķi uzlabot Internetu. Šis virzītājspēks balsta mūsu pieeju privātumam.
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/about/manifesto/
 privacy-principles-the-following-five-principles = Sekojoši principi izriet no <a href="{ $link }">{ -brand-name-mozilla } manifesta</a> un pasaka, kā mēs :
