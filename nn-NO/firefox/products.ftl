@@ -91,4 +91,5 @@ firefox-products-learn-more-about-mozilla-ads = Les meir om { -brand-name-mozill
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-manage-your-fleet = Rull ut { -brand-name-firefox }
 firefox-products-learn-more-about-firefox-enterprise = Les meir om { -brand-name-firefox-enterprise }
