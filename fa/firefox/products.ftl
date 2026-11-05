@@ -94,5 +94,6 @@ firefox-products-learn-more-about-mozilla-ads = دربارهٔ { -brand-name-moz
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
 firefox-products-firefox-enterprise-desc = با کنترل‌های سیاست در سطح سازمانی، { -brand-name-firefox } را در سراسر سازمانتان مستقر، مدیریت و ایمن کنید.
+firefox-products-firefox-enterprise-desc-v2 = سکوی مرورگر سازمانی و درون‌سازمانی { -brand-name-mozilla } که کنترل آن در دست مشتری است. این سکو ساخته شده تا به سازمان‌ها کمک کند با کنترل بیشتر بر داده‌ها، زیرساخت فناوری اطلاعات و محیط مرورگر، حاکمیت دیجیتال و انعطاف‌پذیری عملیاتی خود را تقویت کنند.
 firefox-products-manage-your-fleet = استقرار { -brand-name-firefox }
 firefox-products-learn-more-about-firefox-enterprise = دربارهٔ { -brand-name-firefox-enterprise } بیشتر بدانید
