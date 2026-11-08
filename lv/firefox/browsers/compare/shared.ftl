@@ -12,7 +12,7 @@ compare-shared-we-also-offer-easy = Mēs piedāvājam arī ērti lietojamas funk
 compare-shared-firefox-also-has-built-in = { -brand-name-firefox } ir arī iebūvēti rīki, piemēram:
 # Variables
 # $pdf (url) - link to https://www.mozilla.org/firefox/features/pdf-editor/
-compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Rediģējiet PDF failus</a>, atrodoties ceļā, savā { -brand-name-firefox } pārlūka logā — nav nepieciešama papildu programmatūra.
+compare-shared-edit-pdfs-on-the-go = <a { $pdf }>Labo PDF</a> kustībā savā { -brand-name-firefox } pārlūka logā — nav nepieciešama papildu programmatūra!
 # Variables
 # $translate (url) - link to https://www.mozilla.org/firefox/features/translate/
 compare-shared-translate-a-web-page = <a { $translate }>Tulkot tīmekļa lapu</a> lokāli un privāti.
