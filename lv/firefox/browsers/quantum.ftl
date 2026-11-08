@@ -12,7 +12,7 @@ firefox-quantum-was = { -brand-name-firefox-quantum } bija revolūcija { -brand-
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Uzziniet vairāk par { -brand-name-firefox-quantum }
 privacy-first = Privātums pirmajā vietā
-firefox-doesnt-spy = { -brand-name-firefox } neizspiego jūs tiešsaistē. Mēs apturam daudzu zināmu trešo pušu izsekošanas sīkfailu darbību un sniedzam jums pilnīgu kontroli.
+firefox-doesnt-spy = { -brand-name-firefox } neizspiego Tevi tiešsaistē. Mēs apturam daudzu zināmu trešo pušu izsekošanas sīkdatņu darbību un sniedzam Tev pilnīgu pārvaldību.
 super-fast = Īpaši ātrs
 get-speed-and = Iegūstiet ātrumu un drošību. { -brand-name-firefox } ir ātrs, jo mēs nesekojam līdzi jūsu pārvietošanās procesiem.
 always-evolving = Vienmēr attīstoties

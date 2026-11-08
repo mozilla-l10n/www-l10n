@@ -42,16 +42,16 @@ features-adblocker-go-easy-with-standard = Izmantojiet standarta režīmu, lai b
 #   $url (url) - link to https://www.mozilla.org/firefox/features/private-browsing/
 features-adblocker-if-ads-dont-bother-you = Ja reklāmas jūs netraucē un jums nav iebildumu, ka jūs seko izsekotāji un trešo pušu sīkfaili, tad standarta iestatījumam vajadzētu būt piemērotam. Lai standarta režīmā atbrīvotos no izsekotājiem, izmantojiet logu <a href="{ $url }">Privātā pārlūkošana</a>.
 features-adblocker-get-tough-with-strict = Esiet stingrs ar stingro režīmu
-features-adblocker-if-seeing-too-many-ads = Ja pārāk daudz reklāmu sabojā jūsu dienu, tad stingrais režīms ir piemērotāks. Šis režīms bloķēs zināmus trešo pušu izsekotājus un sīkfailus visos { -brand-name-firefox } logos.
+features-adblocker-if-seeing-too-many-ads = Ja pārāk daudz reklāmu sabojā dienu, tad stingrais režīms ir piemērotāks. Tas liegs zināmus trešo pušu izsekotājus un sīkdatnes visos { -brand-name-firefox } logos.
 features-adblocker-do-it-yourself-custom = Pielāgots režīms “dari pats”
-features-adblocker-the-custom-setting-gives = Pielāgotais iestatījums sniedz jums vislabāko izvēli. Jūs varat izlemt, ko bloķējat, tostarp izsekotājus, sīkfailus un citus. Ja atļaujat sīkfailus no kādas vietnes, jūs automātiski nonāksiet pielāgotajā režīmā.
+features-adblocker-the-custom-setting-gives = Pielāgotais iestatījums sniedz vislabāko izvēli. Tu vari izlemt, ko liegt, tostarp izsekotājus, sīkdatnes un citus. Ja atļauj sīkfailus no kādas tīmekļvietnes, Tu automātiski būsi pielāgotajā režīmā.
 features-adblocker-cover-your-trail-block = Nosedz savu pēdas, bloķē izsekotājus
 features-adblocker-click-on-the-trackers = Noklikšķiniet uz lodziņa Izsekotāji, un jūs varēsiet bloķēt izsekotājus divos veidos. Viens veids, kā bloķēt izsekotājus, ir to darīt privātā logā. Vēl viens veids, kā to izdarīt, ir bloķēt izsekotājus visos logos. Paturiet prātā, ka, ja izvēlaties vienmēr bloķēt izsekotājus, dažas lapas var netikt ielādētas pareizi.
 features-adblocker-take-a-bite-out-of-cookies = Iekodies cepumos
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/storage
-features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Sīkfailus</a> nosūta jūsu apmeklētās vietnes. Tie atrodas jūsu datorā un uzrauga jūsu darbības vietnē. Ja aviokompānija paaugstina jūsu cenas tāpēc, ka esat vienu reizi apskatījis aviobiļetes tajā dienā, tas ir sīkfaila darbs.
-features-adblocker-in-firefox-you-can-block = { -brand-name-firefox } varat bloķēt visus trešo pušu sīkfailus vai tikai tos, ko iestatījuši izsekotāji. Ņemiet vērā, ka visu sīkfailu bloķēšana var sabojāt dažas vietnes.
+features-adblocker-cookies-are-sent-by-websites = <a href="{ $url }">Sīkdatnes</a> nosūta apmeklētās tīmekļvietnes. Tās atrodas datorā un uzrauga Tavas darbības vietnē. Ja lidsabiedrība paaugstina cenas tāpēc, ka tajā dienā vienu reizi apskatīji lidojumu biļetes, tas ir sīkdatnes darbs.
+features-adblocker-in-firefox-you-can-block = { -brand-name-firefox } vari liegt visas trešo pušu sīkdatnes vai tikai tās, ko iestatījuši izsekotāji. Jāņem vērā, ka visu sīkdatņu liegšana var salauzt dažas vietnes.
 features-adblocker-speed-up-thanks-to-ad = Paātriniet darbību, pateicoties reklāmu bloķētājiem
 features-adblocker-in-some-cases-an-ad-blocker = Dažos gadījumos reklāmu bloķētājs var palīdzēt pārlūkam darboties ātrāk. Reklāmas ielādes laikā tā var palēnināt vietnes darbību. Tajā pašā laikā, ja esat pārāk aizņemts, aizverot kārtējo reklāmu, meklētā atrašana aizņem ilgāku laiku.
 # Variables:
