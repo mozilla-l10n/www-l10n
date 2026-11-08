@@ -86,11 +86,14 @@ firefox-products-learn-more-about-otari = Les meir om { -brand-name-otari }
 ## Mozilla Ads
 
 firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-mozilla-ads-desc = Gjer annonsekjøpa dine meir truverdige. Du når over 210 millionar selektive, kvalitetsmedvitne og merkelojale brukarar.
 firefox-products-extend-your-reach = Nå ut til fleire
 firefox-products-learn-more-about-mozilla-ads = Les meir om { -brand-name-mozilla-ads }
 
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc = Rull ut, administrer og sikre { -brand-name-firefox } i heile organisasjonen med policykontrollar på verksemdsnivå.
+firefox-products-firefox-enterprise-desc-v2 = { -brand-name-mozilla } sin kundestyrte, lokale nettlesarplattform for bedrifter. Bygd for å hjelpe organisasjonar med å styrkje sin digitale suverenitet og operasjonelle robustheit gjennom større kontroll over data, IT-infrastruktur og nettlesarmiljø.
 firefox-products-manage-your-fleet = Rull ut { -brand-name-firefox }
 firefox-products-learn-more-about-firefox-enterprise = Les meir om { -brand-name-firefox-enterprise }
