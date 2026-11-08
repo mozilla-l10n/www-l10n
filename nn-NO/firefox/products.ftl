@@ -65,6 +65,7 @@ firefox-products-download-thunderbird = Last ned { -brand-name-thunderbird }
 
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Kople AI-systema dine til ein global fellesskap av tryggingsekspertar som avdekkjer og bidreg til å rette GenAI-sårbarheiter tidleg.
+firefox-products-0din-desc-v2 = Finn og utbetre KI-sårbarheiter før dei når produksjon, støtta av ein global fellesskap av sikkerheitsforskarar, og den største tilgjengelege samlinga av spora sikkerheitsutnyttingar.
 firefox-products-test-your-ai = Test KI-agentane dine
 firefox-products-learn-more-about-0din = Les meir om { -brand-name-0din }
 
