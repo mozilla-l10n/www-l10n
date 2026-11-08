@@ -14,7 +14,7 @@ welcome-page8-view-your-protection-report = Skatīt savu aizsardzības pārskatu
 # "Enhanced Tracking Protection" is a feature name; it should be capitalized
 welcome-page8-enhanced-tracking-protection = Uzlabota izsekošanas aizsardzība
 welcome-page8-automatically-block-sites = Automātiski bloķējiet vietnēm iespēju sekot jums internetā.
-welcome-page8-see-whats-blocked = Skatiet, kas ir bloķēts
+welcome-page8-see-whats-blocked = Skatiet, kas ir liegts
 welcome-page8-mozilla-monitor = { -brand-name-mozilla-monitor }
 welcome-page8-see-what-youve-been = Pārbaudiet, vai esat bijis iesaistīts zināmos tiešsaistes datu pārkāpumos, un veiciet pasākumus, lai tos novērstu.
 welcome-page8-go-to-monitor = Dodieties uz { -brand-name-monitor }
