@@ -25,7 +25,7 @@ download-button-download = Lejupielādēt
 #   $help_url (url) - link to https://support.mozilla.org/
 #   $os_version (string) - e.g. Windows 8.1, macOS 10.14
 download-button-unsupported-platform = { $channel_name } vairs <a href="{ $help_url }">netiek atbalstīts</a> { $os_version } un vecākās.
-download-button-please-download-esr = Lūgums lejupielādēt { -brand-name-firefox-esr } (paplašinātā atbalsta laidienu), lai izmantotu { -brand-name-firefox }.
+download-button-please-download-esr = Lūgums lejupielādēt { -brand-name-firefox-esr } (pagarinātā atbalsta laidienu), lai izmantotu { -brand-name-firefox }.
 download-firefox-esr = Lejupielādēt { -brand-name-firefox-esr }
 download-firefox-esr-32 = Lejupielādēt 32 bitu { -brand-name-firefox-esr }
 download-firefox-esr-64 = Lejupielādēt 64 bitu { -brand-name-firefox-esr }

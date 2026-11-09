@@ -25,7 +25,7 @@ contribute-task-translate-heading = Tulkot saturu
 contribute-task-translate-desc = Internets ir globāls tikai tad, ja to saprot visur. Palīdziet mums iztulkot { -brand-name-mozilla } produktus un tīmekļa vietnes jūsu vietējā valodā.
 contribute-task-mozilla-codebase-heading = Piedalieties { -brand-name-mozilla } koda bāzē
 contribute-task-mozilla-codebase-desc = Aktīvi uzlabot { -brand-name-mozilla } produktus, piedaloties dažādās izstrādes iespējās.
-contribute-task-support-desc = Palīdziet padarīt { -brand-name-mozilla } produktus ērti lietojamus. Atbildiet uz cilvēku “palīdzības” jautājumiem { -brand-name-mozilla } atbalsta kopienas forumos.
+contribute-task-support-desc = Palīdzi padarīt { -brand-name-mozilla } produktus ērti lietojamus. Atbildi uz cilvēku “palīdzības” jautājumiem { -brand-name-mozilla } atbalsta kopienas forumos.
 contribute-task-join-heading = Pievienojieties kopienai
 contribute-task-join-desc = Vai vēlaties vairāk iesaistīties { -brand-name-mozilla } kopienā? Apskatiet visas brīvprātīgā darba iespējas mūsu kopienas portālā.
 
@@ -58,7 +58,7 @@ contribute-newsletter-desc = Abonējiet mūsu jaunumus, pievienojieties Mozilla 
 
 contribute-support-heading = Saņemt palīdzību
 contribute-support-desc = { -brand-name-mozilla } ir īpaša brīvprātīgo komanda, kas palīdzēs risināt jebkādas problēmas, ar kurām jūs varētu saskarties.
-contribute-mozilla-support = { -brand-name-mozilla } Atbalsts
+contribute-mozilla-support = { -brand-name-mozilla } atbalsts
 
 ## Web compat
 

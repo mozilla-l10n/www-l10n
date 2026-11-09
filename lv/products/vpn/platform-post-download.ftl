@@ -70,4 +70,4 @@ vpn-download-faq-lastly = Visbeidzot, atbalstītajās ierīcēs VPN var padarīt
 vpn-download-faq-need-more = Vai nepieciešama vēl nedaudz palīdzības?
 # Variables
 #   $support (url) - link to https://support.mozilla.org/products/firefox-private-network-vpn
-vpn-download-faq-support = Varat sazināties ar mūsu atbalsta komandu tieši no { -brand-name-mozilla-vpn } lietojumprogrammas, noklikšķinot uz Iestatījumi > Saņemt palīdzību > Sazināties ar atbalsta dienestu. Varat arī sazināties ar mums <a href="{ $support }">mūsu atbalsta lapā</a>.
+vpn-download-faq-support = Vari sazināties ar mūsu atbalsta komandu tieši no { -brand-name-mozilla-vpn } lietotnes, klikšķinot uz Iestatījumi > Saņemt palīdzību > Sazināties ar atbalstu. Vari arī sazināties ar mums <a href="{ $support }">mūsu atbalsta lapā</a>.
