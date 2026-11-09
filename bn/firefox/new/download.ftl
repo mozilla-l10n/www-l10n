@@ -21,6 +21,3 @@ firefox-new-need-help = সাহায্য প্রয়োজন?
 ## URL: https://www-dev.allizom.org/firefox/download/thanks/?xv=basic
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ব্রাউজারের চেয়ে বেশি।
-
-# Not-Required
-

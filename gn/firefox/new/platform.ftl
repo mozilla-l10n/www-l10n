@@ -15,9 +15,6 @@ new-platform-2x-faster = Mokõi jevy ipya’eve
 new-platform-advanced-install-options = Ñemboguejy poravorã oikopátamava ha ambue jehechaukaha.
 new-platform-download-in-another = Emboguejy ambue ñe’ẽme
 new-platform-need-help = Reikotevẽpa pytyvõ
-
-# Linux
-
 new-platform-download-mozilla-linux = Emboguejy { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux } peg̃uarã
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Emboguejy { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux } peg̃uarã, peteĩ ñanduti kundahára reiguáva omoheñóiva atyguasu arapygua viru’ỹguáva omba’apóva opaite tapicha hekoresã hag̃ua ñandutípe. ¡Eguerekóke { -brand-name-firefox } { -brand-name-linux } peg̃uarã!

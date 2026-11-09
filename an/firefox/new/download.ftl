@@ -30,6 +30,3 @@ firefox-new-download-interrupted = La descarga s'ha interrompiu. Pero no tot ye 
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-system-may-not = Lo suyo sistema no cumple con os requisitos d'o { -brand-name-firefox }, pero puetz prebar una d'<a href="{ $url }">estas versions</a>.
-
-# Not-Required
-

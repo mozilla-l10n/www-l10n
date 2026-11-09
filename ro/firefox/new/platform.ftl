@@ -15,9 +15,6 @@ new-platform-2x-faster = De 2x mai rapid
 new-platform-advanced-install-options = Opțiuni avansate de instalare și alte platforme
 new-platform-download-in-another = Descarcă în altă limbă
 new-platform-need-help = Ai nevoie de ajutor?
-
-# Linux
-
 new-platform-download-mozilla-linux = Descarcă { -brand-name-mozilla } { -brand-name-firefox } pentru { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Descarcă { -brand-name-mozilla } { -brand-name-firefox } pentru { -brand-name-linux }, un browser web gratuit. { -brand-name-firefox } este creat de o organizație nonprofit globală, dedicată misiunii de a da oamenilor controlul online. Obține astăzi { -brand-name-firefox } pentru { -brand-name-linux }!

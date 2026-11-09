@@ -5,11 +5,4 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-browsers-chromebook-get-firefox-for = Ricevi { -brand-name-firefox } por { -brand-name-android }
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-

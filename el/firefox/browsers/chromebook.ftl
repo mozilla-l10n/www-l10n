@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Αποκτήστε το { -brand-name-firefox-browser } για { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Ώστε έχετε ένα { -brand-name-chromebook }. Είναι καιρός να αποκτήσετε το ανεξάρτητο, αυτομάτως ιδιωτικό { -brand-name-firefox-browser } για την προστασία των προσωπικών σας δεδομένων.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Λήψη του { -brand-name-firefox } για { -brand-name-android }
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Υποστήριξη α�
 browsers-chromebook-is-it-hard = Είναι δύσκολη η εγκατάσταση του { -brand-name-firefox } σε { -brand-name-chromebook };
 browsers-chromebook-we-wish-it = Ευχόμαστε να ήταν όλα πιο απλά, άλλα το { -brand-name-chromebook } σας προτιμά να σας κρατά μέσα στο οικοσύστημα του { -brand-name-google-play }. Ωστόσο, πιστεύουμε ότι αξίζει να εγκαταστήσετε το { -brand-name-firefox } στο { -brand-name-chromebook } σας και διαθέτουμε βεβαίως τους πόρους για να σας βοηθήσουμε. Υπάρχουν δύο τρόποι για να αποκτήσετε το { -brand-name-firefox } στη συσκευή σας.
 browsers-chromebook-install-firefox-from = Εγκατάσταση του { -brand-name-firefox } από το { -brand-name-google-play } Store: σε νεότερες εκδόσεις του { -brand-name-chromeos } ({ -brand-name-chromebook } x86 με { -brand-name-chromeos } 80 ή νεότερο), μπορείτε να εγκαταστήσετε το { -brand-name-firefox } για { -brand-name-android }. Αυτή η εφαρμογή έχει αναπτυχθεί για κινητές συσκευές.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Εγκατάσταση του { -brand-name-firefox } ως εφαρμογής { -brand-name-linux }: αυτή η μέθοδος απαιτεί περισσότερα βήματα, αλλά αξίζει τον κόπο. Αν εγκαταστήσετε το { -brand-name-firefox } ως εφαρμογή { -brand-name-linux }, θα λάβετε την πλήρη έκδοση του { -brand-name-firefox }, καθώς και όλα τα οφέλη της, όπως ενισχυμένη προστασία από καταγραφή, ενσωματωμένη διαχείριση κωδικών πρόσβασης, πρόσβαση σε χιλιάδες πρόσθετα (όπως το UBlock Origin) και θέματα για εξατομίκευση. <a { $url }>Μάθετε περισσότερα για την εγκατάσταση της πλήρους έκδοσης του { -brand-name-firefox } σε { -brand-name-chromebook }.</a>

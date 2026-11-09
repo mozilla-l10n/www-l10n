@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = { -brand-name-chromebook } için { -brand-name-firefox-browser }nı indir
 browsers-chromebook-so-youve-got = Demek bir { -brand-name-chromebook } sahibi oluyorsunuz. Artık kişisel verilerinizi korumak için bağımsız, kendiliğinden gizli { -brand-name-firefox-browser }nı indirme vakti.
 browsers-chromebook-browsers-chromebook-get-firefox-for = { -brand-name-android } için { -brand-name-firefox }’u indir
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Bağımsız teknolojiler
 browsers-chromebook-is-it-hard = { -brand-name-firefox } için { -brand-name-chromebook }’u yüklemek zor mu?
 browsers-chromebook-we-wish-it = Keşke daha kolay olsaydı, ama { -brand-name-chromebook } cihazınız sizi { -brand-name-google-play } ekosisteminde tutmayı tercih ediyor. Ancak { -brand-name-firefox } tarayıcısını { -brand-name-chromebook } cihazınıza yüklemek için uğraştığınıza değecek. İhtiyacınız olursa size yardımcı olacak kaynaklarımız da var. { -brand-name-firefox }’u cihazınıza yüklemenin iki yolu bulunuyor.
 browsers-chromebook-install-firefox-from = { -brand-name-firefox }’u { -brand-name-google-play } Store’dan yükleyin: Yeni { -brand-name-chromeos } sürümlerinde (x86 tabanlı { -brand-name-chromebook } cihazlardaki { -brand-name-chromeos } 80 ve üstü sürümler) { -brand-name-android } için { -brand-name-firefox } uygulamasını yükleyebilirsiniz. Bu uygulama mobil cihazlar için geliştirilmiştir.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = { -brand-name-firefox }’u { -brand-name-linux } uygulaması olarak yükleyin: Bu yöntem biraz daha karmaşık olsa da uğraştığınıza değer. { -brand-name-firefox } tarayıcısını { -brand-name-linux } uygulaması olarak yüklediğinizde masaüstü { -brand-name-firefox } tarayıcısının tüm avantajlarından yararlanabilirsiniz. Gelişmiş izlenme koruması, yerleşik parola yöneticisi, binlerce uzantıya erişim (uBlock Origin reklam engelleyici dahil) ve tarayıcınızın görünümünü özelleştiren temalar bunlardan sadece birkaçı. <a { $url }>{ -brand-name-chromebook } için { -brand-name-firefox } masaüstü tarayıcı kurulumu hakkında bilgi alın.</a>

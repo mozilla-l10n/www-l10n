@@ -34,6 +34,3 @@ firefox-new-your-system-may-not = Poida que o teu sistema non cumpra cos requisi
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = Se che aparece un aviso de que a aplicación que estás a intentar descargar non está verificada por { -brand-name-microsoft }, preme «Instalar de todas formas» ou <a { $attrs }>cambia a configuración de recomendación de aplicacións</a>.
 firefox-new-visit-support-for-more = Para máis información, consulta a páxina de Asistencia
-
-# Not-Required
-

@@ -10,6 +10,3 @@
 
 new-platform-free-web-browser = Bezmoksas porlyuks
 new-platform-need-help = Vajag paleidzeibu?
-
-# Linux
-

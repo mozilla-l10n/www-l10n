@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Tải xuống { -brand-name-firefox-browser } dành cho { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Bạn đã có { -brand-name-chromebook } — bây giờ đã đến lúc có { -brand-name-firefox-browser } độc lập, tự động riêng tư để bảo vệ dữ liệu cá nhân của bạn.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Tải xuống { -brand-name-firefox } dành cho { -brand-name-android }
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Hỗ trợ công nghệ 
 browsers-chromebook-is-it-hard = Có gặp khó khăn khi cài đặt { -brand-name-firefox } dành cho { -brand-name-chromebook } không?
 browsers-chromebook-we-wish-it = Chúng tôi muốn nó đơn giản hơn, nhưng { -brand-name-chromebook } của bạn muốn giữ bạn trong hệ sinh thái { -brand-name-google-play }. Tuy nhiên, chúng tôi nghĩ rằng bạn nên cố gắng cài đặt trình duyệt { -brand-name-firefox } vào { -brand-name-chromebook } của mình – và chúng tôi có tài nguyên để trợ giúp bạn nếu bạn cần chúng. Có hai cách để tải { -brand-name-firefox } trên thiết bị của bạn.
 browsers-chromebook-install-firefox-from = Cài đặt { -brand-name-firefox } từ cửa hàng { -brand-name-google-play }: trên các phiên bản mới hơn của { -brand-name-chromeos } (dựa trên x86 { -brand-name-chromebook } đang chạy { -brand-name-chromeos } 80 trở lên), bạn có tùy chọn cài đặt ứng dụng { -brand-name-firefox } dành cho { -brand-name-android }. Ứng dụng này được phát triển cho các thiết bị di động.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Cài đặt { -brand-name-firefox } dưới dạng ứng dụng { -brand-name-linux }: đi theo con đường này sẽ mất thêm một vài bước, nhưng rất đáng giá. Khi bạn cài đặt trình duyệt { -brand-name-firefox } dưới dạng ứng dụng { -brand-name-linux }, bạn sẽ nhận được trình duyệt { -brand-name-firefox } dành cho máy tính để bàn và tất cả các lợi ích đi kèm, bao gồm cả trình chống theo dõi nâng cao , trình quản lý mật khẩu tích hợp, quyền truy cập vào hàng nghìn tiện ích bổ sung (bao gồm cả trình chặn quảng cáo UBlock Origin) và các chủ đề để tùy chỉnh giao diện trình duyệt của bạn. <a { $url }>Tìm hiểu thêm về cách cài đặt trình duyệt  { -brand-name-chromebook } dành cho máy tính để bàn cho { -brand-name-chromebook }.</a>

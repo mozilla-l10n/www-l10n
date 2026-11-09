@@ -15,9 +15,6 @@ new-platform-2x-faster = 2 есе жылдам
 new-platform-advanced-install-options = Орнатудың қосымша мүмкіндіктері және басқа платформалар
 new-platform-download-in-another = Басқа тілде жүктеп алу
 new-platform-need-help = Көмек керек пе?
-
-# Linux
-
 new-platform-download-mozilla-linux = { -brand-name-linux } үшін { -brand-name-mozilla } { -brand-name-firefox } жүктеп алыңыз
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = { -brand-name-linux } жүйесіне арналған тегін веб-браузер — { -brand-name-mozilla } { -brand-name-firefox } жүктеп алыңыз. { -brand-name-firefox } браузерін әрбір адамның желідегі әрекеттерін өз бақылауында ұстауына жағдай жасайтын жаһандық коммерциялық емес ұйым әзірлеген. { -brand-name-linux } үшін { -brand-name-firefox } браузерін бүгін алыңыз!

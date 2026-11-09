@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Если вы видите предупреждение утверждающее, что приложение, которое вы пытаетесь установить, не является проверенным { -brand-name-microsoft } приложением, щёлкните «Всё равно установить» или <a { $attrs }>измените настройки рекомендации приложений</a>.
 firefox-new-visit-support-for-more = Посетите сайт поддержки для получения дополнительных сведений
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

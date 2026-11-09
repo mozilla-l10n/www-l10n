@@ -10,6 +10,3 @@
 
 new-platform-free-web-browser = Gratis webblaaier
 new-platform-need-help = Benodig hulp?
-
-# Linux
-

@@ -15,9 +15,6 @@ new-platform-2x-faster = 2 x hìo
 new-platform-advanced-install-options = Chrēj huāj ñan doj guendâ nādunïnjt nī a’ngô nej plataforma
 new-platform-download-in-another = Nadunïnj ngà a'ngô nuguan'an
 new-platform-need-help = Hua sa rugûñu’ūnj ñûnj sò’ aj
-
-# Linux
-
 new-platform-download-mozilla-linux = Nādunïnj { -brand-name-mozilla } { -brand-name-firefox } guendâ { -brand-name-linux }
 
 ## Mac

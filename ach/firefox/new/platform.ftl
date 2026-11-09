@@ -12,9 +12,6 @@ new-platform-free-web-browser = Layeny Kakube me nono
 new-platform-download-the-fastest = Gam { -brand-name-firefox } ma pud dong dwir loyo
 new-platform-download-in-another = Gam i leb mapat
 new-platform-need-help = Imito kony?
-
-# Linux
-
 new-platform-download-mozilla-linux = Gam { -brand-name-mozilla } { -brand-name-firefox } pi { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Gam { -brand-name-mozilla } { -brand-name-firefox } pi { -brand-name-linux }, layeny Kakube me nono. { -brand-name-firefox } layubo ne aye dul me wilobo ma pe me nongo magoba ma odyere me keto dano i loc iwiyamo. Nong { -brand-name-firefox } pi { -brand-name-linux } tin!

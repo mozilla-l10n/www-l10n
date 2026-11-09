@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Scarica il { -brand-name-firefox-browser } per { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Se utilizzi un { -brand-name-chromebook }, è giunto il momento di proteggere i tuoi dati personali installando il { -brand-name-firefox-browser }, indipendente e privato per impostazione predefinita.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Scarica { -brand-name-firefox } per { -brand-name-android }
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Supporto alla tecnologie
 browsers-chromebook-is-it-hard = È difficile installare { -brand-name-firefox } per { -brand-name-chromebook }?
 browsers-chromebook-we-wish-it = Noi vorremmo renderti l’installazione più semplice, ma i produttori del { -brand-name-chromebook } fanno del loro meglio per vincolarti all’ecosistema { -brand-name-google-play }. Tuttavia, riteniamo che lo sforzo di installare il browser { -brand-name-firefox } sul tuo { -brand-name-chromebook } valga la pena e, in caso di bisogno, abbiamo approntato tutte le risorse per aiutarti. Esistono due modi per utilizzare { -brand-name-firefox } sul tuo dispositivo.
 browsers-chromebook-install-firefox-from = Installa { -brand-name-firefox } da { -brand-name-google-play } Store: nelle versioni più recenti di { -brand-name-chromeos } (basate su { -brand-name-chromebook } x86, eseguite su { -brand-name-chromeos } 80 o successivo), hai la possibilità di installare l’app { -brand-name-firefox } per { -brand-name-android }. Questa app è stata sviluppata specificamente per i dispositivi mobili.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Installa { -brand-name-firefox } come app per { -brand-name-linux }: seguire questa strada richiede qualche passaggio in più, ma ne vale la pena. Quando installi il browser { -brand-name-firefox } come app per { -brand-name-linux }, ottieni il browser desktop { -brand-name-firefox } e tutti i vantaggi che ne derivano, inclusa la protezione antitracciamento avanzata, uno strumento di gestione password integrato, accesso a migliaia di componenti aggiuntivi (incluso il blocco degli annunci di UBlock Origin) e temi per personalizzare l’aspetto del tuo browser. <a { $url }>Ulteriori informazioni sull’installazione del browser desktop { -brand-name-firefox } per { -brand-name-chromebook }.</a>

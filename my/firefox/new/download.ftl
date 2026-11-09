@@ -25,6 +25,3 @@ firefox-new-need-help = အကူအညီ လိုလား။
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = သင့်ဆွဲချမှုသည်အလိုအလျောက်စတင်သင့်သည်။ အလုပ်မလုပ်ဘူးလား <a id="{ $id }" href="{ $fallback_url }"> ထပ်မံဒေါင်းလုပ်ရယူရန်ကြိုးစားပါ </a> ။
 firefox-new-firefox-is-more-than-a-browser = ဘရောက်ဇာထက် { -brand-name-firefox }က သာလွန်ပါသည်
-
-# Not-Required
-

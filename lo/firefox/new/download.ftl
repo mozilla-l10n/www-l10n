@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = ຖ້າ​ຫາກ​ທ່ານ​ເຫັນ​ການ​ກະ​ຕຸ້ນ​ທີ່​ລະ​ບຸ​ວ່າ app ທີ່​ທ່ານ​ພະ​ຍາ​ຍາມ​ຕິດ​ຕັ້ງ​ບໍ່​ແມ່ນ app { -brand-name-microsoft }-verified app, click “Install anyway” ຫຼື <a { $attrs }>ປ່ຽນ​ການ​ຕັ້ງ​ຄ່າ​ການ​ແນະ​ນໍາ app</a >.
 firefox-new-visit-support-for-more = ເຂົ້າໄປເບິ່ງການຊ່ວຍເຫຼືອສຳລັບລາຍລະອຽດເພີ່ມເຕີມ
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

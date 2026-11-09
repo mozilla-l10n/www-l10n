@@ -45,9 +45,6 @@ vpn-shared-pricing-total = { $amount } dohromady
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = Cyłkowna suma { $amount } + dawk
 vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } hišće we wašim kraju k dispoziciji njeje.
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = Płaćizny a disponujomnosć sej wobhladać
 vpn-shared-platform-what-is = Što je { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Čehodla { -brand-name-mozilla-vpn }?

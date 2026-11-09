@@ -9,11 +9,11 @@ navigation-v2-menu = Menu
 ## Firefox menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
-navigation-v2-close-firefox-browsers-menu = Zamknij menu { -brand-name-firefox-browsers(case: "gen", capitalization: "lower") }
+navigation-v2-close-firefox-browsers-menu = Zamknij menu { -brand-name-firefox-browsers(capitalization: "lower", case: "gen") }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } na komputery
 navigation-v2-get-the-not-for-profit-backed = Pobierz przeglądarkę wspieraną przez organizację non-profit na system { -brand-name-windows }, { -brand-name-mac-short } lub { -brand-name-linux }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } na { -brand-name-android(case: "acc") }
-navigation-v2-get-the-customizable-mobile = Pobierz konfigurowalną przeglądarkę na telefony z { -brand-name-android(case: "ins", capitalization: "lower") }.
+navigation-v2-get-the-customizable-mobile = Pobierz konfigurowalną przeglądarkę na telefony z { -brand-name-android(capitalization: "lower", case: "ins") }.
 navigation-v2-firefox-for-ios = { -brand-name-firefox } na { -brand-name-ios }
 navigation-v2-get-the-mobile-browser = Pobierz przeglądarkę na swojego { -brand-name-iphone(case: "acc") } lub { -brand-name-ipad(case: "acc") }.
 navigation-v2-firefox-for-mobile = { -brand-name-firefox-browser } na telefon
@@ -24,7 +24,7 @@ navigation-v2-firefox-blog = Blog { -brand-name-firefox(case: "gen") }
 navigation-v2-read-about-new-firefox-features = Przeczytaj o nowych funkcjach { -brand-name-firefox(case: "gen") } i dowiedz się, jak zachować bezpieczeństwo w Internecie.
 navigation-v2-release-notes = Informacje o wydaniu
 navigation-v2-get-the-details-on-the = Poznaj szczegóły na temat najnowszych aktualizacji { -brand-name-firefox(case: "gen") }.
-navigation-v2-view-all-firefox-browsers = Wyświetl wszystkie { -brand-name-firefox-browsers(case: "acc", capitalization: "lower") }
+navigation-v2-view-all-firefox-browsers = Wyświetl wszystkie { -brand-name-firefox-browsers(capitalization: "lower", case: "acc") }
 
 ## Products menu
 

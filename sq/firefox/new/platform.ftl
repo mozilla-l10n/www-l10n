@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x Më i Shpejtë
 new-platform-advanced-install-options = Mundësi të thelluara instalimi & platforma të tjera
 new-platform-download-in-another = Shkarkojeni në një gjuhë tjetër
 new-platform-need-help = Ju duhet ndihmë?
-
-# Linux
-
 new-platform-download-mozilla-linux = Shkarkoni { -brand-name-mozilla } { -brand-name-firefox }-in për { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Shkarkoni { -brand-name-mozilla } { -brand-name-firefox }-in për { -brand-name-linux }, një shfletues i lirë. { -brand-name-firefox }-i është krijuar nga një organizëm jofitimprurës mbarëbotëror i përkushtuar vendosjes së individëve në kontroll të veprimtarisë në internet. Merreni { -brand-name-firefox }-in për { -brand-name-linux } që sot!

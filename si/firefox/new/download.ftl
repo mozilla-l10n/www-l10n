@@ -37,9 +37,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = ඔබ ස්ථාපනයට උත්සාහ කරන යෙදුම { -brand-name-microsoft }-සත්‍යාපිත යෙදුමක් නොවන බවට ප්‍රේරකයක් දුටුවහොත්, “කෙසේ වුවද ස්ථාපනය කරන්න” ඔබන්න හෝ <a { $attrs }>යෙදුම් නිර්දේශ සැකසුම් වෙනස් කරන්න</a >.
 firefox-new-visit-support-for-more = වැඩි විස්තර සඳහා සහාය බලන්න
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

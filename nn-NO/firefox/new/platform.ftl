@@ -15,9 +15,6 @@ new-platform-2x-faster = Dobbel så rask
 new-platform-advanced-install-options = Avanserte installasjonsalternativ og andre plattformer
 new-platform-download-in-another = Last ned på eit anna språk
 new-platform-need-help = Treng du hjelp?
-
-# Linux
-
 new-platform-download-mozilla-linux = Last ned { -brand-name-mozilla } { -brand-name-firefox } for { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Last ned { -brand-name-mozilla } { -brand-name-firefox } for { -brand-name-linux }, ein gratis nettlesar. { -brand-name-firefox } er laga av ei global ideell gruppe som vil gje einskildindivid kontroll på nettet. Last ned { -brand-name-firefox } for { -brand-name-linux } i dag!

@@ -25,6 +25,3 @@ firefox-new-need-help = Laguntza bila?
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Deskarga berehala hasiko da. Ez da hala? <a id="{ $id }" href="{ $fallback_url }">Saiatu berriro deskargatzen</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } nabigatzaile bat baino gehiago da.
-
-# Not-Required
-

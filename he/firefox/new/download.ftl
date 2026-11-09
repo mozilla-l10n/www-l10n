@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = אם אתם רואים הודעה המציינת שהיישום שאתם מנסים להתקין אינו יישום מאומת של { -brand-name-microsoft }, לחצו על "התקן בכל זאת" או <a { $attrs }>שנו את הגדרות ההמלצה לאפליקציה</a>.
 firefox-new-visit-support-for-more = בקרו בתמיכה לפרטים נוספים
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

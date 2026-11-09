@@ -44,9 +44,6 @@ vpn-shared-pricing-total = { $amount } tutali
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = { $amount } tutali + tassi
 vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } nun è ancora dispunìbbili nnô to pajisi
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = Vidi prezzi e dispunibbilità
 vpn-shared-platform-what-is = Chi è { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Picchì { -brand-name-mozilla-vpn }?

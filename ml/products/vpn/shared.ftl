@@ -37,9 +37,6 @@ vpn-shared-pricing-total = { $amount } തുക
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = { $amount } തുക (നികുതി ചേൎത്തിട്ടു്)
-
-# Platform subpage shared strings
-
 vpn-subnav-download-mozilla-vpn = { -brand-name-mozilla-vpn } ഇറക്കിവയ്ക്കുക
 vpn-subnav-features = സവിശേഷതകള്‍
 

@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x Mul Aninäq
 new-platform-advanced-install-options = Q'axinäq taq rucha'oj yakoj chuqa' ch'aqa' chik taq nuk'uche'el
 new-platform-download-in-another = Tiqasäx pa jun chik ch'ab'äl
 new-platform-need-help = ¿La nawajo' ato'ik?
-
-# Linux
-
 new-platform-download-mozilla-linux = Taqasaj { -brand-name-mozilla } { -brand-name-firefox } richin { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Taqasaj { -brand-name-mozilla } { -brand-name-firefox } richin { -brand-name-linux }, jun sipan okik'amaya'l. { -brand-name-firefox } nuk'un ruma jun ajronojel moloj ri majun ch'akoj rutzeqelib'en, ri nusamajij rij chi ri winaqi' tik'oje' kiq'ij pa ri k'amab'ey. ¡Tak'ulu' { -brand-name-firefox } richin { -brand-name-linux } wakami!

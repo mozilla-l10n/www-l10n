@@ -34,6 +34,3 @@ firefox-new-your-system-may-not = Ri aq'inoj rik'in jub'a' man nuq'i' ta ri taq 
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
 firefox-new-if-you-see-a-prompt = We natz'ët jun rutzijol akuchi' nub'ij chi ri chokoy nayäk man jikib'an ta ruma ri { -brand-name-microsoft }, tapitz'a' “Kan tiyak” o pa <a { $attrs }>tijal ri ruchilab'exik runuk'ulem chokoy</a>.
 firefox-new-visit-support-for-more = Tatz'eta' Tob'äl richin Ch'aqa' Rub'anikil
-
-# Not-Required
-

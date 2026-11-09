@@ -45,9 +45,6 @@ vpn-shared-pricing-total = { $amount } en total
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = { $amount } en total + taglia
 vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } n’è anc betg disponibel en tes pajais
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = Dà in'egliada als pretschs & a la disponibilitad
 vpn-shared-platform-what-is = Tge è { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Pertge { -brand-name-mozilla-vpn }?

@@ -15,9 +15,6 @@ new-platform-2x-faster = 2 kat daha hızlı
 new-platform-advanced-install-options = Gelişmiş yükleme seçenekleri ve diğer platformlar
 new-platform-download-in-another = Başka bir dilde indir
 new-platform-need-help = Yardım mı lazım?
-
-# Linux
-
 new-platform-download-mozilla-linux = { -brand-name-linux } için { -brand-name-mozilla } { -brand-name-firefox }'u indir
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Özgür web tarayıcısı { -brand-name-mozilla } { -brand-name-firefox }'un { -brand-name-linux } sürümünü indirin. { -brand-name-firefox }, kontrolü bireylerin elinde tutmayı amaçlayan küresel bir kâr amacı gütmeyen kurumun ürünüdür. { -brand-name-firefox }'u hemen edinin!

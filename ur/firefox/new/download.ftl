@@ -28,6 +28,3 @@ firefox-new-your-firefox-new-should-begin = آپ کا ڈاؤن لوڈ خودبخ
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } براؤزر سے زیادہ ہے۔
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = آپ کے ڈاؤن لوڈ میں خلل پڑا۔ لیکن سب ختم نہیں ہوا ہے۔
-
-# Not-Required
-

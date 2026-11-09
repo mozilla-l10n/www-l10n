@@ -46,11 +46,7 @@ newsletters-please-select-country = Vyberte prosím zemi nebo oblast
 # Form field error message
 newsletters-please-select-language = Vyberte prosím jazyk
 newsletters-it-may-take = Zobrazení nově přidaných informací na této stránce může trvat až hodinu.
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-
-newsletters-many-of-our-communications-v2 = Mnoho našich sdělení se týká účtu, do kterého jste se zaregistrovali, tedy např. { -brand-name-mozilla-accounts(case: "gen", capitalization: "lower") }, webové dokumentace na { -brand-name-mdn-web-docs(case: "loc") } nebo vývojáře doplňků. Chcete-li spravovat jeden ze svých účtů nebo zobrazit seznam všech účtů, navštivte náš <a href="{ $url }">článek podpory o správě účtů</a>.
+newsletters-many-of-our-communications-v2 = Mnoho našich sdělení se týká účtu, do kterého jste se zaregistrovali, tedy např. { -brand-name-mozilla-accounts(capitalization: "lower", case: "gen") }, webové dokumentace na { -brand-name-mdn-web-docs(case: "loc") } nebo vývojáře doplňků. Chcete-li spravovat jeden ze svých účtů nebo zobrazit seznam všech účtů, navštivte náš <a href="{ $url }">článek podpory o správě účtů</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Chcete-li získat přístup k celému světu produktů, znalostí a služeb { -brand-name-firefox(case: "gen") } v jednom účtu, připojte se k nám! O výhodách se více dozvíte <a href="{ $url }">zde</a>.
@@ -206,9 +202,9 @@ newsletters-download-firefox-for-ios = Stáhnout { -brand-name-firefox(case: "ac
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-mobile = Stáhnout { -brand-name-firefox(case: "acc") } pro mobilní telefon
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-accounts-tips = Tipy pro { -brand-name-firefox-accounts(case: "acc", capitalization: "lower") }
+newsletters-firefox-accounts-tips = Tipy pro { -brand-name-firefox-accounts(capitalization: "lower", case: "acc") }
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
-newsletters-get-the-most-firefox-account = Získejte ze svého { -brand-name-firefox-account(case: "gen", capitalization: "lower") } co nejvíce
+newsletters-get-the-most-firefox-account = Získejte ze svého { -brand-name-firefox-account(capitalization: "lower", case: "gen") } co nejvíce
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Description for the newsletter in Newsletter subscription page (Firefox Flicks)

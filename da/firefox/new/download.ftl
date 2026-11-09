@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Hvis du ser en meddelelse om, at appen du er ved at installere, ikke er en { -brand-name-microsoft }-bekræftet app, så klik på "Installer alligevel", eller <a { $attrs }>skift indstillinger for appanbefalinger</a>.
 firefox-new-visit-support-for-more = Besøg Support for flere detaljer
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

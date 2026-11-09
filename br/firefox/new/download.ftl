@@ -19,9 +19,6 @@ firefox-new-need-help = Ezhomm skoazell?
 firefox-new-download-almost-there = Tost echu!
 firefox-new-windows = { -brand-name-windows }
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

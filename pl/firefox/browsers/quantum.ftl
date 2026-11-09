@@ -6,9 +6,9 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
 page-title = Pobierz { -brand-name-firefox-quantum(case: "acc") }
-page-description = { -brand-name-firefox-quantum } był rewolucją. W 2017 roku stworzyliśmy nową, błyskawicznie szybką przeglądarkę, którą nieustannie ulepszamy. { -brand-name-firefox-quantum } to { -brand-name-firefox-browser(case: "nom", capitalization: "lower") }.
+page-description = { -brand-name-firefox-quantum } był rewolucją. W 2017 roku stworzyliśmy nową, błyskawicznie szybką przeglądarkę, którą nieustannie ulepszamy. { -brand-name-firefox-quantum } to { -brand-name-firefox-browser(capitalization: "lower", case: "nom") }.
 the-latest-firefox = Najnowszy silnik { -brand-name-firefox(case: "gen") }: { -brand-name-firefox-quantum }
-firefox-quantum-was = { -brand-name-firefox-quantum } był rewolucją w rozwoju { -brand-name-firefox(case: "gen") }. W 2017 roku stworzyliśmy nową, błyskawicznie szybką przeglądarkę, którą nieustannie ulepszamy. { -brand-name-firefox-quantum } to { -brand-name-firefox-browser(case: "nom", capitalization: "lower") }.
+firefox-quantum-was = { -brand-name-firefox-quantum } był rewolucją w rozwoju { -brand-name-firefox(case: "gen") }. W 2017 roku stworzyliśmy nową, błyskawicznie szybką przeglądarkę, którą nieustannie ulepszamy. { -brand-name-firefox-quantum } to { -brand-name-firefox-browser(capitalization: "lower", case: "nom") }.
 # https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
 learn-more-about = Więcej informacji o { -brand-name-firefox-quantum(case: "loc") }
 privacy-first = Zawsze prywatny

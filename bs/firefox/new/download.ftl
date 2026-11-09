@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Ako vidite upit u kojem se navodi da aplikacija koju pokušavate instalirati nije verifikovao { -brand-name-microsoft }, kliknite na “Instaliraj svejedno” ili <a { $attrs }>promijenite postavke preporuke aplikacije</a >.
 firefox-new-visit-support-for-more = Posjetite podršku za više detalja
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

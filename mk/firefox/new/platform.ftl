@@ -10,6 +10,3 @@
 
 new-platform-free-web-browser = Бесплатен прелистувач за Интернет
 new-platform-need-help = Ви треба помош?
-
-# Linux
-

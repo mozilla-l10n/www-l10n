@@ -45,9 +45,6 @@ vpn-shared-pricing-total = 총액 { $amount }
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = 총액 { $amount } + 세금
 vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn }은 아직 해당 국가에서 사용할 수 없습니다.
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = 가격과 이용 가능성 보기
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn }이 무엇인가요?
 vpn-shared-platfrom-why-choose = 왜 { -brand-name-mozilla-vpn }인가요?

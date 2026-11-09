@@ -15,9 +15,6 @@ new-platform-2x-faster = နှစ်ဆပိုမိုမြန်ဆန်
 new-platform-advanced-install-options = အဆင့်မြင့် options များ & အခြားပလက်ဖောင်းများကို သွင်းပါ
 new-platform-download-in-another = အခြားဘာသာစကားဖြင့်ဆွဲယူပါ။
 new-platform-need-help = အကူအညီ လိုလား။
-
-# Linux
-
 new-platform-download-mozilla-linux = { -brand-name-linux } အတွက် { -brand-name-mozilla } { -brand-name-firefox } ကို download လုပ်ပါ
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = { -brand-name-firefox }သည်အကျိုးအမြတ်ကိုမမျှော်ကိုးသောအဖွဲ့အစည်းဖြစ်ပြီးအွန်လိုင်းပေါ်တွင်ခြေရာခံမှုများကာကွယ်ထိန်းချုပ်ပေးသည်။ထို့ကြောင့် { -brand-name-linux } အတွက် { -brand-name-mozilla } { -brand-name-firefox } ကို ယနေ့ပဲ ဆွဲချယူပါ။

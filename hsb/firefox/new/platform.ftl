@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x spěšniši
 new-platform-advanced-install-options = Rozšěrjene instalowanske nastajenja a druhe platformy
 new-platform-download-in-another = W druhej rěči sćahnyć
 new-platform-need-help = Trjebaće pomoc?
-
-# Linux
-
 new-platform-download-mozilla-linux = { -brand-name-mozilla } { -brand-name-firefox } za { -brand-name-linux } sćahnyć
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Sćehńće { -brand-name-mozilla } { -brand-name-firefox } za { -brand-name-linux }, swobodny webwobhladowak. { -brand-name-firefox } so wot swětodalokeje powšitkownosći wužitneje organizacije wuwiwa, kotraž so za to zasadźuje, zo kóždy ma kontrolu w interneće. Wobstarajće sej dźensa { -brand-name-firefox } za { -brand-name-linux }!

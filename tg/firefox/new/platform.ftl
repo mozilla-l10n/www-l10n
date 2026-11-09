@@ -15,9 +15,6 @@ new-platform-2x-faster = 2 маротиба тезтар
 new-platform-advanced-install-options = Имконоти иловагӣ барои насб ва платформҳои дигар
 new-platform-download-in-another = Бо забони дигар боргирӣ намоед
 new-platform-need-help = Кумак лозим аст?
-
-# Linux
-
 new-platform-download-mozilla-linux = Браузери «{ -brand-name-mozilla } { -brand-name-firefox }»-ро <br>барои «{ -brand-name-linux }» боргирӣ намоед
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Браузери ройгони интернетии «{ -brand-name-mozilla } { -brand-name-firefox }»-ро барои «{ -brand-name-linux }» боргирӣ намоед. Браузери «{ -brand-name-firefox }» аз ҷониби ташкилоти ғайритиҷоратие сохта шудааст, ки вафодор буда, ба одамон имконияти идоракунии ҳаёти худро дар Интернет дастрас мекунад. Браузери «{ -brand-name-firefox }»-ро барои низоми амалкунандаи «{ -brand-name-linux }» имрӯз боргирӣ намоед!

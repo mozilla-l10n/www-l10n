@@ -45,9 +45,6 @@ vpn-shared-pricing-total = 總金額 { $amount }
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = 總計 { $amount } 外加稅金
 vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } 尚未在您的國家推出
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = 看看價格與已在哪些市場推出
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } 是什麼？
 vpn-shared-platfrom-why-choose = 為什麼要選擇 { -brand-name-mozilla-vpn }？

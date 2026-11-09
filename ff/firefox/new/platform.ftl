@@ -15,9 +15,6 @@ new-platform-2x-faster = Ɓuri yaawde x2
 new-platform-advanced-install-options = Cuɓe aaftogol dowrowe & tammbordɗe goɗɗe
 new-platform-download-in-another = Aawto e ɗemngal goɗngal
 new-platform-need-help = Aɗa sokli ballal?
-
-# Linux
-
 new-platform-download-mozilla-linux = Aawto { -brand-name-mozilla } { -brand-name-firefox } ngam { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Aawto { -brand-name-mozilla } { -brand-name-firefox } ngam { -brand-name-linux }, wanngorde dokkal. { -brand-name-firefox } waɗi-ɗum ko renndo huuɓnungo ngo yiylaaki ngalu ngo faandaare mum woni ko hokkude mo woni kala doole ɗe naatiri e enternet. Heɓ { -brand-name-firefox } ngam { -brand-name-linux } hannde!

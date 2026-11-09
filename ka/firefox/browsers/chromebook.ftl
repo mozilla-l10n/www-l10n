@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = გადმოწერეთ { -brand-name-firefox-browser } { -brand-name-chromebook }-ზე
 browsers-chromebook-so-youve-got = ვინაიდან უკვე გაქვთ { -brand-name-chromebook } — ახლა დროა, გადმოწეროთ დამოუკიდებელი, პირადული { -brand-name-firefox-browser } თქვენი მონაცემების დასაცავად.
 browsers-chromebook-browsers-chromebook-get-firefox-for = გადმოწერეთ { -brand-name-firefox } { -brand-name-android }-ზე
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = მხარდაჭე
 browsers-chromebook-is-it-hard = ძნელია { -brand-name-firefox }-ის დაყენება { -brand-name-chromebook }-ზე?
 browsers-chromebook-we-wish-it = ვისურვებდით, უფრო ადვილი ყოფილიყო, მაგრამ { -brand-name-chromebook } ამჯობინებს დაგტოვოთ { -brand-name-google-play }-ის ეკოსისტემის ქვეშ. თუმცა მიგვაჩნია, რომ გამართლებულია ძალისხმევა { -brand-name-firefox }-ბრაუზერის დასამატებლად { -brand-name-chromebook }-ზე – და გთავაზობთ მითითებებს, რომლებიც ამაში დაგეხმარებათ. ორი გზაა, { -brand-name-firefox }-ის თქვენს მოწყობილობაზე მოსახვედრად.
 browsers-chromebook-install-firefox-from = დააყენოთ { -brand-name-firefox } პირდაპირ { -brand-name-google-play } Store-იდან: ბოლო ვერსიების { -brand-name-chromeos } (x86-იან { -brand-name-chromebook }-ზე გაშვებული { -brand-name-chromeos } 80 ან უფრო ახალი), გაძლევთ საშუალებას დააყენოთ { -brand-name-firefox } აპლიკაცია { -brand-name-android }-ისთვის. იგი განკუთვნილია მობილური მოწყობილობებისთვის.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = დააყენოთ { -brand-name-firefox }, როგორც { -brand-name-linux }-პროგრამა: ცოტა მეტი საფეხურია, მაგრამ ამად ღირს. როცა { -brand-name-firefox } დაყენდება { -brand-name-linux }-პროგრამად, თქვენ გექნებათ კომპიუტერის { -brand-name-firefox }, ყველა უპირატესობით, მათ შორის თვალთვალისგან გაძლიერებული დაცვით, ჩაშენებული პაროლების მმართველით, ათასობით დამატებასთან წვდომით (როგორიცაა UBlock Origin, რეკლამების შესაზღუდად) და თემებით, ბრაუზერის იერსახისთვის. <a { $url }>იხილეთ ვრცლად, როგორ უნდა დაყენდეს კომპიუტერის { -brand-name-firefox }-ბრაუზერი { -brand-name-chromebook }-ზე.</a>

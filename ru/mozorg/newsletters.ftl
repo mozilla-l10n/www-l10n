@@ -46,10 +46,6 @@ newsletters-please-select-country = Пожалуйста, выберите ст�
 # Form field error message
 newsletters-please-select-language = Пожалуйста, выберите язык
 newsletters-it-may-take = Для отображения информации о новой подписке на этой странице может потребоваться до часа.
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-
 newsletters-many-of-our-communications-v2 = Большинство наших сообщений относятся к зарегистрированному вами аккаунту, например, { -brand-name-mozilla-accounts(case: "dative") }, профилю на сайте { -brand-name-mdn-web-docs } или аккаунту разработчика дополнений. Для управления одним из ваших аккаунтов или просмотра списка ваших аккаунтов, посетите нашу <a href="{ $url }">страницу помощи по управлению аккаунтами</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/

@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x kiirem
 new-platform-advanced-install-options = Täpsemad paigaldusvalikud ja teised platvormid
 new-platform-download-in-another = Teises keeles allalaadimine
 new-platform-need-help = Otsid abi?
-
-# Linux
-
 new-platform-download-mozilla-linux = Laadi alla { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux }ile
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Laadi alla tasuta veebilehitseja { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux }ile. { -brand-name-firefox }i arendab globaalne mittetulundusorganisatsioon, mis on pühendunud üksikisikutele internetis juhtohjade andmisele. Hangi juba täna { -brand-name-firefox } { -brand-name-linux }ile!

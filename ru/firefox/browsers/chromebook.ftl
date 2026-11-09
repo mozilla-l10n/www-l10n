@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Скачать { -brand-name-firefox-browser(case: "nominative") } для { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Итак, у вас есть { -brand-name-chromebook } — теперь пришло время скачать независимый, защищающий вашу приватность «из коробки» { -brand-name-firefox-browser(case: "nominative") } для защиты ваших личных данных.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Скачать { -brand-name-firefox } для { -brand-name-android }
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Поддержка не�
 browsers-chromebook-is-it-hard = Сложно ли установить { -brand-name-firefox } на { -brand-name-chromebook }?
 browsers-chromebook-we-wish-it = Мы хотели бы сказать, что это просто, но ваш { -brand-name-chromebook } нацелен на удержание вас в экосистеме { -brand-name-google-play }. Однако мы считаем, что стоит приложить усилия, чтобы установить браузер { -brand-name-firefox } на ваш { -brand-name-chromebook } — у нас есть советы, которые вам помогут. Существует два способа загрузить { -brand-name-firefox } на ваше устройство.
 browsers-chromebook-install-firefox-from = Установите { -brand-name-firefox } из магазина { -brand-name-google-play }: в новых версиях { -brand-name-chromeos } ({ -brand-name-chromebook } на базе x86, работающий на { -brand-name-chromeos } 80 или более поздних версиях), вы можете установить { -brand-name-firefox } для { -brand-name-android }. Это приложение разработано для мобильных устройств.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Установите { -brand-name-firefox } как программу { -brand-name-linux }: для реализации этого способа потребуется большее число шагов, однако это того стоит. Когда вы устанавливаете браузер { -brand-name-firefox } как программу { -brand-name-linux }, вы получаете полноценный компьютерный { -brand-name-firefox } и все его преимущества, среди которых улучшенная защита от отслеживания, встроенный менеджер паролей, доступ к тысячам дополнений (включая блокировщик рекламы UBlock Origin) и тем для настройки внешнего вида вашего браузера. <a { $url }>Подробнее об установке компьютерного { -brand-name-firefox } на { -brand-name-chromebook }.</a>

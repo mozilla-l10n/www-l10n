@@ -15,9 +15,6 @@ new-platform-2x-faster = 두 배 더 빠른
 new-platform-advanced-install-options = 고급 설치 방법 및 기타 플랫폼
 new-platform-download-in-another = 언어별 다운로드
 new-platform-need-help = 도움이 필요한가요?
-
-# Linux
-
 new-platform-download-mozilla-linux = { -brand-name-linux } 용 { -brand-name-mozilla } { -brand-name-firefox } 다운로드
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = 무료 웹 브라우저, { -brand-name-linux }용 { -brand-name-mozilla } { -brand-name-firefox }를 내려받으세요. { -brand-name-firefox }는 개개인이 온라인에서 독립적인 제어권을 갖도록 추구하는 전세계적인 비영리 단체가 제작했습니다. 오늘 { -brand-name-linux }용 { -brand-name-firefox }를 사용해 보세요!

@@ -46,10 +46,6 @@ newsletters-please-select-country = Por favor, selecciona un país o región
 # Form field error message
 newsletters-please-select-language = Por favor, selecciona un idioma
 newsletters-it-may-take = La información recién suscrita puede tardar hasta una hora en aparecer en esta página.
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-
 newsletters-many-of-our-communications-v2 = Muchas de nuestras comunicaciones están relacionadas con una cuenta a la que te has suscrito, como { -brand-name-mozilla-accounts }, { -brand-name-mdn-web-docs }, o Desarrollador de complementos. Para administrar una de tus cuentas o ver una lista de todas ellas, visita nuestra página <a href="{ $url }">de asistencia para la administración de cuentas</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/

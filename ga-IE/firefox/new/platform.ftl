@@ -10,6 +10,3 @@
 
 new-platform-free-web-browser = Brabhsálaí Saor in Aisce
 new-platform-need-help = Cabhair uait?
-
-# Linux
-

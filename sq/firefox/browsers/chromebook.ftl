@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Merreni { -brand-name-firefox-browser }-in për { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Kështu, pra, morët një { -brand-name-chromebook } — tani erdhi koha të merrni { -brand-name-firefox-browser }-in e pavarur, automatikisht privat, për të mbrojtur të dhënat tuaja personale.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Merrni { -brand-name-firefox }-in për { -brand-name-android }
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Përkrahje teknologjish 
 browsers-chromebook-is-it-hard = A është e vështirë të instalohet { -brand-name-firefox }-i për { -brand-name-chromebook }?
 browsers-chromebook-we-wish-it = Do të donim të ishte më i thjeshtë, por { -brand-name-chromebook } juaj do të parapëlqente t’ju mbante në ekosistemin { -brand-name-google-play }. Sidoqoftë,mendojmë se ia vlen përpjekja për ta instaluar shfletuesin { -brand-name-firefox } në { -brand-name-chromebook } tuaj – dhe kemi materiale për t’ju ndihmuar, nëse ju duhen të tilla. Ka dy rrugë për të marrë { -brand-name-firefox }-in në pajisjen tuaj.
 browsers-chromebook-install-firefox-from = Instaloni { -brand-name-firefox }-in prej { -brand-name-google-play } Store: në versione më të rinj të { -brand-name-chromeos } ( { -brand-name-chromebook } me bazë x86 që xhirojnë { -brand-name-chromeos } 80 ose të mëvonshëm), keni mundësinë të instaloni aplikacionin { -brand-name-firefox } për { -brand-name-android }. Ky aplikacion është zhvilluar për pajisje celulare.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Instalojeni { -brand-name-firefox }-in si një aplikacion { -brand-name-linux }: përmes kësaj rruge ka ca hapa më tepër, por ia vlen. Kur instaloni shfletuesin { -brand-name-firefox } si një aplikacion { -brand-name-linux }, merrni shfletuesin { -brand-name-firefox } desktop dhe krejt përfitimet që vijnë me të, përfshi Mbrojtje të Thelluar Nga Gjurmimet, një përgjegjës të brendshëm fjalëkalimesh, mijëra shtesa (përfshi bllokuesin e reklamave UBlock Origin) dhe tema grafike për të përshtatur pamjen e shfletuesit tuaj. <a { $url }>Mësoni më tepër rreth instalimit të shfletuesi { -brand-name-firefox } për desktop për { -brand-name-chromebook }.</a>

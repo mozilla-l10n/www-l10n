@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x mais rápido
 new-platform-advanced-install-options = Opções avançadas de instalação e outras plataformas
 new-platform-download-in-another = Transferir noutro idioma
 new-platform-need-help = Precisa de ajuda?
-
-# Linux
-
 new-platform-download-mozilla-linux = Transferir { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Transfira o { -brand-name-mozilla } { -brand-name-firefox } para { -brand-name-linux }, um navegador Web gratuito. O { -brand-name-firefox } é criado por uma organização global sem fins lucrativos dedicada em colocar indivíduos em controlo online. Obtenha o { -brand-name-firefox } para { -brand-name-linux } hoje!

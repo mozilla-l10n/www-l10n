@@ -14,6 +14,3 @@ new-platform-2x-faster = 2 ಪಟ್ಟು ವೇಗವಾಗಿದೆ
 new-platform-advanced-install-options = ಸುಧಾರಿತ ಸ್ಥಾಪನೆ ಆಯ್ಕೆಗಳು ಮತ್ತು ಇತರೆ ವೇದಿಕೆಗಳು
 new-platform-download-in-another = ಬೇರೆ ಭಾಷೆಯಲ್ಲಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ
 new-platform-need-help = ಸಹಾಯ ಬೇಕಿದೆಯೆ?
-
-# Linux
-

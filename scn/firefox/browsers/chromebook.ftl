@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Pìgghiati { -brand-name-firefox-browser } pi { -brand-name-chromebook }
 browsers-chromebook-browsers-chromebook-get-firefox-for = Pìgghiati { -brand-name-firefox } pi { -brand-name-android }
 browsers-chromebook-get-firefox-desktop = Pìgghiati { -brand-name-firefox } pû Scagnu pi { -brand-name-chromebook }
@@ -17,7 +14,3 @@ browsers-chromebook-dropdown-copy = Pìgghiati { -brand-name-firefox } pi { -bra
 browsers-chromebook-why-get-firefox = Picchì pigghiàrisi <span>{ -brand-name-firefox }</span> pi { -brand-name-chromebook }?
 browsers-chromebook-while-a-chromebook = Puru si ogni { -brand-name-chromebook } già àvi { -brand-name-chrome } nzitatu, scarricari e usari { -brand-name-firefox } comu navicaturi ti duna quarchi vantaggiu:
 browsers-chromebook-is-it-hard = È diffìcili nzitari { -brand-name-firefox } pi { -brand-name-chromebook }?
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-

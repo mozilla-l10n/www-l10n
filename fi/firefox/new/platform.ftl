@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x nopeampi
 new-platform-advanced-install-options = Asentamisen lisävalinnat ja muut alustat
 new-platform-download-in-another = Lataa toisella kielellä
 new-platform-need-help = Tarvitsetko apua?
-
-# Linux
-
 new-platform-download-mozilla-linux = Lataa { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux }ille
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Lataa { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux }ille. { -brand-name-firefox } on maailmanlaajuisen voittoa tavoittelemattoman järjestön luoma, jonka tavoite on antaa ihmisten hallita elämäänsä verkossa. Hanki { -brand-name-firefox } { -brand-name-linux }ille jo tänään!

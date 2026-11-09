@@ -12,7 +12,4 @@ new-platform-2x-faster = El doble de rápidu
 new-platform-advanced-install-options = Opciones avanzaes d'instalación y otres plataformes
 new-platform-download-in-another = Baxar n'otra llingua
 new-platform-need-help = ¿Precises ayuda?
-
-# Linux
-
 new-platform-privacy-more-than = Privacidá, más qu'una política

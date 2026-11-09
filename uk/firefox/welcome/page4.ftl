@@ -6,7 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/welcome/4/
 
 # HTML page title
-welcome-page4-download-the-firefox-browser = Завантажте { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } для { -brand-name-ios } та { -brand-name-android } на свій мобільний телефон
+welcome-page4-download-the-firefox-browser = Завантажте { -brand-name-firefox-browser(capitalization: "lower", case: "nom") } для { -brand-name-ios } та { -brand-name-android } на свій мобільний телефон
 welcome-page4-wallet-keys-phone-firefox = Гаманець. Ключі. Телефон. <strong>{ -brand-name-firefox }.</strong>
 welcome-page4-privacy-every-screen-now = Тепер отримуйте приватність на кожному пристрої
 welcome-page4-take-privacy-with-you-on-every = Отримайте приватність на кожному пристрої — і залиште стеження даних позаду.

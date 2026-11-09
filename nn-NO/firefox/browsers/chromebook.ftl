@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Last ned { -brand-name-firefox-browser }en for { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Så du har ei { -brand-name-chromebook } — no er det på tide å få den uavhengige, automatisk private { -brand-name-firefox-browser }en for å verne dine personlige data.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Last ned { -brand-name-firefox } for { -brand-name-android }
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Støttar uavhengig tekno
 browsers-chromebook-is-it-hard = Er det vanskeleg å installere { -brand-name-firefox } for { -brand-name-chromebook }?
 browsers-chromebook-we-wish-it = Vi skulle ønskje det var enklare, men { -brand-name-chromebook } føretrekkjer å behalde deg i { -brand-name-google-play }-økosystemet. Vi synest likevel det er verd innsatsen å installere nettlesaren { -brand-name-firefox } på { -brand-name-chromebook } – og vi har ressursar som kan hjelpe deg viss du treng dei. Det er to måtar å få { -brand-name-firefox } på eininga di.
 browsers-chromebook-install-firefox-from = Installer { -brand-name-firefox } frå { -brand-name-google-play } Store: på nyare versjonar av { -brand-name-chromeos } (x86-basert { -brand-name-chromebook } som køyrer { -brand-name-chromeos } 80 eller nyare), har du høve til å installere appen { -brand-name-firefox } for { -brand-name-android }. Denne appen er utvikla for mobile einingar.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Installer { -brand-name-firefox } som ein { -brand-name-linux }-app: å gjere dette tek litt lenger tid, men det er verdt det. Når du innstallerer nettlesaren { -brand-name-firefox } som ein { -brand-name-linux }-app får du nettlesaren { -brand-name-firefox } og alle fordelar som følgjer med, inkludert Utvida sporingsvern, ein innebygd passordhandsamar, tilgang til tusenvis av tillegg (inkludert UBlock Origin ad blocker) og tema for å tilpasse utsjånaden på nettlesaren din. <a { $url }>Les meir om installasjonen av { -brand-name-firefox }-nettlesar for { -brand-name-chromebook }.</a>

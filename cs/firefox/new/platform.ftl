@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x rychlejší
 new-platform-advanced-install-options = Pokročilé možnosti instalace a další platformy
 new-platform-download-in-another = Stáhnout v jiném jazyce
 new-platform-need-help = Potřebujete pomoci?
-
-# Linux
-
 new-platform-download-mozilla-linux = Stáhnout { -brand-name-mozilla } { -brand-name-firefox(case: "acc") } pro { -brand-name-linux(case: "acc") }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Stáhněte si svobodný webový prohlížeč { -brand-name-mozilla } { -brand-name-firefox } pro { -brand-name-linux(case: "acc") }. Je vyvíjen neziskovou organizací s cílem dát kontrolu nad internetem do vašich rukou. Stáhněte si { -brand-name-firefox(case: "acc") } pro { -brand-name-linux(case: "acc") } ještě dnes!

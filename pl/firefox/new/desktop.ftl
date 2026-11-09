@@ -9,7 +9,7 @@
 # the em dash is used in English to show a change of thought and
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
-firefox-desktop-download-meta-title = Pobierz { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } — szybką, prywatną i bezpłatną — od { -brand-name-mozilla(case: "gen") }
+firefox-desktop-download-meta-title = Pobierz { -brand-name-firefox-browser(capitalization: "lower", case: "acc") } — szybką, prywatną i bezpłatną — od { -brand-name-mozilla(case: "gen") }
 firefox-desktop-download-meta-title-v2 = Pobierz { -brand-name-firefox(case: "acc") } na komputery — od { -brand-name-mozilla(case: "gen") }
 firefox-desktop-download-meta-desc = Pobierz { -brand-name-firefox(case: "acc") }, bezpłatną przeglądarkę internetową wspieraną przez { -brand-name-mozilla(case: "acc") }, organizację non-profit oddaną zdrowiu Internetu i prywatności. Dostępna teraz w systemach { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } i { -brand-name-ios }.
 firefox-desktop-download-meta-desc-v2 = Pobierz { -brand-name-firefox(case: "acc") } dla systemu { -brand-name-windows }, { -brand-name-mac-short } lub { -brand-name-linux }. { -brand-name-firefox } to bezpłatna przeglądarka internetowa wspierana przez { -brand-name-mozilla(case: "acc") }, organizację non-profit oddaną zdrowiu Internetu i prywatności użytkowników.
@@ -23,7 +23,7 @@ firefox-desktop-download-get-the-browser = Pobierz przeglądarkę, która chroni
 firefox-desktop-download-fast-reliable-private = Szybki, niezawodny i prywatny — dla spokoju ducha w Internecie.
 firefox-desktop-set-as-default = Ustaw { -brand-name-firefox(case: "acc") } jako domyślną przeglądarkę.
 firefox-desktop-download-download-options = Opcje pobierania i inne języki
-firefox-desktop-download-browser-support = Pomoc { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }
+firefox-desktop-download-browser-support = Pomoc { -brand-name-firefox-browser(capitalization: "lower", case: "gen") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Rób w Internecie, co tylko chcesz.<br> { -brand-name-firefox-browser } jest po <strong>Twojej</strong> stronie.
 firefox-desktop-download-we-block-the-ad = My blokujemy śledzące reklamy. Ty szybciej przeglądasz Internet.
@@ -88,7 +88,7 @@ firefox-desktop-download-your-privacy-comes = Twoja prywatność jest najważnie
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Zachowaj wszystkie ulubione funkcje przeglądarki — i <strong>odkrywaj</strong> nowe.
 # Gmail and Docs are product names and should not be translated
-firefox-desktop-download-all-your-favourite = Wszystkie Twoje ulubione narzędzia { -brand-name-google } (takie jak Gmail i Docs) bezproblemowo działają w { -brand-name-firefox-browser(case: "loc", capitalization: "lower") }.
+firefox-desktop-download-all-your-favourite = Wszystkie Twoje ulubione narzędzia { -brand-name-google } (takie jak Gmail i Docs) bezproblemowo działają w { -brand-name-firefox-browser(capitalization: "lower", case: "loc") }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
@@ -99,8 +99,8 @@ firefox-desktop-download-screenshots = Zrzuty ekranu
 firefox-desktop-download-enhanced-tracking-protection = Wzmocniona ochrona przed śledzeniem
 firefox-desktop-download-from-watching-a = Od oglądania samouczka po obserwowanie swojej ulubionej drużyny, wideo jest zawsze przy Tobie, kiedy robisz wiele rzeczy jednocześnie.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
-firefox-desktop-download-get-firefox-android = Pobierz { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } na <strong>{ -brand-name-android(case: "acc") }</strong>
-firefox-desktop-download-get-firefox-ios = Pobierz { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } na <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-get-firefox-android = Pobierz { -brand-name-firefox-browser(capitalization: "lower", case: "acc") } na <strong>{ -brand-name-android(case: "acc") }</strong>
+firefox-desktop-download-get-firefox-ios = Pobierz { -brand-name-firefox-browser(capitalization: "lower", case: "acc") } na <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Pobierz przeglądarkę { -brand-name-firefox } na telefon, aby automatycznie chronić wszystkie swoje urządzenia.
 firefox-desktop-download-learn-about-the = Poniżej znajdziesz więcej informacji o przeglądarce { -brand-name-firefox } na komputery
 # Variables:

@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Wobstarajśo se { -brand-name-firefox-browser } za { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Maśo něnto { -brand-name-chromebook } – něnto jo cas, aby wy se njewótwisny awtomatiski priwatny { -brand-name-firefox-browser } wobstarał, aby wy swóje wósobinske daty šćitał.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Wobstarajśo se { -brand-name-firefox } za { -brand-name-android }
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Njewótwisna technologij
 browsers-chromebook-is-it-hard = Jo śěžko { -brand-name-firefox } za { -brand-name-chromebook } instalěrowaś?
 browsers-chromebook-we-wish-it = My by se žycyli, aby mjenjej komplicěrowane było, ale waš { -brand-name-chromebook } se pomina, was w ekosystemje { -brand-name-google-play } wobchowaś. Myslimy se pak, až se proca zadanijo, wobglědowak { -brand-name-firefox } do wašogo { -brand-name-chromebook } instalěrowaś – a mamy resurse, wam pomagaś, jolic je trjebaśo. Dajo dwě móžnosći, z kótarymaž { -brand-name-firefox } na waš rěd dostawaśo.
 browsers-chromebook-install-firefox-from = Instalěrujśo { -brand-name-firefox } z wobchoda { -brand-name-google-play }: pśi nowšych wersijach { -brand-name-chromeos } (na zakłaźe x86 { -brand-name-chromebook }, kótaryž z { -brand-name-chromeos } 80 abo nowšy běžy), maśo móžnosć, nałoženje  { -brand-name-firefox } za { -brand-name-android } instalěrowaś. Toś to nałoženje jo se wuwiło za mobilne rědy.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Instalěrujśo { -brand-name-firefox } ako nałoženje { -brand-name-linux }: Trjebaśo pótom mjenjej kšacow, ale se zadanijo. Gaž wobglědowak { -brand-name-firefox } ako nałoženje { -brand-name-linux } instalěrujośo, dostanjośo desktopowy wobglědowak { -brand-name-firefox } a wšykne lěpšyny, kótarež ma, mjazy nimi pólěpšony slědowański šćit, zatwarjony zastojnik gronidłow, pśistup k tysacam dodankow (mjazy nimi wabjeński blokěrowak uBlock Origin) a drastwam, z kótarymiž móžośo naglěd swójogo wobglědowaka pśiměriś. <a { $url }>Zgóńśo wěcej wó instalěrowanju desktopowego wobglědowaka { -brand-name-firefox } za { -brand-name-chromebook }.</a>

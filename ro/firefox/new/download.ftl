@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Dacă vezi un mesaj cum că aplicația pe care încerci să o instalezi nu este una verificată de { -brand-name-microsoft }, dă clic pe „Instalare oricum” sau <a { $attrs }>modifică setările de recomandare a aplicațiilor</a>.
 firefox-new-visit-support-for-more = Intră pe asistență pentru mai multe detalii
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

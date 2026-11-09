@@ -10,6 +10,3 @@
 
 new-platform-free-web-browser = वेब ब्राउजर सित्तैमा
 new-platform-need-help = सहयोग चाहियो?
-
-# Linux
-

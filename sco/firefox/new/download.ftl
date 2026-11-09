@@ -36,9 +36,6 @@ firefox-new-your-system-may-not = Yer system micht no match the requirements fur
 firefox-new-if-you-see-a-prompt = If you see a prompt sayin that the app ye’re ettlin tae instaw isnae a { -brand-name-microsoft }-verified app, click “Instaw onywey” or <a { $attrs }>chynge app recommendation settins</a>.
 firefox-new-visit-support-for-more = Veesit Support fur Mair Details
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

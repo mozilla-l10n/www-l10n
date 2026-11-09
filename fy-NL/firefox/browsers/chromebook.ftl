@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Download { -brand-name-firefox-browser } foar { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Jo hawwe dus in { -brand-name-chromebook } – no wurdt it tiid om de ûnôfhinklike { -brand-name-firefox-browser } te downloaden, dy’t automatysk privee is om jo persoanlike gegevens te beskermjen.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Download { -brand-name-firefox } foar { -brand-name-android }
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Stipe fan ûnôfhinklike
 browsers-chromebook-is-it-hard = Is it swier om { -brand-name-firefox } foar { -brand-name-chromebook } te ynstallearjen?
 browsers-chromebook-we-wish-it = Wy soene wolle dat it ienfâldiger wie, mar jo { -brand-name-chromebook } wol jo graach yn it ekosysteem fan { -brand-name-google-play } hâlde. Wy tinke echter dat it de muoite wurdich is om de { -brand-name-firefox }-browser op jo { -brand-name-chromebook } te ynstallearjen – en wy hawwe helpboarnen om jo te helpen as jo dêr behoefte oan hawwe. Der binne twa manieren om { -brand-name-firefox } op jo apparaat te downloaden.
 browsers-chromebook-install-firefox-from = Ynstallearje { -brand-name-firefox } út de { -brand-name-google-play } Store: op nijere ferzjes fan { -brand-name-chromeos } (x86-basearre { -brand-name-chromebook } op { -brand-name-chromeos } 80 of heger) hawwe jo de opsje om de app { -brand-name-firefox } foar { -brand-name-android } te ynstallearjen. Dizze app is ûntwikkele foar mobile apparaten.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Ynstallearje { -brand-name-firefox } as in { -brand-name-linux }-app: dizze rûte freget wat mear stappen, mar dy binne it wurdich. As jo de { -brand-name-firefox }-browser as in { -brand-name-linux }-app ynstallearje, ûntfange jo de { -brand-name-firefox }-desktopbrowser en alle foardielen dy’t dizze hat, wêrûnder Ferbettere beskerming tsjin folgjen, in ynboude wachtwurdbehearder, tagong ta tûzenen add-ons (wêrûnder de UBlock Origin-advertinsjeblokkearder) en tema’s om it uterlik fan jo browser oan te passen. <a { $url }>Mear ynfo oer it ynstallearjen fan de { -brand-name-firefox }-desktopbrowser foar { -brand-name-chromebook }.</a>

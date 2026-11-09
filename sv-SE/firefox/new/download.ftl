@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Om du får en uppmaning om att appen du försöker installera inte är en { -brand-name-microsoft }-verifierad app, klickar du på "Installera ändå" eller <a { $attrs }>ändra inställningar för apprekommendationer</a>.
 firefox-new-visit-support-for-more = Besök support för mer information
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

@@ -15,6 +15,3 @@ firefox-new-download-in-another-language = Изтеглете на друг ез
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } е повече от мрежов четец.
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-new-download-interrupted = Изтеглянето е прекъснато. Но не всичко е загубено.
-
-# Not-Required
-

@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x වේගවත්
 new-platform-advanced-install-options = වැඩිදුර ස්ථාපන විකල්ප සහ වෙනත් වේදිකා
 new-platform-download-in-another = වෙනත් භාෂාවකින් බාගන්න
 new-platform-need-help = උදව් වුවමනා ද?
-
-# Linux
-
 new-platform-download-mozilla-linux = { -brand-name-linux } සඳහා { -brand-name-mozilla } { -brand-name-firefox } බාගන්න
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = { -brand-name-linux } සඳහා { -brand-name-mozilla } { -brand-name-firefox } බාගන්න, නොමිලේ අතිරික්සුවකි. මාර්ගගත පෞද්ගලිකත්‍වය රැක ගැනීම උදෙසා කැප වූ ගෝලීය ලාභ නොලබන්නන් විසින් { -brand-name-firefox } සාදා ඇත. අදම { -brand-name-linux } සඳහා { -brand-name-firefox } ගන්න!

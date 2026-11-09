@@ -29,9 +29,6 @@ vpn-shared-pricing-total = { $amount } en holl
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = { $amount } en holl + tailh
-
-# Platform subpage shared strings
-
 vpn-shared-platform-what-is = Petra eo { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Perak { -brand-name-mozilla-vpn }?
 # Subnav strings

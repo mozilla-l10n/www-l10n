@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x d arurad ugar
 new-platform-advanced-install-options = Iγewwaṛen n telqayt n usebded & inagrawen nniḍen
 new-platform-download-in-another = Sader s tutlayt-ik
 new-platform-need-help = Tesriḍ tallelt?
-
-# Linux
-
 new-platform-download-mozilla-linux = Sader { -brand-name-mozilla } { -brand-name-firefox } i { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Sider { -brand-name-mozilla } { -brand-name-firefox } i { -brand-name-linux } , iminig Web ilelli. { -brand-name-firefox } tesnulfa-t-id tuddsa tagraɣlant ur yettnadin ara tadrimt, tin yesseḥbibiren ɣef yiseqdacen akken ad ṭṭfen tudert-nsen tumḍint gar ifassen-nsen. Sider { -brand-name-firefox } i { -brand-name-linux } ass-a!

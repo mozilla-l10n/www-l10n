@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Ef þú sérð vísbendingu um að forritið sem þú ert að reyna að setja upp sé ekki { -brand-name-microsoft }-staðfest forrit, smelltu á „Setja samt upp“ eða <a { $attrs }>breyttu stillingum fyrir tillögur forrita</a >.
 firefox-new-visit-support-for-more = Heimsæktu aðstoðargáttina fyrir frekari upplýsingar
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

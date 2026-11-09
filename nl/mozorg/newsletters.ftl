@@ -46,10 +46,6 @@ newsletters-please-select-country = Selecteer een land of regio
 # Form field error message
 newsletters-please-select-language = Selecteer een taal
 newsletters-it-may-take = Het kan tot een uur duren voordat gegevens over nieuwe abonnementen op deze pagina worden weergegeven.
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-
 newsletters-many-of-our-communications-v2 = Veel van onze mededelingen hebben betrekking op een account waarvoor u zich hebt ingeschreven, bijvoorbeeld { -brand-name-mozilla-accounts }, { -brand-name-mdn-web-docs } of add-on-ontwikkelaar. Op onze <a href="{ $url }">hulppagina voor accountbeheer</a> kunt u een van uw accounts beheren, of een lijst van alle accounts bekijken.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/

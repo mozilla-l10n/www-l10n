@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x bizkorragoa
 new-platform-advanced-install-options = Instalatzeko aukera aurreratuak eta beste plataformak
 new-platform-download-in-another = Deskargatu beste hizkuntza batean
 new-platform-need-help = Laguntza bila?
-
-# Linux
-
 new-platform-download-mozilla-linux = Deskargatu { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux }erako
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Deskargatu { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux }erako, web-nabigatzaile librea. { -brand-name-firefox } irabazi-asmorik gabeko erakunde global batek sortzen du norbanakoei online kontrola emateko. Eskuratu { -brand-name-firefox } { -brand-name-linux }erako orain!

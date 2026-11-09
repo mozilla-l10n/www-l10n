@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Агар шумо огоҳиеро бинед, ки дар бораи барномаи насбшавандаи шумо иттилоъ медиҳад, ки он аз тарафи «{ -brand-name-microsoft }» тасдиқ нашудааст, он гоҳ тугмаи «Ба ҳар ҳол насб кардан»-ро зер кунед ё <a { $attrs }>танзимоти тавсияҳои барномаро иваз намоед</a>.
 firefox-new-visit-support-for-more = Барои тафсилоти бештар ба сомонаи дастгирӣ ворид шавед
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

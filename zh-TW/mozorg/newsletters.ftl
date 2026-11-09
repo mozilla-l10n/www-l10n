@@ -46,10 +46,6 @@ newsletters-please-select-country = 請選擇國家或地區
 # Form field error message
 newsletters-please-select-language = 請選擇語言
 newsletters-it-may-take = 新訂閱的資訊可能要一小時後才會顯示在本頁。
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-
 newsletters-many-of-our-communications-v2 = 我們的許多通訊內容都與您註冊過的帳號有關，諸如 { -brand-name-mozilla-accounts }、{ -brand-name-mdn-web-docs } 或附加元件開發者中心。若要管理這些帳號，或想要了解您註冊過哪些帳號，請到<a href="{ $url }">帳號管理頁面</a>確認。
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/

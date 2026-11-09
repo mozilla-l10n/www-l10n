@@ -15,9 +15,6 @@ new-platform-2x-faster = Duoble pli rapida
 new-platform-advanced-install-options = Spertulaj instalaj elektebloj kaj aliaj platformoj
 new-platform-download-in-another = Elŝuti en alia lingvo
 new-platform-need-help = Ĉu vi bezonas helpon?
-
-# Linux
-
 new-platform-download-mozilla-linux = Elŝutu { -brand-name-mozilla } { -brand-name-firefox } por { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Elŝutu { -brand-name-mozilla } { -brand-name-firefox } por { -brand-name-linux }, ĝi estas libere uzebla retumilo. { -brand-name-firefox } estas kreita de tutmonda neprofitcela organizo, kies misio estas lasi uzantojn regi siajn vivojn en la reto. Elŝutu { -brand-name-firefox } por { -brand-name-linux } nun!

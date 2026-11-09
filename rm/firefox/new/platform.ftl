@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x pli spert
 new-platform-advanced-install-options = Opziuns d'installaziun avanzadas & autras plattafurmas
 new-platform-download-in-another = Telechargiar en in'autra lingua
 new-platform-need-help = Dovras agid?
-
-# Linux
-
 new-platform-download-mozilla-linux = Telechargiar { -brand-name-mozilla } { -brand-name-firefox } per { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Telechargia { -brand-name-mozilla } { -brand-name-firefox } per { -brand-name-linux }, in navigatur liber e gratuit. { -brand-name-firefox } vegn creà d'ina interpresa globala senza finamira da profit che dat a mintgin la controlla sur ses navigatur. Va ussa per { -brand-name-firefox } per { -brand-name-linux }!

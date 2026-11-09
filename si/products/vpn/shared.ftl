@@ -15,6 +15,3 @@ vpn-shared-pricing-monthly = { $amount }<span>/මාසය</span>
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = මුළු { $amount }
-
-# Platform subpage shared strings
-

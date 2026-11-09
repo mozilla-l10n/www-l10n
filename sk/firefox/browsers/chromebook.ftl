@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Získajte { -brand-name-firefox-browser(capitalization: "lower") } pre { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Takže máte { -brand-name-chromebook } – teraz je čas získať nezávislý, automaticky súkromný { -brand-name-firefox-browser(capitalization: "lower") } na ochranu vašich osobných údajov.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Získať { -brand-name-firefox } pre { -brand-name-android }
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Podpora nezávislej tech
 browsers-chromebook-is-it-hard = Je ťažké nainštalovať { -brand-name-firefox } na { -brand-name-chromebook }?
 browsers-chromebook-we-wish-it = Priali by sme si, aby to bolo jednoduchšie, ale váš { -brand-name-chromebook } by vás najradšej ponechal v ekosystéme { -brand-name-google-play }. Myslíme si však, že stojí za námahu nainštalovať prehliadač { -brand-name-firefox } do vášho { -brand-name-chromebook(case: "gen") } – a máme zdroje, ktoré vám pomôžu, ak ich budete potrebovať. Existujú dva spôsoby, ako získať { -brand-name-firefox } do svojho zariadenia.
 browsers-chromebook-install-firefox-from = Nainštalujte si { -brand-name-firefox } z obchodu { -brand-name-google-play }: na novších verziách { -brand-name-chromeos } ({ -brand-name-chromebook } založený na x86 so systémom { -brand-name-chromeos } 80 alebo novším), máte možnosť nainštalovať aplikáciu { -brand-name-firefox } pre { -brand-name-android }. Táto aplikácia je vyvinutá pre mobilné zariadenia.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Nainštalujte si { -brand-name-firefox } ako aplikáciu pre { -brand-name-linux }: prejsť touto cestou si vyžaduje niekoľko ďalších krokov, ale stojí to za to. Keď si nainštalujete prehliadač { -brand-name-firefox } ako aplikáciu pre { -brand-name-linux }, získate verziu prehliadača { -brand-name-firefox } pre počítače a všetky výhody, ktoré so sebou prináša, vrátane vylepšenej ochrany pred sledovaním, vstavaného správcu hesiel, prístupu k tisíckam doplnkov (vrátane blokovania reklám UBlock Origin) a témam na prispôsobenie vzhľadu prehliadača. <a { $url }>Pozrite si ďalšie informácie o inštalácii verzie prehliadača { -brand-name-firefox } pre počítače na zariadení { -brand-name-chromebook }.</a>

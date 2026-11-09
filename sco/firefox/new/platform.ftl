@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x Mair Fast
 new-platform-advanced-install-options = Advanced instaw options & ither platforms
 new-platform-download-in-another = Doonload in anither leid
 new-platform-need-help = Needin hauners?
-
-# Linux
-
 new-platform-download-mozilla-linux = Doonload { -brand-name-mozilla } { -brand-name-firefox } fur { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Doonload { -brand-name-mozilla } { -brand-name-firefox } fur { -brand-name-linux }, a free wab stravaiger. { -brand-name-firefox } is makkit by a global non-profit dedicatit tae pittin ilka body in chairge online. Get { -brand-name-firefox } fur { -brand-name-linux } the day!

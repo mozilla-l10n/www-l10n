@@ -23,7 +23,7 @@ cookie-settings-turn-on-javascript = Pro aktualizaci vašeho nastavení cookies 
 cookie-settings-category-necessary-heading = Nezbytné
 cookie-settings-category-necessary-what-are-subheading = Co jsou nezbytné cookies?
 cookie-settings-category-necessary-what-are-desc = Tyto technologie jsou nezbytné pro podporu základních funkcí webových stránek, jako je přihlášení do zabezpečené oblasti webových stránek nebo přidávání položek do online nákupního košíku, a nelze je vypnout.
-cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } používá nezbytné soubory cookie pouze k poskytování základních funkcí webových stránek, jako je přihlášení pomocí vašeho { -brand-name-mozilla-account(case: "gen", capitalization: "lower") } nebo nákup předplatného softwaru při placení. Bez těchto technologií nemusí základní funkce webových stránek fungovat.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } používá nezbytné soubory cookie pouze k poskytování základních funkcí webových stránek, jako je přihlášení pomocí vašeho { -brand-name-mozilla-account(capitalization: "lower", case: "gen") } nebo nákup předplatného softwaru při placení. Bez těchto technologií nemusí základní funkce webových stránek fungovat.
 
 ## Preference cookies section
 

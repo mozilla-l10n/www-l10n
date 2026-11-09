@@ -10,6 +10,3 @@
 
 new-platform-free-web-browser = Bepul internet brauzeri
 new-platform-need-help = Yordam kerakmi?
-
-# Linux
-

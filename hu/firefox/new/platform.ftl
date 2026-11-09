@@ -15,9 +15,6 @@ new-platform-2x-faster = 2× gyorsabb
 new-platform-advanced-install-options = Speciális telepítési beállítások és más platformok
 new-platform-download-in-another = Töltse le egy másik nyelven
 new-platform-need-help = Segítségre van szüksége?
-
-# Linux
-
 new-platform-download-mozilla-linux = A { -brand-name-mozilla } { -brand-name-firefox } letöltése { -brand-name-linux }ra
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Töltse le { -brand-name-linux }ra a { -brand-name-mozilla } { -brand-name-firefox(case: "accusative") }, a szabad webböngészőt. A { -brand-name-firefox(case: "accusative") } egy nemzetközi non-profit közösség készíti, hogy a felhasználók kezébe adja az online jelenlétük feletti irányítást. Töltse le a { -brand-name-firefox(case: "accusative") } { -brand-name-linux }ra még ma!

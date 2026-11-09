@@ -10,6 +10,3 @@
 
 new-platform-free-web-browser = Navigador web gratuit
 new-platform-need-help = Besonh d'ajuda&nbsp;?
-
-# Linux
-

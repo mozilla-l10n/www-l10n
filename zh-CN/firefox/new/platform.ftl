@@ -15,9 +15,6 @@ new-platform-2x-faster = 速度翻倍
 new-platform-advanced-install-options = 高级安装选项和其他平台
 new-platform-download-in-another = 下载其他语言版本
 new-platform-need-help = 需要帮助？
-
-# Linux
-
 new-platform-download-mozilla-linux = 下载适用于 { -brand-name-linux } 的 { -brand-name-mozilla } { -brand-name-firefox }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = 下载适用于 { -brand-name-linux } 的自由网络浏览器 { -brand-name-mozilla } { -brand-name-firefox }。{ -brand-name-firefox } 由致力于让每个人都能自行控制网络生活的全球性非营利社区打造。快来下载吧！

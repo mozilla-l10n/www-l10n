@@ -10,8 +10,5 @@ vpn-shared-subscribe-link = Get { -brand-name-mozilla-vpn }
 
 ## Pricing options. Some offers may be only shown in select countries (e.g. German and France).
 
-
-# Platform subpage shared strings
-
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }

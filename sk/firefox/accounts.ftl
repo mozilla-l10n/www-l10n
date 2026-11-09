@@ -6,17 +6,17 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
-mozilla-accounts-get-a-mozilla-account = Vytvorte si { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } a majte svoje údaje v bezpečí a synchronizované
+mozilla-accounts-get-a-mozilla-account = Vytvorte si { -brand-name-mozilla-account(capitalization: "lower", case: "acc") } a majte svoje údaje v bezpečí a synchronizované
 # HTML page description
-mozilla-accounts-securely-sync-your = Bezpečne si synchronizujte svoje heslá, záložky a karty medzi všetkými svojimi zariadeniami. Založte si { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } hneď teraz – jedno prihlásenie – možnosti a súkromie všade.
+mozilla-accounts-securely-sync-your = Bezpečne si synchronizujte svoje heslá, záložky a karty medzi všetkými svojimi zariadeniami. Založte si { -brand-name-mozilla-account(capitalization: "lower", case: "acc") } hneď teraz – jedno prihlásenie – možnosti a súkromie všade.
 firefox-accounts-enter-your-email-address = Začnite zadaním svojej e‑mailovej adresy.
 firefox-accounts-already-have-an-account = Máte už účet?
 firefox-accounts-sign-in = Prihláste sa
-mozilla-accounts-already = Už máte { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }. Gratulujeme!
+mozilla-accounts-already = Už máte { -brand-name-mozilla-account(capitalization: "lower", case: "acc") }. Gratulujeme!
 firefox-accounts-manage = Spravovať účet
 mozilla-account-header = { -brand-name-mozilla-account }
 # This is followed by a list of things you can do with your Mozilla account
-mozilla-account-sign-in-to = Prihláste sa do svojho { -brand-name-mozilla-account(case: "gen", capitalization: "lower") }:
+mozilla-account-sign-in-to = Prihláste sa do svojho { -brand-name-mozilla-account(capitalization: "lower", case: "gen") }:
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Odošlite kartu</a> do iného zariadenia

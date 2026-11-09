@@ -13,8 +13,5 @@ vpn-shared-pricing-recommended-offer = Aconséyase
 # Variables:
 #   $amount (string) - a string containing the monthly subscription price together with the appropriate currency symbol e.g. 'US$4.99' or '6,99 €'.
 vpn-shared-pricing-monthly = { $amount }<span>/month</span>
-
-# Platform subpage shared strings
-
 # Subnav strings
 vpn-subnav-title = { -brand-name-mozilla-vpn }

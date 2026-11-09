@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x ταχύτερο
 new-platform-advanced-install-options = Σύνθετες επιλογές εγκατάστασης και άλλες πλατφόρμες
 new-platform-download-in-another = Λήψη σε άλλη γλώσσα
 new-platform-need-help = Χρειάζεστε βοήθεια;
-
-# Linux
-
 new-platform-download-mozilla-linux = Λήψη του { -brand-name-mozilla } { -brand-name-firefox } για { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Κάντε λήψη του { -brand-name-mozilla } { -brand-name-firefox } για { -brand-name-linux }, ενός δωρεάν προγράμματος περιήγησης ιστού. Το { -brand-name-firefox } αναπτύσσεται από μια μη κερδοσκοπική, παγκόσμια οργάνωση με στόχο να έχουν οι χρήστες τον έλεγχο της ψηφιακής τους ζωής. Αποκτήστε το { -brand-name-firefox } για { -brand-name-linux } σήμερα!

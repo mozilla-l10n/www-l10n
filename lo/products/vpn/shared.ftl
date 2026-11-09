@@ -42,9 +42,6 @@ vpn-shared-pricing-total = { $amount } ທັງໝົດ
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = { $amount } ທັງໝົດ + ອາກອນ
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = ເບິ່ງລາຄາ & ສິ່ງທີ່ມີ
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } ແມ່ນຫຍັງ?
 vpn-shared-platfrom-why-choose = ເປັນຫຍັງ { -brand-name-mozilla-vpn }?

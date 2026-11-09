@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x hitrejši
 new-platform-advanced-install-options = Napredne možnosti namestitve & druge platforme
 new-platform-download-in-another = Prenesite v drugem jeziku
 new-platform-need-help = Potrebujete pomoč?
-
-# Linux
-
 new-platform-download-mozilla-linux = Prenesite { -brand-name-mozilla } { -brand-name-firefox } za { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Prenesite brezplačen brskalnik { -brand-name-mozilla } { -brand-name-firefox } za { -brand-name-linux }. Ustvarja ga globalna neprofitna organizacija, ki v ospredje postavlja posameznika. Prenesite { -brand-name-firefox } za { -brand-name-linux } še danes!

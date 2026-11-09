@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Get { -brand-name-firefox-browser } for { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = So you’ve got a { -brand-name-chromebook } — now it’s time to get the independent, automatically private { -brand-name-firefox-browser } to protect your personal data.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Get { -brand-name-firefox } for { -brand-name-android }
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Supporting independent t
 browsers-chromebook-is-it-hard = Is it hard to install { -brand-name-firefox } for { -brand-name-chromebook }?
 browsers-chromebook-we-wish-it = We wish it were more straightforward, but your { -brand-name-chromebook } would prefer to keep you in the { -brand-name-google-play } ecosystem. However, we think it’s worth the effort to install the { -brand-name-firefox } browser to your { -brand-name-chromebook } – and we’ve got resources to help you if you need them. There are two ways to get { -brand-name-firefox } on your device.
 browsers-chromebook-install-firefox-from = Install { -brand-name-firefox } from { -brand-name-google-play } Store: on newer versions of { -brand-name-chromeos } (x86 based { -brand-name-chromebook } running { -brand-name-chromeos } 80 or later), you have the option to install the { -brand-name-firefox } for { -brand-name-android } app. This app is developed for mobile devices.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Install { -brand-name-firefox } as a { -brand-name-linux } app: going this route takes a few more steps, but it’s worth it. When you install the { -brand-name-firefox } browser as a { -brand-name-linux } app, you get the { -brand-name-firefox } desktop browser and all the benefits that come with, including Enhanced Tracking Protection, a built-in password manager, access to thousands of add-ons (including UBlock Origin ad blocker), and themes to customize the look of your browser. <a { $url }>Learn more about installing { -brand-name-firefox } desktop browser for { -brand-name-chromebook }.</a>

@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = جے تہاکوں ہک پرامپٹ نظر آندا ہے جیندے وِچ آکھیا ویندا ہے جو تساں جیڑھی ایپ کوں انسٹال کرݨ دی کوشش کریندے پئے ہو او { -brand-name-microsoft }۔ تصدیق شدہ ایپ کائنی، تاں "بہرحال انسٹال کرو" تے کلک کرو یا <a { $attrs }> ایپ دی تجویز دیاں ترتیباں کوں تبدیل کرو </a>۔
 firefox-new-visit-support-for-more = ٻیاں تفصیلاں کیتے سپورٹ تے ون٘ڄو
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

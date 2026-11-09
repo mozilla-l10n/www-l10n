@@ -10,6 +10,3 @@
 
 new-platform-free-web-browser = Navegador tein amo se moneki kiixtauas
 new-platform-need-help = ¿Xa moneki timitsonpaleuiskej?
-
-# Linux
-

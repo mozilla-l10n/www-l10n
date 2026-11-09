@@ -45,9 +45,6 @@ vpn-shared-pricing-total = { $amount } gjithsej
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = { $amount } gjithsej + tax
 vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } s’mund të kihet ende në vendin tuaj
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = Shihni çmime & zona
 vpn-shared-platform-what-is = Ç’është { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Pse { -brand-name-mozilla-vpn }?

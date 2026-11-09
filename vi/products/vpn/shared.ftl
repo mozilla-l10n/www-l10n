@@ -45,9 +45,6 @@ vpn-shared-pricing-total = Tổng cộng { $amount }
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = { $amount } tổng cộng + thuế
 vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } hiện chưa có sẵn ở quốc gia của bạn
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = Xem giá cả & tình trạng còn hàng
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } là gì?
 vpn-shared-platfrom-why-choose = Tại sao nên dùng { -brand-name-mozilla-vpn }?

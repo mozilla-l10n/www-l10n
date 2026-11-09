@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Yüklemeye çalıştığınız uygulamanın { -brand-name-microsoft } tarafından doğrulanmış olmadığını belirten bir ekran görürseniz "Yine de yükle"ye tıklayın veya <a { $attrs }>uygulama öneri ayarlarını değiştirin</a>.
 firefox-new-visit-support-for-more = Daha fazla bilgi için destek sitemize bakabilirsiniz
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

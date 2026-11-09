@@ -12,9 +12,6 @@ new-platform-free-web-browser = Libreng Web Browser
 new-platform-2x-faster = Dobleng Bilis
 new-platform-download-in-another = I-download sa ibang wika
 new-platform-need-help = Kailangan ng tulong?
-
-# Linux
-
 new-platform-download-mozilla-linux = i-Download ang { -brand-name-mozilla } { -brand-name-firefox } para sa { -brand-name-linux }
 new-platform-privacy-more-than = Privacy - higit pa sa isang patakaran
 new-platform-open-source = Open source

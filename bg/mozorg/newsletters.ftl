@@ -31,10 +31,6 @@ newsletters-your-email-address = Вашата електронна поща:
 newsletters-country = Държава:
 # Form field label
 newsletters-language = Език:
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-
 # Variables:
 #   $newsletter (string) - newsletter name
 newsletters-is-not-a-valid-newsletter = { $newsletter } не е валиден бюлетин

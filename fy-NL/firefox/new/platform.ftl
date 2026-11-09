@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x flugger
 new-platform-advanced-install-options = Avansearre ynstallaasjeopsjes & oare platfoarms
 new-platform-download-in-another = Download yn in oare taal
 new-platform-need-help = Help nedich?
-
-# Linux
-
 new-platform-download-mozilla-linux = Download { -brand-name-mozilla } { -brand-name-firefox } foar { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Download { -brand-name-mozilla } { -brand-name-firefox } foar { -brand-name-linux }, in fergeze webbrowser. { -brand-name-firefox } wurdt makke troch in wrâldwide non-profitorganisaasje dy’t harren ynset om brûkers online de kontrôle hâlde te litten. Download no { -brand-name-firefox } foar { -brand-name-linux }!

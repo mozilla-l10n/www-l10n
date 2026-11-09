@@ -15,9 +15,6 @@ new-platform-2x-faster = രണ്ടിരട്ടി വേഗത
 new-platform-advanced-install-options = കൂടുതല്‍ ഇന്‍സ്റ്റാളേഷന്‍ രീതികളും മറ്റു പ്ലാറ്റ്ഫോമുകളും
 new-platform-download-in-another = മറ്റു ഭാഷകളിൽ ഇറക്കിവയ്ക്കുക
 new-platform-need-help = സഹായം വേണോ?
-
-# Linux
-
 new-platform-download-mozilla-linux = ലിനക്സിനായുള്ള മോസില്ല ഫയർഫോക്സ് ഡൌൺലോഡ് ചെയ്യുക
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = സ്വതന്ത്ര വൈബ് ബ്രൌസറായ ലിനക്സിനു വേണ്ടിയുള്ള മോസില്ല ഫയര്‍ഫോക്സ് ഡൌണ്‍ലോഡ് ചെയ്യു. ഓണ്‍ലൈനിലെ നിയന്ത്രണം വ്യക്തികള്‍ക്ക് തിരിച്ച് നല്‍കുക എന്ന ഉദ്ദേശത്തോടെ പ്രവര്‍ത്തിക്കുന്ന ലാഭേച്ഛയില്ലാത്ത സംഘടന ഉണ്ടാക്കിയതാണ് ഫയര്‍ഫോക്സ്. ലിനക്സിനു വേണ്ടിയുള്ള ഫയര്‍ഫോക്സ് ഇന്നു തന്നെ നേടു!

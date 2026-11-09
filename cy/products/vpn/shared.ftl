@@ -45,9 +45,6 @@ vpn-shared-pricing-total = Cyfanswm o { $amount }
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = { $amount } cyfanswm + treth
 vpn-shared-mozilla-vpn-is-not-yet-available = Nid yw { -brand-name-mozilla-vpn } ar gael yn eich gwlad eto
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = Gweld y prisio a'r argaeledd
 vpn-shared-platform-what-is = Beth yw { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Pam { -brand-name-mozilla-vpn }?

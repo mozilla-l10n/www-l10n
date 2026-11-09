@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Егер сіз орнатайын деп жатқан қолданба { -brand-name-microsoft } тарапынан расталмаған деген ескертуді көрсеңіз, «Бәрібір орнату» батырмасын басыңыз немесе <a { $attrs }>қолданбаларды ұсыну баптауларын өзгертіңіз</a>.
 firefox-new-visit-support-for-more = Толығырақ ақпарат алу үшін қолдау қызметі сайтын шолыңыз
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

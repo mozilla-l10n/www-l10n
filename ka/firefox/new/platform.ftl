@@ -15,9 +15,6 @@ new-platform-2x-faster = 2-ჯერ მეტად სწრაფი
 new-platform-advanced-install-options = სხვა ვერსიები და სისტემები
 new-platform-download-in-another = ჩამოტვირთვები სხვა ენებზე
 new-platform-need-help = გესაჭიროებათ დახმარება?
-
-# Linux
-
 new-platform-download-mozilla-linux = ჩამოტვირთეთ { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux }-ზე
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = ჩამოტვირთეთ { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux }-ზე, უფასო ბრაუზერი. { -brand-name-firefox } შექმნილია საერთაშორისო არამომგებიანი დაწესებულების მიერ, რომელსაც სურს ხალხს დაუბრუნოს, თავიანთი ინტერნეტცხოვრების სრულად განკარგვის უფლება. გადმოწერეთ { -brand-name-firefox } { -brand-name-linux }-ზე ახლავე!

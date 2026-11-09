@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = ติดตั้ง { -brand-name-firefox-browser } สำหรับ { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = คุณได้ { -brand-name-chromebook } มาแล้ว ต่อไปนี้จะเป็นเวลาที่ต้องติดตั้ง { -brand-name-firefox-browser } ที่รักษาความปลอดภัยโดยอัตโนมัติเพื่อปกป้องข้อมูลส่วนตัวของคุณ
 browsers-chromebook-browsers-chromebook-get-firefox-for = รับ { -brand-name-firefox } สำหรับ { -brand-name-android }
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = สนับสนุน
 browsers-chromebook-is-it-hard = การติดตั้ง { -brand-name-firefox } ลง { -brand-name-chromebook } ทำได้ยากหรือไม่?
 browsers-chromebook-we-wish-it = เราต้องการบอกคุณอย่างตรงไปตรงมาว่า { -brand-name-chromebook } ของคุณต้องการให้คุณอยู่ในระบบนิเวศของ { -brand-name-google-play } อย่างไรก็ตาม เราคิดว่าการลองติดตั้งเบราว์เซอร์ { -brand-name-firefox } ใน { -brand-name-chromebook } ของคุณนั้นคุ้มค่า และเรามีแหล่งข้อมูลที่จะช่วยคุณได้ มีสองวิธีในการติดตั้ง { -brand-name-firefox } บนอุปกรณ์ของคุณ
 browsers-chromebook-install-firefox-from = ติดตั้ง { -brand-name-firefox } จาก { -brand-name-google-play } Store: บน { -brand-name-chromeos } รุ่นใหม่ ({ -brand-name-chromebook } แบบ x86 ที่ใช้ { -brand-name-chromeos } 80 ขึ้นไป) คุณมีตัวเลือกที่จะติดตั้งแอป { -brand-name-firefox } สำหรับ { -brand-name-android } แอปนี้ถูกพัฒนาขึ้นมาสำหรับอุปกรณ์มือถือ
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = ติดตั้ง { -brand-name-firefox } เป็นแอป { -brand-name-linux }: วิธีนี้จะมีขั้นตอนมากขึ้นอีกเล็กน้อย แต่คุ้มค่ากว่า เมื่อคุณติดตั้งเบราว์เซอร์ { -brand-name-firefox } เป็นแอป { -brand-name-linux } คุณจะได้รับเบราว์เซอร์ { -brand-name-firefox } รุ่นเดสก์ท็อปและประโยชน์ต่าง ๆ ที่มาพร้อมกัน รวมถึงการป้องกันการติดตามแบบพิเศษ ตัวจัดการรหัสผ่านในตัว ส่วนเสริมนับพัน (รวมถึงตัวปิดกั้นโฆษณา UBlock Origin) และชุดรูปแบบเพื่อปรับแต่งรูปลักษณ์ให้กับเบราว์เซอร์ของคุณ <a { $url }>เรียนรู้เพิ่มเติมเกี่ยวกับการติดตั้งเบราว์เซอร์ { -brand-name-firefox } รุ่นเดสก์ท็อปสำหรับ { -brand-name-chromebook }</a>

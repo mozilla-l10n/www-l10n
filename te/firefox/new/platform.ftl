@@ -14,9 +14,6 @@ new-platform-2x-faster = 2x వేగంగా
 new-platform-advanced-install-options = అధునాతన స్థాపన ఎంపికలు మరియు ఇతర వేదికలు
 new-platform-download-in-another = మరొక భాషలో దింపుకోండి
 new-platform-need-help = సహాయం కావాలా?
-
-# Linux
-
 new-platform-open-source = ఓపెన్ సోర్సు
 
 ## Mac

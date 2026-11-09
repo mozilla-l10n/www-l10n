@@ -15,9 +15,6 @@ new-platform-2x-faster = 2 倍快
 new-platform-advanced-install-options = 進階安裝選項及其他平台
 new-platform-download-in-another = 下載其他語言版本
 new-platform-need-help = 需要幫忙嗎？
-
-# Linux
-
 new-platform-download-mozilla-linux = 下載 { -brand-name-mozilla } { -brand-name-firefox } for { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = 下載自由的網頁瀏覽器 { -brand-name-mozilla } { -brand-name-firefox } for { -brand-name-linux }。{ -brand-name-firefox } 是由致力於將網路的威力保存於眾人之間的非營利組織所打造，快來下載！

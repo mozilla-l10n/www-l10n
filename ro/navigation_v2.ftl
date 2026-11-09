@@ -8,7 +8,7 @@ navigation-v2-menu = Meniu
 
 ## Firefox menu
 
-navigation-v2-firefox-browsers = { -brand-name-firefox-browsers(case: "indefinite-article", capitalization: "upper") }
+navigation-v2-firefox-browsers = { -brand-name-firefox-browsers(capitalization: "upper", case: "indefinite-article") }
 navigation-v2-close-firefox-browsers-menu = Închide meniul { -brand-name-firefox-browsers(case: "genitive-or-dative") }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } pentru desktop
 navigation-v2-get-the-not-for-profit-backed = Obține browserul susținut de o organizație non-profit pe { -brand-name-windows }, { -brand-name-mac-short } sau { -brand-name-linux }.

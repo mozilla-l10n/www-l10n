@@ -42,9 +42,6 @@ vpn-shared-pricing-total = { $amount } агулам
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = { $amount } агулам + падатак
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = Паглядзець цэны і даступнасць
 vpn-shared-platform-what-is = Што такое { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Чаму { -brand-name-mozilla-vpn }?

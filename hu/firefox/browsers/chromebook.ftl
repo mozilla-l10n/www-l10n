@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Szerezze be a { -brand-name-firefox-browser }t { -brand-name-chromebook }ra
 browsers-chromebook-so-youve-got = Tehát van egy { -brand-name-chromebook } – itt az ideje, hogy beszerezze a független, automatikusan privát { -brand-name-firefox-browser }t a személyes adatainak védelme érdekében.
 browsers-chromebook-browsers-chromebook-get-firefox-for = { -brand-name-firefox } for { -brand-name-android } letöltése
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Független technológia 
 browsers-chromebook-is-it-hard = Nehéz feltelepíteni a { -brand-name-firefox(case: "accusative") } a { -brand-name-chromebook }ra?
 browsers-chromebook-we-wish-it = Szeretnénk, hogy egyszerűbb legyen, de a { -brand-name-chromebook } azt szeretné, hogy a { -brand-name-google-play } ökoszisztémában tartja. Viszont, továbbra is úgy gondoljuk, hogy megéri az erőfeszítés, hogy telepítse a { -brand-name-firefox } böngészőt a { -brand-name-chromebook }jára – és anyagokat biztosítunk, ha segítségre van szüksége. Két módja van a { -brand-name-firefox } beszerzésének az eszközére.
 browsers-chromebook-install-firefox-from = Telepítse a { -brand-name-firefox(case: "accusative") } a { -brand-name-google-play } Áruházból: a { -brand-name-chromeos } újabb verzióin (x86-alapú, { -brand-name-chromeos } 80 vagy újabb { -brand-name-chromebook }) lehetősége van a { -brand-name-firefox } for { -brand-name-android } alkalmazás telepítésére. Az alkalmazás mobileszközökre készül.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Telepítse a { -brand-name-firefox }ot { -brand-name-linux(cap: "lower") }os alkalmazásként: ez a megoldás több lépésből áll, de megéri. Ha a { -brand-name-firefox } böngészőt { -brand-name-linux(cap: "lower") }os alkalmazásként telepíti, akkor megkapja az asztali { -brand-name-firefox } böngészőt, és annak összes előnyét, köztük a Fokozott követés elleni védelmet, a beépített jelszókezelőt, a több ezer kiegészítő elérését (köztük a UBlock Origin reklámblokkolót), és a témákat, melyekkel testreszabhatja a böngészője kinézetét. <a { $url }>Tudjon meg többet az asztali { -brand-name-firefox } böngésző { -brand-name-chromebook }ra telepítéséről.</a>

@@ -45,11 +45,7 @@ newsletters-not-all-subscriptions-are = Nie wszystkie subskrypcje są dostępne 
 newsletters-please-select-country = Wybierz państwo lub region
 # Form field error message
 newsletters-please-select-language = Wybierz język
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-
-newsletters-many-of-our-communications-v2 = Wiele z naszych kanałów komunikacji jest powiązanych z zarejestrowanymi kontami, np. { -brand-name-mozilla-accounts(case: "ins", capitalization: "lower") }, { -brand-name-mdn-web-docs(case: "gen", capitalization: "lower") } lub autora dodatków. <a href="{ $url }">Strona pomocy zarządzania kontami</a> zawiera informacje o tym, jak zarządzać jednym z kont lub zobaczyć listę wszystkich kont.
+newsletters-many-of-our-communications-v2 = Wiele z naszych kanałów komunikacji jest powiązanych z zarejestrowanymi kontami, np. { -brand-name-mozilla-accounts(capitalization: "lower", case: "ins") }, { -brand-name-mdn-web-docs(capitalization: "lower", case: "gen") } lub autora dodatków. <a href="{ $url }">Strona pomocy zarządzania kontami</a> zawiera informacje o tym, jak zarządzać jednym z kont lub zobaczyć listę wszystkich kont.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/
 newsletters-to-get-access-to-the-whole = Dołącz do nas, aby mieć dostęp do pełnego zestawu produktów, wiedzy i usług { -brand-name-firefox(case: "gen") } w jednym koncie! <a href="{ $url }">Tutaj</a> przeczytasz więcej o korzyściach.
@@ -196,9 +192,9 @@ newsletters-download-firefox-for-ios = Pobierz { -brand-name-firefox(case: "acc"
 # Name for the newsletter in Newsletter subscription page
 newsletters-download-firefox-for-mobile = Pobierz { -brand-name-firefox(case: "acc") } na telefon
 # Name for the newsletter in Newsletter subscription page
-newsletters-firefox-accounts-tips = Cotygodniowe porady — { -brand-name-firefox-accounts(case: "nom", capitalization: "lower") }
+newsletters-firefox-accounts-tips = Cotygodniowe porady — { -brand-name-firefox-accounts(capitalization: "lower", case: "nom") }
 # Description for the newsletter in Newsletter subscription page (Firefox Account Tips)
-newsletters-get-the-most-firefox-account = W pełni wykorzystuj potencjał { -brand-name-firefox-account(case: "gen", capitalization: "lower") }.
+newsletters-get-the-most-firefox-account = W pełni wykorzystuj potencjał { -brand-name-firefox-account(capitalization: "lower", case: "gen") }.
 # Name for the newsletter in Newsletter subscription page
 newsletters-firefox-flicks = { -brand-name-firefox } Flicks
 # Description for the newsletter in Newsletter subscription page (Firefox Flicks)

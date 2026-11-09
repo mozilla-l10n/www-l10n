@@ -15,6 +15,3 @@ new-platform-2x-faster = Doble rapido
 new-platform-advanced-install-options = Opcions abanzadas d'instalación y atras plataformas
 new-platform-download-in-another = Descarga-lo en atro idioma
 new-platform-need-help = Te cal aduya?
-
-# Linux
-

@@ -45,9 +45,6 @@ vpn-shared-pricing-total = Celkom { $amount }
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = Celkom { $amount } + daň
 vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } zatiaľ nie je vo vašej krajine k dispozícii
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = Zobraziť cenu a dostupnosť
 vpn-shared-platform-what-is = Čo je { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Prečo { -brand-name-mozilla-vpn }?

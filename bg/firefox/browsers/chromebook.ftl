@@ -5,12 +5,5 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Изтегляне на { -brand-name-firefox-browser } за { -brand-name-chromebook }
 browsers-chromebook-browsers-chromebook-get-firefox-for = Изтеглете { -brand-name-firefox } за { -brand-name-android }
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-

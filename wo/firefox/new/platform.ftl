@@ -9,6 +9,3 @@
 ## Shared between Linux, Mac and Windows
 
 new-platform-need-help = Danga soxla ndimbal?
-
-# Linux
-

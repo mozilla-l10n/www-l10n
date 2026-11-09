@@ -14,9 +14,6 @@ firefox-new-need-help = ¿Precises ayuda?
 
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } ye más qu'un restolador.
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 firefox-new-download-a-different = Baxar pa otra plataforma y llingua

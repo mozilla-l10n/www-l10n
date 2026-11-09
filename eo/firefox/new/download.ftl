@@ -37,9 +37,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Se vi vidas dialogon kiu indikas ke la instalota apo ne estas kontrolita de { -brand-name-microsoft }, alklaku “Tamen instalu” aŭ <a { $attrs }>ŝanĝu la agordojn de rekomenditaj apoj</a>.
 firefox-new-visit-support-for-more = Viziti la helpan paĝon por havi pli da informo
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

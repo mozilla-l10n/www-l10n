@@ -24,7 +24,7 @@ navigation-v2-firefox-blog = Blog { -brand-name-firefox(case: "gen") }
 navigation-v2-read-about-new-firefox-features = Prečítajte si o nových funkciách { -brand-name-firefox(case: "gen") }. Nájdete tu taktiež tipy pre bezpečnejšie používanie internetu.
 navigation-v2-release-notes = Poznámky k vydaniu
 navigation-v2-get-the-details-on-the = Podrobnosti o najnovších aktualizáciách { -brand-name-firefox(case: "gen") }
-navigation-v2-view-all-firefox-browsers = Zobraziť všetky { -brand-name-firefox-browsers(case: "acc", capitalization: "lower") }
+navigation-v2-view-all-firefox-browsers = Zobraziť všetky { -brand-name-firefox-browsers(capitalization: "lower", case: "acc") }
 
 ## Products menu
 

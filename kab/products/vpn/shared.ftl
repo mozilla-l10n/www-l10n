@@ -38,9 +38,6 @@ vpn-shared-when-you-subscribe = *mi ara tmultɣeḍ ǧer uɣawas n 12 wayyuren
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total = { $amount } usemday
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = Wali ssuma & tilin
 vpn-shared-platform-what-is = D acu-t { -brand-name-mozilla-vpn }?
 vpn-shared-platfrom-why-choose = Ayɣer { -brand-name-mozilla-vpn }?

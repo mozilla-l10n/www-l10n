@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Ako vidiš obavijest da aplikacija koju pokušavaš instalirati nije { -brand-name-microsoft }potvrđena aplikacija, klikni „Svejedno instaliraj” ili <a { $attrs }>promijeni postavke preporuka aplikacije</a>.
 firefox-new-visit-support-for-more = Posjeti stranicu podrške za više pojedinosti
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

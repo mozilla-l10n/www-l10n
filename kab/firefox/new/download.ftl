@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Ma yella twalaḍ alɣu i d-yeskanayen asnas i tettaɛraḍeḍ ad tesbeddeḍ mačči d asnas yettusneqden { -brand-name-microsoft }, sit ɣef “Sebded ɣas akken” neɣ <a { $attrs }>senfel iɣewwaren n uwelleh n usnas</a>.
 firefox-new-visit-support-for-more = Rzu ɣer tallalt i wugar n telɣut
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

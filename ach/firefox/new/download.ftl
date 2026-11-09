@@ -23,6 +23,3 @@ firefox-new-need-help = Imito kony?
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Gam mamegi myero ocake pire kene. Pe otiyo? <a id="{ $id }" href="{ $fallback_url }">Tem gamo doki</a>.
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } pe obedo layeny keken.
-
-# Not-Required
-

@@ -45,9 +45,6 @@ vpn-shared-pricing-total = { $amount } ਕੁੱਲ
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = { $amount } ਕੁੱਲ + ਟੈਕਸ
 vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } ਹਾਲੇ ਤੁਹਾਡੇ ਦੇਸ਼ ਵਿੱਚ ਮੌਜੂਦ ਨਹੀਂ ਹੈ
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = ਕੀਮਤ ਅਤੇ ਮੌਜੂਦਗੀ ਵੇਖੋ
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } ਕੀ ਹੈ?
 vpn-shared-platfrom-why-choose = { -brand-name-mozilla-vpn } ਹੀ ਕਿਉਂ?

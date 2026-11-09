@@ -9,7 +9,7 @@ navigation-v2-menu = Nabídka
 ## Firefox menu
 
 navigation-v2-firefox-browsers = { -brand-name-firefox-browsers }
-navigation-v2-close-firefox-browsers-menu = Zavřít nabídku { -brand-name-firefox-browsers(case: "gen", capitalization: "lower") }
+navigation-v2-close-firefox-browsers-menu = Zavřít nabídku { -brand-name-firefox-browsers(capitalization: "lower", case: "gen") }
 navigation-v2-firefox-for-desktop = { -brand-name-firefox } pro počítač
 navigation-v2-get-the-not-for-profit-backed = Používejte prohlížeč od neziskové organizace, dostupný pro { -brand-name-windows(case: "acc") }, { -brand-name-mac-short(case: "acc") } i { -brand-name-linux(case: "acc") }.
 navigation-v2-firefox-for-android = { -brand-name-firefox } pro { -brand-name-android(case: "acc") }
@@ -24,7 +24,7 @@ navigation-v2-firefox-blog = Blog { -brand-name-firefox(case: "gen") }
 navigation-v2-read-about-new-firefox-features = Přečtěte si o nových funkcích { -brand-name-firefox(case: "gen") } a bezpečném používání internetu.
 navigation-v2-release-notes = Poznámky k vydání
 navigation-v2-get-the-details-on-the = Podrobnosti o nejnovějších aktualizacích { -brand-name-firefox(case: "gen") }.
-navigation-v2-view-all-firefox-browsers = Zobrazit všechny { -brand-name-firefox-browsers(case: "acc", capitalization: "lower") }
+navigation-v2-view-all-firefox-browsers = Zobrazit všechny { -brand-name-firefox-browsers(capitalization: "lower", case: "acc") }
 
 ## Products menu
 

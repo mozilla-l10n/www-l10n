@@ -45,9 +45,6 @@ vpn-shared-pricing-total = { $amount } ohupytýva
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = { $amount } ohupytýva + impuesto
 vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } ndereiporukuaamo’ãi gueteri ne retãme
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = Ehecha hepy ha joguakuaa
 vpn-shared-platform-what-is = Mba’épa { -brand-name-mozilla-vpn }
 vpn-shared-platfrom-why-choose = Mba’érepa { -brand-name-mozilla-vpn }

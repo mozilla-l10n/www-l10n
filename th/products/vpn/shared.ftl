@@ -45,9 +45,6 @@ vpn-shared-pricing-total = รวมเงิน { $amount }
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = รวมเงิน { $amount } + ภาษี
 vpn-shared-mozilla-vpn-is-not-yet-available = { -brand-name-mozilla-vpn } ยังไม่มีให้บริการในประเทศของคุณ
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = ดูราคาและพื้นที่ให้บริการ
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } คืออะไร?
 vpn-shared-platfrom-why-choose = ทำไมต้อง { -brand-name-mozilla-vpn }?

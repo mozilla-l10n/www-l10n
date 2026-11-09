@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Obține { -brand-name-firefox-browser } pentru { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Deci ai un { -brand-name-chromebook } — acum e timpul să îți instalezi browserul independent, cu confidențialitate automată { -brand-name-firefox-browser } ca să-ți protejezi datele personale.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Obține { -brand-name-firefox } pentru { -brand-name-android }
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Susținerea tehnologiei 
 browsers-chromebook-is-it-hard = Îți vine greu să instalezi { -brand-name-firefox } pe { -brand-name-chromebook }?
 browsers-chromebook-we-wish-it = Ne-am dori să fie mai simplu, dar { -brand-name-chromebook } ar prefera să te țină în ecosistemul { -brand-name-google-play }. Dar credem că merită efortul să instalezi browserul { -brand-name-firefox } pe { -brand-name-chromebook } - și avem resurse care să te ajute dacă ai nevoie de ele. Există două modalități de instalare { -brand-name-firefox }.
 browsers-chromebook-install-firefox-from = Instalează { -brand-name-firefox } din Magazinul { -brand-name-google-play }: pe versiunile mai noi de { -brand-name-chromeos } (bazate pe x86 { -brand-name-chromebook } cu { -brand-name-chromeos } 80 sau o versiune ulterioară), ai opțiunea de a instala { -brand-name-firefox } pentru { -brand-name-android }. Aplicația este dezvoltată pentru dispozitive mobile.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Instalează { -brand-name-firefox } ca aplicație { -brand-name-linux }: necesită câțiva pași în plus, dar merită. Când instalezi browserul { -brand-name-firefox } ca aplicație { -brand-name-linux }, primești browserul { -brand-name-firefox } pentru desktop și toate beneficiile care vin odată cu el, inclusiv protecție îmbunătățită împotriva urmăririi, un manager de parole încorporat, acces la mii de suplimente (inclusiv blocatorul de reclame UBlock Origin) și teme pentru personalizarea aspectului browserului. <a { $url }>Află mai multe despre instalarea browserului { -brand-name-firefox } pentru desktop pe { -brand-name-chromebook }.</a>

@@ -9,7 +9,7 @@
 # the em dash is used in English to show a change of thought and
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
-firefox-desktop-download-meta-title = Завантажте { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } — Швидкий, приватний та безплатний — від { -brand-name-mozilla }
+firefox-desktop-download-meta-title = Завантажте { -brand-name-firefox-browser(capitalization: "lower", case: "nom") } — Швидкий, приватний та безплатний — від { -brand-name-mozilla }
 firefox-desktop-download-meta-title-v2 = Завантажте { -brand-name-firefox } для комп'ютера — від { -brand-name-mozilla }
 firefox-desktop-download-meta-desc = Отримайте { -brand-name-firefox }, безплатний браузер, підтримуваний { -brand-name-mozilla }, некомерційною організацією, відданою здоровому та приватному Інтернету. Доступний вже зараз для { -brand-name-windows }, { -brand-name-mac-short }, { -brand-name-linux }, { -brand-name-android } та { -brand-name-ios }.
 firefox-desktop-download-meta-desc-v2 = Отримайте { -brand-name-firefox } для { -brand-name-windows }, { -brand-name-mac-short } або { -brand-name-linux }. { -brand-name-firefox } – це вільний браузер від { -brand-name-mozilla }, некомерційної компанії, відданої захисту здорового інтернету й приватності.
@@ -23,7 +23,7 @@ firefox-desktop-download-get-the-browser = Отримайте браузер, я
 firefox-desktop-download-fast-reliable-private = Швидкий, надійний і приватний — для спокійного користування інтернетом.
 firefox-desktop-set-as-default = Зробіть { -brand-name-firefox } своїм типовим браузером.
 firefox-desktop-download-download-options = Параметри завантаження та інші мови
-firefox-desktop-download-browser-support = Підтримка { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }
+firefox-desktop-download-browser-support = Підтримка { -brand-name-firefox-browser(capitalization: "lower", case: "gen") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Робіть в Інтернеті що завгодно.<br> { -brand-name-firefox-browser } <strong>захищає</strong> вас.
 firefox-desktop-download-we-block-the-ad = Ми блокуємо елементи стеження оголошень. Ви швидше переглядаєте в Інтернеті.
@@ -88,7 +88,7 @@ firefox-desktop-download-your-privacy-comes = Ваша приватність п
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Отримуйте всі улюблені функції браузера — і <strong>відкривайте</strong> нові.
 # Gmail and Docs are product names and should not be translated
-firefox-desktop-download-all-your-favourite = Усі ваші улюблені засоби { -brand-name-google } (як-от Gmail та Документи) чудово працюють у { -brand-name-firefox-browser(case: "loc", capitalization: "lower") }.
+firefox-desktop-download-all-your-favourite = Усі ваші улюблені засоби { -brand-name-google } (як-от Gmail та Документи) чудово працюють у { -brand-name-firefox-browser(capitalization: "lower", case: "loc") }.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
@@ -99,8 +99,8 @@ firefox-desktop-download-screenshots = Знімки екрана
 firefox-desktop-download-enhanced-tracking-protection = Розширений захист від стеження
 firefox-desktop-download-from-watching-a = Від перегляду навчальних відео до гри улюбленої команди, ваше відео слідує за вами під час багатозадачності.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
-firefox-desktop-download-get-firefox-android = Отримати { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } для <strong>{ -brand-name-android }</strong>
-firefox-desktop-download-get-firefox-ios = Отримати { -brand-name-firefox-browser(case: "nom", capitalization: "lower") } для <strong>{ -brand-name-ios }</strong>
+firefox-desktop-download-get-firefox-android = Отримати { -brand-name-firefox-browser(capitalization: "lower", case: "nom") } для <strong>{ -brand-name-android }</strong>
+firefox-desktop-download-get-firefox-ios = Отримати { -brand-name-firefox-browser(capitalization: "lower", case: "nom") } для <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Завантажте мобільний браузер { -brand-name-firefox } для автоматичного захисту на всіх своїх пристроях.
 firefox-desktop-download-learn-about-the = Дізнайтеся про браузер  { -brand-name-firefox } для комп'ютерів далі
 # Variables:

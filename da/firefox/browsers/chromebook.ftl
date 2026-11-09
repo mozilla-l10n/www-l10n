@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Hent { -brand-name-firefox-browser } til { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Du har en { -brand-name-chromebook } - nu er det tid til at få den uafhængige, automatisk private { -brand-name-firefox-browser } til at beskytte dine personlige data.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Hent { -brand-name-firefox } til { -brand-name-android }
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Understøtter uafhængig
 browsers-chromebook-is-it-hard = Er det svært at installere { -brand-name-firefox } på en { -brand-name-chromebook }?
 browsers-chromebook-we-wish-it = Vi ville ønske, at det var mere ligetil, men din { -brand-name-chromebook } vil gerne begrænse dig til { -brand-name-google-play }-økosystemet. Vi mener dog, at det er umagen værd at installere { -brand-name-firefox } på din { -brand-name-chromebook } – og vi kan hjælpe dig, hvis du har brug for det. Der er to måder at få { -brand-name-firefox } på din enhed.
 browsers-chromebook-install-firefox-from = Installer { -brand-name-firefox } fra { -brand-name-google-play }: På nyere versioner af { -brand-name-chromeos }  (x86-baseret { -brand-name-chromebook } med { -brand-name-chromeos } 80 eller nyere) har du mulighed for at installere appen { -brand-name-firefox } til { -brand-name-android }. Denne app er udviklet til mobile enheder.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Installer { -brand-name-firefox } som en { -brand-name-linux }-app: Denne metode kræver lidt mere, men det er det hele værd. Når du installerer { -brand-name-firefox } på denne måde, får du { -brand-name-firefox } desktopversionen af browseren og alle de fordele, der følger med, inklusiv udvidet beskyttelse mod sporing, indbygget adgangskode-håndtering, adgang til tusindvis af tilføjelser (inklusive UBlock Origin-reklameblokering) og temaer til at tilpasse din browsers udseende. <a { $url }>Få flere oplysninger om installation af { -brand-name-firefox } computerbrowser til { -brand-name-chromebook }.</a>

@@ -15,9 +15,6 @@ new-platform-2x-faster = 2 vices plus rapide
 new-platform-advanced-install-options = Optiones de installation avantiate & altere platteformas
 new-platform-download-in-another = Discargar lo in un altere lingua
 new-platform-need-help = Require adjuta?
-
-# Linux
-
 new-platform-download-mozilla-linux = Discarga { -brand-name-mozilla } { -brand-name-firefox } pro { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Discarga { -brand-name-mozilla } { -brand-name-firefox } pro { -brand-name-linux }, un libere Navigator del Web. { -brand-name-firefox } es create per un organisation global non-lucrative dedicate a poner le personas in grado de pensar e ager calme e in maniera sensibile online. Procura te { -brand-name-firefox } pro { -brand-name-linux } hodie!

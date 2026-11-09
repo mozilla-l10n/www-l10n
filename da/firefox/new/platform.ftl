@@ -15,9 +15,6 @@ new-platform-2x-faster = 2 X hurtigere
 new-platform-advanced-install-options = Andre installationsmuligheder og platforme
 new-platform-download-in-another = Hent på et andet sprog
 new-platform-need-help = Har du brug for hjælp?
-
-# Linux
-
 new-platform-download-mozilla-linux = Hent { -brand-name-mozilla } { -brand-name-firefox } til { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Hent { -brand-name-mozilla } { -brand-name-firefox } til { -brand-name-linux }, en gratis browser. { -brand-name-firefox } er skabt af en global nonprofit-organisation, der arbejder ihærdigt på at give den enkelte bruger kontrol på nettet. Hent { -brand-name-firefox } til { -brand-name-linux } i dag!

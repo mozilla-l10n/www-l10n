@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Instala o { -brand-name-firefox-browser } para { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Xa que tes un { -brand-name-chromebook }, é o momento de instalar o { -brand-name-firefox-browser }, unha ferramenta independente e automaticamente privativa que protexe os teus datos persoais.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Instala o { -brand-name-firefox } para { -brand-name-android }
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Apoia a tecnoloxía inde
 browsers-chromebook-is-it-hard = É difícil instalar o { -brand-name-firefox } para { -brand-name-chromebook }?
 browsers-chromebook-we-wish-it = Oxalá fose todo máis sinxelo, mais o teu { -brand-name-chromebook } prefire manterte no ecosistema do { -brand-name-google-play }. No entanto, coidamos que paga a pena instalar o navegador { -brand-name-firefox } no teu { -brand-name-chromebook }. Temos recursos para che axudar se os precisares. Hai dúas formas de obter o { -brand-name-firefox } no teu dispositivo.
 browsers-chromebook-install-firefox-from = Instalar o { -brand-name-firefox } desde a { -brand-name-google-play } Store: nas versións máis recentes do { -brand-name-chromeos } ({ -brand-name-chromebook } de x86 con { -brand-name-chromeos } 80 en diante), tes a opción de instalar a aplicación { -brand-name-firefox } para { -brand-name-android }. Esta aplicación foi desenvolvida para dispositivos móbiles.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Instalar o { -brand-name-firefox } como unha aplicación { -brand-name-linux }: aínda que seguir este camiño esixe máis pasos, paga a pena. Ao instalares o navegador { -brand-name-firefox } como unha aplicación { -brand-name-linux }, obtés a versión de escritorio do navegador { -brand-name-firefox }, con todas as vantaxes asociadas, incluíndo a protección mellorada contra o rastrexo, un xerador de contrasinais incorporado, acceso a millares de extensións (incluíndo o bloqueador de anuncios UBlock Origin) e temas para personalizares a aparencia do teu navegador. <a { $url }>Infórmate sobre como instalar a versión de escritorio do navegador { -brand-name-firefox } para { -brand-name-chromebook }.</a>

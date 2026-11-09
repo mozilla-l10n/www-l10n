@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x yn Gynt
 new-platform-advanced-install-options = Dewisiadau gosod uwch a llwyfannau eraill
 new-platform-download-in-another = Llwytho i lawr mewn iaith arall
 new-platform-need-help = Angen cymorth?
-
-# Linux
-
 new-platform-download-mozilla-linux = Llwytho i lawr { -brand-name-mozilla } { -brand-name-firefox } ar gyfer { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Llwythwch { -brand-name-mozilla } { -brand-name-firefox } { -brand-name-linux } i lawr, mae'n borwr gwe rhydd a rhad. Mae { -brand-name-firefox } wedi ei greu gan gorff byd-eang, nid-er-elw sydd a'i fryd ar ddiogelu rheolaeth yr unigolyn ar-lein. Defnyddiwch { -brand-name-firefox } ar { -brand-name-linux } heddiw!

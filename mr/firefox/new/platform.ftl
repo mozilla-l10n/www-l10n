@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x वेगवान
 new-platform-advanced-install-options = प्रगत प्रतिष्ठापन पर्याय आणि इतर प्लॅटफॉर्म
 new-platform-download-in-another = इतर भाषेत डाउनलोड करा
 new-platform-need-help = मदत पाहिजे?
-
-# Linux
-
 new-platform-download-mozilla-linux = { -brand-name-linux } साठी { -brand-name-mozilla } { -brand-name-firefox } डाउनलोड करा
 # /firefox/linux/ social sharing title
 new-platform-download-the-fastest-linux = { -brand-name-linux } साठी आतापर्यंतचा सर्वात जलद { -brand-name-firefox } डाउनलोड करा

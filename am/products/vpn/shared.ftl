@@ -42,9 +42,6 @@ vpn-shared-pricing-total = { $amount } ጠቅላላ
 # Variables:
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = { $amount } ጠቅላላ + ግብር
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = ዋጋን እና ተገኝነትን ይመልከቱ
 vpn-shared-platform-what-is = { -brand-name-mozilla-vpn } ምንድን ነው?
 vpn-shared-platfrom-why-choose = { -brand-name-mozilla-vpn } ለምን?

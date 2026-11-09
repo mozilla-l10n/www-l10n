@@ -15,9 +15,6 @@ new-platform-2x-faster = Два пъти по-бърз
 new-platform-advanced-install-options = Допълнителни инсталатори и платформи
 new-platform-download-in-another = Изтеглете на друг език
 new-platform-need-help = Имате нужда от помощ?
-
-# Linux
-
 new-platform-open-source = Отворен код
 
 ## Mac

@@ -25,6 +25,3 @@ firefox-new-need-help = Օգնության կարի՞ք ունեք
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = Ներբեռնումը շուտով կսկսվի: Չի՞ սկսվել: <a id="{ $id }" href="{ $fallback_url }">Կրկին փորձեք</a>:
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox }-ը ավելին է, քան զննարկիչը:
-
-# Not-Required
-

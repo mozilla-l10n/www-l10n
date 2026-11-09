@@ -39,13 +39,10 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Ak vidíte upozornenie, že inštalovaná aplikácia nebola overená { -brand-name-microsoft(case: "ins") }, kliknite na „Inštalovať aj tak“ alebo <a { $attrs }>zmeňte nastavenia odporúčania aplikácií</a>.
 firefox-new-visit-support-for-more = Ďalšie podrobnosti nájdete na stránke podpory
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"
-firefox-new-download-browser = Stiahnuť { -brand-name-firefox-browser(case: "acc", capitalization: "lower") }
+firefox-new-download-browser = Stiahnuť { -brand-name-firefox-browser(capitalization: "lower", case: "acc") }
 firefox-new-fast = Rýchlosť, súkromie a sloboda
 firefox-new-from-mozilla = od { -brand-name-mozilla(case: "gen") }
 firefox-new-desc = { -brand-name-firefox-browser } je bezplatný webový prehliadač od neziskovej organizácie { -brand-name-mozilla }, ktorý načítava stránky rýchlo, nespotrebováva veľa pamäte a pritom obsahuje mnoho funkcií.

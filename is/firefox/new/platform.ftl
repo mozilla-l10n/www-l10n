@@ -15,9 +15,6 @@ new-platform-2x-faster = Tvöfalt hraðari
 new-platform-advanced-install-options = Ítarlegir uppsetningarvalkostir og önnur stýrikerfi
 new-platform-download-in-another = Sækja á öðru tungumáli
 new-platform-need-help = Vantar þig hjálp?
-
-# Linux
-
 new-platform-download-mozilla-linux = Sæktu { -brand-name-mozilla } { -brand-name-firefox } fyrir { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Sæktu { -brand-name-mozilla } { -brand-name-firefox } fyrir { -brand-name-linux }, ókeypis vafra. { -brand-name-firefox } er búið til af alþjóðlegri sjálfseignarstofnun sem ekki er rekin í hagnaðarskyni og er tileinkuð því að gefa einstaklingum stjórnvölinn á netinu. Fáðu þér { -brand-name-firefox } fyrir { -brand-name-linux } strax í dag!

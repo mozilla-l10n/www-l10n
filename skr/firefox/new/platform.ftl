@@ -15,9 +15,6 @@ new-platform-2x-faster = ݙوڑا تکھا
 new-platform-advanced-install-options = ودھائے انسٹال اختیارات تے ٻئے پلیٹ فارم
 new-platform-download-in-another = ہک ٻئی زبان وچ ڈاؤن لوڈ کرو
 new-platform-need-help = بھلا مدد دی لوڑ ہے؟
-
-# Linux
-
 new-platform-download-mozilla-linux = { -brand-name-linux } کیتے { -brand-name-mozilla }{ -brand-name-firefox } ڈاؤن لوڈ کرو
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = ہک مفت ویب براؤزر { -brand-name-linux } کیتے { -brand-name-mozilla } { -brand-name-firefox } ڈاؤن لوڈ کرو۔ { -brand-name-firefox } کوں ہک عالمی غیر منافع بخش بݨایا ہے جیڑھا افراد کوں آن لائن کنٹرول وِچ رکھݨ کیتے وقف ہے۔ اڄ ای { -brand-name-linux } کیتے { -brand-name-firefox } حاصل کرو!

@@ -15,9 +15,6 @@ new-platform-2x-faster = 2እጥፍ ፈጣን
 new-platform-advanced-install-options = የላቁ የመጫኛ አማራጮች እና ሌሎች መድረኮች
 new-platform-download-in-another = በሌላ ቋንቋ ያውርዱ
 new-platform-need-help = እርዳታ ይፈልጋሉ?
-
-# Linux
-
 new-platform-download-mozilla-linux = { -brand-name-mozilla } { -brand-name-firefox }ን ለ { -brand-name-linux } አውርድ
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = ለ{ -brand-name-linux }፣ ነጻ የድር አሳሽ { -brand-name-mozilla } { -brand-name-firefox }ን አውርድ። { -brand-name-firefox } ግለሰቦች በመስመር ላይ ያላቸውን እንቅስቃሴ እንዲቆጣጠሩ ሆኖ በአለምአቀፍ ለትርፍ ያልተቋቋመ ድርጅት የተፈጠረ ነው። ለ{ -brand-name-linux } ዛሬውኑ { -brand-name-firefox }ን ያግኙ!

@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = Jeli namołwu widźiće, kotraž zdźěla, zo nałoženje, kotrež chceće instalować, njeje wot { -brand-name-microsoft } přepruwowane, klikńće na „Najebać toho instalować“ abo <a { $attrs }>změńće doporučenske nastajenja nałoženja</a>.
 firefox-new-visit-support-for-more = Wopytajće strony pomocy za dalše podrobnosće
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

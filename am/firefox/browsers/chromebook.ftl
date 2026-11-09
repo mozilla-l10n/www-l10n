@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = ለ{ -brand-name-chromebook } { -brand-name-firefox-browser }ን ያግኙ
 browsers-chromebook-so-youve-got = ስለዚህ { -brand-name-chromebook } አለዎት — የግል ውሂብዎን ለመጠበቅ በራስ-ሰር የግል { -brand-name-firefox-browser }ን ለማግኘት ጊዜው አሁን ነው።
 browsers-chromebook-browsers-chromebook-get-firefox-for = ለ{ -brand-name-android } { -brand-name-firefox }ን ያግኙ
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = ገለልተኛ ቴክ�
 browsers-chromebook-is-it-hard = { -brand-name-firefox }ን ለ{ -brand-name-chromebook } መጫን ከባድ ነው?
 browsers-chromebook-we-wish-it = የበለጠ ግልጽ እንዲሆን እንመኛለን፣ ነገር ግን የእርስዎ { -brand-name-chromebook } እርስዎን በ{ -brand-name-google-play } ስነ-ምህዳር ውስጥ ቢያስቀምጡ ይመርጣል። ነገር ግን፣ { -brand-name-firefox } አሳሹን ወደ እርስዎ { -brand-name-chromebook } መጫን ጥረቱ ጠቃሚ ነው ብለን እናስባለን - እና ከፈለጉ እርስዎን የሚረዱ ግብዓቶች አሉን። በመሳሪያዎ ላይ { -brand-name-firefox }ን ለማግኘት ሁለት መንገዶች አሉ።
 browsers-chromebook-install-firefox-from = { -brand-name-firefox }ን ከ{ -brand-name-google-play } ማከማቻ ጫን፡ በአዲሶቹ የ{ -brand-name-chromeos } (x86 ላይ የተመሰረተ { -brand-name-chromebook }{ -brand-name-chromeos } 80 ወይም በሁዋላ)፣ ለ{ -brand-name-android } መተግበሪያ{ -brand-name-firefox }ን የመጫን አማራጭ አለህ። ይህ መተግበሪያ ለተንቀሳቃሽ ስልኮች የተሰራ ነው።
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = { -brand-name-firefox }ን እንደ { -brand-name-linux } መተግበሪያ ጫን፡ በዚህ መንገድ መሄድ ጥቂት ተጨማሪ እርምጃዎችን ይወስዳል፣ ግን ዋጋ ያለው ነው። የ{ -brand-name-firefox } አሳሹን እንደ { -brand-name-linux } መተግበሪያ ሲጭኑ የ{ -brand-name-firefox } ዴስክቶፕ አሳሽ እና የተሻሻለ የክትትል ጥበቃን ጨምሮ አብረው የሚመጡትን ጥቅማ ጥቅሞች ያገኛሉ፤ አብሮ የተሰራ የይለፍ ቃል አቀናባሪ ፣ በሺዎች የሚቆጠሩ ማከያዎች (UBlock Origin ማስታወቂያ ማገጃን ጨምሮ) እና የአሳሽዎን ገጽታ ለማበጀት የሚረዱ ገጽታዎች። <a { $url }>የ{ -brand-name-firefox } ዴስክቶፕ አሳሽ ለ{ -brand-name-chromebook } ስለመጫን የበለጠ ይወቁ።</a>

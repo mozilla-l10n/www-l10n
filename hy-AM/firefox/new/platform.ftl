@@ -15,6 +15,3 @@ new-platform-2x-faster = Կրկնակի արագ
 new-platform-advanced-install-options = Տեղադրելու լրացուցիչ ընտրանքներ և այլ հարթակներ
 new-platform-download-in-another = Ներբեռնել այլ լեզվով
 new-platform-need-help = Օգնության կարիք ունե՞ք
-
-# Linux
-

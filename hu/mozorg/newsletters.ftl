@@ -46,10 +46,6 @@ newsletters-please-select-country = Válasszon országot vagy régiót
 # Form field error message
 newsletters-please-select-language = Válasszon egy nyelvet
 newsletters-it-may-take = Akár egy órába is beletelhet, amíg az újonnan feliratkozott információk megjelennek ezen az oldalon.
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-
 newsletters-many-of-our-communications-v2 = Számos kommunikációnk ahhoz a fiókhoz kapcsolódik, amelyre feliratkozott, például a { -brand-name-mozilla-accounts }hoz, az { -brand-name-mdn-web-docs }hoz és a kiegészítőfejlesztői fiókhoz. A fiókjai kezeléséhez vagy a fiókjainak listájának megtekintéséhez keresse fel a <a href="{ $url }">fiókkezelési támogatás oldalunkat</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/

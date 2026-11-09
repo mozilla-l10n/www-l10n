@@ -15,9 +15,6 @@ new-platform-2x-faster = Nhanh hơn 2 lần
 new-platform-advanced-install-options = Tùy chọn cài đặt nâng cao & các nền tảng khác
 new-platform-download-in-another = Tải xuống với ngôn ngữ khác
 new-platform-need-help = Cần trợ giúp?
-
-# Linux
-
 new-platform-download-mozilla-linux = Tải xuống { -brand-name-mozilla } { -brand-name-firefox } dành cho { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Tải xuống { -brand-name-mozilla } { -brand-name-firefox } cho { -brand-name-linux }, một trình duyệt Web miễn phí. { -brand-name-firefox } được tạo ra bởi một tổ chức phi lợi nhuận toàn cầu dành riêng cho việc kiểm soát các cá nhân trực tuyến. Tải { -brand-name-firefox } cho { -brand-name-linux } ngay hôm nay!

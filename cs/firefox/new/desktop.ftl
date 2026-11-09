@@ -9,7 +9,7 @@
 # the em dash is used in English to show a change of thought and
 # the em dash is used in meta titles to separate the title of a page from the title of the whole site
 # this title could also be written as "Download Firefox (Fast, Private & Free) — Mozilla"
-firefox-desktop-download-meta-title = Stáhněte si { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } – rychlý, soukromý, svobodný a zdarma od { -brand-name-mozilla(case: "gen") }
+firefox-desktop-download-meta-title = Stáhněte si { -brand-name-firefox-browser(capitalization: "lower", case: "acc") } – rychlý, soukromý, svobodný a zdarma od { -brand-name-mozilla(case: "gen") }
 firefox-desktop-download-meta-title-v2 = Stažení { -brand-name-firefox(case: "gen") } pro počítač — od { -brand-name-mozilla(case: "gen") }
 firefox-desktop-download-meta-desc = Získejte { -brand-name-firefox(case: "acc") }, bezplatný webový prohlížeč podporovaný { -brand-name-mozilla(case: "ins") }, neziskovou organizací zaměřující se na zachování zdravého internetu a soukromí na něm. K dispozici nyní na { -brand-name-windows(case: "loc") }, { -brand-name-mac-short(case: "loc") } , { -brand-name-linux(case: "loc") }, { -brand-name-android(case: "loc") } a { -brand-name-ios(case: "loc") }.
 firefox-desktop-download-meta-desc-v2 = Získejte { -brand-name-firefox(case: "acc") } pro { -brand-name-windows(case: "acc") }, { -brand-name-mac-short(case: "acc") } nebo { -brand-name-linux(case: "acc") }. { -brand-name-firefox } je bezplatný webový prohlížeč od neziskové organizace { -brand-name-mozilla }, která se věnuje soukromí na internetu.
@@ -23,7 +23,7 @@ firefox-desktop-download-get-the-browser = Získejte prohlížeč, který chrán
 firefox-desktop-download-fast-reliable-private = Rychlé, spolehlivé a soukromé - pro klid na internetu.
 firefox-desktop-set-as-default = Nastavte si { -brand-name-firefox(case: "acc") } jako svůj výchozí prohlížeč.
 firefox-desktop-download-download-options = Další verze a jazyky
-firefox-desktop-download-browser-support = Stránky podpory { -brand-name-firefox-browser(case: "gen", capitalization: "lower") }
+firefox-desktop-download-browser-support = Stránky podpory { -brand-name-firefox-browser(capitalization: "lower", case: "gen") }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Dělejte na internetu, co děláte.<br> { -brand-name-firefox-browser } vám <strong>kryje</strong> záda.
 firefox-desktop-download-we-block-the-ad = My blokujeme sledující reklamy. Vy prohlížíte internet rychleji.
@@ -88,7 +88,7 @@ firefox-desktop-download-your-privacy-comes = Vaše soukromí vždy na prvním m
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-keep-all-your = Ponechte si všechny své oblíbené funkce a <strong>objevte</strong> nové.
 # Gmail and Docs are product names and should not be translated
-firefox-desktop-download-all-your-favourite = Všechny vaše oblíbené nástroje od { -brand-name-google(case: "gen") } (jako Gmail a Dokumenty) fungují v { -brand-name-firefox-browser(case: "loc", capitalization: "lower") } bez problémů.
+firefox-desktop-download-all-your-favourite = Všechny vaše oblíbené nástroje od { -brand-name-google(case: "gen") } (jako Gmail a Dokumenty) fungují v { -brand-name-firefox-browser(capitalization: "lower", case: "loc") } bez problémů.
 firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
@@ -99,8 +99,8 @@ firefox-desktop-download-screenshots = Snímky stránek
 firefox-desktop-download-enhanced-tracking-protection = Rozšířená ochrana proti sledování
 firefox-desktop-download-from-watching-a = Ať už na webu sledujete návod nebo svůj oblíbený tým, vaše video je stále s vámi, i když se naráz věnujete více věcem.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
-firefox-desktop-download-get-firefox-android = Získejte { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } pro <strong>{ -brand-name-android(case: "acc") }</strong>
-firefox-desktop-download-get-firefox-ios = Získejte { -brand-name-firefox-browser(case: "acc", capitalization: "lower") } pro <strong>{ -brand-name-ios(case: "acc") }</strong>
+firefox-desktop-download-get-firefox-android = Získejte { -brand-name-firefox-browser(capitalization: "lower", case: "acc") } pro <strong>{ -brand-name-android(case: "acc") }</strong>
+firefox-desktop-download-get-firefox-ios = Získejte { -brand-name-firefox-browser(capitalization: "lower", case: "acc") } pro <strong>{ -brand-name-ios(case: "acc") }</strong>
 firefox-desktop-download-download-the-mobile = Stáhněte si mobilní prohlížeč { -brand-name-firefox } k zajištění automatické ochrany na všech svých zařízeních.
 firefox-desktop-download-learn-about-the = Bližší informace o prohlížeči { -brand-name-firefox } pro počítač naleznete níže
 # Variables:

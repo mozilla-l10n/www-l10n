@@ -10,6 +10,3 @@
 
 new-platform-free-web-browser = Interneti ceecikaw forba
 new-platform-need-help = Ga baa faaba?
-
-# Linux
-

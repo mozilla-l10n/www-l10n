@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Hanki { -brand-name-firefox-browser } { -brand-name-chromebook }ille
 browsers-chromebook-so-youve-got = Sinulla siis on { -brand-name-chromebook } – nyt on aika hankkia itsenäinen, automaattisesti yksityinen { -brand-name-firefox-browser } henkilökohtaisten tietojesi suojaamiseksi.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Hanki { -brand-name-firefox } { -brand-name-android }ille
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Tukee itsenäistä tekni
 browsers-chromebook-is-it-hard = Onko { -brand-name-firefox }in asentaminen { -brand-name-chromebook }iin vaikeaa?
 browsers-chromebook-we-wish-it = Toivomme, että se olisi yksinkertaisempaa, mutta { -brand-name-chromebook } haluaa pitää sinut { -brand-name-google-play } -ekosysteemissä. Mielestämme on kuitenkin vaivan arvoista asentaa { -brand-name-firefox }-selain { -brand-name-chromebook }iin – ja meillä on resursseja, jotka auttavat sinua tarvittaessa. On kaksi tapaa hankkia { -brand-name-firefox } laitteellesi.
 browsers-chromebook-install-firefox-from = Asenna { -brand-name-firefox } { -brand-name-google-play } Storesta: uudemmilla { -brand-name-chromeos }-laitteilla (x86-pohjaisilla { -brand-name-chromebook }eilla, joissa on { -brand-name-chromeos } 80 tai uudempi), voit asentaa { -brand-name-firefox }in { -brand-name-android }-sovelluksen. Tämä sovellus on kehitetty mobiililaitteille.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Asenna { -brand-name-firefox } { -brand-name-linux }-sovelluksena: tällä reitillä kulkeminen on muutaman vaiheen työläämpi, mutta on sen arvoista. Kun asennat { -brand-name-firefox }-selaimen { -brand-name-linux }-sovelluksena, saat käyttöösi { -brand-name-firefox }-työpöytäselaimen ja kaikki sen mukana tulevat edut, mukaan lukien tehostetun seurannan suojauksen, sisäänrakennetun salasananhallinnan, pääsyn tuhansiin lisäosiin (mukaan lukien UBlock Origin -mainosesto) ja teemoja selaimesi ulkoasun mukauttamiseen. <a { $url }>Lisätietoja { -brand-name-firefox }-työpöytäselaimen asentamisesta { -brand-name-chromebook }iin.</a>

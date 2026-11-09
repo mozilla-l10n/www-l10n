@@ -10,6 +10,3 @@
 
 new-platform-free-web-browser = កម្មវិធី​អ៊ីនធឺណិត​ឥត​បង់ថ្លៃ
 new-platform-need-help = ត្រូវការ​ជំនួយ?
-
-# Linux
-

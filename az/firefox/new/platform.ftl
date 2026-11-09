@@ -15,6 +15,3 @@ new-platform-2x-faster = 2-Qat Sürətli
 new-platform-advanced-install-options = Təkmilləşmiş quraşdırma seçimləri və digər platformalar
 new-platform-download-in-another = Başqa dildə endir
 new-platform-need-help = Kömək lazımdır?
-
-# Linux
-

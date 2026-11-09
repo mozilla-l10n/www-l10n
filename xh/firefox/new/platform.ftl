@@ -10,6 +10,3 @@
 
 new-platform-free-web-browser = Ibhrawuza yewebhu yasimahla
 new-platform-need-help = Ufuna uncedo?
-
-# Linux
-

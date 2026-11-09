@@ -36,9 +36,6 @@ firefox-new-your-system-may-not = El vostre sistema no compleix els requisits pe
 firefox-new-if-you-see-a-prompt = Si veieu un missatge que indica que l'aplicació que intenteu instal·lar no és una aplicació verificada per { -brand-name-microsoft }, feu clic a «Instal·la de totes maneres» o <a { $attrs }>canvia la configuració recomanada de l'aplicació</a >.
 firefox-new-visit-support-for-more = Visiteu l'assistència per a més detalls
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

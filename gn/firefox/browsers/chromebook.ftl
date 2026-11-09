@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Ereko { -brand-name-firefox-browser } { -brand-name-chromebook } peg̃uarã
 browsers-chromebook-so-youve-got = Eguerekora’e { -brand-name-chromebook } — ko’ág̃a erekomava’erã pe { -brand-name-firefox-browser }, isãso ha hekoñemi ijeheguíva omo’ã hag̃ua ne mba’ekuaarãitéva.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Ereko { -brand-name-firefox } { -brand-name-android } peg̃uarã
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Aykeko tembiporupyahu ij
 browsers-chromebook-is-it-hard = ¿Hasy { -brand-name-firefox } mboguejy { -brand-name-chromebook } peg̃uarã?
 browsers-chromebook-we-wish-it = Ikatúnga’u ndahasyive, hákatu nde { -brand-name-chromebook } oĩsẽvéta { -brand-name-google-play } mba’éramo. Upéicharamo jepe, roguerovia iporãiteveha emohenda pe kundahára { -brand-name-firefox } nde { -brand-name-chromebook }-pe – ha roipytyvõkuaa eikotevẽramo. Mokõi hendáicha eguerekokuaa { -brand-name-firefox } ne mba’e’okápe.
 browsers-chromebook-install-firefox-from = Emohenda { -brand-name-firefox } pe { -brand-name-google-play } ñemuha guive: umi { -brand-name-chromeos } ipyahuvéva (ha’éva x86 { -brand-name-chromebook } omba’apóva { -brand-name-chromeos } 80 térã upeigua), ikatu emohenda pe app { -brand-name-firefox } { -brand-name-android } peg̃uarã. Ko app ojejapo pumbyry popeguápe g̃uarã.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Emohenda { -brand-name-firefox } tembiporu’i { -brand-name-linux } mba’évarõ: ehapykuehórõ ko tape eikotevẽ hetave mba’e, hákatu iporã. Emohendávo { -brand-name-firefox } kundahára tembiporu’i { -brand-name-linux } mba’évarõ, erekóta kundahára mesa arigua { -brand-name-firefox } ha opa mba’eporã orekóva, tapykuehoha ñemo’ã iporãvévarõ, ñe’ẽñemi ñangarekohára ijehegua, heta moĩmbahápe jeike (oĩhápe UBlock Origin ñemuha jokoha), ha téma emboava hag̃ua ne kundahára jehecha. <a { $url }>Eikuaave mba’éichapa emohendáta { -brand-name-firefox } kundahára mesa arigua { -brand-name-chromebook } peg̃uarã.</a>

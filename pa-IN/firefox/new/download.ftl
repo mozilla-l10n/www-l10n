@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = ਜੇ ਤੁਹਾਨੂੰ ਐਪ ਸ਼ੁਰੂ ਵੇਲੇ ਪੁੱਛਿਆ ਜਾਂਦਾ ਕਿ ਤੁਸੀਂ { -brand-name-microsoft }-ਜਾਂਚ ਕੀਤੀ ਐਪ ਇੰਸਟਾਲ ਨਹੀਂ ਕਰ ਸਕਦੇ ਤਾਂ  “Install anyway” ਜਾਂ <a { $attrs }>change app recommendation settings</a> ਨੂੰ ਕਲਿੱਕ ਕਰੋ।
 firefox-new-visit-support-for-more = ਹੋਰ ਵੇਰਵਿਆਂ ਲਈ ਸਹਾਇਤਾ ਨੂੰ ਵੇਖੋ
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

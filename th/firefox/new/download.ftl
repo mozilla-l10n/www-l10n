@@ -39,9 +39,6 @@ firefox-new-windows = { -brand-name-windows }
 firefox-new-if-you-see-a-prompt = ถ้าคุณเห็นข้อความแจ้งเตือนที่ระบุว่าแอปที่คุณกำลังพยายามติดตั้งไม่ใช้แอปที่ได้รับการตรวจสอบโดย { -brand-name-microsoft } ให้คลิก “ติดตั้งต่อไป” หรือ<a { $attrs }>เปลี่ยนการตั้งค่าการแนะนำแอป</a>
 firefox-new-visit-support-for-more = เยี่ยมชมฝ่ายสนับสนุนสำหรับรายละเอียดเพิ่มเติม
 
-# Not-Required
-
-
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
 
 # The three strings below are joined with a "—" to form a page title like "Download Firefox Browser — Fast, Private & Free — from Mozilla"

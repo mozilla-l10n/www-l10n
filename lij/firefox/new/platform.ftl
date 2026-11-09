@@ -15,6 +15,3 @@ new-platform-2x-faster = 2 vòtte ciù veloce
 new-platform-advanced-install-options = Inpostaçioin de instalaçion e atre piataforme
 new-platform-download-in-another = Scarega inte 'n atra lengoa
 new-platform-need-help = Bezeugno d'agiutto?
-
-# Linux
-

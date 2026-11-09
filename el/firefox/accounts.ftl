@@ -6,17 +6,17 @@
 ### URL: https://www-dev.allizom.org/firefox/accounts/
 
 # HTML page title
-mozilla-accounts-get-a-mozilla-account = Αποκτήστε έναν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } και διατηρήστε τα δεδομένα σας ιδιωτικά, ασφαλή και συγχρονισμένα
+mozilla-accounts-get-a-mozilla-account = Αποκτήστε έναν { -brand-name-mozilla-account(capitalization: "lower", case: "acc") } και διατηρήστε τα δεδομένα σας ιδιωτικά, ασφαλή και συγχρονισμένα
 # HTML page description
-mozilla-accounts-securely-sync-your = Ασφαλής συγχρονισμός κωδικών πρόσβασης, σελιδοδεικτών και καρτελών σε όλες τις συσκευές σας. Αποκτήστε έναν { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } – Μία σύνδεση – Δύναμη και απόρρητο παντού.
+mozilla-accounts-securely-sync-your = Ασφαλής συγχρονισμός κωδικών πρόσβασης, σελιδοδεικτών και καρτελών σε όλες τις συσκευές σας. Αποκτήστε έναν { -brand-name-mozilla-account(capitalization: "lower", case: "acc") } – Μία σύνδεση – Δύναμη και απόρρητο παντού.
 firefox-accounts-enter-your-email-address = Εισαγάγετε τη διεύθυνση email σας για να ξεκινήσετε.
 firefox-accounts-already-have-an-account = Διαθέτετε ήδη λογαριασμό;
 firefox-accounts-sign-in = Σύνδεση
-mozilla-accounts-already = Συγχαρητήρια! Διαθέτετε ήδη { -brand-name-mozilla-account(case: "acc", capitalization: "lower") }.
+mozilla-accounts-already = Συγχαρητήρια! Διαθέτετε ήδη { -brand-name-mozilla-account(capitalization: "lower", case: "acc") }.
 firefox-accounts-manage = Διαχείριση του λογαριασμού σας
-mozilla-account-header = { -brand-name-mozilla-account(case: "nom", capitalization: "upper") }
+mozilla-account-header = { -brand-name-mozilla-account(capitalization: "upper", case: "nom") }
 # This is followed by a list of things you can do with your Mozilla account
-mozilla-account-sign-in-to = Συνδεθείτε στον { -brand-name-mozilla-account(case: "acc", capitalization: "lower") } σας για:
+mozilla-account-sign-in-to = Συνδεθείτε στον { -brand-name-mozilla-account(capitalization: "lower", case: "acc") } σας για:
 # Variables:
 #   $send (url) - link to https://blog.mozilla.org/en/products/firefox/firefox-tips/firefox-secret-tips/#send-tabs
 firefox-accounts-send-a-tab = <a href="{ $send }">Αποστολή καρτελών</a> σε άλλη συσκευή

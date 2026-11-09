@@ -15,9 +15,6 @@ new-platform-2x-faster = מהיר כפליים
 new-platform-advanced-install-options = אפשרויות התקנה מתקדמות ופלטפורמות אחרות
 new-platform-download-in-another = הורדה בשפה אחרת
 new-platform-need-help = זקוקים לעזרה?
-
-# Linux
-
 new-platform-download-mozilla-linux = הורדת { -brand-name-mozilla } { -brand-name-firefox } עבור { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = הורידו את { -brand-name-mozilla } { -brand-name-firefox } עבור { -brand-name-linux }, הדפדפן החופשי. { -brand-name-firefox } נוצר על־ידי קהילה עולמית שאינה למטרות רווח שמטרתה לתת לכולנו שליטה מקוונת. הורידו את { -brand-name-firefox } עבור { -brand-name-linux } עוד היום!

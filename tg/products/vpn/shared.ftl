@@ -45,9 +45,6 @@ vpn-shared-pricing-total = Ҳамагӣ: { $amount }
 #   $amount (string) - a string containing the total annual subscription price together with the appropriate currency symbol e.g. '35,94 €'
 vpn-shared-pricing-total-plus-tax = Ҳамагӣ: { $amount } + андоз
 vpn-shared-mozilla-vpn-is-not-yet-available = «{ -brand-name-mozilla-vpn }» ҳануз дар кишвари шумо дастрас нест
-
-# Platform subpage shared strings
-
 vpn-shared-platform-cta-button = Дидани нархнома ва дастрасӣ
 vpn-shared-platform-what-is = «{ -brand-name-mozilla-vpn }» чӣ аст?
 vpn-shared-platfrom-why-choose = Чаро «{ -brand-name-mozilla-vpn }»?

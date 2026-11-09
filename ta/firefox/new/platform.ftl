@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x வேகமானது
 new-platform-advanced-install-options = மேம்பட்ட நிறுவல் தேர்வுகள் & பிற தளங்கள்
 new-platform-download-in-another = மற்றொரு மொழியில் பதிவிறக்குங்கள்
 new-platform-need-help = உதவி தேவையா?
-
-# Linux
-
 new-platform-download-mozilla-linux = இலினக்சிற்கான { -brand-name-firefox } ஐ பதிவிறக்குக
 new-platform-your-life-your-business = உங்கள் வாழ்க்கை, உங்களுடையது. { -brand-name-firefox } இலினக்சில் மூன்றாம் தரப்பு பின்தொடரல் நினைவிகளைத் தடுக்கிறது.
 new-platform-open-source = திறந்த மூலம்

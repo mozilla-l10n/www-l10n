@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x ਵੱਧ ਤੇਜ਼
 new-platform-advanced-install-options = ਤਕਨੀਕੀ ਇੰਸਟਾਲ ਕਰਨ ਦੀਆਂ ਚੋਣਾਂ ਅਤੇ ਹੋਰ ਮੰਚ
 new-platform-download-in-another = ਹੋਰ ਜ਼ੁਬਾਨ 'ਚ ਡਾਊਨਲੋਡ ਕਰੋ
 new-platform-need-help = ਮਦਦ ਚਾਹੀਦੀ ਹੈ?
-
-# Linux
-
 new-platform-download-mozilla-linux = { -brand-name-linux } ਲਈ { -brand-name-mozilla } { -brand-name-firefox } ਡਾਊਨਲੋਡ ਕਰੋ
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = { -brand-name-linux } ਲਈ { -brand-name-mozilla } { -brand-name-firefox }, ਮੁਫ਼ਤ ਬਰਾਊਜ਼ਰ, ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ। { -brand-name-firefox } ਨੂੰ ਗਲੋਬਲ ਗੈਰ-ਮੁਨਾਫ਼ਾ ਵਲੋਂ ਬਣਾਇਆ ਗਿਆ ਹੈ, ਜੋ ਵਿਅਕਤੀਆਂ ਨੂੰ ਆਨਲਾਈਨ ਕੰਟੋਰਲ ਵਿਚ ਰੱਖਣ ਲਈ ਸਮਰਪਿਤ ਹੈ। { -brand-name-linux } ਲਈ { -brand-name-firefox } ਅੱਜ ਹੀ ਲਵੋ!

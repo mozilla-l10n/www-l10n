@@ -15,9 +15,6 @@ new-platform-2x-faster = 2 voti cchiù lestu
 new-platform-advanced-install-options = Aḍḍijuti avanzati di nzitamentu e autri chiattafurmi
 new-platform-download-in-another = Scàrrica nta n’autra lingua
 new-platform-need-help = Ti serbi ajutu?
-
-# Linux
-
 new-platform-download-mozilla-linux = Scàrricati { -brand-name-mozilla } { -brand-name-firefox } pi { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Scàrricati { -brand-name-mozilla }{ -brand-name-firefox } pi { -brand-name-linux }, un navicaturi lìbbiru e a francu. { -brand-name-firefox } è criatu di n’urganizzazzioni glubbali senza scopu di lucru didicata a turnari a riti ’n putiri dî genti. Pigghia { -brand-name-firefox } pi { -brand-name-linux } oji!

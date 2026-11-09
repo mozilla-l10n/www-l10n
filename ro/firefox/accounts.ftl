@@ -33,6 +33,6 @@ firefox-accounts-get-it-all-on-every = Obține-le pe toate pe fiecare dispozitiv
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 
-firefox-accounts-firefox-browser = { -brand-name-firefox-browser(case: "definite-article", capitalization: "upper") }
+firefox-accounts-firefox-browser = { -brand-name-firefox-browser(capitalization: "upper", case: "definite-article") }
 firefox-accounts-mozilla-monitor = { -brand-name-mozilla-monitor }
 firefox-accounts-mozilla-vpn = { -brand-name-mozilla-vpn }

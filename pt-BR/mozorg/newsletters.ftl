@@ -45,10 +45,6 @@ newsletters-not-all-subscriptions-are = Nem todas as inscrições estão dispon�
 newsletters-please-select-country = Selecione um país ou região
 # Form field error message
 newsletters-please-select-language = Selecione um idioma
-
-# Variables:
-#   $url (url) - link to https://support.mozilla.org/kb/managing-account-data
-
 newsletters-many-of-our-communications-v2 = Muitas de nossas comunicações são relacionadas a uma conta em que você se inscreveu, como { -brand-name-mozilla-accounts }, { -brand-name-mdn-web-docs } ou desenvolvedor de extensões. Para gerenciar uma de suas contas ou ver uma lista de todas as contas, visite nossa <a href="{ $url }">página de suporte de gerenciamento de contas</a>.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/firefox/accounts/

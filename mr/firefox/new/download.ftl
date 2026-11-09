@@ -25,6 +25,3 @@ firefox-new-need-help = मदत पाहिजे?
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
 firefox-new-your-firefox-new-should-begin = आपले डाउनलोड आपोआप सुरू होईलच. झाले नाही? <a id="{ $id }" href="{ $fallback_url }">पुन्हा प्रयत्न करा</a>.
 firefox-new-firefox-is-more-than-a-browser = फायरफॉक्स ब्राउझरपेक्षा अधिक आहे.
-
-# Not-Required
-

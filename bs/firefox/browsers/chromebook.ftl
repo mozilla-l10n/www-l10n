@@ -5,9 +5,6 @@
 
 ### URL: https://www-dev.allizom.org/firefox/browsers/chromebook/
 
-
-# HTML page title
-
 browsers-chromebook-get-firefox-browser = Preuzmite { -brand-name-firefox-browser } za { -brand-name-chromebook }
 browsers-chromebook-so-youve-got = Dakle, imate { -brand-name-chromebook } — sada je vrijeme da nabavite nezavisni, automatski privatni { -brand-name-firefox-browser } za zaštitu Vaših ličnih podataka.
 browsers-chromebook-browsers-chromebook-get-firefox-for = Preuzmite { -brand-name-firefox } za { -brand-name-android }
@@ -22,8 +19,4 @@ browsers-chromebook-supporting-independent-technology = Podržava nezavisnu tehn
 browsers-chromebook-is-it-hard = Je li je teško instalirati { -brand-name-firefox } za { -brand-name-chromebook }?
 browsers-chromebook-we-wish-it = Voljeli bismo da je jednostavnije, ali Vaš { -brand-name-chromebook } bi više volio da Vas zadrži u { -brand-name-google-play } ekosistemu. Međutim, mislimo da je vrijedno truda da instalirate { -brand-name-firefox } browser na Vaš { -brand-name-chromebook } – a mi imamo resurse da Vam pomognemo ako Vam zatrebaju. Postoje dva načina da preuzmete { -brand-name-firefox } na svoj uređaj.
 browsers-chromebook-install-firefox-from = Instalirajte { -brand-name-firefox } iz { -brand-name-google-play } trgovine: na novijim verzijama { -brand-name-chromeos } (x86 zasnovan na { -brand-name-chromebook } pokreće { -brand-name-chromeos } 80 ili noviji), imate opciju da instalirate { -brand-name-firefox } za { -brand-name-android } aplikaciju. Ova aplikacija je razvijena za mobilne uređaje.
-
-# Variables:
-# $url (url) - link to https://support.mozilla.org/kb/run-firefox-chromeos with additional attributes
-
 browsers-chromebook-install-firefox-as = Instalirajte { -brand-name-firefox } kao { -brand-name-linux } aplikaciju: ovaj put zahtijeva još nekoliko koraka, ali isplati se. Kada instalirate { -brand-name-firefox } kao { -brand-name-linux } aplikaciju, dobijate { -brand-name-firefox } desktop browser i sve pogodnosti koje dolaze sa njim, uključujući poboljšanu zaštitu od praćenja, ugrađeni menadžer lozinki, pristup hiljadama dodataka (uključujući UBlock Origin blokator oglasa) i teme za prilagođavanje izgleda vašeg browsera. <a { $url }>Saznajte više o instaliranju { -brand-name-firefox } desktop browsera za { -brand-name-chromebook }.</a>

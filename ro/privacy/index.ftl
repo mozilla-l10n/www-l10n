@@ -33,7 +33,7 @@ privacy-index-to-review-and-comment-on-proposed = Pentru a revedea și comenta m
 privacy-index-read-more-about-our-ongoing = Citește mai multe despre eforturile noastre continue depuse în elaborarea politicilor publice de confidențialitate a datelor cu caracter personal și de securitate pe <a href="{ $blog }">blogul { -brand-name-mozilla } despre politici deschise și pledoarii publice</a>.
 privacy-index-outdated-policies = Politici depășite
 privacy-index-mozilla-websites-communications = Site-uri, comunicări și cookie-uri { -brand-name-mozilla }
-privacy-index-firefox-browser = { -brand-name-firefox-browser(case: "definite-article", capitalization: "upper") }
+privacy-index-firefox-browser = { -brand-name-firefox-browser(capitalization: "upper", case: "definite-article") }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
 privacy-index-mdn-plus = { -brand-name-mdn-plus }

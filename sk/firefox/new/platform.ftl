@@ -15,9 +15,6 @@ new-platform-2x-faster = 2x rýchlejší
 new-platform-advanced-install-options = Pokročilé možnosti inštalácie a ďalšie platformy
 new-platform-download-in-another = Stiahnuť v inom jazyku
 new-platform-need-help = Potrebujete pomoc?
-
-# Linux
-
 new-platform-download-mozilla-linux = Stiahnite si { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-linux }
 # /firefox/linux/ HTML page description
 new-platform-download-mozilla-desc-linux = Nainštalujte si { -brand-name-mozilla } { -brand-name-firefox } pre { -brand-name-linux }, slobodný webový prehliadač. { -brand-name-firefox } je vytváraný ako neziskový, kde vy ste na prvom mieste, pričom cieľom je udržať kontrolu vo vašich rukách. Získajte { -brand-name-firefox } pre { -brand-name-linux } ešte dnes!
