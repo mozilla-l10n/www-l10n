@@ -52,8 +52,8 @@ firefox-products-get-mozilla-vpn = Iegūt { -brand-name-mozilla-vpn }
 ## MDN Plus
 
 firefox-products-mdn-plus = { -brand-name-mdn-plus }
-firefox-products-resources-for-developers = Resursi izstrādātājiem no izstrādātājiem. Atbalstiet { -brand-name-mdn } un pielāgojiet to savām vajadzībām ar kolekcijām, paziņojumiem un rotaļu laukumiem.
-firefox-products-support-mdn = Atbalsts { -brand-name-mdn }
+firefox-products-resources-for-developers = Avoti izstrādātājiem no izstrādātājiem. Atbalsti { -brand-name-mdn } un pielāgo to savām vajadzībām ar krājumiem, paziņojumiem un izmēģinājuma laukumiem!
+firefox-products-support-mdn = Atbalstīt { -brand-name-mdn }
 
 ## Thunderbird
 

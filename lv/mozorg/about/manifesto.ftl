@@ -114,6 +114,6 @@ manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foun
 manifesto-share-on-bluesky = Kopīgot vietnē Bluesky
 manifesto-our-10-principles = Mūsu 10 principi
 manifesto-the-mozilla-manifesto-addendum = { -brand-name-mozilla } Manifesta Papildinājums
-manifesto-show-your-support = Parādiet savu atbalstu
+manifesto-show-your-support = Parādi savu atbalstu
 manifesto-i-support-the-vision-of-v2 = Es atbalstu { -brand-name-mozilla } vīziju par labāku un veselīgāku internetu, vai pievienosies man?
 manifesto-read-the-entire-manifesto = Izlasiet visu manifestu

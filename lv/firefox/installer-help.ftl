@@ -28,4 +28,4 @@ installer-help-firefox-nightly-desc = Ieskatieties mūsu nākamās paaudzes tīm
 installer-help-need-help = Vai nepieciešama palīdzība instalēšanā?
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/install-firefox-windows
-installer-help-need-help-desc = Ja jums joprojām ir nepieciešama palīdzība ar instalēšanu, <a href="{ $url }">izlasiet pamācību mūsu atbalsta sadaļā.</a>
+installer-help-need-help-desc = Ja joprojām ir nepieciešama palīdzība ar uzstādīšanu, <a href="{ $url }">izlasi pamācību mūsu atbalsta sadaļā</a>!
