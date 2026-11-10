@@ -103,6 +103,9 @@ firefox-desktop-download-from-security-to = De seguretat, de notícies o de jocs
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
 firefox-desktop-download-firefox-was-created = El { -brand-name-firefox } està creat per <a { $attrs }>{ -brand-name-mozilla }</a> com una alternativa més ràpida i privada a navegadors com el { -brand-name-ie }, i ara el { -brand-name-chrome }. Avui, la nostra empresa guiada per una missió i la comunitat de voluntaris continuen posant la vostra privadesa per sobre de tot.
 # Variables:
+#   $attrs (attrs) - link to https://accounts.firefox.com/signin
+firefox-desktop-download-firefox-is-available-v2 = El { -brand-name-firefox } està disponible en tots els dispositius; accediu a les vostres pestanyes, a l'historial i a les adreces d'interès des de qualsevol lloc. Només necessiteu un <a { $attrs }>{ -brand-name-mozilla-account }</a> i podreu accedir a la sincronització i a més productes de { -brand-name-mozilla }.
+# Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/firefox-screenshots
 firefox-desktop-download-grab-a-high = Captureu una imatge d'alta resolució de qualsevol cosa del Web amb l'eina de <a { $attrs }>captura de pantalla</a> integrada en el navegador
 # Variables:
