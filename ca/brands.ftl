@@ -89,6 +89,16 @@
 -brand-name-mdn-web-docs = MDN Web Docs
 -brand-name-mozilla-festival = Mozilla Festival
 -brand-name-mozilla-vpn = Mozilla VPN
+-brand-name-mozilla-account =
+    { $capitalization ->
+        [uppercase] Compte de Mozilla
+       *[lowercase] compte de Mozilla
+    }
+-brand-name-mozilla-accounts =
+    { $capitalization ->
+        [uppercase] Comptes de Mozilla
+       *[lowercase] comptes de Mozilla
+    }
 -brand-name-thunderbird = Thunderbird
 
 ## Mozilla projects (short names)
