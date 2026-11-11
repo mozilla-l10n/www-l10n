@@ -72,6 +72,6 @@ navigation-v2-get-the-firefox-browser-built = Iegūstiet { -brand-name-firefox }
 navigation-v2-mdn-web-docs = { -brand-name-mdn-web-docs }
 navigation-v2-check-out-the-home-for-web = Apskatiet tīmekļa izstrādātāju resursus sākumlapā.
 navigation-v2-common-voice = { -brand-name-common-voice }
-navigation-v2-donate-your-voice-so-the-future = Piedalies ar savu balsi, lai tīmekļa nākotne varētu dzirdēt ikvienu.
+navigation-v2-donate-your-voice-so-the-future = Piedalies ar savu balsi, lai tīmekļa nākotne varētu dzirdēt ikvienu!
 navigation-v2-mozilla-innovation-projects = { -brand-name-mozilla } Inovāciju projekti
 navigation-v2-discover-ways-to-bring = Atklājiet veidus, kā īstenot spožas idejas.

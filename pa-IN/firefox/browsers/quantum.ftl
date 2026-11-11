@@ -6,5 +6,7 @@
 ### URL: https://www-dev.allizom.org/firefox/browsers/quantum/
 
 page-title = { -brand-name-firefox-quantum } ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
+# https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/
+learn-more-about = { -brand-name-firefox-quantum } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 privacy-first = ਪਰਦੇਦਾਰੀ ਪਹਿਲਾਂ
 always-evolving = ਹਮੇਸ਼ਾ ਸੁਧਾਰ ਜਾਰੀ

@@ -57,6 +57,11 @@ manifesto-details-build-and-deliver = ਮੈਨੀਫੈਸਟੋ ਦੇ ਸਿ�
 manifesto-details-use-the-mozilla = ਇੰਟਰਨੈੱਟ ਨੂੰ ਇੱਕ ਖੁੱਲਾ ਪਲੇਟਫਾਰਮ ਰੱਖਣ ਲਈ { -brand-name-mozilla } ਸੰਪਤੀਆਂ (ਬੌਧਿਕ ਸੰਪਤੀ ਜਿਵੇਂ ਕਿ ਕਾਪੀਰਾਈਟ ਅਤੇ ਟਰੇਡਮਾਰਕ, ਬੁਨਿਆਦੀ ਢਾਂਚਾ, ਫੰਡ, ਅਤੇ ਵੱਕਾਰੀ) ਦੀ ਵਰਤੋਂ ਕਰੋ;
 manifesto-details-promote-models = ਜਨਤਕ ਲਾਭ ਲਈ ਆਰਥਿਕ ਮੁੱਲ ਬਣਾਉਣ ਲਈ ਮਾਡਲਾਂ ਦੀ ਤਰੱਕੀ; ਅਤੇ
 manifesto-details-promote-the-mozilla = ਜਨਤਕ ਭਾਸ਼ਣ ਵਿੱਚ ਅਤੇ ਇੰਟਰਨੈੱਟ ਉਦਯੋਗ ਵਿੱਚ { -brand-name-mozilla } ਮੈਨੀਫੈਸਟੋ ਦੇ ਸਿਧਾਂਤਾਂ ਨੂੰ ਉਤਸ਼ਾਹਿਤ ਕਰੋ।
+manifesto-our-commitments = ਸਾਡੇ ਵਾਅਦੇ
+manifesto-commitment-1 = ਵਾਅਦਾ 1
+manifesto-commitment-2 = ਵਾਅਦਾ 2
+manifesto-commitment-3 = ਵਾਅਦਾ 3
+manifesto-commitment-4 = ਵਾਅਦਾ 4
 
 ## Obsolete strings (expire 2026-09-10)
 

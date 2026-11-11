@@ -30,6 +30,8 @@ m24-home-mozilla-vpn = { -brand-name-mozilla-vpn }
 m24-home-keep-your-location = ਆਪਣੇ ਟਿਕਾਣੇ ਅਤੇ ਆਨਲਾਈਨ ਮੌਜੂਦਗੀਆਂ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਰੱਖੋ — ਕਿਸੇ ਵੀ ਥਾਂ ਲੋਕਲ ਵਾਗੂੰ ਹੀ ਸਟਰੀਮ ਕਰੋ।
 m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-firefox-relay = { -brand-name-firefox-relay }
+m24-home-0din = { -brand-name-0din }
+m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
 
@@ -56,15 +58,19 @@ m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 ## Media Springboard
 
 m24-home-type = ਕਿਸਮ
+m24-home-author-v2 = ਲੇਖਕ
 m24-home-topic = ਵਿਸ਼ਾ
 m24-home-intro = ਜਾਣ-ਪਛਾਣ
 m24-home-tag-article = ਲੇਖ
 m24-home-tag-podcast = ਪੋਸਟਕਾਸਟ
 m24-home-tag-video = ਵੀਡੀਓ
 m24-home-topic-news = ਖ਼ਬਰਾਂ
+m24-home-topic-products = ਉਤਪਾਦ
 m24-home-topic-ai = ਮਸ਼ੀਨੀ ਅਕਲ
+m24-home-topic-open-source-ai = ਆਜ਼ਾਦ ਸਰੋਤ AI
 m24-home-topic-ps = ਪਰਦੇਦਾਰੀ ਅਤੇ ਸੁਰੱਖਿਆ
 m24-home-headline-you-ai-v2 = ਤੁਹਾਡੀ, AI ਅਤੇ ਇੰਟਰਨੈੱਟ — ਅਸਲ ਵਿੱਚ ਕੀ ਵਾਪਰ ਰਿਹਾ ਹੈ?
+m24-home-mozilla = { -brand-name-mozilla }
 
 ## Showcase
 
@@ -72,6 +78,11 @@ m24-home-rise25-awards = { -brand-name-rise25 } ਇਨਾਮ
 m24-home-watch-the-award = ਇਨਾਮ ਸ਼ੋਅ ਵੇਖੋ
 m24-home-state-of-mozilla = { -brand-name-mozilla } ਦੀ ਸਥਿਤੀ
 m24-home-read-the-report = ਰਿਪੋਰਟ ਨੂੰ ਪੜ੍ਹੋ
+
+## Nothing Personal is the name of the magazine and should be kept in English.
+
+m24-home-mozilla-nothing-personal = ਕੁਝ ਵੀ ਨਿੱਜੀ ਨਹੀਂ
+m24-home-read-now = ਹੁਣੇ ਪੜ੍ਹੋ
 
 ## Issues
 

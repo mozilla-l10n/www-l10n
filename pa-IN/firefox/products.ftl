@@ -60,3 +60,18 @@ firefox-products-learn-more-about-0din = { -brand-name-0din } ਬਾਰੇ ਹ�
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-learn-more-about-tabstack = { -brand-name-tabstack } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
+
+## Otari
+
+firefox-products-learn-more-about-otari = { -brand-name-otari } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-extend-your-reach = ਆਪਣੀ ਪਹੁੰਚ ਨੂੰ ਵਧਾਓ
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-manage-your-fleet = { -brand-name-firefox } ਨੂੰ ਲਾਗੂ ਕਰੋ
+firefox-products-learn-more-about-firefox-enterprise = { -brand-name-firefox-enterprise } ਬਾਰੇ ਹੋਰ ਜਾਣੋ

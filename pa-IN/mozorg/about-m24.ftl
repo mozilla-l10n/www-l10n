@@ -10,12 +10,16 @@ m24-about-page-title = { -brand-name-mozilla } ਬਾਰੇ ਹੋਰ ਜਾਣ�
 
 ## Intro
 
+m24-about-guard-the-internet = ਆਜ਼ਾਦ ਇੰਟਰਨੈੱਟ ਦੀ ਰਾਖੀ ਕਰੋ
 # Obsolete string (expires 2026-09-11)
 m24-about-reclaim-the-internet = ਸਾਡੇ ਨਾਲ ਇੰਟਰਨੈੱਟ ਨੂੰ ਮੁੜ ਹਾਸਲ ਕਰੋ
 
 ## Manifesto
 
 m24-about-read-our-manifesto = ਸਾਡਾ ਮਨੋਰਥ ਪੱਤਰ ਪੜ੍ਹੋ
+m24-about-advocate = ਵਕੀਲ
+m24-about-research = ਖੋਜ
+m24-about-build = ਬਿਲਡ
 
 ## News
 

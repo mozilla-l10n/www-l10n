@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = ਅਫ਼ਸੋਸ, { -brand-name-mozill
 vpn-download-for-windows-v2 = { -brand-name-windows } ਲਈ VPN
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (ਸਿਰਫ਼ 64-ਬਿੱਟ ਹੀ)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = { -brand-name-windows } ਲਈ { -brand-name-mozilla-vpn } ਡਾਊਨਲੋਡ ਕਰੋ
 vpn-download-for-firefox-extension = { -brand-name-firefox } ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਇੰਸਟਾਲ ਕਰੋ
 vpn-download-for-mac = { -brand-name-mac-short } ਲਈ VPN
@@ -41,3 +42,9 @@ vpn-download-also-available = ਇਸ ਲਈ ਵੀ ਮੌਜੂਦ ਹੈ:
 vpn-download-from-the-maker = { -brand-name-firefox } ਬਣਾਉਣ ਵਾਲਿਆਂ ਵਲੋਂ ਤਿਆਰ { -brand-name-mozilla-vpn } ਤੁਹਾਡੀ ਆਨਲਾਈਨ ਸਰਗਰਮੀ ਨੂੰ ਇੰਕ੍ਰਿਪਟ ਕਰਨ ਤੇ ਤੁਹਾਡੇ ਟਿਕਾਣੇ ਨੂੰ ਓਹਲੇ ਰੱਖਣ ਲਈ ਉੱਨਤ <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>® ਪ੍ਰੋਟੋਕਾਲ ਵਰਤਦਾ ਹੈ।
 vpn-download-we-never-log = ਅਸੀਂ ਕਦੇ ਵੀ ਤੁਹਾਡਾ ਲਾਗ ਨਹੀਂ ਰੱਖਦੇ, ਟੋਹ ਨਹੀਂ ਲੈਂਦੇ ਜਾਂ ਤੁਹਾਡੇ ਨੈੱਟਵਰਕ ਡਾਟੇ ਨੂੰ ਵੇਚਦੇ ਨਹੀਂ ਹਾਂ।
 vpn-download-previous-versions = { -brand-name-windows } ਅਤੇ { -brand-name-mac-short } ਲਈ ਪੁਰਾਣੇ ਵਰਜ਼ਨਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰੋ
+vpn-download-install-via-flathub = ਫਲੈਟਹੱਬ ਰਾਹੀਂ ਇੰਸਟਾਲ ਕਰੋ
+vpn-download-install-via-apt = APT ਰਾਹੀਂ ਇੰਸਟਾਲ ਕਰੋ
+vpn-download-flathub = ਫਲੈਟ-ਹੱਬ
+vpn-download-apt = APT
+vpn-download-windows = 64-ਬਿੱਟ
+vpn-download-windows-arm = ARM

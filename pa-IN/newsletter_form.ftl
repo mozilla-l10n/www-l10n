@@ -29,6 +29,8 @@ newsletter-form-available-languages = ਮੌਜੂਦ ਭਾਸ਼ਾਵਾਂ
 newsletter-form-select-country = ਦੇਸ਼ ਚੁਣੋ
 newsletter-form-sign-me-up = ਮੈਨੂੰ ਹਿੱਸਾ ਬਣਾਓ
 newsletter-form-sign-up-now = ਹੁਣੇ ਹਿੱਸਾ ਬਣੋ
+# Alt text for SVG animation indicating the form has submitted and is waiting for response
+newsletter-form-submit-sending = ਭੇਜ ਜਾ ਰਿਹਾ ਹੈ
 newsletter-form-thanks = ਧੰਨਵਾਦ!
 newsletter-form-leave-this-field-empty = ਇਸ ਖੇਤਰ ਨੂੰ ਖਾਲੀ ਛੱਡੋ।
 newsletter-form-yes = ਹਾਂ

@@ -12,6 +12,7 @@ about-read-our-mission = ਸਾਡਾ ਮਕਸਦ ਪੜ੍ਹੋ
 about-our-mission-in-action = ਸਾਡਾ ਮਕਸਦ ਜਾਰੀ ਹੈ
 about-pioneers-of-the-open-web = ਆਜ਼ਾਦ ਵੈੱਬ ਦੇ ਮੋਢੀ
 about-firefox-fast-for-good = { -brand-name-firefox }: ਚੰਗੇ ਲਈ ਤੇਜ਼ ਹੈ
+about-corporation-foundation-not = ਕਾਰਪੋਰੇਸ਼ਨ । ਫਾਊਂਡੇਸ਼ਨ । ਗ਼ੈਰ-ਮੁਨਾਫ਼ਾ।
 about-learn-about-the-mozilla-foundation = { -brand-name-mozilla-foundation } ਬਾਰੇ ਹੋਰ ਜਾਣੋ
 about-the-mozilla-manifesto = { -brand-name-mozilla } ਮਨੋਰਥ-ਪੱਤਰ
 about-read-the-manifesto = ਸਾਡਾ ਮਨੋਰਥ-ਪੱਤਰ ਪੜ੍ਹੋ
