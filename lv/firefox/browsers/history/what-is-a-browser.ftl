@@ -22,7 +22,7 @@ what-is-a-browser-a-web-browser-long = Tīmekļa pārlūks aizved jūs uz jebkur
 what-is-a-browser-sadly-not-all = Diemžēl ne visi pārlūku veidotāji izvēlas interpretēt formātu vienādi. Lietotājiem tas nozīmē, ka tīmekļa vietne var izskatīties un darboties atšķirīgi. Saskaņotības nodrošināšana starp pārlūkiem, lai jebkurš lietotājs varētu baudīt internetu neatkarīgi no izvēlētās pārlūku, tiek saukta par <a href="{ $standards }">tīmekļa standartiem</a>.
 # Variables:
 #   $html (url) - link to https://developer.mozilla.org/docs/Glossary/HTML
-what-is-a-browser-when-the-web-browser = Kad tīmekļa pārlūks ielādē datus no internetam pieslēgta servera, tā izmanto programmatūru, ko sauc par renderēšanas dzinēju, lai šos datus pārvērstu tekstā un attēlos. Šie dati ir rakstīti <a href="{ $html }">hiperteksta iezīmēšanas valodā</a> (HTML), un tīmekļa pārlūks nolasa šo kodu, lai izveidotu to, ko mēs redzam, dzirdam un piedzīvojam internetā.
+what-is-a-browser-when-the-web-browser = Kad tīmekļa pārlūks iegūst datus no ar internetu savienotu serveri, tas izmanto programmatūru, ko dēvē par atveidošanas dzinēju, lai šos datus pārveidotu tekstā un attēlos. Šie dati ir rakstīti <a href="{ $html }">hiperteksta iezīmēšanas valodā</a> (HTML), un tīmekļa pārlūks nolasa šo kodu, lai izveidotu to, ko mēs redzam, dzirdam un piedzīvojam internetā.
 # Variables:
 #   $hyperlink (url) - link to https://developer.mozilla.org/docs/Glossary/Hyperlink
 #   $url(url) - link to https://wikipedia.org/wiki/URL
