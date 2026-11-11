@@ -7,11 +7,7 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Βασικές πληροφορίες απορρήτου
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-youre-in-control = Εσείς έχετε τον έλεγχο
 privacy-firefox-youre-in-control-v2 = Εσείς ελέγχετε τα δεδομένα σας
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-privacy-isnt-just = Το απόρρητο δεν είναι απλά μια ρύθμιση — είναι δικαίωμά σας. Η σημείωση απορρήτου του { -brand-name-firefox } βασίζεται στη σαφήνεια, τον έλεγχο και τις υπεύθυνες προεπιλογές. Πιστεύουμε ότι πρέπει πάντα να έχετε τον έλεγχο για ό,τι συμβαίνει με τα δεδομένα σας. Μπορείτε να βασιστείτε σε εμάς για να εξηγήσουμε με σαφήνεια τι κάνει το { -brand-name-firefox } από προεπιλογή και να προσαρμόσετε τις ρυθμίσεις σας ώστε να μπορέσετε να περιηγηθείτε με τον τρόπο που εσείς θέλετε.
 privacy-firefox-privacy-isnt-just-v2 = Η γενική εικόνα είναι η εξής: το { -brand-name-firefox } έχει σχεδιαστεί με την ιδιωτικότητα και την προστασία ως προεπιλογές. Δεν γνωρίζουμε πολλά για εσάς. Και αυτά τα λίγα που γνωρίζουμε, δεν τα πωλούμε ποτέ. Σε αντίθεση με άλλα προγράμματα περιήγησης, σας δίνουμε τη δυνατότητα να απενεργοποιείτε ό,τι σας ενοχλεί. Η Σημείωση απορρήτου του { -brand-name-firefox } βασίζεται στη σαφήνεια, τον έλεγχο και τις υπεύθυνες προεπιλογές. Μπορείτε να βασίζεστε σε εμάς για να εξηγούμε με σαφήνεια τι κάνει το { -brand-name-firefox } από προεπιλογή και να προσαρμόζετε τις ρυθμίσεις σας ώστε να περιηγείστε όπως εσείς επιθυμείτε.
 privacy-firefox-read-our-privacy = Διαβάστε τη Σημείωση απορρήτου μας
 privacy-firefox-keeping-you-informed = Σας κρατάμε ενήμερους, σε κάθε βήμα
@@ -20,11 +16,7 @@ privacy-firefox-transparency-first = Διαφάνεια πάνω απ' όλα
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Είμαστε ξεκάθαροι ποια δεδομένα και γιατί τα χρησιμοποιούμε, χωρίς εκπλήξεις. Η <a { $attrs }>Σημείωση απορρήτου του { -brand-name-firefox }</a> τα περιγράφει λεπτομερώς.
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-how-we-use = Πώς χρησιμοποιούμε τα δεδομένα
 privacy-firefox-how-we-use-v2 = Ιδιωτικό από προεπιλογή
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-we-use-data = Χρησιμοποιούμε τα δεδομένα για να συνεχίσουμε την ομαλή λειτουργία του { -brand-name-firefox }, να βελτιώσουμε τις λειτουργίες και να συνεισφέρουμε στη στήριξη της επιχείρησής μας, με σεβασμό στο απόρρητό σας. Ορισμένες προαιρετικές λειτουργίες ενδέχεται να απαιτούν επιπρόσθετα δεδομένα για να λειτουργήσουν και εμείς κάνουμε εύκολη τη διαχείριση των προτιμήσεών σας.
 # Variables:
 #   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
 privacy-firefox-we-use-data-v2 = Σε αντίθεση με πολλά άλλα προγράμματα περιήγησης όπου συλλέγονται και αποθηκεύονται τακτικά τα ευαίσθητα δεδομένα των χρηστών, το { -brand-name-firefox } βασίζεται στην <a { $attrs }>αρχή</a> ότι ούτε η { -brand-name-mozilla } δεν πρέπει να γνωρίζει ποιους ιστοτόπους επισκέπτεστε ή τι κάνετε εκεί.

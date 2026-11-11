@@ -7,11 +7,7 @@
 
 # hidden heading for the sections at the top of the page
 privacy-firefox-basics = Gizliliğin temelleri
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-youre-in-control = Kontrol sizde
 privacy-firefox-youre-in-control-v2 = Verilerinizin kontrolü sizde
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-privacy-isnt-just = Gizlilik sadece bir ayar değil, sizin hakkınız. Bu yüzden { -brand-name-firefox } Gizlilik Bildirimi’ni açıklık, kontrol imkânı ve sorumlu varsayılan ayarlar üzerine inşa ettik. Bize göre, verilerinize ne olacağına her zaman siz karar verebilmelisiniz. { -brand-name-firefox }’un varsayılan olarak neler yaptığını net bir şekilde öğrenebilir, istediğiniz şekilde gezinebilmeniz için ayarlarınızı değiştirebilirsiniz.
 privacy-firefox-privacy-isnt-just-v2 = İşin özeti şu: { -brand-name-firefox }’u gizlilik ve koruma odaklı olarak tasarladık. Sizin hakkınızda fazla bir şey bilmiyoruz. Bildiğimiz çok az şeyi de asla satmıyoruz. Diğer tarayıcıların aksine, canınızı sıkan şeyleri kapatma seçeneği sunuyoruz. { -brand-name-firefox } Gizlilik Bildirimi; açıklık, kontrol imkânı ve sorumlu varsayılanlar üzerine inşa edildi. { -brand-name-firefox }’un varsayılan olarak neler yaptığını her zaman net bir şekilde açıklayacağımıza ve istediğiniz gibi gezinebilmeniz için ayarlarınızı değiştirebileceğinize söz veriyoruz.
 privacy-firefox-read-our-privacy = Gizlilik Bildirimimizi okuyun
 privacy-firefox-keeping-you-informed = Her adımda sizi bilgilendiriyoruz
@@ -20,11 +16,7 @@ privacy-firefox-transparency-first = Önce şeffaflık
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
 privacy-firefox-were-clear-about = Hangi verileri neden kullandığımızı net bir şekilde açıklıyoruz. Bizde sürprizlere yer yok. Ayrıntıları <a { $attrs }>{ -brand-name-firefox } Gizlilik Bildirimi</a>’mizde okuyabilirsiniz.
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-how-we-use = Bu verileri nasıl kullanıyoruz?
 privacy-firefox-how-we-use-v2 = Varsayılan gizlilik
-# Obsolete string (expires: 2026-02-10)
-privacy-firefox-we-use-data = Bu verileri { -brand-name-firefox }’un sorunsuz çalışmasını sağlamak, mevcut özellikleri geliştirmek ve finansal sürdürülebilirliğimizi korumak için kullanıyoruz. Tüm bunları yaparken gizliliğinize saygı gösteriyoruz. İsteğe bağlı bazı özelliklerin çalışması için ek veri gerekiyorsa tercihlerinizi yönetmeyi kolaylaştırıyoruz.
 # Variables:
 #   $attrs (string) - link to https://firefox-source-docs.mozilla.org/contributing/data-collection.html#browsing-data
 privacy-firefox-we-use-data-v2 = Hassas kullanıcı verilerini düzenli olarak toplayıp depolayan diğer tarayıcıların aksine { -brand-name-firefox }’un temel aldığı bir <a { $attrs }>prensip</a> var: Hangi sitelere girdiğinizi ve oralarda ne yaptığınızı { -brand-name-mozilla } bile bilmemeli.
