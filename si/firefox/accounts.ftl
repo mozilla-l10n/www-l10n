@@ -9,6 +9,7 @@ firefox-accounts-enter-your-email-address = පටන් ගැනීමට ඔ�
 firefox-accounts-already-have-an-account = දැනටමත් ගිණුමක් තිබේද?
 firefox-accounts-sign-in = පිවිසෙන්න
 firefox-accounts-manage = ගිණුම කළමනාකරණය
+mozilla-account-header = { -brand-name-mozilla-account }
 
 ## The strings below are visually hidden in the page and replaced by logo wordmark images. They are still important for a11y and SEO.
 

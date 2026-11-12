@@ -84,6 +84,7 @@
 -brand-name-bugzilla = Bugzilla
 -brand-name-glean = ග්ලීන්
 -brand-name-irl-podcast = IRL පොඩ්කාස්ට්
+-brand-name-0din = 0DIN
 -brand-name-lumigator = ලුමිගේටර්
 -brand-name-mdn-plus = MDN ප්ලස්
 -brand-name-mdn-web-docs = MDN Web Docs
