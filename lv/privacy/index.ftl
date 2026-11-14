@@ -19,7 +19,7 @@ privacy-index-data-privacy-principles = Datu privātuma principi
 # Variables:
 #   $principles (url) - link to https://www.mozilla.org/privacy/principles/
 #   $faq (url) - link to https://www.mozilla.org/privacy/faq/
-privacy-index-mozillas-data-privacy-principles = { -brand-name-mozilla } <a href="{ $principles }">datu privātuma principi</a> iedvesmo mūsu praksi, kas respektē un aizsargā cilvēkus, kuri izmanto internetu. Uzziniet, kā šie principi ietekmē { -brand-name-firefox } un visus mūsu produktus, izlasot šo <a href="{ $faq }">BUJ</a>.
+privacy-index-mozillas-data-privacy-principles = { -brand-name-mozilla } <a href="{ $principles }">datu privātuma pamatnostādnes</a> iedvesmo mūsu darbību, kas ciena un aizsargā cilvēkus, kuri izmanto internetu. <a href="{ $faq }">BUJ</a> var uzzināt, kā šīs pamatnostādnes ietekmē { -brand-name-firefox } un visus mūsu produktus.
 privacy-index-transparency-report = Atklātības ziņojums
 privacy-index-get-involved = Iesaistieties
 # Variables:
