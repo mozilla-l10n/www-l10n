@@ -38,7 +38,7 @@ contribute-read-manifesto = Izlasiet mūsu manifestu
 contribute-find-event = Atrast pasākumu
 contribute-meet-volunteers = Iepazīstieties ar mūsu aizrautīgajiem brīvprātīgajiem
 contribute-donate = Ziedot
-contribute-help-fund = Palīdziet finansēt mūsu misiju
+contribute-help-fund = Palīdzi atbalstīt mūsu mērķi ar naudas līdzekļiem
 contribute-follow-mozilla = Sekot { -brand-name-mozilla }
 contribute-opportunities = Jaunumi un brīvprātīgā darba iespējas
 
