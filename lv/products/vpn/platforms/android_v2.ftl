@@ -20,4 +20,4 @@ vpn-android-browse-the-internet = Pārlūkojiet internetu, neatklājot savu atra
 vpn-android-be-more-comfortable = Jūtieties ērtāk, izmantojot publisko Wi-Fi kafejnīcās, lidostās un citur.
 vpn-android-avoid-intrusive = Izvairieties no uzmācīgas reklāmas, kuras pamatā ir atrašanās vieta.
 vpn-android-the-mozilla-vpn-mobile = { -brand-name-mozilla-vpn } mobilā lietotne ir maza, tāpēc tā neaizņem pārāk daudz atmiņas, nepalēninās tālruņa darbību un neiztērēs akumulatoru.
-vpn-android-unlike-free = Atšķirībā no bezmaksas VPN vai starpniekservera vietnēm, kas var maksāt par saviem serveriem, izspiegojot jūs un pārdodot jūsu informāciju, { -brand-name-mozilla } neuzglabā ierakstus par to, kurp dodaties un ko darāt.
+vpn-android-unlike-free = Atšķirībā no bezmaksas VPN vai starpniekservera vietnēm, kas var maksāt par saviem serveriem ar lietotāju izspiegošanu un to informācijas pārdošanu, { -brand-name-mozilla } neuzglabā ierakstus par to, kurp dodies un ko dari.
