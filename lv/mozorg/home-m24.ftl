@@ -46,7 +46,7 @@ m24-home-tabstack-desc = Uzticami automatizējiet tīmekļa uzdevumus, izmantojo
 m24-home-donate-to-v2 = Ziedot { -brand-name-mozilla-foundation }
 m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } veido nākotni, kurā tehnoloģijas virza cilvēki un tās ir atvērtas pēc dizaina. Tāpēc mēs veicinām uz kopienu vērstas tehnoloģijas, izmantojot aizstāvību, izglītību, finansējumu un inovācijas, lai nodrošinātu, ka tehnoloģiju nākotne ir laba ikvienam. Bet tas ir iespējams tikai tad, ja mēs to darām kopā.
 m24-home-were-proudly-nonprofit = Mēs ar lepnumu esam bezpeļņas organizācija. Vai jūs šodien ziedosiet { -brand-name-mozilla }?
-m24-home-donate = Ziedo
+m24-home-donate = Ziedot
 
 ## AI gallery
 
