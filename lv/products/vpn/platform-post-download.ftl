@@ -39,7 +39,7 @@ vpn-install-firefox-extension = 5. Instalējiet paplašinājumu { -brand-name-fi
 vpn-pick-a-recommended = Izvēlieties ieteicamo atrašanās vietu ātram un stabilam savienojumam vai manuāli izvēlieties vēlamo atrašanās vietu un pēc tam ieslēdziet slēdzi.
 # Variables:
 #   $extension (url) - link to https://addons.mozilla.org/firefox/addon/mozilla-vpn-extension/
-vpn-download-and-install = <a href="{ $extension }">Lejupielādējiet un instalējiet paplašinājumu</a>, lai iestatītu izņēmumus konkrētām vietnēm un izvēlētos dažādas atrašanās vietas dažādām vietnēm.
+vpn-download-and-install = <a href="{ $extension }">Lejupielādēt un uzstādīt paplašinājumu</a>, lai iestatītu izņēmumus noteiktām vietnēm un izvēlētos dažādas atrašanās vietas dažādām tīmekļvietnēm.
 
 ## FAQ Strings
 
