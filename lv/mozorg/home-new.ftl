@@ -31,7 +31,7 @@ home-so-what-is-mozilla = Tātad, kas ir { -brand-name-mozilla }?
 # Variables
 #   $ventures - link to https://mozilla.vc/
 #   $mozai - link to https://mozilla.ai/
-home-at-its-core-v2 = Pēc būtības { -brand-name-mozilla } ir aktīvistu organizācija, ko vada { -brand-name-mozilla-foundation } un kas ievieš pārmaiņas pasaulē, izmantojot dažādus pasākumus, tostarp { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures } </a> un <a { $mozai }>{ -brand-name-mozilla-ai-v2 } </a>. Ar ko mēs atšķiramies? Tā kā mūsu misija ir virzīta, tas nozīmē, ka mums ir brīvība pieņemt visus lēmumus, pamatojoties uz to, kas ir vislabākais internetam un visiem tiešsaistē esošajiem, nevis uz akcionāru prasībām — mums faktiski nav neviena no tām.
+home-at-its-core-v2 = Savā būtībā { -brand-name-mozilla } ir aktīvistu apvienība, ko vada { -brand-name-mozilla-foundation } un kas ievieš pārmaiņas pasaulē ar dažādiem pasākumiem, tostarp { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> un <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. Ar ko mēs atšķiramies? Tā kā mēs esam mērķa virzīti, tas nozīmē, ka mums ir brīvība pieņemt visus lēmumus, pamatojoties uz to, kas ir vislabākais internetam un visiem tiešsaistē esošajiem, nevis uz akcionāru prasībām — mums būtībā nav neviena no tiem.
 home-learn-about-mofo = Uzziniet par { -brand-name-mozilla-foundation }
 home-join-the-fight = Pievienojieties cīņai par veselīgu internetu
 home-your-voice-your-code = Tava balss. Tavs kods. Tavas idejas. Ir burtiski tūkstošiem veidu, kā Tu vari sniegt savu ieguldījumu { -brand-name-mozilla }.
@@ -44,7 +44,7 @@ home-learn-more-about-mozilla = Uzziniet vairāk par { -brand-name-mozilla }
 # VPN Feature
 home-featured-product = Piedāvātais produkts
 # HTML for visual formatting. "Blur" here is used as a metaphor for hiding or obscuring something.
-home-feature-blur-your-location = Aizmiglojiet savu atrašanās vietu un aktivitātes, izmantojot <span>{ -brand-name-mozilla-vpn } </span>
+home-feature-blur-your-location = Aizsedz savu atrašanās vietu un darbības ar <span>{ -brand-name-mozilla-vpn }</span>
 # Mozilla Foundation donation promo
 home-mofo-build-our-movement = Veidojiet mūsu kustību
 home-mofo-donate-to-mofo-today = Ziedojiet { -brand-name-mozilla-foundation } jau šodien, lai nodrošinātu, ka internets paliek atvērts un pieejams visiem.

@@ -13,7 +13,7 @@ mission-at-mozilla-were-a-global-community-v2 = Uzņēmumā { -brand-name-mozill
 mission-we-believe-this-act-of-human-collaboration = Mēs ticam, ka šī cilvēku sadarbība caur atvērtu platformu ir būtiska mūsu individuālai attīstībai un kopīgai nākotnei.
 # Variables:
 #   $url (url) - link to https://www.mozilla.org/about/manifesto/
-mission-read-the-mozilla-manifesto-to-learn-v2 = Izlasiet <a href="{ $url }">{ -brand-name-mozilla } manifestu</a>, lai uzzinātu vēl vairāk par vērtībām un principiem, kas vada mūsu misijas īstenošanu.
+mission-read-the-mozilla-manifesto-to-learn-v2 = Izlasi <a href="{ $url }">{ -brand-name-mozilla } manifestu</a>, lai uzzinātu vēl vairāk par vērtībām un principiem, kas vada mūsu mērķa īstenošanu!
 mission-watch-the-video-above-to-learn-more = Apskatiet video, lai uzzinātu, kas mēs esam, no kurienes nākam un ko darām, lai padarītu internetu labāku priekš jums.
 mission-get-involved = Iesaistieties
 mission-volunteer-opportunities-in-a-number = Iesaistīšanas iespējas vairākas atšķirīgās jomās

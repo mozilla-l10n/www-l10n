@@ -12,7 +12,7 @@ data-preferences-notification-opt-in = Jūs esat piekritis pirmās puses datu v�
 # Variables:
 #   $glean (url) - link to https://docs.telemetry.mozilla.org/concepts/glean/glean.html
 #   $lean_data (url) - link to https://www.mozilla.org/about/policy/lean-data/
-data-preferences-your-privacy = Jūsu privātums uzņēmumam { -brand-name-mozilla } ir ļoti svarīgs. Mūsu pirmās puses telemetrijas un analītikas platforma, ko sauc par <a href="{ $glean }">{ -brand-name-glean } </a>, ievēro mūsu pašu augstos <a href="{ $lean_data }">efektīvas datu apstrādes prakses</a> standartus.
+data-preferences-your-privacy = Privātums { -brand-name-mozilla } ir ļoti svarīgs. Mūsu pirmās puses telemetrijas un analītikas platforma, ko sauc par <a href="{ $glean }">{ -brand-name-glean }</a>, ievēro mūsu pašu augstos <a href="{ $lean_data }">ciešas datu apstrādes prakses</a> standartus.
 # Variables:
 #   $dictionary (url) - link to https://dictionary.telemetry.mozilla.org/
 #   $privacy_notice (url) - link to https://www.mozilla.org/privacy/websites/
