@@ -13,6 +13,13 @@ firefox-products-products = Produkty
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } to dopiero początek.
 firefox-products-mozillas-family-of-products-sentence = Wszystkie produkty rodziny { -brand-name-mozilla(case: "gen") } są zaprojektowane z myślą o Twoim bezpieczeństwie w Internecie.
 
+## Section headings
+
+firefox-products-tabs-everyone = Dla wszystkich
+firefox-products-tabs-business = Dla firm
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Kategorie produktów
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -22,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = Zacznij korzystać z przeglądar
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Przeglądarka wyspecjalizowana w prywatności z automatyczną ochroną przed śledzeniem i blokowaniem reklam.
+firefox-products-get-focus = Pobierz { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -52,3 +60,11 @@ firefox-products-support-mdn = Wspieraj { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Dostęp do wszystkich wiadomości, kalendarzy i kontaktów w jednej szybkiej aplikacji. Filtruj i organizuj je tak, jak lubisz.
 firefox-products-download-thunderbird = Pobierz { -brand-name-thunderbird(case: "acc") }
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
