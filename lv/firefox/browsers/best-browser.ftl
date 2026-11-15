@@ -40,5 +40,5 @@ best-browser-one-easy-way-to-check = Viens vienkāršs veids, kā to pārbaudīt
 best-browser-choosing-the-best-browser = Izvēlēties sev piemērotāko pārlūku ir ļoti līdzīgi kā izvēlēties mājokli. Jums jāizpēta iespējas, jāveic izpēte un jāpieņem lēmums, pamatojoties uz to, kas jums ir svarīgs.
 # Variables:
 # $privacy (url) - link to https://www.mozilla.org/firefox/new/
-best-browser-at-firefox-weve-worked = Uzņēmumā <a href="{ $firefox }">{ -brand-name-firefox }  </a> mēs esam smagi strādājuši, lai izveidotu pārlūku, kas ir divreiz ātrāka nekā iepriekš un sniedz lietotājiem lielāku kontroli pār savu dzīvi tiešsaistē.
+best-browser-at-firefox-weve-worked = <a href="{ $firefox }">{ -brand-name-firefox }</a> mēs esam smagi strādājuši, lai izveidotu pārlūku, kas ir divreiz ātrāks nekā iepriekš un sniedz lietotājiem lielāku pārvaldību pār savu dzīvi tiešsaistē.
 best-browser-take-control-of-your = Pārņem vadību pār savu pārlūku!
