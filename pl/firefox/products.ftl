@@ -61,10 +61,26 @@ firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Dostęp do wszystkich wiadomości, kalendarzy i kontaktów w jednej szybkiej aplikacji. Filtruj i organizuj je tak, jak lubisz.
 firefox-products-download-thunderbird = Pobierz { -brand-name-thunderbird(case: "acc") }
 
+## 0DIN
+
+firefox-products-0din-desc-v2 = Wykrywaj i usuwaj luki w systemach AI, zanim trafią one do środowiska produkcyjnego, korzystając ze wsparcia globalnej społeczności badaczy bezpieczeństwa i największego dostępnego źródła danych o exploitach.
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
+firefox-products-otari-desc = { -brand-name-otari } upraszcza zarządzanie wieloma dostawcami AI, łącząc routing, zabezpieczenia, kontrolę budżetu, obsługę awarii i audyt w ramach jednego punktu końcowego API.
+firefox-products-own-your-ai-stack = Przejmij kontrolę nad swoim stosem AI
+firefox-products-learn-more-about-otari = Więcej informacji o { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
 
 ## Firefox for Enterprise
 
 firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-firefox-enterprise-desc-v2 = Platforma przeglądarki korporacyjnej { -brand-name-mozilla(case: "gen") }, kontrolowana przez klientów i instalowana lokalnie. Stworzona, aby pomóc organizacjom wzmocnić ich suwerenność cyfrową i odporność operacyjną poprzez większą kontrolę nad danymi, infrastrukturą IT i środowiskiem przeglądarki.
