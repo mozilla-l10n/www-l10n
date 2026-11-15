@@ -29,7 +29,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Rīki
 footer-refresh-donate = Ziedot
-footer-refresh-donate-not-for-profit = Ziedojiet bezpeļņas organizācijai <a { $mofo_link }>{ -brand-name-mozilla-foundation } </a>.
+footer-refresh-donate-not-for-profit = Ziedo bezpeļņas apvienībai <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>!
 footer-refresh-portions-of-this-content = Daļai no šī satura ©1998– { $current_year } pieder individuāliem mozilla.org biedriem. Saturs pieejams ar <a rel="license" { $href }>{ -brand-name-creative-commons } licenci</a>.
 footer-refresh-websites-privacy-notice = Tīmekļa vietnes paziņojums par konfidencialitāti
 footer-refresh-websites-cookies = Sīkdatnes

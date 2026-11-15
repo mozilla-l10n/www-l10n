@@ -93,7 +93,7 @@ manifesto-we-host-a-yearly = Mēs <a { $festival_link }>rīkojam ikgadēju vispa
 # Variables:
 #   $firefox_link (url) - link to https://www.firefox.com/
 #   $thunderbird_link (url) - link to https://www.thunderbird.net/
-manifesto-we-make-firefox-and-thunderbird = Un, protams, mēs veidojam <a { $firefox_link }>{ -brand-name-firefox } </a> un <a { $thunderbird_link }>{ -brand-name-thunderbird } </a>. Tas viss ir vērsts uz to, lai palīdzētu cilvēkiem padarīt internetu par veselīgu vidi.
+manifesto-we-make-firefox-and-thunderbird = Un, protams, mēs veidojam <a { $firefox_link }>{ -brand-name-firefox }</a> un <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>. Tas viss ir vērsts uz to, lai palīdzētu cilvēkiem padarīt internetu par veselīgu vietu.
 
 ## Obsolete strings (expire 2026-09-10)
 

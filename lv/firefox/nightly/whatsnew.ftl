@@ -19,8 +19,8 @@ nightly-whatsnew-this-is-a-good = Šis ir īstais brīdis, lai pateiktos jums pa
 nightly-whatsnew-if-you-want-to-v4 = Ja vēlaties uzzināt, kas notiek ap { -brand-name-nightly } un tā kopienu, labs sākumpunkts ir lasīt mūsu <a { $blog }>emuāru</a> un sekot mums vietnē <a { $mastodon }>Mastodon</a> vai <a { $bluesky }>Bluesky</a>!
 # Variables:
 #   $attrs (string) - link href and additional attributes
-nightly-whatsnew-want-to-know-which-v3 = Vai vēlaties uzzināt, kuras platformas funkcijas varētu testēt { -brand-name-nightly } un vēl neredzat citos { -brand-name-firefox } kanālos? Tad apskatiet <a { $attrs }>{ -brand-name-firefox-labs } </a> preferenču lapu.
+nightly-whatsnew-want-to-know-which-v3 = Vēlies uzzināt, kuras platformas iespējas varētu pāŗbaudīt { -brand-name-nightly } un vēl neredzi citos { -brand-name-firefox } kanālos? Tad apskati <a { $attrs }>{ -brand-name-firefox-labs }</a> izvēļu lapu!
 # Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
-nightly-whatsnew-do-you-experience = Vai rodas avārijas? Neparedzēta uzvedība? Tīmekļa saderības regresijas? Mēs labprāt iesniegtu tās mapē <a href="{ $bugzilla }">{ -brand-name-bugzilla } </a>, lai pārliecinātos, ka tās netiek izlaistas līdz galīgajai versijai (papildus karma, ja pievienosiet atslēgvārdu <em>{ -brand-name-nightly }-community</em> saviem kļūdu ziņojumiem)!
+nightly-whatsnew-do-you-experience = Vai rodas avārijas? Neparedzēta uzvedība? Tīmekļa saderības regresijas? Mēs labprāt iesniegtu tās mapē <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a>, lai pārliecinātos, ka tās netiek izlaistas līdz galīgajai versijai (papildu karma, ja saviem kļūdu ziņojumiem pievienosi atslēgvārdu <em>{ -brand-name-nightly }-community</em>).
 nightly-whatsnew-go-community = Dodieties uz kopienu!

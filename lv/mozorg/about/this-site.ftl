@@ -10,14 +10,14 @@ about-this-site-desc = Par tīmekļa vietni www.mozilla.org un atvērtā pirmkod
 # Variables:
 #   $archive (url) link to https://web.archive.org/web/19981212031129/http://www.mozilla.org/
 #   $coderush (url) link to https://www.youtube.com/watch?v=4Q7FTjhvZ7Y
-about-this-site-this-website = Tīmekļa vietne www.mozilla.org darbojas tiešsaistē jau vairāk nekā divas desmitgades. Tas ir kopš <a href="{ $archive }">dinozauru laikiem</a> interneta gados. Tādējādi www.mozilla.org ir tīmekļa stūrakmens, kura saknes meklējamas atvērtā pirmkoda kustībā, kas iezīmēja <a href="{ $coderush }">{ -brand-name-mozilla } </a> izveidi.
+about-this-site-this-website = Tīmekļvietne www.mozilla.org darbojas tiešsaistē jau vairāk nekā divas desmitgades. Tas ir kopš <a href="{ $archive }">dinozauru laikiem</a> interneta gados. Tādējādi www.mozilla.org ir tīmekļa stūrakmens, kura saknes meklējamas atvērtā pirmkoda kustībā, kas iezīmēja <a href="{ $coderush }">{ -brand-name-mozilla }</a> izveidi.
 # Variables:
 #   $firefox (url) link to https://www.mozilla.org/firefox/new/
 #   $vpn (url) link to https://www.mozilla.org/products/vpn/
 #   $mozilla (url) link to https://www.mozilla.org/about/
 #   $book (url) link to https://www.mozilla.org/book/
 #   A suitable substitute phrase for "Easter eggs" could be "Secrets".
-about-this-site-today-v2 = Šodien šī ir vietne, kur cilvēki uzzina vairāk <a href="{ $mozilla }">par { -brand-name-mozilla } </a> un izmēģina <a href="{ $vpn }">{ -brand-name-mozilla-vpn } </a>. Pa ceļam varat atklāt arī dažas <a href="{ $book }">Lieldienu olas</a>.
+about-this-site-today-v2 = Šodien šī ir vietne, kur cilvēki uzzina vairāk <a href="{ $mozilla }">par { -brand-name-mozilla }</a> un izmēģina <a href="{ $vpn }">{ -brand-name-mozilla-vpn }</a>. Pa ceļam var atklāt arī dažas <a href="{ $book }">Lieldienu olas</a>.
 about-this-site-like-many = Tāpat kā daudzi mūsu produkti, arī šī vietne ir atvērtā koda:
 about-this-site-view-source = Skatiet pirmkodu vietnē { -brand-name-github }
 about-this-site-report-a-bug = Ziņot par kļūdu

@@ -14,7 +14,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } priekš { -brand-name-android }
 footer-beta-for-android = { -brand-name-beta } priekš { -brand-name-android }
-footer-donate-not-for-profit = Ziedojiet bezpeļņas organizācijai <a { $mofo_link }>{ -brand-name-mozilla-foundation } </a>.
+footer-donate-not-for-profit = Ziedo bezpeļņas apvienībai <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>!
 footer-portions-of-this-content = Daļas no šī satura ir ©1998–{ $current_year } aizsargātas ar individuāliem mozilla.org līdzstrādniekiem. Saturs ir pieejams saskaņā ar <a rel="license" href="{ $url }">{ -brand-name-creative-commons } licenci</a>.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Uzņēmums
@@ -44,4 +44,4 @@ footer-follow-firefox = Sekot @{ -brand-name-firefox }
 footer-about-this-site = Par šo vietni
 footer-advertise = Reklamēties ar { -brand-name-mozilla }
 # Obsolete string (expires 2026-08-01)
-footer-visit-mozilla-corporations = Apmeklējiet <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> bezpeļņas mātesuzņēmumu <a { $mofo_link }>{ -brand-name-mozilla-foundation } </a>.
+footer-visit-mozilla-corporations = Apmeklē <a { $moco_link }>{ -brand-name-mozilla-corporation }</a> bezpeļņas mātesuzņēmumu <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a>!

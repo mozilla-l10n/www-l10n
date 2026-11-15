@@ -100,16 +100,16 @@ firefox-desktop-download-enhanced-tracking-protection = Uzlabota izsekošanas ai
 firefox-desktop-download-from-watching-a = No tīmekļa pamācības skatīšanās līdz sekošanai iecienītākajai komandai video seko Tev, kamēr vienlaicīgi veic dažādus uzdevumus.
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = Iegūstiet { -brand-name-firefox-browser } priekš <strong>{ -brand-name-android } </strong>
-firefox-desktop-download-get-firefox-ios = Iegūstiet { -brand-name-firefox-browser } priekš <strong>{ -brand-name-ios } </strong>
+firefox-desktop-download-get-firefox-ios = Iegūsti { -brand-name-firefox-browser } <strong>{ -brand-name-ios }</strong>
 firefox-desktop-download-download-the-mobile = Lejupielādējiet { -brand-name-firefox } mobilo pārlūku, lai nodrošinātu automātisku aizsardzību visās savās ierīcēs.
 firefox-desktop-download-learn-about-the = Uzzini vairāk par { -brand-name-firefox } darbvirsmu pārlūku zemāk
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 # "just right" could also be translated as "the way you want it to be" or "perfect for you"
-firefox-desktop-download-from-security-to = No drošības līdz ziņām un spēlēm — ikvienam ir savs <a { $attrs }>paplašinājums</a>. Pievienojiet tik daudz paplašinājumu, cik vēlaties, līdz jūsu pārlūks ir tieši tāds, kāds jums vajadzīgs.
+firefox-desktop-download-from-security-to = No drošības līdz ziņām un spēlēm — ikvienam ir savs <a { $attrs }>paplašinājums</a>. Pievieno tik daudz paplašinājumu, cik vēlies, līdz pārlūks ir tieši tāds, kādu Tev vajag!
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/about/
-firefox-desktop-download-firefox-was-created = { -brand-name-firefox } izveidoja <a { $attrs }>{ -brand-name-mozilla } </a> kā ātrāku un privātāku alternatīvu tādām pārlūku kā { -brand-name-ie } un tagad arī { -brand-name-chrome }. Mūsdienās mūsu misijas vadītais uzņēmums un brīvprātīgo kopiena turpina jūsu privātumu likt augstāk par visu.
+firefox-desktop-download-firefox-was-created = { -brand-name-firefox } izveidoja <a { $attrs }>{ -brand-name-mozilla }</a> kā ātrāku un privātāku alternatīvu tādiem pārlūkiem kā { -brand-name-ie } un tagad arī { -brand-name-chrome }. Mūsdienās mūsu mērķa virzītais uzņēmums un brīvprātīgo kopiena turpina privātumu likt augstāk par visu.
 # Variables:
 #   $attrs (attrs) - link to https://www.mozilla.org/privacy/firefox/
 firefox-desktop-download-as-the-internet-v2 = Internetam augot un mainoties, { -brand-name-firefox } turpina pievērsties tiesībām uz privātumu — tas vienmēr ir bijis mūsu uzdevums. Vairāk par mūsu darbu ar datiem var uzzināt mūsu <a { $attrs }>Privātuma paziņojumā</a>.
