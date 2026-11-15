@@ -28,7 +28,7 @@ firefox-products-get-the-browser-that-blocks = Iegūstiet pārlūku, kas automā
 ## Focus
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
-firefox-products-your-dedicated-privacy = Jūsu īpašais privātuma pārlūks ar automātisku izsekošanas aizsardzību un reklāmu bloķēšanu.
+firefox-products-your-dedicated-privacy = Īpašais privātuma pārlūks ar automātisku aizsardzību pret izsekošanu un reklāmu aizturēšanu.
 firefox-products-get-focus = Iegūt { -brand-name-firefox-focus }
 
 ## Monitor

@@ -8,10 +8,10 @@
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: Privātums pārlūks
 # HTML description
-mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } ir jūsu īpašais privātuma pārlūks ar automātisku izsekošanas aizsardzību.
+mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } ir īpašais privātuma pārlūks ar automātisku aizsardzību pret izsekošanu.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = Vienkārši privāta pārlūkošana mobilajā tālrunī
-mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } ir jūsu īpašais privātuma pārlūks ar automātisku izsekošanas aizsardzību. Ar { -brand-name-focus } jūsu lapas ielādējas ātrāk un jūsu dati paliek privāti.
+mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } ir īpašais privātuma pārlūks ar automātisku aizsardzību pret izsekošanu. Ar { -brand-name-focus } lapas ielādējas ātrāk un dati paliek privāti.
 mobile-focus-firefox-focus-is-available = { -brand-name-firefox-focus } ir pieejams gan { -brand-name-ios }, gan { -brand-name-android } ierīcēm.
 mobile-focus-get-firefox-focus = Iegūt { -brand-name-firefox-focus }
 mobile-focus-scan-the-qr-code-to-get-started = Noskenējiet QR kodu, lai sāktu darbu
