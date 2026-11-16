@@ -22,7 +22,7 @@ firefox-desktop-out-of-date = Un { -brand-name-firefox } mesmo plus nove es disp
 firefox-desktop-download-get-the-browser = Installa le navigator que protege lo que es importante
 firefox-desktop-download-fast-reliable-private = Veloce, fidabile e private, pro le tranquillitate online.
 firefox-desktop-set-as-default = Defini { -brand-name-firefox } como tu navigator predefinite
-firefox-desktop-download-download-options = Discarga optiones e altere linguas
+firefox-desktop-download-download-options = Optiones de discargamento e altere linguas
 firefox-desktop-download-browser-support = Supporto de { -brand-name-firefox-browser }
 # The strong tag wraps a word that gets highlighted with a colorful underline for emphasis. The underline breaks if it is on two words, please omit the strong tags if they need to be around multiple words in your language
 firefox-desktop-download-do-what-you-do-v2 = Face  online lo que tu vole.<br> { -brand-name-firefox-browser } te <strong>protege</strong>.
