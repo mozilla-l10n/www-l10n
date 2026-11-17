@@ -42,7 +42,7 @@
 -brand-name-developer-edition = Developer Edition
 -brand-name-enterprise = Entreprise
 -brand-name-esr = ESR
--brand-name-focus = Focus
+-brand-name-focus = Concentration
 -brand-name-nightly = Nightly
 
 ## Firefox browsers (legacy)
