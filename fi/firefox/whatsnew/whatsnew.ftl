@@ -13,4 +13,5 @@ whatsnew-update-notification = { -brand-name-firefox } on päivitetty!
 #   $url (url) - link to https://www.mozilla.org/firefox/notes/
 whatsnew-release-notes-v2 = Omaksu lisää uudesta { -brand-name-firefox }-selaimestasi lukemalla <a { $url }>julkaisutiedot</a>.
 whatsnew-signoff = <strong>Mahdollistajana { -brand-name-mozilla }.</strong> Ihmiset voittojen edelle asettaen vuodesta 1998 lähtien.
+whatsnew-donate-to-mofo-v2 = Lahjoita { -brand-name-mozilla-foundation }ille
 whatsnew-thanks-for-choosing = Kiitos, että valitsit { -brand-name-firefox }in

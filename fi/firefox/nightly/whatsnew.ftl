@@ -13,6 +13,11 @@ nightly-whatsnew-firefox-nightly = { -brand-name-firefox-nightly }
 nightly-whatsnew-every-4-to-5-weeks = 4–5 viikkon välein julkaistaan uusi pääversio { -brand-name-firefox }ista. Sen seurauksena myös { -brand-name-nightly }-versio suurenee.
 nightly-whatsnew-this-is-a-good = Nyt on hyvä hetki kiittää sinua siitä, että autat meitä parantamaan { -brand-name-firefox }ia, ja antaa sinulle vinkkejä { -brand-name-nightly }n dokumentaatioon, viestintäkanaviin ja uutissivustoihin, jotka voivat olla kiinnostavia.
 # Variables:
+#   $blog (url) - link to https://blog.nightly.mozilla.org/
+#   $mastodon (url) - link to https://mastodon.social/@FirefoxNightly
+#   $bluesky (url) - link to https://bsky.app/profile/firefoxnightly.bsky.social
+nightly-whatsnew-if-you-want-to-v4 = Jos haluat tietää, mitä { -brand-name-nightly }:n ja sen yhteisön ympärillä tapahtuu, <a { $blog }>blogimme</a> lukeminen ja seuraaminen <a { $mastodon }>Mastodonissa</a> tai <a { $bluesky }>Blueskyssä</a> ovat hyviä lähtökohtia!
+# Variables:
 #   $bugzilla (url) - link to https://bugzilla.mozilla.org/
 nightly-whatsnew-do-you-experience = Onko kohdannut kaatumisia? Odottamatonta käytöstä? Web-yhteensopivuuden regressioita? Haluaisimme saada ne kirjatuksi <a href="{ $bugzilla }">{ -brand-name-bugzilla }</a>an varmistaaksemme, etteivät ne pääse lopulliseen julkaisuun (ylimääräistä karmaa, jos lisäät avainsanan <em>{ -brand-name-nightly }-community</em> virheraportteihisi)!
 nightly-whatsnew-go-community = Hyvä yhteisö!

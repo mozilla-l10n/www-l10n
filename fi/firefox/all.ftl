@@ -33,6 +33,8 @@ firefox-all-the-pre-alpha-version = Pre-alfa-versio käyttäjille, jotka haluava
 firefox-all-64-bit-installers = 64-bittiset asennusohjelmat
 firefox-all-choose-a-64-bit-installer = Valitse 64-bittinen asennusohjelma tietokoneelle, jossa on 64-bittinen prosessori, jonka avulla se voi jakaa enemmän keskusmuistia yksittäiselle ohjelmalle – erityisen tärkeää peleille ja muille tehoa vaativille sovelluksille.
 firefox-all-32-bit-installers = 32-bittiset asennusohjelmat
+firefox-all-microsoft-store-installers = Microsoft Store
+firefox-all-choose-a-microsoft-store-installer = Tämä vaihtoehto avaa { -brand-name-firefox } -tuotesivun Microsoft Storen verkkoportaalissa. Jos käytössäsi on Windows 10 tai Windows 11, voit avata Microsoft Storen tältä sivulta ja asentaa tuotteen { -brand-name-firefox }. Jos asennat tuotteen Microsoft Storesta, myös tuotteen { -brand-name-firefox } päivitykset käsittelee Microsoft Store. Tuotteen { -brand-name-firefox } toiminnoissa ja ominaisuuksissa on pieniä eroja Microsoft Storesta asennettaessa, mutta useimmille käyttäjille nämä erot eivät ole havaittavissa.
 # Variables:
 #   $esr_version (string) e.g. 115.13.0esr
 firefox-all-download-esr-version = Lataa { $esr_version }
@@ -40,6 +42,7 @@ firefox-all-download-esr-version = Lataa { $esr_version }
 #   $esr_next_major (string) Next major version number e.g. 128
 #   $esr_current_major (string) Current major version number e.g. 115
 firefox-all-esr-we-are-in-transition = Olemme siirtymävaiheessa ESR-versioiden { $esr_next_major } ja { $esr_current_major } välillä.
+firefox-all-esr-when-there-is = Suuren versiopäivityksen yhteydessä muutaman { -brand-name-firefox-esr } pisteen julkaisua on aina päällekkäin, jotta vanhaa versiota käyttävät voivat valmistautua siirtymään uuteen.
 firefox-all-esr-if-you-choose = Jos päätät ladata vanhemman ESR-version, sinut päivitetään automaattisesti uuteen, kun siirtymäkausi päättyy.
 # Variables:
 #   $attrs (string) link to https://support.mozilla.org/kb/firefox-esr-release-cycle
@@ -58,6 +61,7 @@ firefox-all-count-on-stability-and = Luota vakauteen ja helppokäyttöisyyteen t
 firefox-all-windows-installers-for = Yritystietokoneiden Windows-asennukset, jotka yksinkertaistavat { -brand-name-firefox-browser(case: "genitive") } määritystä, käyttöönottoa ja hallintaa.
 firefox-all-arm64-installers = ARM64/AArch64-asennusohjelmat
 firefox-all-arm64-installers-optimized-v2 = ARM64/AArch64-asennusohjelmat on optimoitu Windows- ja Linux-tietokoneille.
+firefox-all-testflight = Rekisteröidy testaamaan { -brand-name-firefox } iOS:lle TestFlightin avulla
 firefox-all-product-send-link = Lähetä latauslinkki puhelimeesi
 # Variables:
 #   $url (url) - link to https://support.mozilla.org/kb/choosing-firefox-cpu-architecture-windows-os
@@ -74,5 +78,6 @@ firefox-all-product-firefox-android = { -brand-name-firefox } { -brand-name-andr
 firefox-all-product-firefox-android-beta = { -brand-name-firefox } { -brand-name-android } { -brand-name-beta }
 firefox-all-product-firefox-android-nightly = { -brand-name-firefox } { -brand-name-android } { -brand-name-nightly }
 firefox-all-product-firefox-ios = { -brand-name-firefox } { -brand-name-ios }
+firefox-all-product-firefox-ios-testflight = { -brand-name-firefox } iOS-testilento
 firefox-all-download-esr-115 = Lataa ESR 115
 firefox-all-note-unsupported = Huomautus: Jos käytössäsi on Windows 7, Windows 8, Windows 8.1 tai macOS 10.12, 10.13 tai 10.14, lataa ESR 115, jotta voit käyttää { -brand-name-firefox }ia.

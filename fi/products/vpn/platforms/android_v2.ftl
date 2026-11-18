@@ -8,6 +8,8 @@
 vpn-android-vpn-for-android = VPN Androidille { -brand-name-mozilla }lta
 vpn-android-ease-security = Helpota turvallisuuteen liittyviä pelkoja { -brand-name-mozilla-vpn }:n Android-sovelluksella
 vpn-android-looking-for-a = Etsitkö VPN:ää Android-laitteesi suojaamiseksi? { -brand-name-mozilla-vpn } on voittoa tavoittelemattoman tahon tukema. Lue, kuinka VPN suojaa sinua ja miksi voit luottaa { -brand-name-mozilla }an yksityisyyden sekä tietoturvan osalta.
+vpn-android-whether-youre = Oletpa sitten kotona, töissä tai keksimässä hauskaa nimeä kahvitilauksellesi kassalla, verkkoturvallisuutesi suojaaminen on { -brand-name-mozilla }:lle ensisijaisen tärkeää. Kuten monissa älyteknologiatuotteissa, Android-laitteissa on sisäänrakennettuja suojausominaisuuksia, jotka suojaavat laitettasi. { -brand-name-mozilla }:n Android-VPN:n avulla voit parantaa turvallisuuttasi yhdellä sormen napautuksella.
+vpn-android-using-the-fast = Nopean ja turvallisen { -brand-name-wireguard } VPN-protokollan avulla VPN-palvelumme pystyy salaamaan laitteesi ja VPN-palvelinverkon välisen internetliikenteen. Tämä auttaa meitä suojaamaan verkkoliikennettäsi liikkeellä ollessasi. Se on kuin kansi, joka suojaa vihreää teetäsi hunajalla pöydän ympärillä surisevilta kärpäsiltä.
 vpn-android-how-does-a = Miten VPN suojaa Android-laitettani?
 vpn-android-vpns-help = VPN:t auttavat estämään:
 vpn-android-your-internet-activity = Internet-toimintasi ei ole katseltavissa ja sen myötä myytävissä tai jaettavissa mainostajille.

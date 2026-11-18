@@ -29,4 +29,6 @@ mobile-ios-get-to-the-parts = Pääse tärkeän sisällön pariin entistä nopea
 mobile-ios-find-it-all = Löydä nopeammin
 mobile-ios-get-search-suggestions = Vastaanota hakuehdotuksia hakupalkkiin ja siirry nopeasti sivustoille, joilla käyt eniten. Kirjoita hakuehtosi ja saat ehdotuksia ja aiemmin etsittyjä tuloksia suosikkihakukoneistasi.
 mobile-ios-discover-more-of = Löydä enemmän sinulle tärkeitä asioita
+mobile-ios-open-a-new-v2 = Avaa uusi välilehti { -brand-name-firefox }issa nähdäksesi eniten vierailemasi sivustot ja viimeisimmät kirjanmerkkisi. { -brand-name-firefox } antaa sinulle nopean pääsyn viimeksi käyttämillesi sivustoille, jotta pääset perille entistä nopeammin.
 mobile-ios-about-mozilla = Tietoja { -brand-name-mozilla }sta
+mobile-ios-mozilla-exists-to-v2 = { -brand-name-mozilla } on olemassa rakentaakseen Internetiä julkiseksi resurssiksi, joka on kaikkien saatavilla, koska uskomme, että avoin ja vapaa on parempi kuin suljettu ja hallittu. Rakennamme { -brand-name-firefox }in kaltaisia tuotteita edistääksemme valinnanvaraa, läpinäkyvyyttä ja hallintamahdollisuuksia.

@@ -15,6 +15,7 @@ vpn-download-not-available-in-country = Valitettavasti { -brand-name-mozilla-vpn
 vpn-download-for-windows-v2 = VPN { -brand-name-windows }ille
 # Obsolete string (expires: 2026-07-20)
 vpn-download-for-windows-requirements = { -brand-name-windows } 10/11 (vain 64-bit)
+vpn-download-for-windows-requirements-v2 = { -brand-name-windows } 10/11
 vpn-download-for-windows-long = Lataa { -brand-name-mozilla-vpn } { -brand-name-windows }ille
 vpn-download-for-firefox-extension = Asenna { -brand-name-firefox }-laajennus
 vpn-download-for-mac = VPN { -brand-name-mac-short }ille
@@ -41,3 +42,9 @@ vpn-download-also-available = Saatavilla myös:
 vpn-download-from-the-maker = { -brand-name-firefox }in valmistajan { -brand-name-mozilla-vpn } käyttää edistynyttä <a href="{ $url }" { $attrs }>{ -brand-name-wireguard }</a>®-yhteyskäytäntöä verkossa tekemäsi toiminnan salaamiseksi ja sijaintisi piilottamiseksi.
 vpn-download-we-never-log = Emme koskaan kirjaa, seuraa tai jaa verkossa välittämääsi dataa.
 vpn-download-previous-versions = Lataa aiemmat versiot { -brand-name-windows }ille ja { -brand-name-mac-short }ille
+vpn-download-install-via-flathub = Asenna Flathubin kautta
+vpn-download-install-via-apt = Asenna APT:n kautta
+vpn-download-flathub = Flathub
+vpn-download-apt = APT
+vpn-download-windows = 64-bittinen
+vpn-download-windows-arm = ARM

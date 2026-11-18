@@ -39,3 +39,9 @@ download-button-linux-64-v2 = Lataa 64-bittiselle Linuxille
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/install-firefox-linux#w_install-firefox-deb-package-for-debian-based-distributions
 # Note: Debian and Ubuntu are brand names and shouldn't be translated
 download-button-using-debian = Käytätkö Debiania, Ubuntua tai mitä tahansa Debian-pohjaista jakelua?<br> Voit määrittää <a { $attrs }>APT-tietovarastomme</a>.
+# Microsoft Windows Store badge
+download-button-get-it-from-microsoft = Hanki se Microsoftilta
+# Variables
+#   $attrs (attrs) - link to https://support.mozilla.org/kb/marketing-data
+# “That you use it” is to mean that the user is opting in to sharing that they are continuing to use Firefox after installing it; not that Firefox is tracking their “usage” or what they’re using it for.
+download-button-share-how-you-discovered = Kerro { -brand-name-mozilla }:n markkinointiteknologiakumppaneille, miten löysit { -brand-name-firefox }:n ja että käytät sitä. Näitä tietoja ei koskaan myydä eikä käytetä mainosten näyttämiseen sinulle. <a { $attrs }>Lue, miten käytämme tietoja</a>.

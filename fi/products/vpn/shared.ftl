@@ -58,3 +58,19 @@ vpn-subnav-features = Ominaisuudet
 
 # Section title for press quotations about Mozilla VPN
 vpn-press-as-seen-in = Valokeilassa
+# Variables
+#   $attrs (string) - link to https://addons.mozilla.org/firefox/addon/multi-account-containers/ with additional attributes
+vpn-press-mozillas-vpn-can-also-integrate-into = ”{ -brand-name-mozilla }:n VPN voi myös <a { $attrs }>integroitua joihinkin näppäriin yksityisyyden suojausominaisuuksiin</a> sen { -brand-name-firefox }-selaimessa.”
+vpn-press-unique-features-like-its-multi-account = ”…ainutlaatuiset ominaisuudet, kuten sen usean tilin säilytystilat, saattavat tehdä ominaisuudesta helposti saatavilla käyttäjille, joilla on vakavampia yksityisyyden suojaan liittyviä huolenaiheita.”
+vpn-press-mozilla-vpns-feature-list-has-grown = ”{ -brand-name-mozilla-vpn }:n ominaisuusluettelo on kasvanut huomattavasti julkaisun jälkeen, ja palvelu päihittää nyt monet erikoistuneet VPN-palvelut joillakin alueilla.”
+
+## Unsupported language notification
+
+# Alternative translation: Mozilla VPN isn’t currently offfered in this language ({ $language }), but you can use it in English, French, German, Spanish and <a { $href }>over 30 other languages</a>.
+# Variables
+#   $language (string) - localized native language name for the locale of the current page.
+#   $href (string) - link to https://support.mozilla.org/kb/what-languages-mozilla-vpn-available with additional attributes.
+vpn-shared-unsupported-language-warning = { -brand-name-mozilla-vpn } ei ole tällä hetkellä saatavilla kielellä { $language }, mutta voit käyttää sitä englanniksi, ranskaksi, saksaksi, espanjaksi ja <a { $href }>yli 30 muulla kielellä</a>.
+# Variables
+#   $href (string) - link to https://pontoon.mozilla.org/projects/mozilla-vpn-client/ with additional attributes.
+vpn-shared-unsupported-language-contribute = Haluatko auttaa tuomaan { -brand-name-mozilla-vpn } useammille ihmisille? <a { $href }>Ryhdy vapaaehtoiseksi kääntäjäksi</a>.

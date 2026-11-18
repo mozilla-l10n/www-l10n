@@ -36,11 +36,15 @@ m24-home-get-a-headsup = Vastaanota heräte jos henkilötietosi ovat vaarantunee
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Peitä sähköpostiosoitteesi ja puhelinnumerosi, jotta saat vain haluamasi viestit.
 m24-home-0din = { -brand-name-0din }
+m24-home-0din-desc = Suojaa tekoälysi löytämällä ja korjaamalla GenAI:n haavoittuvuudet ennen hyökkääjiä.
 m24-home-tabstack = { -brand-name-tabstack }
+# API stands for "Application Programming Interface"
+m24-home-tabstack-desc = Automatisoi verkkotehtäviä luotettavasti yksinkertaisella kehittäjäkeskeisellä API:lla.
 
 ## Donate
 
 m24-home-donate-to-v2 = Lahjoita { -brand-name-mozilla-foundation }ille
+m24-home-mozilla-foundation-is-building-v2 = { -brand-name-mozilla-foundation } rakentaa tulevaisuutta, jossa teknologiaa pyörittävät ihmiset ja se on suunnittelultaan avointa. Siksi tuemme yhteisökeskeistä teknologiaa edunvalvonnan, koulutuksen, rahoituksen ja innovaatioiden avulla – varmistaaksemme, että teknologian tulevaisuus on hyvä kaikille. Mutta se on mahdollista vain, jos teemme sen yhdessä.
 m24-home-were-proudly-nonprofit = Olemme ylpeänä voittoa tavoittelemattomia, yleishyödyllisiä. Lahjoitatko tänään { -brand-name-mozilla }lle?
 m24-home-donate = Lahjoita
 
@@ -54,19 +58,35 @@ m24-home-read-more = Lue lisää
 m24-home-get-started = Aloitetaan
 m24-home-join-the-movement = Liity liikkeeseen:<br> Tekoäly ihmisiä varten
 m24-home-our-mission-is = Tehtävämme on mahdollistaa ihmisten rakentaa ja tehdä yhteistyötä luotettavan, avoimeen lähdekoodiin pohjautuvan tekoälyn parissa.
+m24-home-alt-builders = Rakentajat
+m24-home-alt-builders-v2 = { -brand-name-builders }
+m24-home-mozilla-builders = { -brand-name-mozilla } Rakentajat
 m24-home-mozilla-builders-v2 = { -brand-name-mozilla-builders }
+m24-home-builders-helps-independent = Builders auttaa itsenäisiä kehittäjiä luomaan transformatiivisia avoimen lähdekoodin tekoälyprojekteja räätälöityjen yhteistyömallien, ohjelmoinnin ja yhteisön avulla.
+m24-home-builders-helps-independent-v2 = { -brand-name-mozilla-builders } auttaa itsenäisiä kehittäjiä luomaan mullistavia avoimen lähdekoodin tekoälyprojekteja räätälöityjen yhteistyöhankkeiden, ohjelmoinnin ja yhteisön avulla.
+m24-home-own-what-you = Omista mitä rakennat
+# "LAMP" (Linux, Apache, MySQL, PHP) is an open-souce software bundle (or "stack"). The acronym LAMP does not need to be translated.
+m24-home-do-we-need-a = Tarvitsemmeko tekoälyaikakaudelle "LAMP-pinon"? Tarvitsemme teknologiaa, joka on läpinäkyvää, vastuullista ja käyttäjiensä omistamaa.
 m24-home-watch-now = Katso nyt
+m24-home-choice-first-stack = Valinnan ensimmäinen pino
+m24-home-your-tools-your = Työkalusi, valintasi. Yhtenäinen avoimen lähdekoodin pino, joka yksinkertaistaa nykyaikaisten tekoälyagenttien ja -sovellusten rakentamista ja testaamista.
 m24-home-get-started-now = Aloita nyt
 # Used as an accessible text alternative for an image
 m24-home-alt-ventures = Puhuja lavalla ja useita tuotelogoja.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Onko sinulla alkuvaiheen startup-yritys? Esittele yrityksesi { -brand-name-mozilla-ventures }ille ja turvaa rahoitus positiivisen muutoksen aikaansaamiseksi tekoälyn ja Internetin tulevaisuudelle.
+m24-home-mozilla-data-collective = { -brand-name-mozilla } Data Collective
+m24-home-mozilla-data-collective-is = { -brand-name-mozilla } Data Collective rakentaa uudelleen tekoälydataekosysteemiä yhteisöt keskiössä.
 m24-home-join-today = Liity tänään
+m24-home-a-double-bottom = Teknologia-alan tuplatulos
+m24-home-mark-surman-discusses = Mark Surman keskustelee siitä, miten voimme rakentaa teknologiaekosysteemin, jolla on kaksinkertainen tuotto – sellainen, joka arvostaa sekä missiota että rahaa.
 m24-home-agent-platform = Agenttialusta
+m24-home-stop-wiring-tools = Lopeta työkalujen yhteenkytkeminen ja hauraiden automaatioiden lastenvahtiminen. { -brand-name-mozilla-ai-v2 } Agent Platformin avulla sinä kuvailet tavoitteesi, me luomme mukautuvia tekoälyagentteja, jotka toimivat työkalujesi ja prosessiesi kanssa.
 
 ## Media Springboard
 
 m24-home-type = Tyyppi
+m24-home-author-v2 = Tekijä(t)
 m24-home-topic = Aihe
 m24-home-intro = Johdanto
 m24-home-tag-article = Artikkeli
@@ -82,13 +102,17 @@ m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } toivottaa Raffi Krikor
 m24-home-tech-target = Tech Target
 m24-home-introducing-thundermail-and-v2 = Esittelyssä { -brand-name-thundermail } ja { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Teknologian seuraava askel on valinta. Valitse meidän kanssamme.
+m24-home-a-good-moment = ”Hyvä hetki meille”: { -brand-name-firefox } keskittyy tekoälyselaimiin ja verkon tulevaisuuteen
 m24-home-the-guardian = The Guardian
 m24-home-axios = Axios
 m24-home-mozillas-new-message = { -brand-name-mozilla }n uusi viesti: Olemme ainoa selain, jota eivät tue miljardöörit
 m24-home-fast-company = Fast Company
 m24-home-mozilla = { -brand-name-mozilla }
 m24-home-the-ft = The FT
+m24-home-rewiring-mozilla = Uudelleenjohdotus { -brand-name-mozilla }: Tehdään tekoälylle samaa kuin verkolle
 m24-home-interview-with-mark = Haastattelussa Mark Surman: Kuinka { -brand-name-mozilla } sopeutuu tekoälyaikakauteen
+m24-home-women-in-product = Naiskeskustelu tuotteissa: GenAI:n lisääminen juonta menettämättä
+m24-home-scaling-open-source = Avoimen lähdekoodin tekoälyn skaalaus: Mark Surman ja Tim Bradshaw
 
 ## Showcase
 
@@ -96,18 +120,35 @@ m24-home-rise25-awards = { -brand-name-rise25 }-palkinnot
 m24-home-get-to-know = Tutustu luotettavan, osallistavan ja läpinäkyvän tekoälykehityksen puolestapuhujiin, jotka asettavat uuden standardin ja inspiroivat seuraavan sukupolven innovaattoreita.
 m24-home-watch-the-award = Katso palkintonäytös
 # Used as an accessible text alternative for an image
+m24-home-alt-rise25-proud = Ylpeä kunniamaininnan saaja { -brand-name-rise25 } -listalla.
+# Used as an accessible text alternative for an image
 m24-home-alt-rise25-smiling = Itsevarma ja hymyilevä puhuja { -brand-name-rise25 }:ssa.
 # Used as an accessible text alternative for an image
+m24-home-alt-rise25-joyous = Iloinen kunniamaininta kohteessa { -brand-name-rise25 }.
+m24-home-state-of-mozilla = Osavaltio { -brand-name-mozilla }
+m24-home-mozilla-is-reinventing-itself = { -brand-name-mozilla } uudistaa itseään, monipuolistuu useiden organisaatioiden ympärille, uudistaa mainontaa ja luo avoimen lähdekoodin tekoälyekosysteemiä. Lue lisää { -brand-name-mozilla }:n tilasta vuonna 2024 kertomuksessa.
+# Variables
+#   $year - year of report
+m24-home-mozilla-is-reinventing-itself-v3 = Olemme teknologian tulevaisuuden risteyksessä, kun suuret tekoälyyritykset yhdistävät valtaansa. { $year } State of { -brand-name-mozilla } -raportti on kutsu valita yhdessä erilainen tulevaisuus.
+# Used as an accessible text alternative for an image
 m24-home-state-of-mozilla-alt = Abstraktia pikselitaidetta vihreän, oranssin ja vaaleanpunaisen sävyissä
+# Used as an accessible text alternative for an image
+m24-home-state-of-mozilla-alt-v2 = Teksti ”Valitse tulevaisuutesi” keltaisella, pikselöidyllä taustalla
 m24-home-read-the-report = Lue raportti
 
 ## Nothing Personal is the name of the magazine and should be kept in English.
 
+m24-home-mozilla-nothing-personal = Ei mitään henkilökohtaista
+m24-home-our-new-magazine = Uusi lehtemme itsenäisille ajattelijoille, teknologiayrittäjille ja luoville tekijöille digitaalisen kulttuurin eturintamassa.
 m24-home-read-now = Lue nyt
 
 ## Issues
 
 m24-home-explore-issues-shaping = Tutki Internetin tulevaisuutta määrittäviä ongelmia
+m24-home-the-validation-machines = Validointikoneet
+m24-home-in-the-atlantic = The Atlantic -lehdessä { -brand-name-mozilla } teknologiajohtaja Raffi Krikorian kysyy, miksi chatbotit ja generatiivinen tekoäly haluavat niin kovasti miellyttää meitä ja mitä se tarkoittaa ihmiskunnalle. (kuva: The Atlantic)
+# Used as an accessible text alternative for an image
+m24-home-alt-validation = Miniatyyrihahmo katsoo suurta näppäimistönäppäintä ja hypnotisoivaa tietokoneen näyttöä
 # Used as an accessible text alternative for an image
 m24-home-alt-irl-host = Bridget Todd, IRL Podcastin juontaja.
 m24-home-irl-podcast = { -brand-name-irl-podcast }

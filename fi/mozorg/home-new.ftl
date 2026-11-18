@@ -19,11 +19,13 @@ home-product-relay-hide-your = Piilota puhelinnumerosi ja sähköpostiosoitteesi
 home-cta-get-relay = Hanki { -brand-name-relay }
 home-product-vpn-trust = VPN, johon voit luottaa
 home-cta-get-vpn = Hanki { -brand-name-mozilla-vpn }
+home-product-monitor-protect-your = Suojaa yksityisiä tietojasi tiedonvälittäjiltä
 home-cta-get-monitor = Hanki { -brand-name-monitor }
 home-mozilla-takes-bets = “{ -brand-name-mozilla } lyö vetoa näyttääkseen maailmalle, että luotettavalla tekoälyllä on mahdollista tehdä kannattavaa liiketoimintaa. Se sisältää ihmisoikeuksien, tietosuojan ja avoimuuden asettamisen näiden monimutkaisten järjestelmien toiminnan ytimeen.”
 # Politico is a brand name for a news organization
 home-politico-cite = Politico
 home-join-us-in-shaping = Liity kanssamme luomaan luotettavaa tekoälyä
+home-work-on-ai = { -brand-name-mozilla }:n työ tekoälyn parissa ei ole vain uusi asia – olemme vuosia rahoittaneet, rakentaneet ja puolustaneet avointa, oikeudenmukaista ja vastuullisesti kehitettyä tekoälyä. Keskitymme luomaan tekoälyä, joka palvelee ihmisiä, asettaa etusijalle läpinäkyvyyden ja tukee yleistä etua, ei yritysten tavoitteita.
 home-read-more = Lue lisää
 home-so-what-is-mozilla = Mikä { -brand-name-mozilla } on?
 home-learn-about-mofo = Lue lisää { -brand-name-mozilla-foundation }ista

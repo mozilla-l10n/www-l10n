@@ -66,11 +66,19 @@ firefox-developer-firefox-developer-edition-sends = { -brand-name-firefox-develo
 firefox-developer-download-the-firefox-browser = Lataa kehittäjille suunnattu { -brand-name-firefox }-selain
 firefox-developer-welcome-to-firefox-developer-edition = Tervetuloa { -brand-name-firefox-developer-edition }iin
 firefox-developer-made-for-developers = Kehittäjille tehty selain
+firefox-developer-all-the-latest-v2 = Kaikki uusimmat kehittäjätyökalut beta-versiossa sekä ominaisuuksia, kuten monirivinen konsolieditori ja WebSocket Inspector.
 firefox-developer-a-separate-profile = <strong>Erillinen profiili ja polku</strong>, jotta voit käyttää sitä { -brand-name-firefox }in julkaisu- tai { -brand-name-beta }-version rinnalla.
 firefox-developer-preferences-tailored = Asetukset <strong>räätälöitynä verkkokehittäjille</strong>: Selain ja etävirheenkorjaus ovat oletuksena käytössä, samoin kuin tumma teema ja kehittäjän työkalupalkin painike.
 firefox-developer-congrats-you-now-have-latest-v2 = Sinulla on nyt { -brand-name-firefox-developer-edition }in uusin versio.
 # Variables:
 #   $attrs (string) - link to the most recent Firefox Developer Edition release notes
 firefox-developer-view-the-release = Katso <a { $attrs }>julkaisutiedot</a> (vain englanniksi) nähdäksesi uutuudet.
+firefox-developer-developer-tools-user = Kehittäjätyökalut Käyttäjädokumentit
 firefox-developer-mdn-web-docs = { -brand-name-mdn-web-docs }
 firefox-developer-resources-for-developers = Resursseja kehittäjille - kehittäjiltä
+firefox-developer-mdn-playground = Leikkikenttä
+firefox-developer-mdn-write-test-and-share = Kirjoita, testaa ja jaa koodiasi. Leikkikenttäsi oppimiseen ja upean työsi jakamiseen maailman kanssa.
+firefox-developer-mdn-blog = { -brand-name-mdn } Blogi
+firefox-developer-mdn-unlock-the-world = Avaa web-kehityksen maailma { -brand-name-mdn } Blogin avulla — asiantuntijanäkemysten, uusimpien web-standardien ja koodausvinkkien keskuksena.
+firefox-developer-mdn-updates = Päivitykset
+firefox-developer-mdn-the-web-doesnt-have = Verkossa ei ole muutoslokia, mutta { -brand-name-mdn } voi auttaa. Voit mukauttaa ja suodattaa yhteensopivuusmuutoksia selainten tai kiinnostavan tekniikkaluokan, kuten JavaScriptin, CSS:n jne., perusteella.

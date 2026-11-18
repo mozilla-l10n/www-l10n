@@ -25,3 +25,5 @@ ui-learn-more = Lue lisää
 ui-view = Näytä
 ui-pause-animation = Keskeytä animaatio
 ui-play-animation = Toista animaatio
+# An accessible label used to describe the purpose of a cross-promotional page element.
+ui-promo-label = Promootio

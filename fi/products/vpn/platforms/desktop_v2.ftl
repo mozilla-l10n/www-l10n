@@ -11,3 +11,4 @@ vpn-desktop-vpns-can-provide = VPN:t voivat tarjota lisätason suojauksen kannet
 vpn-desktop-how-does-a = Miten VPN suojaa PC:täni tai kannettavaa tietokonettani?
 vpn-desktop-there-are-several = On useita syitä, miksi sinun tulisi käyttää VPN:ää suojataksesi itsesi, kun käytät tietokonettasi:
 vpn-desktop-stronger-privacy = <strong>Vahvempi yksityisyys:</strong> Koska VPN peittää IP-osoitteesi, voit selata Internetiä aiempaa yksityisemmin tietäen, että IP-osoitettasi yksilöivänä tunnisteena käyttävät tiedonkerääjät eivät voi yhdistää osoitettasi toimintaasi.
+vpn-desktop-safer-against-spying = <strong>Suojautuneempi vakoilua vastaan:</strong> Tietojesi salaaminen VPN:n avulla tekee käytännössä mahdottomaksi kenenkään tietää, mitä ja kenen kanssa viestit.

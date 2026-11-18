@@ -28,15 +28,19 @@ manifesto-we-are-committed-to-diverse = Olemme sitoutuneet Internetiin, joka kii
 manifesto-an-internet-with-these = Internet, jolla on nämä ominaisuudet, ei muodostu itsestään. Yksilöiden ja organisaatioiden on sisällytettävä nämä pyrkimykset Internet-teknologiaan ja ihmisten kokemuksiin Internetistä. { -brand-name-mozilla }n manifesti ja sen lisäys edustavat { -brand-name-mozilla }n sitoutumista näiden pyrkimysten edistämiseen. Pyrimme työskentelemään yhdessä ihmisten ja organisaatioiden kanssa kaikkialla, jotka jakavat nämä tavoitteet, jotta internetistä tulisi entistä parempi paikka kaikille.
 manifesto-details-introduction = Johdanto
 manifesto-details-the-internet-is-becoming = Internetin merkitys elämässämme kasvaa jatkuvasti.
+manifesto-details-the-mozilla-project-global-v2 = { -brand-name-mozilla }-projekti on maailmanlaajuinen yhteisö, jonka jäsenet uskovat avoimuuden, innovaatioiden ja mahdollisuuksien olevan avainasemassa internetin jatkuvan terveyden kannalta. Olemme työskennelleet yhdessä vuodesta 1998 lähtien varmistaaksemme, että internetiä kehitetään tavalla, joka hyödyttää kaikkia. Meidät tunnetaan parhaiten { -brand-name-mozilla } { -brand-name-firefox } -verkkoselaimen luomisesta.
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-global = { -brand-name-mozilla }-hanke muodostuu globaalista ihmisyhteisöstä, joka uskoo avoimuuteen, innovointiin ja otolliseen tilaisuuteen avaimena Internetin jatkuvalle hyvinvoinnille. Olemme työskennelleet yhdessä vuodesta 1998 taataksemme, että Internetiä kehitetään kaikkia hyödyttävällä tavalla. Meidät tunnetaan parhaiten { -brand-name-mozilla } { -brand-name-firefox } -verkkoselaimen luomisesta.
+manifesto-details-the-mozilla-project-community-v2 = { -brand-name-mozilla }-projekti käyttää yhteisöpohjaista lähestymistapaa luodakseen maailmanluokan avoimen lähdekoodin ohjelmistoja ja kehittääkseen uudenlaisia yhteistyötoimintoja. Luomme yhteisöjä ihmisistä, jotka ovat mukana tekemässä internet-kokemuksesta paremman meille kaikille.
 # Obsolete string (expires 2026-09-20)
 manifesto-details-the-mozilla-project-community = { -brand-name-mozilla }-hanke käyttää yhteisöpohjaista lähestymistapaa maailmanluokan vapaan lähdeohjelmiston luomiseksi ja uudenlaisten yhteistyömuotojen kehittämiseksi. Me luomme Internet-kokemuksen parantamiselle omistautuvia ihmisyhteisöjä.
 manifesto-details-as-a-result-of = Olemme tiivistäneet näiden ponnistelujen tulokset joukoksi periaatteita, jotka uskomme elintärkeiksi Internetin jatkuvalle yhteisen hyvän ja myös elämän kaupallisten näkökohtien edistämiselle. Esitämme nämä periaatteet alla.
 manifesto-details-the-goals-for = Manifestin tavoitteena on:
+manifesto-details-articulate-a-vision-v2 = ilmaise visio internetistä, jota { -brand-name-mozilla } osallistujaa haluaa { -brand-name-mozilla-foundation }:n tavoittelevan;
 manifesto-details-speak-to-people = puhutella ihmisiä riippumatta näiden teknisestä osaamisesta;
 manifesto-details-make-mozilla-contributors = tehdä { -brand-name-mozilla }-avustajat ylpeiksi siitä mitä teemme ja innostaa meitä jatkamaan; sekä
 manifesto-details-provide-a-framework = tarjota viitekehys toisille edistää tätä visiota Internetistä.
+manifesto-details-these-principles-v2 = Nämä periaatteet eivät toteudu itsestään. Tarvitaan ihmisiä tekemään internetistä avoin ja osallistava – ihmisiä, jotka toimivat yksilöinä, työskentelevät yhdessä ryhmissä ja johtavat muita. { -brand-name-mozilla-foundation } on sitoutunut edistämään { -brand-name-mozilla }-manifestissa esitettyjä periaatteita. Kutsumme muita liittymään meihin ja tekemään internetistä entistä paremman paikan kaikille.
 manifesto-details-principles = Periaatteet
 manifesto-principle-1 = Periaate 1
 manifesto-principle-2 = Periaate 2
@@ -51,11 +55,41 @@ manifesto-principle-10 = Periaate 10
 manifesto-details-transparent-community = Läpinäkyvät yhteisöpohjaiset menetelmät edistävät osallistumista, vastuullisuutta ja luottamusta.
 manifesto-details-advancing-the = { -brand-name-mozilla }-manifestin edistäminen
 manifesto-details-mozilla-foundation = { -brand-name-mozilla-foundation } lupaus
+manifesto-details-the-mozilla-foundation-pleges-v2 = { -brand-name-mozilla-foundation } lupaa tukea { -brand-name-mozilla } manifestia sen toiminnassa. Tarkemmin sanottuna aiomme:
 manifesto-details-build-and-enable = muodostamaan ja mahdollistamaan avoimen lähdekoodin teknologioita ja yhteisöjä, jotka kannattavat Manifestin periaatteita;
 manifesto-details-build-and-deliver = rakentamaan ja toimittamaan käyttäjille loistavia kuluttajatuotteita, jotka kannattavat Manifestin periaatteita;
 manifesto-details-use-the-mozilla = käyttämään { -brand-name-mozilla }n voimavaroja (intellektuaalista omaisuutta kuten tekijänoikeudet ja tavaramerkit, infrastruktuuria, rahavaroja ja mainetta) Internetin säilyttämiseksi avoimena toimintaympäristönä;
 manifesto-details-promote-models = edistämään toimintamalleja, jotka luovat taloudellista arvoa yhteiseksi hyväksi; ja
 manifesto-details-promote-the-mozilla = edistämään { -brand-name-mozilla }-manifestin periaatteita julkisessa keskustelussa ja Internet-teollisuuden sisällä.
+manifesto-written-in-2007 = Vuonna 2007 kirjoitettu { -brand-name-mozilla }-manifesti hahmottelee ydinperiaatteemme. Terveen internetin lupaus kirjoitettiin manifestin lisäykseksi vuonna 2017 heijastamaan syvää sitoutumistamme sen varmistamiseen, että internet palvelee ihmisten ja koko ihmiskunnan tarpeita. Yhdessä nämä kaksi asiakirjaa ohjaavat kaikkea työtä { -brand-name-mozilla }-hankkeessa – mitä rakennamme, mitä rahoitamme ja miten työskentelemme yhdessä yhteisönä.
+manifesto-mozillas-pledge = { -brand-name-mozilla }:n lupaus
+manifesto-across-the-mozilla-project = Sitoudumme tukemaan { -brand-name-mozilla }-manifestia ja sen toimintaa koko { -brand-name-mozilla }-projektissa ja kaikissa { -brand-name-mozilla }-perheen organisaatioissa. Tarkemmin sanottuna aiomme:
+manifesto-we-need-you = Tarvitsemme sinua edistämään manifestia
+manifesto-an-internet-with-these-v2 = Näillä ominaisuuksilla varustettu internet ei synny itsestään. Ihmisten ja organisaatioiden on sisällytettävä nämä pyrkimykset internet-teknologiaan ja ihmisten kokemukseen internetin kanssa. { -brand-name-mozilla }-manifesti ja lisäys edustavat { -brand-name-mozilla }:n sitoutumista näiden pyrkimysten edistämiseen. { -brand-name-mozilla } tekee yhteistyötä ihmisten ja organisaatioiden kanssa kaikkialla maailmassa, jotka haluavat tehdä internetistä entistä paremman paikan kaikille.
+manifesto-our-commitments = Sitoumuksemme
+manifesto-commitment-1 = Sitoumus 1
+manifesto-commitment-2 = Sitoumus 2
+manifesto-commitment-3 = Sitoumus 3
+manifesto-commitment-4 = Sitoumus 4
+manifesto-if-you-share-this-goal-v2 = Jos jaat tämän tavoitteen, kerro meille, kuinka voimme auttaa.
+# Variables:
+#   $github_link (url) - link to https://github.com/mozilla
+manifesto-we-create-open = Luomme <{ $github_link }>avoimen lähdekoodin ohjelmistoja</a>, joiden pohjalta voit rakentaa.
+# Variables:
+#   $mofo_link (url) - link to https://www.mozillafoundation.org/
+manifesto-we-fund-fellows = <a { $mofo_link }>Rahoitamme stipendiaatteja ja hautomme projekteja</a>, joiden tavoitteena on luoda parempi tulevaisuus verkossa.
+# Variables:
+#   $mozai_link (url) - link to https://www.mozilla.ai
+manifesto-we-build-open-source = Kehitämme avoimen lähdekoodin tekoälytyökaluja, jotka antavat kehittäjille valinnanvaraa – ja auttavat heitä säästämään rahaa.
+# Variables:
+#   $mozvc_link (url) - link to https://mozilla.vc
+manifesto-we-invest-in = <a { $mozvc_link }>Sijoitamme vastuullisiin teknologiayrityksiin</a>.
+# Variables:
+#   $mdc_link (url) - link to https://mozilladatacollective.com/
+manifesto-we-run-a-global = Ylläpidämme globaalia yhteisöä</a> reilun tiedonvaihdon puolesta.
+# Variables:
+#   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
+manifesto-we-host-a-yearly = Järjestämme vuosittain maailmanlaajuisen kokoontumisen</a> ihmisille, jotka tekevät mitä tahansa Manifestin edistämiseksi.
 
 ## Obsolete strings (expire 2026-09-10)
 
@@ -70,7 +104,9 @@ manifesto-details-free-and-open = Vapaa ja avoin lähdeohjelmisto edistää Inte
 manifesto-details-commercial-involvement = Kaupallinen osallistuminen Internetin kehittämiseen tuo mukanaan monia etuja; tasapaino kaupallisen voiton ja yleisen edun kesken on elintärkeä.
 manifesto-details-magnifying-the = Internetin yleishyödyllisten puolien korostaminen on tärkeä tavoite, joka ansaitsee aikaa, huomiota ja omistautumista.
 manifesto-details-there-are-many = On monenlaisia keinoja edistää { -brand-name-mozilla }-manifestin periaatteita. Me kannatamme runsasta toimintavalikoimaa ja luotamme samaan luomiskykyyn, jota { -brand-name-mozilla }-jäsenistö on osoittanut hankkeen muilla alueilla. Yksilöt, jotka eivät omistaudu syvällisesti { -brand-name-mozilla }-hankkeelle, voivat tukea Manifestia yksinkertaisesti ja erittäin tehokkaasti käyttämällä { -brand-name-mozilla } { -brand-name-firefox }ia ja muita tuotteita, jotka ilmentävät Manifestin periaatteita.
+manifesto-details-some-foundation-v2 = Jotkin säätiön toiminnoista – tällä hetkellä kuluttajatuotteiden luominen, toimittaminen ja markkinointi – hoidetaan pääasiassa { -brand-name-mozilla-foundation }:n kokonaan omistaman tytäryhtiön, { -brand-name-mozilla-corporation }:n, kautta.
 manifesto-details-invitation = Kutsu
+manifesto-details-the-mozilla-foundation-invites-v2 = { -brand-name-mozilla-foundation } kutsuu kaikki muut, jotka tukevat { -brand-name-mozilla }-manifestin periaatteita, liittymään joukkoomme ja etsimään uusia tapoja tehdä tästä internetin visiosta totta.
 manifesto-share-on-bluesky = Jaa Blueskyssä
 manifesto-our-10-principles = <strong>Kymmenen</strong> periaatettamme
 manifesto-the-mozilla-manifesto-addendum = { -brand-name-mozilla }-manifestin lisäys

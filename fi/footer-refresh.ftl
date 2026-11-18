@@ -16,11 +16,14 @@ footer-refresh-youtube = YouTube
 footer-refresh-company = Yritys
 footer-refresh-press-center = Lehdistökeskus
 footer-refresh-careers = Työpaikat
+# Our "merch" store is an online store which sells Mozilla branded stuff. (Merch is short for merchandise).
+footer-refresh-store = Oheistuotteiden myymälä
 footer-refresh-contact = Yhteystiedot
 footer-refresh-support = Tuki
 footer-refresh-product-help = Tuotetuki
 footer-refresh-file-a-bug = Ilmoita virheestä
 footer-refresh-localize-mozilla = Lokalisoi { -brand-name-mozilla }
+footer-refresh-security = Turvallisuus
 footer-refresh-developers = Kehittäjät
 footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
