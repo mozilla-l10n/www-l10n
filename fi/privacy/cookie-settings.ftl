@@ -9,7 +9,7 @@ cookie-settings-page-title = Evästeasetukset
 cookie-settings-page-desc = Tällä sivulla kuvataan erityyppisiä evästeitä, joita { -brand-name-mozilla } voi käyttää, ja antaa sinulle mahdollisuuden hallita, minkä tyyppisten tietojen keräämisen annat { -brand-name-mozilla }lle suostumuksen.
 cookie-settings-breadcrumb-link = Edellinen sivu
 cookie-settings-explainer = Evästeet ovat pieniä tiedostoja, jotka sisältävät tietoja, jotka tallennetaan tietokoneellesi tai laitteellesi, kun vierailet verkkosivustolla. { -brand-name-mozilla } käyttää evästeitä auttaakseen verkkosivustojemme toiminnassa sekä keräämään tietoja siitä, miten käytät verkkosivustojamme ja olet vuorovaikutuksessa niiden kanssa.
-cookie-settings-page-intro-v2 = Tällä sivulla kuvataan erityyppisiä evästeitä ja vastaavia tekniikoita, kuten pikselitageja, verkkojäljitteitä, läpinäkyviä GIF-kuvia, JavaScriptiä ja paikallista tallennustilaa (jäljempänä "Evästeet"), joita { -brand-name-mozilla } voi käyttää, ja annetaan sinulle hallintaoikeus siihen, minkä tyyppisiä tietoja suostut { -brand-name-mozilla }:n keräämään.
+cookie-settings-page-intro-v2 = Tällä sivulla kuvataan erityyppisiä evästeitä ja vastaavia tekniikoita, kuten pikselitageja, verkkojäljitteitä, läpinäkyviä GIF-kuvia, JavaScriptiä ja paikallista tallennustilaa (jäljempänä "evästeet"), joita { -brand-name-mozilla } voi käyttää, ja sen avulla voit hallita, minkä tyyppisten tietojen keräämiseen annat { -brand-name-mozilla }lle suostumuksen.
 cookie-settings-how-mozilla-heading = Kuinka { -brand-name-mozilla } käyttää evästeitä
 cookie-settings-how-does-mozilla-use-subheading = Miten { -brand-name-mozilla } käyttää tätä dataa?
 cookie-settings-save-changes = Tallenna muutokset
@@ -23,14 +23,14 @@ cookie-settings-turn-on-javascript = Ota JavaScript käyttöön päivittääkses
 cookie-settings-category-necessary-heading = Pakolliset
 cookie-settings-category-necessary-what-are-subheading = Mitä pakolliset evästeet ovat?
 cookie-settings-category-necessary-what-are-desc = Näitä tekniikoita tarvitaan tukemaan verkkosivuston olennaisia ominaisuuksia, kuten kirjautumista verkkosivuston suojatulle alueelle tai tuotteiden lisäämistä ostoskoriin, eikä niitä voi sammuttaa.
-cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } käyttää välttämättömiä evästeitä vain tarjotakseen olennaisia verkkosivuston ominaisuuksia, kuten kirjautumisen { -brand-name-mozilla-account }-tililläsi tai ohjelmistotilauksen ostamisen kassalla. Ilman näitä tekniikoita verkkosivuston olennaiset ominaisuudet eivät välttämättä toimi.
+cookie-settings-category-necessary-how-does-desc-v2 = { -brand-name-mozilla } käyttää välttämättömiä evästeitä vain verkkosivuston olennaisten ominaisuuksien tarjoamiseen, kuten kirjautumiseen { -brand-name-mozilla-account }llä tai ohjelmistotilauksen ostamiseen kassalla. Ilman näitä tekniikoita verkkosivuston olennaiset ominaisuudet eivät välttämättä toimi.
 
 ## Preference cookies section
 
 cookie-settings-category-preference-heading = Asetukset
 cookie-settings-category-preference-what-are-subheading = Mitä asetusevästeet ovat?
 cookie-settings-category-preference-what-are-desc = Näitä tekniikoita käytetään muistamaan valinnat, jotka olet tehnyt edellisen verkkosivustolla käynnin aikana. Esimerkiksi millä kielellä haluat sivuston näytettävän tai mitä väriteemaa suositaan.
-cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } käyttää mieltymysevästeitä mieltymystesi kunnioittamiseen ja käyttökokemuksesi parantamiseen verkkosivustoillamme. Niitä ei käytetä analytiikkatarkoituksiin. Mieltymysevästeet tukevat ominaisuuksia samalla tavalla kuin välttämättömät evästeet, mutta verkkosivusto voi toimia ilman niitäkin. Voit siksi kieltäytyä niiden käytöstä.
+cookie-settings-category-preference-how-does-desc = { -brand-name-mozilla } käyttää asetusevästeitä noudattaakseen valintojasi ja parantaakseen käyttökokemustasi verkkosivustoillamme. Niitä ei käytetä analytiikkatarkoituksiin. Asetusevästeet tukevat ominaisuuksia samaan tapaan kuin välttämättömät evästeet, mutta verkkosivusto toimii myös ilman niitä. Siksi voit kieltäytyä niiden käytöstä.
 
 ## Analytics cookies section
 
@@ -42,5 +42,5 @@ cookie-settings-category-analytics-how-does-desc = { -brand-name-mozilla } käyt
 ## Privacy section
 
 cookie-settings-privacy-heading = Tietosuojakäytäntömme
-cookie-settings-privacy-desc = Saat tarkempia tietoja erityyppisistä tiedoista, joita { -brand-name-mozilla } kerää verkkosivustoillamme vieraillessasi, alla olevasta linkistä tietosuojaselosteeseemme.
+cookie-settings-privacy-desc = Tarkempia tietoja erityyppisistä tiedoista, joita { -brand-name-mozilla } kerää verkkosivustoillamme vieraillessasi, löydät alla olevan linkin takaa löytyvästä tietosuojakäytännöstämme.
 cookie-settings-privacy-policy-link = Tietosuojakäytäntö
