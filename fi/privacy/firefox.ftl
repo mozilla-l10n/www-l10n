@@ -9,7 +9,7 @@
 privacy-firefox-basics = Tietosuojan perusteet
 privacy-firefox-youre-in-control-v2 = Sinä hallitset tietojasi
 privacy-firefox-privacy-isnt-just-v2 = Kokonaiskuva on tämä: { -brand-name-firefox }issa yksityisyys ja suojaus ovat oletuksena. Emme tiedä sinusta paljoakaan. Sitä vähää, mitä tiedämme, emme koskaan myy. Ja toisin kuin muut selaimet, annamme sinulle mahdollisuuden poistaa käytöstä sinua ärsyttävät asiat. { -brand-name-firefox }in tietosuojailmoitus perustuu selkeyteen, hallintaan ja vastuullisiin oletusasetuksiin. Voit luottaa siihen, että kerromme selkeästi, mitä { -brand-name-firefox } tekee oletuksena, ja voit säätää asetuksiasi selataksesi haluamallasi tavalla.
-privacy-firefox-read-our-privacy = Lue tietosuojailmoituksemme
+privacy-firefox-read-our-privacy = Lue tietosuojakäytäntömme
 privacy-firefox-keeping-you-informed = Pidämme sinut ajan tasalla joka vaiheessa
 privacy-firefox-we-believe-you = Uskomme, että sinun tulee tietää, miten tietojasi käytetään ja miksi. { -brand-name-firefox } on suunniteltu yksityisyys edellä, ja läpinäkyvyys on mukana jokaisessa vaiheessa.
 privacy-firefox-transparency-first = Läpinäkyvyys ensin
@@ -24,16 +24,16 @@ privacy-firefox-builtin-control = Sisäänrakennettu hallinta
 privacy-firefox-firefox-gives-you = { -brand-name-firefox } tarjoaa sinulle yksinkertaisia mutta tehokkaita työkaluja tietojesi hallintaan haluamallasi tavalla. Voit hienosäätää asetuksiasi, erottaa työsi henkilökohtaisesta elämästäsi tai poistaa ei-toivotun historian vain muutamalla napsautuksella.
 privacy-firefox-always-protected = Aina suojattu
 privacy-firefox-firefox-protects-you = { -brand-name-firefox } suojaa sinua tunnetuilta kolmannen osapuolen seurantaohjelmilta, sosiaalisen median seurantaohjelmilta, kryptolouhijoilta, evästeiltä ja sormenjälkitunnistustekniikoilta, jotka yrittävät seurata sinua verkossa.
-privacy-firefox-privacy-that-works = Tietosuoja, joka toimii puolestasi
+privacy-firefox-privacy-that-works = Puolestasi toimiva tietosuoja
 privacy-firefox-firefox-makes-it = { -brand-name-firefox } helpottaa tietojesi hallintaa sisäänrakennettujen yksityisyys- ja tietoturvaominaisuuksien sekä asetusten avulla, joilla voit hienosäätää selauskokemustasi.
-privacy-firefox-manage-your-privacy = Hallinnoi tietosuoja-asetuksiasi:
+privacy-firefox-manage-your-privacy = Hallinnoi tietosuoja-asetuksia:
 privacy-firefox-firefox-for-desktop-v2 = { -brand-name-firefox } tietokoneelle
 privacy-firefox-firefox-for-mobile-v2 = { -brand-name-firefox } mobiililaitteille
 # heading for the table of contents, a shorter heading is better
 privacy-firefox-contents = Sisällys
 # Variables:
 #   $attrs (string) - in-page link to the start of the legal portion of the privacy notice
-privacy-firefox-take-me-back = Siirry <a { $attrs }>tietosuojailmoituksen alkuun</a>
+privacy-firefox-take-me-back = Siirry <a { $attrs }>tietosuojakäytännön alkuun</a>
 # Variables:
 #   $attrs (string) - in-page link to the top of the page
 privacy-firefox-lost-in-the = Eksyitkö yksityiskohtiin? Palaa <a { $attrs }>{ -brand-name-firefox }in tietosuojan perusteisiin</a>.

@@ -35,7 +35,7 @@ privacy-faq-v2-softballs = Okei, ensimmäiset kysymykset olivat yksinkertaisia. 
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 privacy-faq-v2-mozilla-does-collect = { -brand-name-mozilla } kerää { -brand-name-firefox }ista oletuksena rajoitetun määrän tietoja, jotka auttavat meitä ymmärtämään, miten ihmiset käyttävät selainta. Voit lukea tästä lisää <a { $privacy }>tietosuojaselosteestamme</a> ja lukea <a { $data }>täydellisen dokumentaation kyseisestä tiedonkeruusta</a>. Julkaisemme myös dokumentaatiomme, jotta kuka tahansa voi varmistaa väitteidemme paikkansapitävyyden, kertoa meille, jos meidän on parannettava toimintaamme, ja luottaa siihen, ettemme salaa mitään.
-privacy-faq-v2-do-you-collect = Keräättekö enemmän tietoa { -brand-name-firefox }in esijulkaisuversioista?
+privacy-faq-v2-do-you-collect = Keräättekö enemmän tietoa { -brand-name-firefox }in esijulkaisuversioissa?
 privacy-faq-v2-sort-of = Tavallaan. Yllä kuvattujen tietojen lisäksi vastaanotamme oletuksena kaatumis- ja virheraportteja { -brand-name-firefox }in esijulkaisuversioista.
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/shield
@@ -56,7 +56,7 @@ privacy-faq-v2-we-are-big-believers = Uskomme vahvasti tietojen minimointiin emm
 #   $attrs (url) - link to https://www.mozilla.org/account/
 privacy-faq-v2-you-dont-need-an-account = Et tarvitse tiliä käyttääksesi { -brand-name-firefox }ia. <a { $attrs }>Tili</a> tarvitaan tietojen synkronointiin laitteiden välillä, mutta pyydämme sinulta vain sähköpostiosoitteen ja ikäsi (vain varmistaaksemme, ettet ole lapsi).
 privacy-faq-v2-you-use-digital = Käytätte digitaalista mainontaa osana markkinointianne. Taidatte ostaa ihmisten tietoja kohdentaaksenne verkkomainontaanne, eikö vain?
-privacy-faq-v2-no-we-do-not-buy = Ei, emme osta ihmisten tietoja mainonnan kohdentamiseen.
+privacy-faq-v2-no-we-do-not-buy = Ei, emme osta tietoa ihmisistä mainonnan kohdentamiseksi.
 privacy-faq-v2-we-do-not-ask = Pyydämme mainontakumppaneitamme käyttämään vain suoraan käyttäjältä saatuja tietoja, jotka verkkosivustot ja julkaisijat tietävät kaikista käyttäjistä, kuten käyttämäsi selaimen ja laitteen.
 privacy-faq-v2-well-it-seems = Vaikuttaa siltä, että olette todella puolellani yksityisyysasioissa.
 privacy-faq-v2-yes-we-do = Kyllä, niin olemme.
