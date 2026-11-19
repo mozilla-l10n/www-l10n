@@ -74,22 +74,22 @@ manifesto-commitment-4 = Sitoumus 4
 manifesto-if-you-share-this-goal-v2 = Jos jaat tämän tavoitteen, kerro meille, kuinka voimme auttaa.
 # Variables:
 #   $github_link (url) - link to https://github.com/mozilla
-manifesto-we-create-open = Luomme <{ $github_link }>avoimen lähdekoodin ohjelmistoja</a>, joiden pohjalta voit rakentaa.
+manifesto-we-create-open = Luomme <a { $github_link }>avoimen lähdekoodin ohjelmistoja</a>, joiden pohjalta voit rakentaa.
 # Variables:
 #   $mofo_link (url) - link to https://www.mozillafoundation.org/
 manifesto-we-fund-fellows = <a { $mofo_link }>Rahoitamme stipendiaatteja ja hautomme projekteja</a>, joiden tavoitteena on luoda parempi tulevaisuus verkossa.
 # Variables:
 #   $mozai_link (url) - link to https://www.mozilla.ai
-manifesto-we-build-open-source = Kehitämme avoimen lähdekoodin tekoälytyökaluja, jotka antavat kehittäjille valinnanvaraa – ja auttavat heitä säästämään rahaa.
+manifesto-we-build-open-source = <a { $mozai_link }>Kehitämme avoimen lähdekoodin tekoälytyökaluja</a>, jotka antavat kehittäjille valinnanvaraa – ja auttavat heitä säästämään rahaa.
 # Variables:
 #   $mozvc_link (url) - link to https://mozilla.vc
 manifesto-we-invest-in = <a { $mozvc_link }>Sijoitamme vastuullisiin teknologiayrityksiin</a>.
 # Variables:
 #   $mdc_link (url) - link to https://mozilladatacollective.com/
-manifesto-we-run-a-global = Ylläpidämme globaalia yhteisöä</a> reilun tiedonvaihdon puolesta.
+manifesto-we-run-a-global = <a { $mdc_link }>Ylläpidämme globaalia yhteisöä</a> reilun tiedonvaihdon puolesta.
 # Variables:
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
-manifesto-we-host-a-yearly = Järjestämme vuosittain maailmanlaajuisen kokoontumisen</a> ihmisille, jotka tekevät mitä tahansa Manifestin edistämiseksi.
+manifesto-we-host-a-yearly = <a { $festival_link }>Järjestämme vuosittain maailmanlaajuisen kokoontumisen</a> ihmisille, jotka tekevät mitä tahansa Manifestin edistämiseksi.
 
 ## Obsolete strings (expire 2026-09-10)
 
