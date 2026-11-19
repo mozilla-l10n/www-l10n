@@ -16,7 +16,7 @@ privacy-faq-at-mozilla-we-respect-and-protect = Me { -brand-name-mozilla }lla ku
 privacy-faq-we-follow-a-set-of-data-privacy = Me noudatamme <a href="{ $link }">yksityisyysperiaatteita</a>, jotka määrittelevät suhtautumisemme yksityisyyteen sekä { -brand-name-firefox }in työpöytäversiossa, että mobiiliselaimissa.
 privacy-faq-we-only-collect-the-data-we = Keräämme vain tietoja, jotka auttavat meitä tekemään parhaita tuotteita.
 privacy-faq-we-put-people-in-control-of = Annamme ihmisille välineet heidän omien tietojen ja verkkokokemusten hallintaan.
-privacy-faq-we-adhere-to-no-surprises-principle-v2 = Noudatamme "ei yllätyksiä" -periaatetta, eli teemme kovasti töitä varmistaaksemme, että ihmisten käsitys { -brand-name-firefox }ista vastaa todellisuutta.
+privacy-faq-we-adhere-to-no-surprises-principle-v2 = Noudatamme "ei yllätyksiä"-periaatetta, eli teemme kovasti töitä varmistaaksemme, että ihmisten käsitys { -brand-name-firefox }ista vastaa todellisuutta.
 privacy-faq-the-following-questions-and = Seuraavien kysymysten ja vastausten pitäisi auttaa ymmärtämään, mitä { -brand-name-mozilla }lta ja { -brand-name-firefox } on odotettavissa:
 privacy-faq-i-use-firefox-for-almost-everything = Käytän { -brand-name-firefox }ia melkein kaikkeen verkossa. Te { -brand-name-mozilla }lla taidatte tietää minusta paljon, eikö vain?
 privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, laitteellasi tai tietokoneellasi toimiva verkkoselain, on porttisi internetiin. Selaimesi hallinnoi paljon tietoja vierailemistasi verkkosivustoista, mutta nämä tiedot pysyvät yleensä laitteellasi. { -brand-name-firefox }ia kehittävä yritys { -brand-name-mozilla } ei kerää näitä tietoja (ellet pyydä meitä tekemään niin).
