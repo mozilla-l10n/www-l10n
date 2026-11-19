@@ -18,7 +18,7 @@ firefox-products-mozillas-family-of-products-sentence = { -brand-name-mozilla }n
 firefox-products-tabs-everyone = Kaikille
 firefox-products-tabs-business = Yrityksille
 # Accessible name for the tab list grouping the sections above, read by screen readers.
-firefox-products-tabs-aria-label = Tuotekategoriat
+firefox-products-tabs-aria-label = Tuoteryhmät
 
 ## Firefox
 
@@ -66,22 +66,22 @@ firefox-products-download-thunderbird = Lataa { -brand-name-thunderbird }
 firefox-products-0din = { -brand-name-0din }
 firefox-products-0din-desc = Yhdistä tekoälyjärjestelmäsi globaaliin tietoturva-asiantuntijoiden yhteisöön, joka paljastaa ja auttaa korjaamaan GenAI:n haavoittuvuudet varhaisessa vaiheessa.
 firefox-products-0din-desc-v2 = Löydä ja korjaa tekoälyn haavoittuvuudet ennen kuin ne pääsevät tuotantoon. Tukena on maailmanlaajuinen tietoturvatutkijoiden yhteisö ja suurin saatavilla oleva osoitettujen hyökkäysten määrä.
-firefox-products-test-your-ai = Testaa tekoälyagenttejasi
-firefox-products-learn-more-about-0din = Lisätietoja kohteesta { -brand-name-0din }
+firefox-products-test-your-ai = Testaa tekoälyagentteja
+firefox-products-learn-more-about-0din = Lisätietoja { -brand-name-0din }ista
 
 ## Tabstack
 
 firefox-products-tabstack = { -brand-name-tabstack }
 firefox-products-tabstack-desc = Yhdistä sovelluksesi verkkoon luotettavan automaation avulla ja muunna live-verkkosivut selkeiksi ja jäsennellyiksi tuloksiksi.
 firefox-products-start-automating-the-web = Automatisoi verkko
-firefox-products-learn-more-about-tabstack = Lisätietoja kohteesta { -brand-name-tabstack }
+firefox-products-learn-more-about-tabstack = Lisätietoja { -brand-name-tabstack }ista
 
 ## Otari
 
 firefox-products-otari = { -brand-name-otari }
 firefox-products-otari-desc = { -brand-name-otari } poistaa useiden tekoälypalveluntarjoajien hallinnan monimutkaisuuden yhdistämällä reitityksen, tietoturvan, budjetoinnin, vikasietoisuuden ja auditoinnin yhden API-päätepisteen taakse.
 firefox-products-own-your-ai-stack = Hallitse tekoälypinoasi
-firefox-products-learn-more-about-otari = Lisätietoja kohteesta { -brand-name-otari }
+firefox-products-learn-more-about-otari = Lisätietoja { -brand-name-otari }sta
 
 ## Mozilla Ads
 
