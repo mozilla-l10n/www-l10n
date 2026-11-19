@@ -28,6 +28,10 @@ home-join-us-in-shaping = Liity kanssamme luomaan luotettavaa tekoälyä
 home-work-on-ai = { -brand-name-mozilla }:n työ tekoälyn parissa ei ole vain uusi asia – olemme vuosia rahoittaneet, rakentaneet ja puolustaneet avointa, oikeudenmukaista ja vastuullisesti kehitettyä tekoälyä. Keskitymme luomaan tekoälyä, joka palvelee ihmisiä, asettaa etusijalle läpinäkyvyyden ja tukee yleistä etua, ei yritysten tavoitteita.
 home-read-more = Lue lisää
 home-so-what-is-mozilla = Mikä { -brand-name-mozilla } on?
+# Variables
+#   $ventures - link to https://mozilla.vc/
+#   $mozai - link to https://mozilla.ai/
+home-at-its-core-v2 = Pohjimmiltaan { -brand-name-mozilla } on { -brand-name-mozilla-foundation }in johtama aktivistijärjestö, joka saa aikaan muutosta maailmassa useiden eri toimijoiden kautta, joihin kuuluvat { -brand-name-mozilla-corporation }, MZLA, <a { $ventures }>{ -brand-name-mozilla-ventures }</a> ja <a { $mozai }>{ -brand-name-mozilla-ai-v2 }</a>. Miten olemme erilaisia? Koska toimintaamme ohjaa missio, meillä on vapaus tehdä kaikki päätöksemme sen perusteella, mikä on parasta Internetille ja kaikille verkossa oleville, eikä osakkeenomistajien vaatimusten perusteella – meillä ei nimittäin ole yhtään osakkeenomistajaa.
 home-learn-about-mofo = Lue lisää { -brand-name-mozilla-foundation }ista
 home-join-the-fight = Liity taisteluun terveen internetin puolesta
 home-your-voice-your-code = Äänesi. Koodisi. Ideasi. Voit osallistua { -brand-name-mozilla }an kirjaimellisesti tuhansilla eri tavoilla.

@@ -90,6 +90,10 @@ manifesto-we-run-a-global = <a { $mdc_link }>Ylläpidämme globaalia yhteisöä<
 # Variables:
 #   $festival_link (url) - link to https://www.mozillafoundation.org/festival/
 manifesto-we-host-a-yearly = <a { $festival_link }>Järjestämme vuosittain maailmanlaajuisen kokoontumisen</a> ihmisille, jotka tekevät mitä tahansa Manifestin edistämiseksi.
+# Variables:
+#   $firefox_link (url) - link to https://www.firefox.com/
+#   $thunderbird_link (url) - link to https://www.thunderbird.net/
+manifesto-we-make-firefox-and-thunderbird = Ja tietenkin kehitämme <a { $firefox_link }>{ -brand-name-firefox }</a>ia ja <a { $thunderbird_link }>{ -brand-name-thunderbird }</a>ia. Kaiken tämän tavoitteena on auttaa ihmisiä tekemään Internetistä terve paikka.
 
 ## Obsolete strings (expire 2026-09-10)
 

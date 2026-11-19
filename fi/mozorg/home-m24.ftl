@@ -100,6 +100,7 @@ m24-home-topic-ps = Tietosuoja ja turvallisuus
 m24-home-headline-you-ai-v2 = Sinä, tekoäly ja Internet – mitä oikein on meneillään?
 m24-home-mozilla-welcomes-raffi = { -brand-name-mozilla } toivottaa Raffi Krikorianin tervetulleeksi teknologiajohtajaksi
 m24-home-tech-target = Tech Target
+m24-home-mozilla-ai-ceo = { -brand-name-mozilla-ai-v2 }:n toimitusjohtaja kertoo avoimen lähdekoodin tekoälyn eduista
 m24-home-introducing-thundermail-and-v2 = Esittelyssä { -brand-name-thundermail } ja { -brand-name-thunderbird-pro }
 m24-home-what-comes-next = Teknologian seuraava askel on valinta. Valitse meidän kanssamme.
 m24-home-a-good-moment = ”Hyvä hetki meille”: { -brand-name-firefox } keskittyy tekoälyselaimiin ja verkon tulevaisuuteen

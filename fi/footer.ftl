@@ -14,6 +14,7 @@ footer-beta = { -brand-name-beta }
 footer-nightly = { -brand-name-nightly }
 footer-nightly-for-android = { -brand-name-nightly } { -brand-name-android }ille
 footer-beta-for-android = { -brand-name-beta } { -brand-name-android }ille
+footer-donate-not-for-profit = Lahjoita voittoa tavoittelemattomalle <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> -säätiölle.
 footer-portions-of-this-content = Osa tästä sisällöstä on tekijänoikeudella suojattu © 1998–{ $current_year } yksittäisten mozilla.org-avustajien toimesta. Sisältö on <a rel="license" href="{ $url }">{ -brand-name-creative-commons } -lisenssin</a> alaista.
 footer-mozilla = { -brand-name-mozilla }
 footer-company = Yritys

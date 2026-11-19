@@ -29,6 +29,7 @@ footer-refresh-developer-edition = { -brand-name-developer-edition }
 footer-refresh-enterprise = { -brand-name-enterprise }
 footer-refresh-tools = Työkalut
 footer-refresh-donate = Lahjoita
+footer-refresh-donate-not-for-profit = Lahjoita voittoa tavoittelemattomalle <a { $mofo_link }>{ -brand-name-mozilla-foundation }</a> -säätiölle.
 footer-refresh-portions-of-this-content = Osa tästä sisällöstä on tekijänoikeudella suojattu © 1998–{ $current_year } yksittäisten mozilla.org-avustajien toimesta. Sisältö on <a rel="license" { $href }>{ -brand-name-creative-commons } -lisenssin</a> alaista.
 footer-refresh-websites-privacy-notice = Sivuston tietosuojakäytäntö
 footer-refresh-websites-cookies = Evästeet

@@ -71,3 +71,6 @@ vpn-features-reviewed-by-third = Kolmannen osapuolen tietoturva-asiantuntijoiden
 #   $report (url) - link to https://blog.mozilla.org/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53
 vpn-features-weve-been-audited = Cure53, johtava kyberturvallisuuden auditointiyritys, on auditoinut meidät. <a { $report }>Katso raportti täältä</a>
 vpn-features-people-over-profits = Ihmiset yli voittojen
+# Variables
+#   $mofo (url) - link to https://www.mozillafoundation.org/
+vpn-features-were-backed-by-mofo-v2 = Meitä tukee voittoa tavoittelematon <a { $mofo }>{ -brand-name-mozilla-foundation }</a> -säätiö, joka taistelee sen puolesta, että verkko pysyy avoimena ja terveenä kaikille ihmisille.
