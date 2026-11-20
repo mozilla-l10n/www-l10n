@@ -4,7 +4,7 @@
 
 footer-mozilla-manifesto = { -brand-name-mozilla }-Manifest
 footer-privacy-hub = Datenschutzübersicht
-footer-privacy = Datenschutz
+footer-privacy = Privatsphäre
 footer-press = Presse
 
 footer-mozilla-blog = Der { -brand-name-mozilla } Blog
