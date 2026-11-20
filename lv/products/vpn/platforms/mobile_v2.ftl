@@ -12,6 +12,6 @@ vpn-mobile-in-todays = Mūsdienu mobilo ierīču pasaulē mēs paļaujamies uz s
 vpn-mobile-why-do-i = Kāpēc man ir nepieciešams VPN mobilajām ierīcēm?
 vpn-mobile-the-mozilla-vpn = { -brand-name-mozilla-vpn } mobilā lietotne ir maza, tāpēc tā neaizņem pārāk daudz atmiņas, nepalēninās tālruņa darbību un neiztērēs akumulatoru.
 vpn-mobile-your-internet-v2 = Jūsu interneta pakalpojumu sniedzējs (ISP) var ierobežot jūsu joslas platumu, ja zina, ka jūs skatāties filmas, klausāties mūziku vai straumējat saturu.
-vpn-mobile-your-isp-v2 = Jūsu interneta pakalpojumu sniedzējs var bloķēt tīmekļa vietnes vai pakalpojumus, kas tam nepatīk vai kas konkurē ar viņu pašu.
+vpn-mobile-your-isp-v2 = Interneta pakalpojumu sniedzējs var liegt tīmekļvietnes vai pakalpojumus, kas tam nepatīk vai kas sacenšas ar viņu pašu pakalpojumiem.
 vpn-mobile-hackers-can-steal-v2 = Hakeri var nozagt jūsu personas datus, kad izmantojat publisku Wi-Fi tīklu, piemēram, kafejnīcās vai lidostās.
 vpn-mobile-a-vpn-works = VPN darbojas visā ierīcē, ne tikai pārlūkā, bet arī mobilajās lietotnēs. Atšķirībā no bezmaksas VPN vai starpniekservera vietnēm, kas var maksāt par saviem serveriem ar lietotāju izspiegošanu un to informācijas pārdošanu, { -brand-name-mozilla } neuzglabā ierakstus par to, kurp dodies un ko dari.
