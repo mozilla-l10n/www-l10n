@@ -32,7 +32,7 @@ privacy-index-to-review-and-comment-on-proposed = Lai pārskatītu un komentētu
 #   $blog (url) - link to https://blog.mozilla.org/privacy/
 privacy-index-read-more-about-our-ongoing = Uzziniet vairāk par mūsu notiekošo darbu privātuma un drošības publiskās politikas jomā <a href="{ $blog }">{ -brand-name-mozilla } atvērtās politikas un aizstāvības emuārā</a>.
 privacy-index-outdated-policies = Novecojušas nostājas
-privacy-index-mozilla-websites-communications = { -brand-name-mozilla } Tīmekļa vietnes, saziņa un sīkfaili
+privacy-index-mozilla-websites-communications = { -brand-name-mozilla } tīmekļvietnes, saziņa un sīkdatnes
 privacy-index-firefox-browser = { -brand-name-firefox-browser }
 privacy-index-firefox-focus = { -brand-name-firefox-focus }
 privacy-index-thunderbird = { -brand-name-thunderbird }
