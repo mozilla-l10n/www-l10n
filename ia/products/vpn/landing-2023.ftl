@@ -41,7 +41,7 @@ vpn-landing-more-than-servers-in-countries =
     }
 vpn-landing-fast-network-speeds-even-while = Alte velocitates de rete mesmo jocante
 vpn-landing-no-logging-tracking-or-sharing = Nulle registration, traciamento o compartimento de datos de rete
-vpn-landing-no-bandwidth-restrictions-or = Nulle limitationes de largessa de banda o de regulation
+vpn-landing-no-bandwidth-restrictions-or = Nulle limitationes de banda passante o de regulation
 vpn-landing-extra-security-whole-device = Major securitate: protection del integre apparato, incamminamento multi-salto e altero
 vpn-landing-built-transparently = Producite transparentemente in open-source
 vpn-landing-easy-firefox-integration = Facile integration de { -brand-name-firefox } con le extension de { -brand-name-mozilla-vpn } (solo Windows)

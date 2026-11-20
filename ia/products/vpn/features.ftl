@@ -27,7 +27,7 @@ vpn-features-connect-up-to =
        *[other] Connecte te a maximo { $devices } apparatos
     }
 vpn-features-supported-platforms = Supportate sur le systemas operative Windows, macOS, Android, iOS e Linux.
-vpn-features-no-bandwidth = Nulle limitationes de largessa de banda o de regulation
+vpn-features-no-bandwidth = Nulle limitationes de banda passante o de regulation
 vpn-features-including-no-data = Includite nulle  limite de datos o de velocitate.
 vpn-features-fast-network = Alte velocitates de rete mesmo jocante
 # Variables
