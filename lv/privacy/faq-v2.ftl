@@ -16,7 +16,7 @@ privacy-faq-v2-at-mozilla = Uzņēmumā { -brand-name-mozilla } mēs cienām un 
 #   $attrs (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-v2-we-follow = Mēs ievērojam <a { $attrs }>datu privātuma principu</a> kopumu, kas veido mūsu pieeju privātumam { -brand-name-firefox } datoru un mobilo ierīču pārlūkprogrammās.
 privacy-faq-v2-we-strive-collect-data = Mēs cenšamies apkopot tikai tos datus, kas nepieciešami, lai radītu labākos produktus.
-privacy-faq-v2-we-work-to = Mēs strādājam, lai cilvēki varētu kontrolēt savus datus un tiešsaistes pieredzi.
+privacy-faq-v2-we-work-to = Mēs strādājam, lai cilvēki varētu pārvaldīt savus datus un tiešsaistes pieredzi.
 privacy-faq-v2-we-adhere = Mēs ievērojam principu “bez pārsteigumiem”, kas nozīmē, ka mēs cītīgi strādājam, lai nodrošinātu, ka cilvēku izpratne par { -brand-name-firefox } atbilst realitātei.
 privacy-faq-v2-following-questions = Šie jautājumi un atbildes palīdzēs jums saprast, ko sagaidīt no { -brand-name-mozilla } un { -brand-name-firefox }:
 
@@ -49,7 +49,7 @@ privacy-faq-v2-data-collection-bugs-me = Datu vākšana mani joprojām kaitina. 
 # Variables:
 #   $privacy (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 #   $data (url) - link to https://support.mozilla.org/kb/technical-and-interaction-data
-privacy-faq-v2-yes-user-control = Jā. Lietotāju kontrole ir viens no mūsu datu privātuma principiem. Mēs to ieviešam praksē { -brand-name-firefox } mūsu <a { $privacy }>privātuma iestatījumu lapā</a>, kas kalpo kā universāls resurss ikvienam, kurš vēlas kontrolēt savu privātumu { -brand-name-firefox }. Tur varat <a { $data }>izslēgt datu vākšanu</a>.
+privacy-faq-v2-yes-user-control = Jā. Pārvaldība lietotāju rokās ir viens no mūsu datu privātuma uzstādījumiem. Mēs to ieviešam darbībā { -brand-name-firefox } mūsu <a { $privacy }>>privātuma iestatījumu lapā</a>, kas kalpo kā daudzpusējs avots ikvienam, kurš vēlas pārvaldīt savu privātumu { -brand-name-firefox }. Tur var <a { $data }>izslēgt datu ievākšanu</a>.
 privacy-faq-v2-what-about-my-account = Kā ar mana konta datiem?
 privacy-faq-v2-we-are-big-believers = Mēs ticam datu minimizēšanas nepieciešamībai un tam, ka nelūdzam lietas, kas mums nav vajadzīgas.
 # Variables:

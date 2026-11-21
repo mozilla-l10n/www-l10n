@@ -15,7 +15,7 @@ privacy-faq-at-mozilla-we-respect-and-protect = Uzņēmumā { -brand-name-mozill
 #   $link (url) - link to https://www.mozilla.org/privacy/principles/
 privacy-faq-we-follow-a-set-of-data-privacy = Mēs ievērojam <a href="{ $link }">datu privātuma principu</a> kopumu, kas veido mūsu pieeju privātumam { -brand-name-firefox } galddatoru un mobilo ierīču pārlūkā
 privacy-faq-we-only-collect-the-data-we = Mēs apkopojam tikai tos datus, kas nepieciešami, lai izveidotu vislabākos produktus.
-privacy-faq-we-put-people-in-control-of = Mēs ļaujam cilvēkiem kontrolēt savus datus un tiešsaistes pieredzi.
+privacy-faq-we-put-people-in-control-of = Mēs ļaujam cilvēkiem pārvaldīt savus datus un tiešsaistes pieredzi.
 privacy-faq-we-adhere-to-no-surprises-principle-v2 = Mēs ievērojam principu “bez pārsteigumiem”, kas nozīmē, ka mēs cītīgi strādājam, lai nodrošinātu, ka cilvēku izpratne par { -brand-name-firefox } atbilst realitātei.
 privacy-faq-the-following-questions-and = Šie jautājumi un atbildes palīdzēs jums saprast, ko sagaidīt no { -brand-name-mozilla } un { -brand-name-firefox }:
 privacy-faq-i-use-firefox-for-almost-everything = Es izmantoju { -brand-name-firefox } gandrīz visam tīmeklī. Jūs, { -brand-name-mozilla } lietotāji, noteikti zināt par mani ļoti daudz, vai ne?
@@ -52,7 +52,7 @@ privacy-faq-data-collection-still-bugs-me = Datu vākšana mani joprojām kaitin
 # Variables:
 #   $settings (url) - link to https://support.mozilla.org/kb/firefox-options-preferences-and-settings
 #   $data (url) - link to https://support.mozilla.org/kb/share-telemetry-data-mozilla-help-improve-firefox#w_how-do-i-opt-in-or-opt-out-of-sending-performance-data
-privacy-faq-yes-user-control-is-one-of-our = Jā. Lietotāju kontrole ir viens no mūsu datu privātuma principiem. Mēs to ieviešam praksē { -brand-name-firefox } mūsu <a href="{ $settings }">privātuma iestatījumu lapā</a>, kas kalpo kā universāls resurss ikvienam, kurš vēlas kontrolēt savu privātumu { -brand-name-firefox }. Tur varat <a href="{ $data }">izslēgt datu vākšanu</a>.
+privacy-faq-yes-user-control-is-one-of-our = Jā. Pārvaldība lietotāju rokās ir viens no mūsu datu privātuma uzstādījumiem. Mēs to ieviešam darbībā { -brand-name-firefox } mūsu <a href="{ $settings }">privātuma iestatījumu lapā</a>, kas kalpo kā daudzpusējs avots ikvienam, kurš vēlas pārvaldīt savu privātumu { -brand-name-firefox }. Tur var <a href="{ $data }">izslēgt datu ievākšanu</a>.
 privacy-faq-what-about-my-account-data = Kā ar mana konta datiem?
 privacy-faq-we-are-big-believers-of-data = Mēs ticam datu minimizēšanas nepieciešamībai un tam, ka nelūdzam lietas, kas mums nav vajadzīgas.
 # Variables:
