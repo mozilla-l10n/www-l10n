@@ -36,7 +36,7 @@ firefox-new-your-system-may-not = Sistēma var neatbilst { -brand-name-firefox }
 firefox-new-windows = { -brand-name-windows }
 # Variables:
 #   $attrs (attrs) - link to https://support.mozilla.org/kb/windows-10-warns-me-use-microsoft-verified-app
-firefox-new-if-you-see-a-prompt = Ja redzat uzvedni, kurā norādīts, ka lietotne, kuru mēģināt instalēt, nav { -brand-name-microsoft } verificēta lietotne, noklikšķiniet uz “Instalēt jebkurā gadījumā” vai <a { $attrs }>mainiet lietotņu ieteikumu iestatījumus</a>.
+firefox-new-if-you-see-a-prompt = Ja redzi uzvedni, kurā norādīts, ka lietotne, kuru mēģini uzstādīt, nav { -brand-name-microsoft } apliecināta, jāklikšķina uz “Vienalga uzstādīt” vai <a { $attrs }> jāmaina lietotņu ieteikumu iestatījumi</a>.
 firefox-new-visit-support-for-more = Apmeklē atbalstu, lai iegūtu vairāk informācijas
 
 ## URL: https://www-dev.allizom.org/firefox/new/?xv=basic
