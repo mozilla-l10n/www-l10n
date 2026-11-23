@@ -146,7 +146,7 @@ m24-home-read-now = Lasīt tūlīt
 ## Issues
 
 m24-home-explore-issues-shaping = Izpētiet jautājumus, kas veido interneta nākotni
-m24-home-the-validation-machines = Validācijas mašīnas
+m24-home-the-validation-machines = Apstiprināšanas mašīnas
 m24-home-in-the-atlantic = Žurnālā The Atlantic { -brand-name-mozilla } tehnoloģiju direktors Rafi Krikorians jautā, kāpēc tērzēšanas roboti un ģeneratīvais mākslīgais intelekts tik ļoti cenšas mūs iepriecināt un ko tas nozīmē cilvēcei. (attēla autortiesības pieder The Atlantic)
 # Used as an accessible text alternative for an image
 m24-home-alt-validation = Miniatūra persona, kas skatās uz lielu tastatūras taustiņu un hipnotizējošu datora ekrānu.
