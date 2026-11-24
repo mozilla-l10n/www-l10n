@@ -23,7 +23,7 @@ privacy-faq-firefox-the-web-browser-that-v2 = { -brand-name-firefox }, laitteell
 privacy-faq-really-you-dont-collect-my-browsing = Ettekö todella kerää selaushistoriaani?
 privacy-faq-mozilla-doesnt-know-as-much-v2 = { -brand-name-mozilla } ei tiedä niin paljon kuin voisit olettaa, kuinka ihmiset selaavat verkkoa. Selainvalmistajana se on itse asiassa meille suuri haaste. Siksi olemme rakentaneet valinnaisia työkaluja, joiden avulla kiinnostuneet käyttäjät voivat halutessaan antaa meille tietoa heidän selauksestaan. Jos synkronoit selaushistoriasi { -brand-name-firefox }-asennusten välillä, emme tiedä historian sisältöä, koska laitteesi on salannut sen.
 privacy-faq-it-seems-like-every-company = Vaikuttaa siltä, että kaikki verkossa toimivat yritykset myyvät ja ostavat käyttäjiin liittyviä tietoja. Ette taida erota muista yrityksistä.
-privacy-faq-we-never-sell-your = Emme koskaan myy henkilötietojasi. Toisin kuin muut suuret teknologiayritykset, jotka keräävät henkilötietojasi ja hyötyvät niistä, meillä yksityisyys on oletus. Emme tiedä ikääsi, sukupuoltasi, tarkkaa sijaintiasi tai muita tietoja, joita suuret teknologiayritykset keräävät ja joista ne hyötyvät.
+privacy-faq-we-never-sell-your = Emme koskaan myy henkilötietojasi. Toisin kuin muut suuret teknologiayritykset, jotka keräävät henkilötietojasi ja hyötyvät niistä, meillä yksityisyys on oletus. Emme tiedä ikääsi, sukupuoltasi, tarkkaa sijaintiasi tai muita tietoja, joita suuret teknologiayritykset keräävät ja hyödyntävät.
 privacy-faq-wait-so-how-do-you-make-money = Hetkinen, miten oikein tienaatte?
 # Variables:
 #   $link (url) - link to https://www.mozilla.org/foundation/annualreport/

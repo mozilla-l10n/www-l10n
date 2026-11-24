@@ -12,14 +12,14 @@ m24-about-page-desc = { -brand-name-mozilla } tuottaa selaimia, sovelluksia, koo
 
 ## Intro
 
-m24-about-guard-the-internet = Suojele avointa internetiä
+m24-about-guard-the-internet = Suojele avointa Internetiä
 # Obsolete string (expires 2026-09-11)
-m24-about-reclaim-the-internet = Valloita internet takaisin kanssamme
-m24-about-mozilla-is-working = { -brand-name-mozilla } pyrkii palauttamaan internetin hallinnan sitä käyttävien ihmisten käsiin.
+m24-about-reclaim-the-internet = Ota Internet takaisin haltuun kanssamme
+m24-about-mozilla-is-working = { -brand-name-mozilla } pyrkii palauttamaan Internetin hallinnan sitä käyttävien ihmisten käsiin.
 
 ## Manifesto
 
-m24-about-together-we-can = Yhdessä voimme pitää internetin helpona, turvallisena ja ilmaisena – kaikille.
+m24-about-together-we-can = Yhdessä voimme pitää Internetin helpona, turvallisena ja ilmaisena – kaikille.
 m24-about-read-our-manifesto = Lue manifestimme
 # Used as an accessible text alternative for an image
 m24-about-a-group-of = Ryhmä ajattelijoita istuu piirissä lattialla ja jakaa ajatuksiaan.
