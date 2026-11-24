@@ -13,6 +13,13 @@ firefox-products-products = Proizvodi
 firefox-products-firefox-beginning-v2 = { -brand-name-firefox } je samo početak.
 firefox-products-mozillas-family-of-products-sentence = Svi { -brand-name-mozilla } proizvodi su dizajnirani za sigurnije i pametnije pregledavanje interneta
 
+## Section headings
+
+firefox-products-tabs-everyone = Za svakoga
+firefox-products-tabs-business = Za tvrtke
+# Accessible name for the tab list grouping the sections above, read by screen readers.
+firefox-products-tabs-aria-label = Kategorije proizvoda
+
 ## Firefox
 
 firefox-products-firefox = { -brand-name-firefox }
@@ -22,6 +29,7 @@ firefox-products-get-the-browser-that-blocks = Preuzmi preglednik koji blokira v
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
 firefox-products-your-dedicated-privacy = Tvoj preglednik za privatnosti s automatskom zaštitom od praćenja i blokiranjem oglasa.
+firefox-products-get-focus = Nabavi { -brand-name-firefox-focus }
 
 ## Monitor
 
@@ -52,3 +60,29 @@ firefox-products-support-mdn = Podrži { -brand-name-mdn }
 firefox-products-thunderbird = { -brand-name-thunderbird }
 firefox-products-access-all = Pristupi svoj svojoj e-pošti, kalendarima i kontaktima u jednoj brzoj aplikaciji. Filtriraj i organiziraj ih kako želiš.
 firefox-products-download-thunderbird = Preuzmi { -brand-name-thunderbird }
+
+## 0DIN
+
+firefox-products-0din = { -brand-name-0din }
+firefox-products-learn-more-about-0din = Saznaj više o { -brand-name-0din }
+
+## Tabstack
+
+firefox-products-tabstack = { -brand-name-tabstack }
+firefox-products-start-automating-the-web = Automatiziraj web
+firefox-products-learn-more-about-tabstack = Saznaj više o { -brand-name-tabstack }
+
+## Otari
+
+firefox-products-otari = { -brand-name-otari }
+firefox-products-learn-more-about-otari = Saznaj više o { -brand-name-otari }
+
+## Mozilla Ads
+
+firefox-products-mozilla-ads = { -brand-name-mozilla-ads }
+firefox-products-learn-more-about-mozilla-ads = Saznaj više o { -brand-name-mozilla-ads }
+
+## Firefox for Enterprise
+
+firefox-products-firefox-enterprise = { -brand-name-firefox-enterprise }
+firefox-products-learn-more-about-firefox-enterprise = Saznaj više o { -brand-name-firefox-enterprise }

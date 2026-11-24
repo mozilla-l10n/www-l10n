@@ -35,6 +35,8 @@ m24-home-mozilla-monitor = { -brand-name-mozilla-monitor }
 m24-home-get-a-headsup = Dobij upozorenja ako su tvoji osobni podaci u opasnosti i zaključaj ih kao profesionalac.
 m24-home-firefox-relay = { -brand-name-firefox-relay }
 m24-home-mask-your-email = Maskiraj svoju e-mail adresu i broj telefona kako bi dobio/la samo poruke koje želiš.
+m24-home-0din = { -brand-name-0din }
+m24-home-tabstack = { -brand-name-tabstack }
 
 ## Donate
 
@@ -62,17 +64,21 @@ m24-home-watch-now = Pogledaj video
 m24-home-alt-ventures = Govornik na pozornici s raznim logotipima proizvoda u pozadini.
 m24-home-mozilla-ventures = { -brand-name-mozilla-ventures }
 m24-home-got-an-earlystage = Imaš startup tvrtku u ranoj fazi? Predstavi svoju tvrtku fondaciji { -brand-name-mozilla-ventures } i osiguraj financiranje za poticanje pozitivnih promjena za budućnost umjetne inteligencije i interneta.
+m24-home-join-today = Pridruži se danas
 
 ## Media Springboard
 
 m24-home-type = Vrsta
+m24-home-author-v2 = Autori
 m24-home-topic = Tema
 m24-home-intro = Uvod
 m24-home-tag-article = Članak
 m24-home-tag-podcast = Podcast
 m24-home-tag-video = Video
 m24-home-topic-news = Vijesti
+m24-home-topic-products = Proizvodi
 m24-home-topic-ai = Umjetna inteligencija
+m24-home-topic-open-source-ai = Umjetna inteligencija otvorenog koda
 m24-home-topic-ps = Privatnost i sigurnost
 m24-home-headline-you-ai-v2 = Ti, umjetna inteligencija i internet – što se zapravo događa?
 

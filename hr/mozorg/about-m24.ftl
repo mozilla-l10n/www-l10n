@@ -5,6 +5,8 @@
 
 ### URL: https://www-dev.allizom.org/about/
 
+# HTML Page title
+m24-about-page-title = Saznaj više o { -brand-name-mozilla }
 
 ## Intro
 
