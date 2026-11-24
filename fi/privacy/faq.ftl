@@ -33,7 +33,7 @@ privacy-faq-okay-those-first-few-were-softballs = Okei, ensimmäiset kysymykset 
 # Variables:
 #   $data (url) - link to https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/
 #   $privacy (url) - link to https://www.mozilla.org/privacy/firefox/
-privacy-faq-mozilla-does-collect-a-limited-v2 = { -brand-name-mozilla } kerää { -brand-name-firefox }ista oletuksena rajoitetun määrän tietoja, jotka auttavat meitä ymmärtämään, miten ihmiset käyttävät selainta. Voit lukea tästä lisää <a href="{ $privacy }">tietosuojaselosteestamme</a> ja lukea <a href="{ $data }">täydellisen dokumentaation kyseisestä tiedonkeruusta</a>.
+privacy-faq-mozilla-does-collect-a-limited-v2 = { -brand-name-mozilla } kerää { -brand-name-firefox }ista oletuksena rajoitetun määrän tietoja, jotka auttavat meitä ymmärtämään, miten ihmiset käyttävät selainta. Voit lukea tästä lisää <a href="{ $privacy }">tietosuojakäytännöstämme</a> ja lukea <a href="{ $data }">kattavan dokumentaation kyseisestä tiedonkeruusta</a>.
 privacy-faq-we-make-our-documentation-public = Julkaisemme dokumentaatiomme, jotta kuka tahansa voi varmistaa, että sanomamme on totta, kertoa meille, jos meidän on parannettava, ja luottaa siihen, että emme salaa mitään.
 # "gobbledygook" is a fun way to say meaningless nonsense or gibberish.
 privacy-faq-that-documentation-is-gobbledygook = Dokumentaatio on siansaksaa minulle! Voitteko antaa sen minulle selkeällä suomen kielellä?
