@@ -25,7 +25,7 @@ vpn-features-connect-up-to =
        *[other] 最多可有 { $devices } 台裝置連線
     }
 vpn-features-supported-platforms = 支援 Windows、macOS、Android、iOS 以及 Linux 作業系統。
-vpn-features-no-bandwidth = 沒有頻寬限制、不限速
+vpn-features-no-bandwidth = 沒有流量限制、不限速
 vpn-features-including-no-data = 無頻寬限制、不限速。
 vpn-features-fast-network = 玩遊戲時網路速度也超快
 # Variables

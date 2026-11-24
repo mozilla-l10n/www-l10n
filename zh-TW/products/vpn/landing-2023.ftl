@@ -39,7 +39,7 @@ vpn-landing-more-than-servers-in-countries =
     }
 vpn-landing-fast-network-speeds-even-while = 玩遊戲時網路速度也超快
 vpn-landing-no-logging-tracking-or-sharing = 不記錄、追蹤或分享網路資料
-vpn-landing-no-bandwidth-restrictions-or = 沒有頻寬限制、不限速
+vpn-landing-no-bandwidth-restrictions-or = 沒有流量限制、不限速
 vpn-landing-extra-security-whole-device = 額外的安全性：保護整台裝置、多點跳轉路由與更多功能
 vpn-landing-built-transparently = 以開放原始碼模式，透明地打造
 vpn-landing-easy-firefox-integration = 透過 { -brand-name-firefox } 的擴充套件輕鬆整合 { -brand-name-mozilla-vpn } （僅 Windows）
