@@ -9,7 +9,7 @@
 ## Focus
 
 firefox-products-firefox-focus = { -brand-name-firefox-focus }
-firefox-products-your-dedicated-privacy = ස්වයංක්‍රීය ලුහුබැඳීමේ රැකවරණය සහ දැන්වීම් අවහිර කිරීම සහිත ඔබගේ සමර්පිත රහස්‍යතා අතිරික්සුව.
+firefox-products-your-dedicated-privacy = ස්වයංක්‍රිය ලුහුබැඳීමේ රැකවරණය සහ දැන්වීම් අවහිර කිරීම සහිත ඔබගේ සමර්පිත රහස්‍යතා අතිරික්සුව.
 
 ## Monitor
 

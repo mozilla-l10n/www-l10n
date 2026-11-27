@@ -19,7 +19,7 @@ firefox-desktop-download-get-the-browser = වැදගත් දෑ ආරක�
 firefox-desktop-download-download-options = බාගැනීමේ විකල්ප සහ වෙනත් භාෂා
 firefox-desktop-download-browser-support = { -brand-name-firefox-browser } සහාය
 firefox-desktop-download-we-block-the-ad = අපි ලුහුබඳින දැන්වීම් අවහිර කරන්නෙමු. ඔබ වේගයෙන් අන්තර්ජාලයේ සැරිසරන්න.
-firefox-desktop-download-ads-are-distracting = දැන්වීම් මගින් අවධානය වෙනතකට යොමු කරන අතර ඒවායේ ලුහුබැඳීම් ඔබ මාර්ගගතව තබන සෑම පියවරක්ම නරඹන බැවින් පිටු පූරණය මන්දගාමී වේ. { -brand-name-firefox-browser } ස්වයංක්‍රීයව බොහෝ ලුහුබැඳීම් අවහිර කරයි, එබැවින් ඔබගේ ආරක්‍ෂණ සැකසුම් හාරා බැලීමට අවශ්‍ය නොවේ.
+firefox-desktop-download-ads-are-distracting = දැන්වීම් මගින් අවධානය වෙනතකට යොමු කරන අතර ඒවායේ ලුහුබැඳීම් ඔබ මාර්ගගතව තබන සෑම පියවරක්ම නරඹන බැවින් පිටු පූරණය මන්දගාමී වේ. { -brand-name-firefox-browser } ස්වයංක්‍රියව බොහෝ ලුහුබැඳීම් අවහිර කරයි, එබැවින් ඔබගේ ආරක්‍ෂණ සැකසුම් හාරා බැලීමට අවශ්‍ය නොවේ.
 firefox-desktop-download-see-your-report = ඔබගේ ආරක්‍ෂණ වාර්තාව බලන්න
 firefox-desktop-download-for-everyone = { -brand-name-firefox } සැවොම සඳහාය
 firefox-desktop-download-available-in-over = භාෂා 90 කට වැඩි ප්‍රමාණයකින් තිබේ, { -brand-name-windows }, { -brand-name-mac-short } සහ { -brand-name-linux } යන්ත්‍ර සඳහා හොඳින් ගැළපෙයි. ඔබ භාවිතා කරන්නේ කුමක්ද හෝ ඔබ සිටින්නේ කොහේද යන්න { -brand-name-firefox } සඳහා වැදගත් නොවේ. උසස් අත්දැකීමක් සඳහා ඔබගේ මෙහෙයුම් පද්ධතිය යාවත්කාලීනවට තබා ගන්න.
@@ -59,7 +59,7 @@ firefox-desktop-download-breached-website-alerts = උල්ලංඝනය ව�
 firefox-desktop-download-built-in-password = තිළෑලි මුරපද කළමනාකරු
 firefox-desktop-download-clear-history = ඉතිහාසය මකන්න
 firefox-desktop-download-form-autofill = ආකෘති ස්වයං පිරවුම
-firefox-desktop-download-automatic-updates = ස්වයංක්‍රීය යාවත්කාල
+firefox-desktop-download-automatic-updates = ස්වයංක්‍රිය යාවත්කාල
 firefox-desktop-download-customize-your-browser = අතිරික්සුව අභිරුචිකරණය
 firefox-desktop-download-themes = තේමා
 firefox-desktop-download-dark-mode = අඳුරු ප්‍රකාරය
@@ -92,7 +92,7 @@ firefox-desktop-download-from-watching-a = මාර්ගගත ඉගැන්
 firefox-desktop-download-firefox-browser = { -brand-name-firefox-browser }
 firefox-desktop-download-get-firefox-android = <strong>{ -brand-name-android }</strong> සඳහා { -brand-name-firefox-browser } ගන්න
 firefox-desktop-download-get-firefox-ios = <strong>{ -brand-name-ios }</strong> සඳහා { -brand-name-firefox-browser } ගන්න
-firefox-desktop-download-download-the-mobile = සියළුම උපාංගවල ස්වයංක්‍රීය රැකවරණයක් සහිතව පිරික්සීමට { -brand-name-firefox } ජංගම අතිරික්සුව බාගන්න.
+firefox-desktop-download-download-the-mobile = සියළුම උපාංගවල ස්වයංක්‍රිය රැකවරණයක් සහිතව පිරික්සීමට { -brand-name-firefox } ජංගම අතිරික්සුව බාගන්න.
 firefox-desktop-download-learn-about-the = { -brand-name-firefox } වැඩතල අතිරික්සුව ගැන පහතින් දැන ගන්න
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
@@ -106,7 +106,7 @@ firefox-desktop-download-firefox-was-created = { -brand-name-ie }, { -brand-name
 firefox-desktop-download-grab-a-high = අපගේ තිළෑලි අතිරික්සු <a { $attrs }>තිරසේයා</a> මෙවලම සමඟ මාර්ගගත ඕනෑම දෙයක අධි-විභේදන රූපයක් ගන්න
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
-firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ස්වයංක්‍රීයව <a { $attrs }>බොහෝ තෙවන පාර්ශ්ව ලුහුබැඳීම්</a> ඔබගේ වියමන ක්‍රියාකාරකම් රැස් කිරීම සහ විකිණීම අවහිර කරයි.
+firefox-desktop-download-firefox-automatically = { -brand-name-firefox } ස්වයංක්‍රියව <a { $attrs }>බොහෝ තෙවන පාර්ශ්ව ලුහුබැඳීම්</a> ඔබගේ වියමන ක්‍රියාකාරකම් රැස් කිරීම සහ විකිණීම අවහිර කරයි.
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/extensions/
 firefox-desktop-download-questions = ප්‍රශ්නයක් ද? <a { $attrs }>{ -brand-name-mozilla } සහාය</a> ඔබව ආවරණය කරයි.
@@ -132,7 +132,7 @@ firefox-desktop-download-visit-support-for-more = වැඩි විස්ත�
 # Variables:
 #   $id (string) - HTML ID for the download link.
 #   $fallback_url (url) - link to https://www.mozilla.org/firefox/all/
-firefox-desktop-download-your-firefox-new-should-begin = ඔබගේ බාගැනීම ස්වයංක්‍රීයව ආරම්භ විය යුතුය. නැද්ද? <a id="{ $id }" href="{ $fallback_url }">යළි උත්සාහ කරන්න.</a>
+firefox-desktop-download-your-firefox-new-should-begin = ඔබගේ බාගැනීම ස්වයංක්‍රියව ආරම්භ විය යුතුය. නැද්ද? <a id="{ $id }" href="{ $fallback_url }">යළි උත්සාහ කරන්න.</a>
 firefox-new-firefox-is-more-than-a-browser = { -brand-name-firefox } යනු අතිරික්සුවකට වඩා දෙයකි
 # "all is not lost" is another way to say "don't give up hope", "there are other things we can try", or "don't stop trying yet"
 firefox-desktop-download-interrupted = ඔබගේ බාගැනීමට බාධා විය. නමුත් සියල්ල අහිමි වී නැත.

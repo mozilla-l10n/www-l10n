@@ -8,10 +8,10 @@
 # HTML page title
 mobile-focus-firefox-focus-the-privacy = { -brand-name-firefox-focus }: පෞද්ගලික අතිරික්සුව
 # HTML description
-mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } යනු ස්වයංක්‍රීය ලුහුබැඳීමේ රැකවරණය සහිත ඔබගේ සමර්පිත රහස්‍යතා අතිරික්සුවයි.
+mobile-focus-firefox-focus-is-your-dedicated-v2 = { -brand-name-firefox-focus } යනු ස්වයංක්‍රිය ලුහුබැඳීමේ රැකවරණය සහිත ඔබගේ සමර්පිත රහස්‍යතා අතිරික්සුවයි.
 mobile-focus-firefox-focus = { -brand-name-firefox-focus }
 mobile-focus-simply-private-mobile = හුදෙක් පෞද්ගලික ජංගම පිරික්සීමකට
-mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } යනු ස්වයංක්‍රීය ලුහුබැඳීමේ රැකවරණය සහිත ඔබගේ සමර්පිත රහස්‍යතා අතිරික්සුවයි. { -brand-name-focus } මගින් පිටු වේගයෙන් පූරණය කරන අතර ඔබගේ දත්ත පෞද්ගලිකව පවතී.
+mobile-focus-firefox-focus-dedicated-with-v2 = { -brand-name-firefox-focus } යනු ස්වයංක්‍රිය ලුහුබැඳීමේ රැකවරණය සහිත ඔබගේ සමර්පිත රහස්‍යතා අතිරික්සුවයි. { -brand-name-focus } මගින් පිටු වේගයෙන් පූරණය කරන අතර ඔබගේ දත්ත පෞද්ගලිකව පවතී.
 mobile-focus-firefox-focus-is-available = { -brand-name-ios } සහ { -brand-name-android } සඳහා { -brand-name-firefox-focus } තිබේ.
 mobile-focus-get-firefox-focus = { -brand-name-firefox-focus } ගන්න
 mobile-focus-scan-the-qr-code-to-get-started = QR කේතය සුපිරික්සන්න

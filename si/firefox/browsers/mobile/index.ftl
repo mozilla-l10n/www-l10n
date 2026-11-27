@@ -13,7 +13,7 @@ browsers-mobile-firefox-for-ios = { -brand-name-ios } සඳහා { -brand-name
 # "Enhanced Tracking Protection" is a feature name and should match what's used in the product.
 browsers-mobile-get-enhanced-tracking-protection = දියුණු කළ ලුහුබැඳීමේ රැකවරණය සමඟ { -brand-name-firefox } ඔබගේ { -brand-name-iphone } සහ { -brand-name-ipad } හි දෛනික පෙරනිමි අතිරික්සුව කරන්න.
 browsers-mobile-firefox-focus = { -brand-name-firefox-focus }
-browsers-mobile-looking-for-a-streamlined = ඊළඟ මට්ටමේ රහස්‍යතා විශේෂාංග සහිත විධිමත්, වේගවත් සහ අනර්ඝ ජංගම අතිරික්සුවක් සොයන්නේද? { -brand-name-firefox-focus } අතිරික්සුව විවෘත කළ මොහොතේ සිට ඔබ එය වසා දමන තත්පරය දක්වා සමස්ත පිරික්සුම් ඉතිහාසය ස්වයංක්‍රීයව මකා දමයි.
+browsers-mobile-looking-for-a-streamlined = ඊළඟ මට්ටමේ රහස්‍යතා විශේෂාංග සහිත විධිමත්, වේගවත් සහ අනර්ඝ ජංගම අතිරික්සුවක් සොයන්නේද? { -brand-name-firefox-focus } අතිරික්සුව විවෘත කළ මොහොතේ සිට ඔබ එය වසා දමන තත්පරය දක්වා සමස්ත පිරික්සුම් ඉතිහාසය ස්වයංක්‍රියව මකා දමයි.
 browsers-mobile-compare = සසඳන්න
 browsers-mobile-download = බාගන්න
 browsers-mobile-android = { -brand-name-android }
