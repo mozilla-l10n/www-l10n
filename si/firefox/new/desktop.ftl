@@ -38,7 +38,7 @@ firefox-desktop-download-works-with-google = { -brand-name-google } නිෂ්
 firefox-desktop-download-built-in-screenshot = තිළෑලි තිරසේයා මෙවලම
 firefox-desktop-download-bookmarks-manager = පොත්යොමු කළමනාකරු
 firefox-desktop-download-autosuggest-urls = ස්වයංයෝජිත ඒ.ස.නි.
-firefox-desktop-download-sync-across-devices = උපාංග හරහා සමමුහූර්තය
+firefox-desktop-download-sync-across-devices = උපාංග හරහා සමමුහුර්තය
 firefox-desktop-download-reader-mode = කියවීමේ ප්‍රකාරය
 firefox-desktop-download-spell-check = අකුරු පරීක්‍ෂාව
 firefox-desktop-download-pinned-tabs = ඇමිණූ පටිති
@@ -84,7 +84,7 @@ firefox-desktop-download-facebook-container = { -brand-name-facebook-container }
 # Variables:
 #   $attrs (attrs) - link to https://addons.mozilla.org/firefox/addon/facebook-container/
 firefox-desktop-download-download-this-browser = { -brand-name-facebook } (සහ { -brand-name-instagram }) වියමන පුරා ඔබව ලුහුබැඳීම නැවැත්වීමට <a { $attrs } >මෙම අතිරික්සු දිගුව බාගන්න</a>.
-firefox-desktop-download-sync-your-devices = උපාංග සමමුහූර්තය
+firefox-desktop-download-sync-your-devices = උපාංග සමමුහුර්තය
 firefox-desktop-download-screenshots = තිර සේයා
 # Enhanced Tracking Protection is a feature name and so is capitalized in English
 firefox-desktop-download-enhanced-tracking-protection = දියුණු කළ ලුහුබැඳීමේ රැකවරණය (ETP)
